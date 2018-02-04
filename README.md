@@ -52,4 +52,4 @@
 | 数据挖掘课程| Python/R语言 |  | Jupyter Notebook和RStudio | 1. Python Libraries/Frameworks;</br> 2. R Packages;|
 | 机器学习课程| Python/R语言 |  | Jupyter Notebook和RStudio | |
 | 深度学习课程| Python/R/Java语言 |  | Jupyter Notebook和RStudio | 1. Tensorflow</br> 2. Deeplearning4J |
-| 数据挖掘课程| Python/R语言 |  | 开发环境为Jupyter Notebook和RStudio |
+
