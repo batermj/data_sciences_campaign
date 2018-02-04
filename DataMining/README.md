@@ -57,7 +57,7 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
 视频、语音、微信、GITHUB等工具，具体方式在上课相应课程微信群内通知
 
 | 方式 | 工具 |
-| :---: | :---: |
+| :---: | :--- |
 | 听课方式 | 1. 微信 </br>2. 千聊 </br>3. 视频录像 |
 | 内容分享 | GITHUB |
 
