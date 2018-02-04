@@ -127,5 +127,5 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
 
 ![](./Guides/WechatIMG392.jpeg '支付宝二维码')
 ![](./Guides/WechatIMG393.jpeg '支付宝二维码')
-![](./Guides/WechatIMG394.jpeg '支付宝二维码')
+![](./Guides/WechatIMG394.png '支付宝二维码')
 ![](./Guides/WechatIMG395.jpeg '支付宝二维码')
