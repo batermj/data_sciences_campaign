@@ -11,7 +11,7 @@
 有高中基本数学知识；
 
 ## 课程门户
-课程门户为https://github.com/batermj/data_sciences_campaign，教学大纲，开发环境，代码，算法，文档，都会通过课程门户进行分享；
+课程门户为https://github.com/batermj/data_sciences_campaign ,教学大纲，开发环境，代码，算法，文档，都会通过课程门户进行分享；
 
 ## 课程开课时间
 
