@@ -46,9 +46,8 @@
 本期课程开课日期为2018年2月10日；
 
 # 开发工具
-本课程通过Python/R语言进行教学;
-开发环境为Jupyter Notebook和RStudio；
+
 | 课程 | 语言 | 平台 | 工具 |
 | :---: | :---: | :---: | :---: |
-| 数据挖掘课程| Python/R语言 | N/A | 开发环境为Jupyter Notebook和RStudio |
+| 数据挖掘课程| Python/R语言 |  | 开发环境为Jupyter Notebook和RStudio |
 
