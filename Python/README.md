@@ -87,7 +87,7 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
 # 第八部分，收费标准（人民币）
 | 课程编号 | 课程版本 | 课程名称 | 课时 | 收费标准 |
 | :---: | :---: | :---: | :---: | :---: | 
-| ds02600001 | v1.0 | Python编程实战课程 | 36小时 | 750元 |
+| ds00100001 | v1.0 | Python编程实战课程 | 36小时 | 750元 |
 
 # 第九部分，报名方式
 通过以下六种方式中任何一种方式进行报名
