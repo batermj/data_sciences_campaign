@@ -30,7 +30,7 @@
 
 # 第三部分，课程大纲
 【Python编程实战课程】课程大纲每一期都会进行内容更新，当前大纲链接为：
-https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides   
+https://github.com/batermj/data_sciences_campaign/tree/master/Python   
 
 | 章节号 | 章节名称 |
 | :---: | :---: |
