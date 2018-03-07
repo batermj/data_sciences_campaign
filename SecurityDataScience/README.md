@@ -1,7 +1,7 @@
 # Security Data Science安全数据科学
 
 | 编号 | 数据集名称 | 数据集链接 |
-| :---: | :---: |  :--- | 
+| :---: | :--- |  :--- | 
 | 1 | 安全相关数据样本集 |  http://www.secrepo.com/ | 
 | 2 | DARPA 入侵检测数据集 |  https://www.ll.mit.edu/ideval/data/ | 
 | 3 | Stratosphere IPS 数据集 |  https://www.stratosphereips.org/category/dataset.html | 
