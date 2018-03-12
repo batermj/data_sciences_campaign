@@ -20,7 +20,7 @@ Refer the note “The Major Divisions of Mathematics”,
 
 ## My Category of Mathematics of 2018:
 
-1. General/foundations [Study of foundations of mathematics and logic]
+1. **General/foundations** [Study of foundations of mathematics and logic]
     1. General
         1. recreational mathematics
         2. philosophy of mathematics
@@ -32,7 +32,7 @@ Refer the note “The Major Divisions of Mathematics”,
         3. set theory
         4. proof theory
         5. algebraic logic
-2. Discrete mathematics/algebra [Study of structure of mathematical abstractions]
+2. **Discrete mathematics/algebra** [Study of structure of mathematical abstractions]
     1. Combinatorics
     2. Order theory 
     3. Graph theory
@@ -48,7 +48,7 @@ Refer the note “The Major Divisions of Mathematics”,
     13. K-theory
     14. Group theory and generalizations
     15. Topological groups, Lie groups, and analysis upon them
-3. Analysis [Study of change and quantity]
+3. **Analysis** [Study of change and quantity]
     1. Real functions, including derivatives and integrals
     2. Measure and integration
     3. Complex functions, including approximation theory in the complex domain
@@ -68,7 +68,7 @@ Refer the note “The Major Divisions of Mathematics”,
     17. Functional analysis, including infinite-dimensional holomorphy, integral transforms in distribution spaces
     18. Operator theory
     19. Calculus of variations and optimal control; optimization (including geometric integration theory
-4. Geometry and topology [Study of space]
+4. **Geometry and topology** [Study of space]
     1. Geometry
     2. Convex geometry and discrete geometry
     3. Differential geometry
@@ -76,7 +76,7 @@ Refer the note “The Major Divisions of Mathematics”,
     5. Algebraic topology
     6. Manifolds
     7. Global analysis, analysis on manifolds (including infinite-dimensional holomorphy)
-5. Applied mathematics / other [Study of applications of mathematical abstractions]
+5. **Applied mathematics** / other [Study of applications of mathematical abstractions]
     1. Probability theory, stochastic processes
     2. Statistics
     3. Numerical analysis
@@ -106,7 +106,7 @@ From Wikipedia, the free encyclopedia
 + https://en.wikipedia.org/wiki/Outline_of_mathematics
 + https://en.wikipedia.org/wiki/Mathematics#Foundations_and_philosophy )
 
-1. Quantity
+1. **Quantity**
     1. Arithmetic
     2. Natural numbers
     3. Integers
@@ -116,7 +116,7 @@ From Wikipedia, the free encyclopedia
     7. Hyper
     8. complex numbers
     9. Infinity
-2. Structure
+2. **Structure**
     1. Algebra
         1. Abstract algebra
         2. Linear algebra
@@ -124,37 +124,37 @@ From Wikipedia, the free encyclopedia
     3. Order theory
     4. Function (mathematics)
     5. Graph Theory
-3. Space
+3. **Space**
     1. Geometry
     2. Algebraic geometry
     3. Trigonometry
     4. Differential geometry
     5. Topology
     6. Fractal geometry
-4. Change
+4. **Change**
     1. Calculus
     2. Vector calculus
     3. Differential equations
     4. Dynamical systems
     5. Chaos theory
     6. Analysis
-5. Foundations and philosophy
+5. **Foundations and philosophy**
     1. Philosophy of mathematics
     2. Category theory
     3. Set theory
     4. Type theory
-6. Mathematical logic
+6. **Mathematical logic**
     1. Model theory
     2. Proof theory
     3. Recursion theory
     4. Set theory
     5. Type theory
-7. Discrete mathematics
+7. **Discrete mathematics**
     1. Combinatorics
     2. Theory of computation
     3. Cryptography
     4. Graph theory
-8. Applied mathematics
+8. **Applied mathematics**
     1. Mathematical physics
     2. Analytical mechanics
     3. Mathematical fluid dynamics
