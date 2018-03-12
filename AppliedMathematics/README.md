@@ -4,7 +4,7 @@
 
 Refer the note “The Major Divisions of Mathematics”,
 
-1. [ ] Reference, 
+1. Reference, 
     1. https://en.wikipedia.org/wiki/Mathematics_Subject_Classification
     2. [ ] Free Online Math Courses,http://www.openculture.com/math_free_courses
     3. [ ] https://en.wikipedia.org/wiki/Mathematics#Foundations_and_philosophy
