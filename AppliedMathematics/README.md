@@ -1,6 +1,6 @@
 
 
-# My Category of The Major Divisions of Mathematics of 2017~2018: 
+# My Category of The Major Divisions of Mathematics of 2018: 
 
 Refer the note “The Major Divisions of Mathematics”,
 
