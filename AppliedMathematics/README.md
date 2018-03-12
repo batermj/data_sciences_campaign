@@ -14,7 +14,7 @@ Refer the note “The Major Divisions of Mathematics”,
     1. Books->Practices->Online Course->Certifications->Papers
     2. 
 
-## My Category of Mathematics of 2017~2018:
+## My Category of Mathematics of 2018:
 
 1. General/foundations [Study of foundations of mathematics and logic]
     1. General
