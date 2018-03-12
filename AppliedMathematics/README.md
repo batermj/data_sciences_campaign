@@ -1,7 +1,9 @@
+
+
+# My Category of Mathematics of 2017~2018,References&Strategy: 
+
 Refer the note “The Major Divisions of Mathematics”,
 
-
-My Category of Mathematics of 2017~2018,References&Strategy: 
 1. [ ] Reference, 
     1. https://en.wikipedia.org/wiki/Mathematics_Subject_Classification
     2. [ ] Free Online Math Courses,http://www.openculture.com/math_free_courses
