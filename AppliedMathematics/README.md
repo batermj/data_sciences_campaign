@@ -96,8 +96,11 @@ Refer the note “The Major Divisions of Mathematics”,
     21. Mathematics education
 
 
-Outline of mathematics,
-(From Wikipedia, the free encyclopedia,https://en.wikipedia.org/wiki/Outline_of_mathematics, https://en.wikipedia.org/wiki/Mathematics#Foundations_and_philosophy )
+## Outline of mathematics,
+
+From Wikipedia, the free encyclopedia
++ https://en.wikipedia.org/wiki/Outline_of_mathematics
++ https://en.wikipedia.org/wiki/Mathematics#Foundations_and_philosophy )
 
 1. Quantity
     1. Arithmetic
