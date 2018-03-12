@@ -3,6 +3,8 @@
 # My Category of The Major Divisions of Mathematics of 2018: 
 
 Refer the note “The Major Divisions of Mathematics”,
++ Pure mathematics
++ Applied mathematics
 
 ## References& Strategy: 
 
@@ -171,5 +173,4 @@ From Wikipedia, the free encyclopedia
     18. Mathematical biology
  
 
-1. Pure mathematics
-2. Applied mathematics
+
