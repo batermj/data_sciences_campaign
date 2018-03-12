@@ -1,6 +1,6 @@
 
 
-# My Category of Mathematics of 2017~2018,References&Strategy: 
+# My Category of Mathematics of 2017~2018: 
 
 Refer the note “The Major Divisions of Mathematics”,
 
