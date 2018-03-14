@@ -24,7 +24,7 @@
 | 17 | ds01300005 | v1.0 | Data Compression Algorithm  数据压缩算法 | 36小时 | 待定 |
 | 18 | ds01300006 | v1.0 | Algorithms for Applied Cryptography and Security  安全与密码算法 | 36小时 | 待定 |
 | 19 | ds01400001 | v1.0 | 应用数学实战课程 | 36小时 | 待定 |
-| 20 | ds01400002 | v1.0 | Linear Algebra  线性代数 | 36小时 | 750元 |
+| 20 | ds01400002 | v1.0 | Linear Algebra  线性代数 | 36小时 | 待定 |
 | 21 | ds01400003 | v1.0 | Abstract Algebra  抽象代数 | 36小时 | 待定 |
 | 22 | ds01400004 | v1.0 | Analysis  数学分析 | 36小时 | 待定 |
 | 23 | ds01400005 | v1.0 | Combinatorial Theory 组合论 | 36小时 | 待定 |
