@@ -4,7 +4,7 @@
 3. 课程大纲
 4. 学员福利
 5. 授课方式
-6. 2018年各期时间
+6. 数据挖掘实战课程 - 2018年各期时间
 7. 支付步骤和方式
 8. 收费标准（人民币）
 9. 报名方式
@@ -48,7 +48,7 @@ https://github.com/batermj/data_sciences_campaign/tree/master/Python
 | 12 | 网络爬虫技能总览和scrapy |
 | 13 | 自然语言处理和NLTK |
 | 14 | 计算机视觉和OpenCV |
-| 15 | BlockChain创建 |
+| 15 | BlockChain从入门到创建 |
 | 16 | Python自动化运维 |
 | 17 | 测试与调试 |
 
