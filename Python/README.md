@@ -48,8 +48,9 @@ https://github.com/batermj/data_sciences_campaign/tree/master/Python
 | 12 | 网络爬虫技能总览和scrapy |
 | 13 | 自然语言处理和NLTK |
 | 14 | 计算机视觉和OpenCV |
-| 15 | Python自动化运维 |
-| 16 | 测试与调试 |
+| 15 | BlockChain创建 |
+| 16 | Python自动化运维 |
+| 17 | 测试与调试 |
 
 # 第四部分，学员福利
 | 课程 | 福利 |
