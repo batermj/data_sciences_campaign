@@ -8,7 +8,7 @@
 
 ### History of Linear Algebra
 
-## Linear Algebra Done Right
++ Linear Algebra Done Right, http://linear.axler.net/, http://www.springer.com/cn/book/9783319110790
 
 ## References: Books
 
