@@ -32,6 +32,8 @@
 【数据挖掘实战课程】课程大纲每一期都会进行内容更新，当前大纲链接为：
 https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides   
 
+## 章节目录
+
 | 章节号 | 章节名称 |
 | :---: | :---: |
 | 1 | 数据挖掘引论 |
@@ -47,6 +49,40 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
 | 11 | 文本数据挖掘算法 |
 | 12 | Web数据挖掘算法 |
 | 13 | Cyber Security挖掘算法 |
+
+## 二级目录
++ 数据挖掘引论
++ 数据挖掘工程
++ 数据预处理算法
++ 数据探索
++ 数据可视化
++ 特征工程算法
++ 数据挖掘算法
++ 图数据挖掘算法
++ 社交网络数据挖掘算法
++ 多媒体数据挖掘算法
++ 文本数据挖掘算法
++ Web数据挖掘算法
++ Cyber Security挖掘算法
+  + Introduction
+  + Botnets
+  + Botnets Cont'd, Insider Threats
+  + Behavioral Biometrics 
+  + Behavioral Biometrics Cont'd
+  + Security at Wells Fargo
+  + Behavioral Biometrics Cont'd
+  + Web Security
+  + Security at Union Bank
+  + Multi-Classifier Systems, Adversarial Machine-Learning
+  + Security Data Mining at Google
+  + Web Security Cont'd, Deep Packet Inspection
+  + Machine Learning for Security
+  + Polymorphism
+  + Deep Packet Inspection Cont'd
+  + Phishing Detection
+  + Industry Perspectives
+  + Automatic Alert Correlation, Final Thoughts
+
 
 # 第四部分，学员福利
 | 课程 | 福利 |
