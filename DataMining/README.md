@@ -148,6 +148,57 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
 
 + 数据挖掘算法
   + 引言
+    + Similar Pattern
+    + 频繁模式挖掘Frequent Pattern Mining
+      + FP-Growth
+      + Constraint-Based Frequent Pattern Mining
+      + Mining High-Dimensional Data and Colossal Patterns
+      + Mining Compressed or Approximate Patterns
+      + Complete Pattern
+      + Close Pattern
+      + PrefixSpan
+    + 分类算法
+      + 决策树
+      + ID3
+      + Cart
+      + C4.5
+      + 基于规则的决策树
+      + SVM
+      + 近邻分类算法
+      + Logistic Regression
+      + 最大熵模型分类算法
+      + 贝叶斯分类器
+      + 朴素贝叶斯网络
+      + Bayesian Belief Networks
+      + EM
+    + 聚类算法
+      + Partitioning Methods
+      + Hierarchical Methods
+      + Density-Based Methods
+      + Grid-Based Methods
+      + Probabilistic Model-Based Clustering
+      + Clustering High-Dimensional Data
+      + Clustering Graph and Network Data
+      + Clustering with Constraints
+      + 高斯混合
+      + 快速迭代聚类
+    + 神经网络
+    + 集成算法EM
+      + Boosting
+      + Bootstrapped Aggregation（Bagging）
+      + AdaBoost
+      + Stacked Generalization
+      + Blending
+      + Gradient Boosting Machine
+      + GBM
+      + Random Forest。
+    + 异常值探测
+      + Statistical Approaches
+      + Proximity-Based Approaches
+      + Clustering-Based Approaches
+      + Classification-Based Approaches
+      + Mining Contextual and Collective Outliers
+      + Outlier Detection in High-Dimensional
   + 实战案例
   + 总结
   
