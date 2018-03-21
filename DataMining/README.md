@@ -140,6 +140,7 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
     + 小波包分析 WPA 
     + 因子分析FA 
     + 多维定标MDS
+    
   + 非线性特征变换
     + 流形学习方法 Manifold Learning
   + 实战案例
