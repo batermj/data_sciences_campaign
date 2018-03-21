@@ -7,3 +7,7 @@ Please refer to DataSets
 ## Free Security eBooks
 + https://github.com/Hack-with-Github/Free-Security-eBooks#programming-languages
 + https://github.com/batermj/Free-Security-eBooks
+
+## Resoures
++ awesome-ml-for-cybersecurity, https://github.com/jivoi/awesome-ml-for-cybersecurity
++ https://github.com/batermj/awesome-ml-for-cybersecurity
