@@ -32,6 +32,7 @@
 【Python编程实战课程】课程大纲每一期都会进行内容更新，当前大纲链接为：
 https://github.com/batermj/data_sciences_campaign/tree/master/Python   
 
+## 大纲
 | 章节号 | 章节名称 |
 | :---: | :---: |
 | 1 | Python基础 |
@@ -51,6 +52,26 @@ https://github.com/batermj/data_sciences_campaign/tree/master/Python
 | 15 | BlockChain从入门到创建 |
 | 16 | Python自动化运维 |
 | 17 | 测试与调试 |
+
+## 二级目录
+
++ Python基础
++ 算法
++ Python与网络
++ 多媒体
++ Matplotlib数据可视化
++ NumPy入门
++ Pandas入门
++ 数据分析与可视化
++ 数值计算和交互式绘图
++ 统计、机器学习和Scikit-Learn
++ 深度学习和Tensorflow
++ 网络爬虫技能总览和scrapy
++ 自然语言处理和NLTK
++ 计算机视觉和OpenCV
++ BlockChain从入门到创建
++ Python自动化运维
++ 测试与调试
 
 # 第四部分，学员福利
 | 课程 | 福利 |
