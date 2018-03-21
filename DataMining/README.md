@@ -171,6 +171,7 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
       + 朴素贝叶斯网络
       + Bayesian Belief Networks
       + EM
+      
     + 聚类算法
       + Partitioning Methods
       + Hierarchical Methods
