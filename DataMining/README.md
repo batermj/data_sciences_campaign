@@ -157,6 +157,7 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
       + Complete Pattern
       + Close Pattern
       + PrefixSpan
+      
     + 分类算法
       + 决策树
       + ID3
@@ -183,7 +184,10 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
       + Clustering with Constraints
       + 高斯混合
       + 快速迭代聚类
+      
     + 神经网络
+      + 待定
+      
     + 集成算法EM
       + Boosting
       + Bootstrapped Aggregation（Bagging）
@@ -192,7 +196,8 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
       + Blending
       + Gradient Boosting Machine
       + GBM
-      + Random Forest。
+      + Random Forest
+      
     + 异常值探测
       + Statistical Approaches
       + Proximity-Based Approaches
@@ -200,6 +205,7 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
       + Classification-Based Approaches
       + Mining Contextual and Collective Outliers
       + Outlier Detection in High-Dimensional
+      
   + 实战案例
   + 总结
   
