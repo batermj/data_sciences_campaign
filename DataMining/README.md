@@ -46,6 +46,7 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
 | 10 | 多媒体数据挖掘算法 |
 | 11 | 文本数据挖掘算法 |
 | 12 | Web数据挖掘算法 |
+| 13 | Cyber Security挖掘算法 |
 
 # 第四部分，学员福利
 | 课程 | 福利 |
