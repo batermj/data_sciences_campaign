@@ -187,9 +187,9 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
       + 快速迭代聚类
       
     + 神经网络
-      + 待定
+      + 待定
       
-    + 集成算法EM
+    + 集成算法EM
       + Boosting
       + Bootstrapped Aggregation（Bagging）
       + AdaBoost
@@ -199,7 +199,7 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
       + GBM
       + Random Forest
       
-    + 异常值探测
+    + 异常值探测
       + Statistical Approaches
       + Proximity-Based Approaches
       + Clustering-Based Approaches
