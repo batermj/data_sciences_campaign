@@ -52,6 +52,7 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
 
 ## 二级目录
 + 数据挖掘引论
+  + 引言
   + 数据挖掘的历史
   + 数据挖掘应用的分类
   + 数据挖掘算法的分类
@@ -86,7 +87,27 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
   + 总结
   
 + 数据探索
-
+  + 引言
+  + 统计分析
+  + 抽样技术
+  + 多元回归分析
+  + 聚类分析
+  + 判别分析
+  + 多因子分析
+  + 多因变量统计分析
+  + 组合优化
+  + 数值积分
+  + 模拟和Monte Carlo积分
+  + 马尔可夫蒙特卡洛MCMC方法
+  + Bootstrap方法
+  + 非线性和非参数模型
+  + 非参密度估计
+  + 二元光滑方法
+  + 多元光滑方法
+  + 概率图模型
+  + 实战案例
+  + 总结
+  
 + 数据可视化
 + 特征工程算法
 + 数据挖掘算法
