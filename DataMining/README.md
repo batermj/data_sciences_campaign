@@ -141,7 +141,7 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
     + 因子分析FA 
     + 多维定标MDS
     
-  + 非线性特征变换
+  + 非线性特征变换
     + 流形学习方法 Manifold Learning
   + 实战案例
   + 总结
@@ -154,7 +154,7 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
       + FP-Growth
       + Constraint-Based Frequent Pattern Mining
       + Mining High-Dimensional Data and Colossal Patterns
-      + Mining Compressed or Approximate Patterns
+      + Mining Compressed or Approximate Patterns
       + Complete Pattern
       + Close Pattern
       + PrefixSpan
