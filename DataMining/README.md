@@ -36,16 +36,16 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
 
 | 章节号 | 章节名称 |
 | :---: | :---: |
-| 1 | 数据挖掘引论 |
-| 2 | 数据预处理算法 |
-| 3 | 数据探索 |
-| 4 | 数据可视化 |
-| 5 | 特征工程算法 |
-| 6 | 数据挖掘算法 |
-| 7 | 图数据挖掘算法 |
-| 8 | 社交网络数据挖掘算法 |
-| 9 | 多媒体数据挖掘算法 |
-| 10 | 文本数据挖掘算法 |
+| 1 | Introduction数据挖掘引论 |
+| 2 | Data Preprocessing数据预处理算法 |
+| 3 | Explorative Data Analytics数据探索 |
+| 4 | Visualization数据可视化 |
+| 5 | Featuer Engineering特征工程算法 |
+| 6 | DM Algoirthms数据挖掘算法 |
+| 7 | Graph图数据挖掘算法 |
+| 8 | SNS社交网络数据挖掘算法 |
+| 9 | Multimedia多媒体数据挖掘算法 |
+| 10 | Text文本数据挖掘算法 |
 | 11 | Web数据挖掘算法 |
 | 12 | Cyber Security挖掘算法 |
 | 13 | Data Mining in Finance金融数据挖掘算法 |
