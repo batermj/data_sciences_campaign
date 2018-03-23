@@ -258,8 +258,9 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
 
 + Data Mining in Finance金融数据挖掘算法
   + TBC
+
 + Games Data Mining/Analytics游戏数据挖掘算法
-  + TBC
+  + TBC
   
   
 # 第四部分，学员福利
