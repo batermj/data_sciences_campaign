@@ -49,6 +49,7 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
 | 11 | Web数据挖掘算法 |
 | 12 | Cyber Security挖掘算法 |
 | 13 | Data Mining in Finance金融数据挖掘算法 |
+| 14 | Games Data Mining/Analytics游戏数据挖掘算法 |
 
 ## 二级目录
 + 数据挖掘引论
@@ -256,8 +257,11 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
   + Automatic Alert Correlation, Final Thoughts
 
 + Data Mining in Finance金融数据挖掘算法
-  + <TBC>
-
+  + TBC
++ Games Data Mining/Analytics游戏数据挖掘算法
+  + TBC
+  
+  
 # 第四部分，学员福利
 | 课程 | 福利 |
 | :---: | :--- |
