@@ -39,8 +39,8 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
 | 1 | Introduction数据挖掘引论 |
 | 2 | Data Preprocessing数据预处理算法 |
 | 3 | Explorative Data Analytics数据探索 |
-| 4 | Visualization数据可视化 |
-| 5 | Featuer Engineering特征工程算法 |
+| 4 | Featuer Engineering特征工程算法 |
+| 5 | Visualization数据可视化 |
 | 6 | DM Algoirthms数据挖掘算法 |
 | 7 | Graph图数据挖掘算法 |
 | 8 | SNS社交网络数据挖掘算法 |
