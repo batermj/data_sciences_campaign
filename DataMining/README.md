@@ -258,8 +258,24 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
 		+ 聚类算法中的可视化
 		+ 异常检测算法中的可视化
 	+ 统计角度的数据可视化
-	+ Paint a two-dimensional data set
-	+ Principal component analysis with scree diagram
+	+ 数据类型角度的数据可视化
+		+ Numerical Data
+			+ Data
+			+ Mapping
+			+ Charts
+			+ Glyphs
+			+ Parallel Coordinates
+			+ Stacked Graphs
+			+ Tufte's Design Rules
+			+ Using Color
+		+ Non-Numerical Data
+			+ Graphs and Networks
+			+ Embedding Planar Graphs
+			+ Graph Visualization
+			+ Tree Maps
+			+ Principal Component Analysis
+			+ Multidimensional Scaling
+			+ Packing
 	+ Customized graphics
 		Titles
 		Coordinate systems
@@ -278,7 +294,11 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
 		+ Maps
 		+ Heatmap
 		+ Interactive visualizations
-
+	+ The Visualization Dashboard
+		+ Visualization Systems
+		+ The Information Visualization Mantra
+		+ Database Visualization
+		+ Visualization System Design	
 	+ 实战案例
 	+ 总结
 
