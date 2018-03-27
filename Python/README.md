@@ -45,14 +45,15 @@ https://github.com/batermj/data_sciences_campaign/tree/master/Python
 | 8 | 数据分析与可视化 |
 | 9 | 数值计算和交互式绘图 |
 | 10 | 统计和StatsModels |
-| 11 | 机器学习和Scikit-Learn |
-| 12 | 深度学习和Tensorflow |
-| 13 | 网络爬虫技能总览和scrapy |
-| 14 | 自然语言处理和NLTK |
-| 15 | 计算机视觉和OpenCV |
-| 16 | BlockChain从入门到创建 |
-| 17 | Python自动化运维 |
-| 18 | 测试与调试 |
+| 11 | 数据挖掘 |
+| 12 | 机器学习和Scikit-Learn |
+| 13 | 深度学习和Tensorflow |
+| 14 | 网络爬虫技能总览和scrapy |
+| 15 | 自然语言处理和NLTK |
+| 16 | 计算机视觉和OpenCV |
+| 17 | BlockChain从入门到创建 |
+| 18 | Python自动化运维 |
+| 19 | 测试与调试 |
 
 ## 二级目录
 
@@ -66,6 +67,7 @@ https://github.com/batermj/data_sciences_campaign/tree/master/Python
 + 数据分析与可视化
 + 数值计算和交互式绘图
 + 统计和StatsModels
++ 数据挖掘
 + 机器学习和Scikit-Learn
 + 深度学习和Tensorflow
 + 网络爬虫技能总览和scrapy
