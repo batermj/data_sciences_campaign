@@ -132,6 +132,10 @@ https://github.com/batermj/data_sciences_campaign/tree/master/Python
 	+ Twisted框架介绍
 	+ 因特网客户端编程
 	+ Web客户端和服务器编程
+	+ 渗透测试
+	+ 分析网络流量
+	+ 无线网络攻防
+	+ 网络刺探
 	+ 实战案例
 	+ 总结
 
@@ -146,6 +150,17 @@ https://github.com/batermj/data_sciences_campaign/tree/master/Python
 
 + 可视化
 	+ 引言
+	+ Python包
+		+ Matplotlib
+		+ Bokeh
+		+ Seaborn
+		+ Plotly
+		+ geoplotlib
+		+ Gleam
+		+ missingno
+		+ Leather
+		+ Pandas
+		+ Pygal
 	+ 数据准备
 	+ 绘制并定制化图表
 	+ 创建3D可视化图表
@@ -155,6 +170,14 @@ https://github.com/batermj/data_sciences_campaign/tree/master/Python
 	+ 绘制箱线图
 	+ 绘制甘特图
 	+ 绘制误差条	
+	+ 3D散点图　　
+	+ 气泡图　　
+	+ 动态气泡图
+	+ 饼图
+	+ 日期格式的时间序列数据
+	+ 直方图
+	+ 可视化热力图
+	+ 动态信号的可视化模拟
 	+ 实战案例
 	+ 总结
 
@@ -164,25 +187,68 @@ https://github.com/batermj/data_sciences_campaign/tree/master/Python
 	+ 数组
 	+ 通用函数
 	+ where函数
+	+ matrix类
 	+ 统计方法
 	+ 数据预处理
 	+ 线性代数
 	+ 随机数
+	+ 数据预处理
+	+ 函数库
+	+ 性能
 	+ 实战案例
 	+ 总结
 
 + Pandas入门
 	+ 引言
+	+ pandas的数据结构
+	+ 基本功能
+	+ Apply 函数
+	+ 数据透视表
+	+ 复合索引
+	+ Crosstab 函数
+	+ 合并数据框（DataFrames）
+	+ 排列数据框架（DataFrames）
+	+ Cut 函数
+	+ 计算描述统计
+	+ 数据预处理
 	+ 实战案例
 	+ 总结
 
-+ 数据分析与可视化
++ 数据分析
 	+ 引言
+	+ 数据预处理
+		+ 清洗数据 
+		+ 加载数据 
+		+ 合并数据 
+		+ 拆分数据 
+		+ 去除唯一值 
+		+ 数据类型转换 
+		+ 独热码编码 
+		+ 归一化处理 
+	+ 数据探索
+	+ 特征工程
+	+ 数据工程
+	+ 社交网络分析
+	+ 欺诈探测
+	+ 因果关系分析
+	+ 数据分析竞赛
 	+ 实战案例
 	+ 总结
 
-+ 数值计算和交互式绘图
++ 数值计算
 	+ 引言
+	+ Python包
+		+ SciPy-数值计算库
+	+ 常数和特殊函数
+	+ 拟合与优化-optimize
+	+ 外推和拟合
+	+ 插值
+	+ 非线性方程组求解
+	+ 最小二乘拟合
+	+ 计算函数局域最小值
+	+ 计算全域最小值
+	+ 数值积分
+	+ 信号处理算法
 	+ 实战案例
 	+ 总结
 
@@ -203,49 +269,109 @@ https://github.com/batermj/data_sciences_campaign/tree/master/Python
 	+ 总结
 
 + 数据挖掘
-  + 引言
-  + 实战案例
-  + 总结
+	+ 引言
+	+ Pattern发现算法
+	+ 分类算法
+	+ 聚类算法
+	+ 异常值探测算法
+	+ 时序数据
+	+ 实战案例
+	+ 总结
 
 + 机器学习和Scikit-Learn
-  + 引言
-  + 实战案例
-  + 总结
+	+ 引言
+	+ 监督学习
+	+ 无监督学习与预处理
+	+ 数据表示与特征工程
+	+ 模型评估与参数调优
+	+ 贝叶斯学习 
+	+ 集成学习
+	+ 计算学习理论
+	+ 增强学习
+	+ 算法链与管道Pipeline
+	+ 实战案例
+	+ 总结
 
 + 深度学习和Tensorflow
-  + 引言
-  + 实战案例
-  + 总结
+	+ 引言
+	+ TensorFlow安装
+	+ TensorFlow入门
+	+ 数据处理
+		+ 图像数据处理
+		+ 时间序列数据处理
+		+ 文本数据处理
+		+ 其他数据处理
+	+ CNN卷积神经网络
+	+ RNN循环神经网络
+	+ LSTM
+	+ AutoEncoder
+	+ Word2Vec
+	+ Deep Reinforcement Learning
+	+ TensorFlow高层封装
+	+ TensorBoard可视化与TensorBoard
+	+ TensorFlow计算加速与GPU
+	+ 实战案例
+	+ 总结
 
 + 网络爬虫技能总览和scrapy
-  + 引言
-  + 实战案例
-  + 总结
+	+ 引言
+	+ 爬虫基础
+	+ Scrapy简介及安装
+	+ 编写Spider
+	+ 使用Selector提取数据
+	+ 使用Item封装数据
+	+ 用Item Pipeline处理数据
+	+ 用LinkExtractor提取链接
+	+ 用Exporter导出数据
+	+ 下载文件和图片
+	+ 模拟登录
+	+ Splash渲染引擎
+	+ 存储结果
+	+ 使用HTTP代理
+	+ 使用Scrapyd与实时分析进行分布式爬取
+	+ 性能
+	+ 实战案例
+	+ 总结
 
 + 自然语言处理和NLTK
-  + 引言
-  + 实战案例
-  + 总结
+	+ 引言
+	+ 自然语言处理简介
+	+ NLP应用
+	+ 数据预处理
+	+ 特征工程
+	+ 统计语言建模	
+	+ 分类和标注词汇
+	+ 学习分类文本
+	+ 从文本提取信息
+	+ 语法解析
+	+ 分析句子结构 
+	+ 建立基于特征的文法
+	+ 分析语句的含义
+	+ 语言数据管理
+	+ 自然语言标注
+	+ 情感分析
+	+ 信息检索
+	+ 语篇分析
+	+ NLP系统评估
+	+ 实战案例
+	+ 总结
 
 + 计算机视觉和OpenCV
-  + 引言
-  + 实战案例
-  + 总结
-
-+ BlockChain从入门到创建
-  + 引言
-  + 实战案例
-  + 总结
-
-+ Python自动化运维
-  + 引言
-  + 实战案例
-  + 总结
-
-+ 测试与调试
-  + 引言
-  + 实战案例
-  + 总结
+	+ 引言
+	+ 计算机视觉简介
+	+ 计算机视觉应用
+	+ OpenCV简介
+	+ 安装OpenCV
+	+ 数据预处理
+	+ 数据探索
+	+ 特征工程
+	+ 检测兴趣点
+	+ 描述和匹配兴趣点
+	+ 估算图像之间的投影关系
+	+ 处理视频序列
+	+ 计算机视觉系统性能评估
+	+ 实战案例
+	+ 总结
 
 
 # 第四部分，学员福利
