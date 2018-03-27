@@ -58,7 +58,17 @@ https://github.com/batermj/data_sciences_campaign/tree/master/Python
 ## 二级目录
 
 + Python基础
-  + 引言
+  + 引言
+    + Python安装
+    + Jupyter Notebook
+  + 循环控制
+  + 函数
+  + 异常
+  + 字符串
+  + 正则表达式
+  + 文本处理
+  + 多线程编程
+  + 数据库编程
   + 实战案例
   + 总结
 
