@@ -260,11 +260,25 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
 	+ 统计角度的数据可视化
 	+ Paint a two-dimensional data set
 	+ Principal component analysis with scree diagram
-	+ Scatter Plot
-	+ Box Plot
-	+ Heatmap
-	+ ROC
-	+ 
+	+ Customized graphics
+		Titles
+		Coordinate systems
+		Scales
+		Themes
+		Axis labels
+		Legends
+	+ Other plotting cases
+		+ Violin Plots
+		+ Pie charts
+		+ Mosaic plots
+		+ Hierarchical tree diagrams
+		+ scatter plots with multidimensional data
+		+ Box Plot
+		+ Time-series visualizations
+		+ Maps
+		+ Heatmap
+		+ Interactive visualizations
+
 	+ 实战案例
 	+ 总结
 
