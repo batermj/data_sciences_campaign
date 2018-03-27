@@ -160,6 +160,8 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
 			+ Pygal
 		+ R包
 			+ ggplot2
+			+ RCloud
+
 	+ 数据工程角度的数据可视化
 		+ 数据预处理中的可视化
 		+ 数据探索中的可视化
