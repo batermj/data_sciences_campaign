@@ -111,7 +111,22 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
   
 + 数据可视化
   + 引言
-  + 实战案例
+  + 开源工具
+    + Python库
+      + Matplotlib
+      + Bokeh
+      + Seaborn
+      + Plotly
+      + geoplotlib
+      + Gleam
+      + missingno
+      + Leather
+      + Pandas
+      + Pygal
+    + R包
+      + ggplot2
+      
+  + 实战案例
   + 总结
 
 + 特征工程算法
