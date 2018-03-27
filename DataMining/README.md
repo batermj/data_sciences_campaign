@@ -160,11 +160,96 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
 			+ Pygal
 		+ R包
 			+ ggplot2
+			+ heatmaply
+			+ tabplot
+			+ accrued
+			+ adepro
+			+ aiRthermo
+			+ beanplot
+			+ bioplots
+			+ canvasXpress
+			+ caroline
+			+ circlize
+			+ CityPlot
+			+ classifierplots
+			+ CluMix
+			+ ClusteredMutations
+			+ clusterfly
+			+ ClusVis
+			+ corrplot
+			+ dashboard
+			+ DataVisualizations
+			+ denpro
+			+ dprep
+			+ dsmodels
+			+ DiagrammeR
+			+ Emcdf
+			+ esvis
+			+ extracat
+			+ ez
+			+ fisheyeR
+			+ fsdaR
+			+ GeneralizedUmatrix
+			+ ggcorrplot
+			+ ggdendro
+			+ ggfortify
+			+ ggraptR
+			+ ggridges
+			+ GOplot
+			+ hierarchicalSets
+			+ HistData
+			+ igraph
+			+ InteractiveIGraph
+			+ klaR
+			+ largeVis
+			+ LDAvis
+			+ lidR
+			+ likert
+			+ loon
+			+ mcheatmaps
+			+ moveVis
+			+ multcompView
+			+ ndtv
+			+ NeuralNetTools
+			+ pavo
+			+ plotfunctions
+			+ plotKML
+			+ PPtreeViz
+			+ preproviz
+			+ qlcVisualize
+			+ RankingProject
+			+ rasterVis
+			+ RBMRB
+			+ rgl
+			+ rjags
+			+ SeqGrapheR
+			+ sjPlot
+			+ spectrino
+			+ squash
+			+ svdvis
+			+ svdvisual
+			+ swamp
+			+ tagcloud
+			+ timelineR
+			+ TopKLists
+			+ treemap
+			+ Umatrix
+			+ vegalite
+			+ VIM
+			+ vrmlgen
+			+ vudc
+			+ waffle
+			+ zoom
+			+ search "plot" in https://cran.r-project.org/web/packages/available_packages_by_name.html
 			+ RCloud
+			
 		+ 其他
 			+ Orange
 	+ 免费工具
-		
+		+ Actian Vector Community Edition
+		+ ADaM, Algorithm Development and Mining version 4.0 toolkit
+		+ ADAMS: Advanced Data mining And Machine learning System
+		+ 
 	+ 数据工程角度的数据可视化
 		+ 数据预处理中的可视化
 		+ 数据探索中的可视化
