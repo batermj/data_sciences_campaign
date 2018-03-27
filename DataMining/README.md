@@ -161,7 +161,10 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
 		+ R包
 			+ ggplot2
 			+ RCloud
-
+		+ 其他
+			+ Orange
+	+ 免费工具
+		
 	+ 数据工程角度的数据可视化
 		+ 数据预处理中的可视化
 		+ 数据探索中的可视化
@@ -169,6 +172,14 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
 		+ 分类算法中的可视化
 		+ 聚类算法中的可视化
 		+ 异常检测算法中的可视化
+	+ 统计角度的数据可视化
+	+ Paint a two-dimensional data set
+	+ Principal component analysis with scree diagram
+	+ Scatter Plot
+	+ Box Plot
+	+ Heatmap
+	+ ROC
+	+ 
 	+ 实战案例
 	+ 总结
 
