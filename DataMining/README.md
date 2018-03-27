@@ -277,12 +277,12 @@ https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides
 			+ Multidimensional Scaling
 			+ Packing
 	+ Customized graphics
-		Titles
-		Coordinate systems
-		Scales
-		Themes
-		Axis labels
-		Legends
+		+ Titles
+		+ Coordinate systems
+		+ Scales
+		+ Themes
+		+ Axis labels
+		+ Legends
 	+ Other plotting cases
 		+ Violin Plots
 		+ Pie charts
