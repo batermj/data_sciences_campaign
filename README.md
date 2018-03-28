@@ -35,8 +35,8 @@
 | 28 | ds01400002 | v1.0 | Linear Algebra  线性代数 | 36小时 | 500元 |
 | 29 | ds01400003 | v1.0 | Abstract Algebra  抽象代数 | 36小时 | 500元 |
 | 30 | ds01400004 | v1.0 | Analysis  数学分析 | 36小时 | 500元 |
-| 31 | ds01400005 | v1.0 | Combinatorial Theory 组合论 | 36小时 | 750元 |
-| 32 | ds01400006 | v1.0 | Graph Theory  图论 | 36小时 | 750元 |
+| 31 | ds01400005 | v1.0 | Combinatorial Theory 组合论 | 36小时 | 500元 |
+| 32 | ds01400006 | v1.0 | Graph Theory  图论 | 36小时 | 500元 |
 | 33 | ds01400007 | v1.0 | Operations Research 运筹学 | 36小时 | 待定 |
 | 34 | ds01500001 | v1.0 | 计算数学实战课程 | 36小时 | 待定 |
 | 35 | ds01500002 | v1.0 | Matrix Computations  矩阵计算 | 36小时 | 待定 |
