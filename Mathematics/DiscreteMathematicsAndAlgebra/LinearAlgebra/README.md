@@ -51,8 +51,9 @@
 ## 参考文献
 
 ### 附录1: Books
-+ Linear Algebra Done Right, http://linear.axler.net/, http://www.springer.com/cn/book/9783319110790
-+ Linear Algebra and Its Application, 
+
++ Linear Algebra Done Right (Undergraduate Texts in Mathematics) 3rd ed. 2015 Edition, by Sheldon Axler, http://linear.axler.net/, http://www.springer.com/cn/book/9783319110790
++ Linear Algebra and Its Applications, Sep 10, 2007, by Peter D. Lax, https://www.amazon.com/Linear-Algebra-Its-Applications-Peter/dp/0471751561/
 
 ### 附录2: 特殊行列式
 
