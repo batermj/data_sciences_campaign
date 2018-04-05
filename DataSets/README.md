@@ -52,6 +52,9 @@
 | 17 | 公开可用的 PCAP 文件数据集 |  http://www.netresec.com/?page=PcapFiles | 
 
 
+## References of Awesome Public Datasets
+
++ A topic-centric list of high-quality open datasets in public domains. By everyone, for everyone!,https://github.com/awesomedata/awesome-public-datasets
 
 
 
