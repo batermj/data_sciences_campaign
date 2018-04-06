@@ -59,6 +59,7 @@
 ## References of Awesome Public Datasets
 
 + A topic-centric list of high-quality open datasets in public domains. By everyone, for everyone!,https://github.com/awesomedata/awesome-public-datasets
++ An awesome list of (large-scale) public datasets on the Internet. (On-going collection), https://github.com/oana-co/awesome-public-datasets
 
 
 
