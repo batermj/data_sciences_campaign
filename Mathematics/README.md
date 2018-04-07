@@ -30,6 +30,8 @@ Refer the note “The Major Divisions of Mathematics”,
     1. https://en.wikipedia.org/wiki/Mathematics_Subject_Classification
     2. Free Online Math Courses,http://www.openculture.com/math_free_courses
     3. https://en.wikipedia.org/wiki/Mathematics#Foundations_and_philosophy
+    4. The Department of Mathematics and Statistics, Hunter Colledge of CUNY,http://math.hunter.cuny.edu/courses.shtml
+    
 
 2. Strategy: 
     1. Books->Practices->Online Course->Certifications->Papers
