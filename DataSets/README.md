@@ -60,6 +60,24 @@
 
 + A topic-centric list of high-quality open datasets in public domains. By everyone, for everyone!,https://github.com/awesomedata/awesome-public-datasets
 + An awesome list of (large-scale) public datasets on the Internet. (On-going collection), https://github.com/oana-co/awesome-public-datasets
++ COCO,http://cocodataset.org/
++ ImageNet,http://www.image-net.org/?spm=a2c4e.11153959.blogcont576274.13.74da3027ZZdc8l
++ Open Images,https://github.com/openimages/dataset?spm=a2c4e.11153959.blogcont576274.16.74da3027ZZdc8l
++ VisualQA,http://www.visualqa.org/
++ The Street View House Numbers (SVHN) Dataset,http://ufldl.stanford.edu/housenumbers
++ CIFAR-10,http://www.cs.toronto.edu/~kriz/cifar.html
++ Fashion--MNIST, https://github.com/zalandoresearch/fashion-mnist
++ Large Movie Review Dataset,http://ai.stanford.edu/~amaas/data/sentiment
++ sentiment140,http://help.sentiment140.com/for-students/
++ WordNet,https://wordnet.princeton.edu
++ https://corpus.byu.edu/
++ http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm
++ https://www.yelp.com/dataset
++ Shared Task: Machine Translation, http://statmt.org/wmt11/translation-task.html
++ Jakobovski/free-spoken-digit-dataset, https://github.com/Jakobovski/free-spoken-digit-dataset
++ FMA: A Dataset For Music Analysis https://arxiv.org/abs/1612.01840, https://github.com/mdeff/fma
++ 
+
 
 
 
