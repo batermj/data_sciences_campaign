@@ -307,7 +307,6 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Youtube](https://www.reddit.com/r/datasets/comments/3gegdz/17_millions_youtube_videos_description/): 1.7 million youtube videos descriptions (torrent)
 
-## Sources
 *   [Awesome public datasets/NLP](https://github.com/caesar0301/awesome-public-datasets#natural-language) (includes more lists)
 *   [AWS Public Datasets](http://aws.amazon.com/de/datasets/)
 *   [CrowdFlower: Data for Everyone](https://www.crowdflower.com/data-for-everyone/) (lots of little surveys they conducted and data obtained by crowdsourcing for a specific task)
