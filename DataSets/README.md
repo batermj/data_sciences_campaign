@@ -4,7 +4,7 @@
 | :-- | :-- | :-- | :-- |
 | 31 | pybk031master | Python Visualization |
 
-## Datasets used for Data Mining Courses
+## References of Awesome Datasets used for Data Mining Courses
 
 | No. | Path | Description | Original Link |
 | :--- | :--- | :--- | :--- |
@@ -33,7 +33,7 @@
 
 
 
-## Security Data Science安全数据科学
+## References of Awesome Security Data Science安全数据科学
 
 | 编号 | 数据集名称 | 数据集链接 |
 | :---: | :--- |  :--- | 
