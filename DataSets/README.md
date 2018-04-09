@@ -88,17 +88,19 @@
 + 立体视觉:Middlebury
 + 立体视觉:KITTI
 + 人脸检测:FDDB
-• 人脸识别:MegaFace • 图片分类:ImageNet • 人体行为识别:UCF
-• 行人检测:USC
-• 行人检测:CVC
-• 行人检测:TUD
-• 行人检测:NICTA
-• 行人检测:ETH
-• 行人检测:MIT
-• 行人检测:INRIA
-• 行人检测:Daimler
-• 行人检测:Caltech
-• SUNCG
++ 人脸识别:MegaFace
++ 图片分类:ImageNet
++ 人体行为识别:UCF
++ 行人检测:USC
++ 行人检测:CVC
++ 行人检测:TUD
++ 行人检测:NICTA
++ 行人检测:ETH
++ 行人检测:MIT
++ 行人检测:INRIA
++ 行人检测:Daimler
++ 行人检测:Caltech
++ SUNCG
 
 
 
