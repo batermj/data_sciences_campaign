@@ -32,7 +32,7 @@
 | 嘉宾待定 | 行业内知名企业家 |
 
 # 第三部分，课程大纲
-【数据科学家系列课程】课程大纲每一期都会进行内容更新，当前大纲链接为: https://github.com/batermj/data_sciences_campaign/tree/master/DataMining/Guides   
+【数据科学家系列课程】课程大纲每一期都会进行内容更新，当前大纲链接为: https://github.com/batermj/data_sciences_campaign/wiki 
 
 | 编号 | 课程编码 | 课程版本 | 课程名称 | 课时（小时) | 费用（元） |
 | :---: | :---: | :---: | :---: | :---: | :---: | 
