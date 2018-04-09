@@ -102,6 +102,30 @@
 + 行人检测:Caltech
 + SUNCG
 
+## References of Awesome 知识语料库
++ 语言知识库:WordNet 
++ 语言知识库:FrameNet 
++ 语言知识库:EDR 
++ 语言知识库:北京大学综合型语言知识库 
++ 语言知识库:知网 
++ 语言知识库:概念层次网络
 
+## References of Awesome 开源语料库
++ 篇章标注语料库:
++ 篇章标注语料库:PDTB 篇章语料库
++ 篇章标注语料库:指代标注语料库 ARRAU
++ 篇章标注语料库:篇章结构图库 GraphBank
++ 篇章标注语料库:OntoNotes 语料库
++ 标注语料库:CASIA-CASSIL
++ Switchboard-DAMSL 语料
 
-
+## References of Awesome 开源视频数据集
++ Sports-1M
++ Youtube-8M
++ HUMOS
++ Kinetics
++ Google AVA
++ Youtube-BB
++ Open Images
++ Facebook SOA (Sciences, Objects & Actions)
++ Facebook motions dataset
