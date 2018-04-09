@@ -12,3 +12,6 @@
 | 64 | ds04400001 | v1.0 | Web系统架构实战课程 | 36小时 | 待定 |
 | 65 | ds04500001 | v1.0 | 机器学习系统架构实战课程 | 36小时 | 待定 |
 
+
+References:
++ Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards,https://github.com/donnemartin/system-design-primer
