@@ -121,7 +121,7 @@
 
 ## References of Awesome 开源视频数据集
 + Sports-1M
-+ Youtube-8M
++ [Youtube-8M](https://research.googleblog.com/2016/09/announcing-youtube-8m-large-and-diverse.html)
 + HUMOS
 + Kinetics
 + Google AVA
@@ -152,7 +152,7 @@
 *   [Landsat8](https://landsat.usgs.gov/landsat-8): Satellite shots of the entire Earth surface, updated every several weeks.
 *   [NEXRAD](https://www.ncdc.noaa.gov/data-access/radar-data/nexrad): Doppler radar scans of atmospheric conditions in the US.
 
-# References of Awesome Artificial Datasets
+## References of Awesome Artificial Datasets
 *   [Arcade Universe](https://github.com/caglar/Arcade-Universe): - An artificial dataset generator with images containing arcade games sprites such as tetris *   pentomino/tetromino objects. This generator is based on the O. Breleux’s bugland dataset generator.
 A collection of datasets inspired by the ideas from [BabyAISchool](http://www.iro.umontreal.ca/~lisa/twiki/bin/view.cgi/Public/BabyAISchool)
 *   [BabyAIShapes Datasets](http://www.iro.umontreal.ca/~lisa/twiki/bin/view.cgi/Public/BabyAIShapesDatasets): distinguishing between 3 simple shapes
