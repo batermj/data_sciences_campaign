@@ -434,10 +434,15 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Uber FOIL dataset](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml): Data for 4.5M pickups in NYC from an *   [Uber FOIL request](https://github.com/fivethirtyeight/uber-tlc-foil-response).
 *   [Criteo click stream dataset](http://research.criteo.com/outreach/): Large Internet advertisement dataset from a major EU retargeter.
 
-## References of Awesome Health & Biology Data
+## References of Awesome Health,Biomedical data & Biology Data
 *   [EU Surveillance Atlas of Infectious Diseases](http://ecdc.europa.eu/en/data-tools/atlas/Pages/atlas.aspx)
 *   [Merck Molecular Activity Challenge](https://www.kaggle.com/c/MerckActivity/data)
 *   [Musk dataset](https://archive.ics.uci.edu/ml/datasets/Musk+(Version+2)): The Musk database describes molecules occurring in different conformations. Each molecule is either musk or non-musk and one of the conformations determines this property.
+*   [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/)
+*   [KEGG](http://www.genome.jp/kegg/kegg2.html)
+*   [Gene Ontology Consortium](http://www.geneontology.org) biological ontology
+*   [REACTOME](https://reactome.org)
+*   [STRING](https://string-db.org)
 
 
 ## References of Awesome Government & statistics data
