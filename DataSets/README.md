@@ -147,6 +147,11 @@
 + [COIL100](http://www1.cs.columbia.edu/CAVE/software/softlib/coil-100.php): Different objects imaged at every angle in a 360 rotation.
 + [Google’s Open Images](https://research.googleblog.com/2016/09/introducing-open-images-dataset.html): A collection of 9 million URLs to images “that have been annotated with labels spanning over 6,000 categories” under Creative Commons.
 
+## References of Awesome Geospatial data
+*   [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Planet.osm): Vector data for the entire planet under a free license. It contains (an older version of) the US Census Bureau’s data.
+*   [Landsat8](https://landsat.usgs.gov/landsat-8): Satellite shots of the entire Earth surface, updated every several weeks.
+*   [NEXRAD](https://www.ncdc.noaa.gov/data-access/radar-data/nexrad): Doppler radar scans of atmospheric conditions in the US.
+
 ## References of Awesome nlp-datasets
 Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP). Most stuff here is just raw unstructured text data, if you are looking for annotated corpora or Treebanks refer to the sources at the bottom.
 
