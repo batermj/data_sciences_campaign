@@ -84,13 +84,15 @@
 + Urban Sound Classification,https://datahack.analyticsvidhya.com/contest/practice-problem-urban-sound-classification
 +
 
-## References of Awesome Computer Vision Public Datasets
+## References of Awesome Computer Vision Public Datasets: 立体视觉
 + 立体视觉:Middlebury
 + 立体视觉:KITTI
+
+## References of Awesome Computer Vision Public Datasets：人脸检测和识别
 + 人脸检测:FDDB
 + 人脸识别:MegaFace
-+ 图片分类:ImageNet
-+ 人体行为识别:UCF
+
+## References of Awesome Computer Vision Public Datasets: 行人检测
 + 行人检测:USC
 + 行人检测:CVC
 + 行人检测:TUD
@@ -102,6 +104,7 @@
 + 行人检测:Caltech
 + SUNCG
 
+
 ## References of Awesome 知识语料库
 + 语言知识库:WordNet 
 + 语言知识库:FrameNet 
@@ -110,8 +113,7 @@
 + 语言知识库:知网 
 + 语言知识库:概念层次网络
 
-## References of Awesome 开源语料库
-+ 篇章标注语料库:
+## References of Awesome 开源篇章标注语料库
 + 篇章标注语料库:PDTB 篇章语料库
 + 篇章标注语料库:指代标注语料库 ARRAU
 + 篇章标注语料库:篇章结构图库 GraphBank
