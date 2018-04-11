@@ -382,3 +382,12 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Google Books Ngrams](https://aws.amazon.com/datasets/google-books-ngrams/): Successive words from Google books. Offers a simple method to explore when a word first entered wide usage.
 *   [Yelp Open Dataset](https://www.yelp.com/dataset): The Yelp dataset is a subset of Yelp businesses, reviews, and user data for use in NLP.
 
+## References of Awesome Question answering
+*   [Maluuba News QA Dataset](https://datasets.maluuba.com/NewsQA): 120K Q&A pairs on CNN news articles.
+*   [Quora Question Pairs](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs): first dataset release from Quora containing duplicate / semantic similarity labels.
+*   [CMU Q/A Dataset](https://www.cs.cmu.edu/~ark/QA-data/): Manually-generated factoid question/answer pairs with difficulty ratings from Wikipedia articles.
+*   [Maluuba goal-oriented dialogue](https://datasets.maluuba.com/Frames): Procedural conversational dataset where the dialogue aims at accomplishing a task or taking a decision. Often used to work on chat bots.
+*   [bAbi](https://research.fb.com/projects/babi/): Synthetic reading comprehension and question answering datasets from Facebook AI Research (FAIR).
+*   [The Children’s Book Test](http://www.thespermwhale.com/jaseweston/babi/CBTest.tgz): Baseline of (Question + context, Answer) pairs extracted from Children’s books available through Project Gutenberg. Useful for question-answering (reading comprehension) and factoid look-up.
+
+
