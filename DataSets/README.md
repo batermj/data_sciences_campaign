@@ -163,6 +163,21 @@ Datasets generated for the purpose of an empirical evaluation of deep architectu
 *   [ConvexNonConvex](http://www.iro.umontreal.ca/~lisa/twiki/bin/view.cgi/Public/ConvexNonConvex): discriminating between convex and nonconvex shapes
 *   [BackgroundCorrelation](http://www.iro.umontreal.ca/~lisa/twiki/bin/view.cgi/Public/BackgroundCorrelation): controling the degree of correlation in noisy MNIST backgrounds.
 
+## References of Awesome Facial Datasets
+*   [Labelled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/): 13,000 cropped facial regions (using; [Viola-Jones](https://en.wikipedia.org/wiki/Viola%E2%80%93Jones_object_detection_framework) that have been labeled with a name identifier. A subset of the people present have two images in the dataset — it’s quite common for people to train facial matching systems here.
+*   [UMD Faces](http://www.umdfaces.io/) Annotated dataset of 367,920 faces of 8,501 subjects.
+*   CASIA WebFace Facial dataset of 453,453 images over 10,575 identities after face detection. Requires some filtering for quality.
+*   [MS-Celeb-1M](https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/) 1 million images of celebrities from around the world. Requires some filtering for best results on deep networks.
+*   [Olivetti](http://www.cs.nyu.edu/~roweis/data.html): A few images of several different people.
+*   [Multi-Pie](http://www.multipie.org/): The CMU Multi-PIE Face Database
+*   [Face-in-Action](http://www.flintbox.com/public/project/5486/)
+*   [JACFEE](http://www.humintell.com/jacfee/): Japanese and Caucasian Facial Expressions of Emotion
+*   [FERET](http://www.itl.nist.gov/iad/humanid/feret/feret_master.html): The Facial Recognition Technology Database
+*   [mmifacedb](http://www.mmifacedb.com/): MMI Facial Expression Database
+*   [IndianFaceDatabase](http://vis-www.cs.umass.edu/~vidit/IndianFaceDatabase/)
+*   [The Yale Face Database](http://vision.ucsd.edu/content/yale-face-database) and [The Yale Face Database B](http://vision.ucsd.edu/~leekc/ExtYaleDatabase/ExtYaleB.html)).
+*   [Mut1ny Face/Head segmentation dataset](http://www.mut1ny.com/face-headsegmentation-dataset) Over 16k pixel-level segmented images of faces/head images
+
 ## References of Awesome nlp-datasets
 Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP). Most stuff here is just raw unstructured text data, if you are looking for annotated corpora or Treebanks refer to the sources at the bottom.
 
