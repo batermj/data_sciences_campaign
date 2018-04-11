@@ -130,6 +130,23 @@
 + Facebook SOA (Sciences, Objects & Actions)
 + Facebook motions dataset
 
+## References of Awesome Natural-Image Datasets
++ MNIST: handwritten digits: The most commonly used sanity check. Dataset of 25x25, centered, B&W handwritten digits. It is an easy task — just because something works on MNIST, doesn’t mean it works.
++ CIFAR10 / CIFAR100: 32x32 color images with 10 / 100 categories. Not commonly used anymore, though once again, can be an interesting sanity check.
++ Caltech 101: Pictures of objects belonging to 101 categories.
++ Caltech 256: Pictures of objects belonging to 256 categories.
++ STL-10 dataset: is an image recognition dataset for developing unsupervised feature learning, deep learning, self-taught learning algorithms. Like CIFAR-10 with some modifications.
++ The Street View House Numbers (SVHN): House numbers from Google Street View. Think of this as recurrent MNIST in the wild.
++ NORB: Binocular images of toy figurines under various illumination and pose.
++ Pascal VOC: Generic image Segmentation / classification — not terribly useful for building real-world image annotation, but great for baselines
++ Labelme: A large dataset of annotated images.
++ ImageNet: The de-facto image dataset for new algorithms. Many image API companies have labels from their REST interfaces that are suspiciously close to the 1000 category; WordNet; hierarchy from ImageNet.
++ LSUN: Scene understanding with many ancillary tasks (room layout estimation, saliency prediction, etc.) and an associated competition.
++ MS COCO: Generic image understanding / captioning, with an associated competition.
++ COIL 20: Different objects imaged at every angle in a 360 rotation.
++ COIL100 : Different objects imaged at every angle in a 360 rotation.
++ Google’s Open Images: A collection of 9 million URLs to images “that have been annotated with labels spanning over 6,000 categories” under Creative Commons.
+
 ## References of Awesome nlp-datasets
 Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP). Most stuff here is just raw unstructured text data, if you are looking for annotated corpora or Treebanks refer to the sources at the bottom.
 
