@@ -152,6 +152,17 @@
 *   [Landsat8](https://landsat.usgs.gov/landsat-8): Satellite shots of the entire Earth surface, updated every several weeks.
 *   [NEXRAD](https://www.ncdc.noaa.gov/data-access/radar-data/nexrad): Doppler radar scans of atmospheric conditions in the US.
 
+# References of Awesome Artificial Datasets
+*   [Arcade Universe](https://github.com/caglar/Arcade-Universe): - An artificial dataset generator with images containing arcade games sprites such as tetris *   pentomino/tetromino objects. This generator is based on the O. Breleux’s bugland dataset generator.
+A collection of datasets inspired by the ideas from [BabyAISchool](http://www.iro.umontreal.ca/~lisa/twiki/bin/view.cgi/Public/BabyAISchool)
+*   [BabyAIShapes Datasets](http://www.iro.umontreal.ca/~lisa/twiki/bin/view.cgi/Public/BabyAIShapesDatasets): distinguishing between 3 simple shapes
+*   [BabyAIImageAndQuestion Datasets](http://www.iro.umontreal.ca/~lisa/twiki/bin/view.cgi/Public/BabyAIImageAndQuestionDatasets): a question-image-answer dataset 
+Datasets generated for the purpose of an empirical evaluation of deep architectures ([DeepVsShallowComparisonICML2007](http://www.iro.umontreal.ca/~lisa/twiki/bin/view.cgi/Public/DeepVsShallowComparisonICML2007)):
+*   [MnistVariations](http://www.iro.umontreal.ca/~lisa/twiki/bin/view.cgi/Public/MnistVariations): introducing controlled variations in MNIST
+*   [RectanglesData](http://www.iro.umontreal.ca/~lisa/twiki/bin/view.cgi/Public/RectanglesData): discriminating between wide and tall rectangles
+*   [ConvexNonConvex](http://www.iro.umontreal.ca/~lisa/twiki/bin/view.cgi/Public/ConvexNonConvex): discriminating between convex and nonconvex shapes
+*   [BackgroundCorrelation](http://www.iro.umontreal.ca/~lisa/twiki/bin/view.cgi/Public/BackgroundCorrelation): controling the degree of correlation in noisy MNIST backgrounds.
+
 ## References of Awesome nlp-datasets
 Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP). Most stuff here is just raw unstructured text data, if you are looking for annotated corpora or Treebanks refer to the sources at the bottom.
 
