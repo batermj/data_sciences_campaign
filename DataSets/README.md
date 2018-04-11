@@ -366,3 +366,19 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Stackexchange: Opendata](http://opendata.stackexchange.com/)
 *   [Stanford NLP group](http://www-nlp.stanford.edu/links/statnlp.html) (mainly annotated corpora and TreeBanks or actual NLP tools)
 *   [Yahoo! Webscope](http://webscope.sandbox.yahoo.com/) (also includes papers that use the data that is provided)
+
+
+## References of Awesome Text Datasets
+*   [20 newsgroups](http://qwone.com/~jason/20Newsgroups/): Classification task, mapping word occurences to newsgroup ID. One of the classic datasets for text classification) usually useful as a benchmark for either pure classification or as a validation of any IR / indexing algorithm.
+*   [Reuters News dataset](https://archive.ics.uci.edu/ml/datasets/Reuters-21578+Text+Categorization+Collection): (Older) purely classification-based dataset with text from the newswire. Commonly used in tutorial.
+*   [Penn Treebank](https://www.cis.upenn.edu/~treebank/): Used for next word prediction or next character prediction.
+*   [UCI’s Spambase](https://archive.ics.uci.edu/ml/datasets/Spambase): (Older) classic spam email dataset from the famous UCI Machine Learning Repository. Due to details of how the dataset was curated, this can be an interesting baseline for learning personalized spam filtering.
+*   [Broadcast News](http://www.ldc.upenn.edu/Catalog/CatalogEntry.jsp?catalogId=LDC97S44): Large text dataset, classically used for next word prediction.
+*   [Text Classification Datasets](https://drive.google.com/drive/u/0/folders/0Bz8a_Dbh9Qhbfll6bVpmNUtUcFdjYmF2SEpmZUZUcVNiMUw1TWN6RDV3a0JHT3kxLVhVR2M): From; Zhang et al., 2015; An extensive set of eight datasets for text classification. These are the benchmark for new text classification baselines. Sample size of 120K to 3.6M, ranging from binary to 14 class problems. Datasets from DBPedia, Amazon, Yelp, Yahoo! and AG.
+*   [WikiText](http://metamind.io/research/the-wikitext-long-term-dependency-language-modeling-dataset/): A large language modeling corpus from quality Wikipedia articles, curated by Salesforce MetaMind.
+*   [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/): The Stanford Question Answering Dataset — broadly useful question answering and reading comprehension dataset, where every answer to a question is posed as a segment of text.
+*   [Billion Words dataset](http://www.statmt.org/lm-benchmark/): A large general-purpose language modeling dataset. Often used to train distributed word representations such as word2vec.
+*   [Common Crawl](https://commoncrawl.org/the-data/): Petabyte-scale crawl of the web — most frequently used for learning word embeddings. Available for free from Amazon S3. Can also be useful as a network dataset for it’s a crawl of the WWW.
+*   [Google Books Ngrams](https://aws.amazon.com/datasets/google-books-ngrams/): Successive words from Google books. Offers a simple method to explore when a word first entered wide usage.
+*   [Yelp Open Dataset](https://www.yelp.com/dataset): The Yelp dataset is a subset of Yelp businesses, reviews, and user data for use in NLP.
+
