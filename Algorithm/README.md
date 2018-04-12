@@ -25,3 +25,13 @@
   
 ## Parallel Algorithms
 + <TBC>
+
+## Resources of Algorithms for Applied Cryptography 
++ <TBC>
+
+## Resources of Algorithms for System Security 
++ <TBC>
+  
+## Resources of Algorithms for Information Security 
++ <TBC>
+ 
