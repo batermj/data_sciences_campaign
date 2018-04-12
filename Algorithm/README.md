@@ -14,7 +14,16 @@
 | 25 | ds01300005 | v1.0 | Data Compression Algorithm  数据压缩算法 | 36小时 | 待定 |
 | 26 | ds01300006 | v1.0 | Algorithms for Applied Cryptography and Security  安全与密码算法 | 36小时 | 待定 |
 
-## Resources for Algorithms
+## The Portal for Algorithms
+
++ Open Source Projects
++ Architectures
++ Frameworks
++ Libraries
++ Papers
++ Book
+
+## References of Awesome esources for Algorithms
 + <TBC>
   
 ## Competition
