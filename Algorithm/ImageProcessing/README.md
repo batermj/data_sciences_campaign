@@ -130,7 +130,7 @@ https://github.com/batermj/data_sciences_campaign/tree/master/Algorithm/ImagePro
   + 2.8 图像数字化
     + 2.8.1 采样
     + 2.8.2 量化
-    + 2.8.3 空间和灰度分辨率
+	+ 2.8.3 空间和灰度分辨率
   + 2.9 小结 
   + 2.10 练习题
 
@@ -251,7 +251,7 @@ https://github.com/batermj/data_sciences_campaign/tree/master/Algorithm/ImagePro
     + 6.15.5离散余弦变换的应用
   + 6.16沃尔什变换和哈达玛变换
     + 6.16.1离散沃尔什变换
-    + 6.16.2离散哈达玛变换
+	+ 6.16.2离散哈达玛变换
     + 6.16.3快速哈达玛变换算法
   + 6.17霍特林变换
   + 6.18拉东变换
@@ -340,7 +340,7 @@ https://github.com/batermj/data_sciences_campaign/tree/master/Algorithm/ImagePro
     + 9.5.1　带通滤波器
     + 9.5.2　带阻滤波器
     + 9.5.3　陷波滤波器
-  + 9.6　空域滤波与频域滤波的对应关系
+  + 9.6　空域滤波与频域滤波的对应关系
     + 9.6.1　空域到频域
     + 9.6.2　频域到空域
   + 9.7　同态滤波器
@@ -410,7 +410,7 @@ https://github.com/batermj/data_sciences_campaign/tree/master/Algorithm/ImagePro
     + 11.5.2灰度级彩色变换法
     + 11.5.3频域滤波法
   + 11.6　白平衡
-    + 11.6.1　灰度像素假设
+	+ 11.6.1　灰度像素假设
     + 11.6.2　对角模型
   + 11.7 小结 
   + 11.8 练习题
@@ -506,7 +506,7 @@ https://github.com/batermj/data_sciences_campaign/tree/master/Algorithm/ImagePro
     + 14.4.6　凸包 
     + 14.4.7　细化 
     + 14.4.8　粗化 
-    + 14.4.9　剪枝 
+	+ 14.4.9　剪枝 
   + 14.5　二值图像形态学运算及其性质总结 
   + 14.6　灰度图像形态学算法 
     + 14.6.1　灰度膨胀与腐蚀
