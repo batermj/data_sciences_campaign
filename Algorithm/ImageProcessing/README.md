@@ -1,4 +1,4 @@
-【数据科学家系列课程】之【Python编程实战课程】概览
+【数据科学家系列课程】之【Algorithms for Image Processing图像处理算法编程实战课程】概览
 1. Algorithms for Image Processing图像处理算法编程实战课程-培训班简介
 2. Algorithms for Image Processing图像处理算法编程实战课程-师资力量
 3. 课程大纲
