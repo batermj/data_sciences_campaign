@@ -118,6 +118,6 @@ https://github.com/batermj/data_sciences_campaign/blob/master/C
 3. 多部（英文）技术视频教程
 4. 多篇论文 
 
-![](./DataMining/Guides/WechatIMG392.jpeg '支付宝二维码')
-![](./DataMining/Guides/WechatIMG394.png '支付宝二维码')
-![](./DataMining/Guides/WechatIMG395.jpeg '支付宝二维码')
+![](../DataMining/Guides/WechatIMG392.jpeg '支付宝二维码')
+![](../DataMining/Guides/WechatIMG394.png '支付宝二维码')
+![](../DataMining/Guides/WechatIMG395.jpeg '支付宝二维码')
