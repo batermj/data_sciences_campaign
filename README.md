@@ -203,7 +203,7 @@ Welcome to the data_sciences_campaign（数据科学家系列课程Campaign） w
 5. 授课方式
 6. 数据科学家系列课程 - 2018年各期时间
 7. 支付步骤和方式
-8. 收费标准（人民币）
+8. 收费标准（人民币，BTC，ETH）
 9. 报名方式
 10. 授课老师简介
 
