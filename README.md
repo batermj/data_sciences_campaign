@@ -208,7 +208,7 @@ Welcome to the data_sciences_campaign（数据科学家系列课程Campaign） w
 
 ## 第三部分，课程大纲
 【数据科学家系列课程】课程大纲每一期都会进行内容更新，各科大纲为以下链接：
-https://github.com/batermj/data_sciences_campaign/，根目录下不同科目目录下的README.md文件
+https://github.com/batermj/data_sciences_campaign/ ，根目录下不同科目目录下的README.md文件
 
 ## 第四部分，学员福利
 | 课程 | 福利 |
