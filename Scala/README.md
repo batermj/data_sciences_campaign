@@ -8,4 +8,4 @@
 + Book
 
 ## References of Awesome esources for Scala
-+ <TBC>
++ Official Site,https://www.scala-lang.org/
