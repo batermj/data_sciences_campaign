@@ -22,3 +22,7 @@
 
 ## Frameworks, Library
 + Minimal Deep Learning library is written in Python/Cython/C++ and Numpy/CUDA/cuDNN. https://github.com/upul/Aurora
+
+## Face Recognition
++ AIND-CV-FacialKeypoints, https://github.com/udacity/AIND-CV-FacialKeypoints
+
