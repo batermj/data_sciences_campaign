@@ -15,6 +15,8 @@
 + Minimal Deep Q Learning (DQN & DDQN) implementations in Keras https://keon.io/deep-q-learning, https://github.com/keon/deep-q-learning
 + ReinforcementZeroToAll, https://github.com/hunkim/ReinforcementZeroToAll
 + Contains Jupyter notebooks associated with the "Deep Reinforcement Learning Tutorial" tutorial given at the O'Reilly 2017 NYC AI Conference, https://github.com/awjuliani/oreilly-rl-tutorial
++ Reinforcement Learning with Goals, https://github.com/awjuliani/dfp
+
 
 
 ## Computer Vision
