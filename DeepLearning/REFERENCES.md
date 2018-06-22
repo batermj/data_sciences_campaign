@@ -8,6 +8,7 @@
 + https://github.com/dennybritz?tab=repositories
 + Summaries and notes on Deep Learning research papers,https://github.com/dennybritz/deeplearning-papernotes
 + https://github.com/lisa-lab
++ https://github.com/ChristosChristofidis
 
 
 ## CNN
