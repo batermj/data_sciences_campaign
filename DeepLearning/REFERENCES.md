@@ -21,7 +21,6 @@
 + An mxnet implementation of Deconvolutional SSD, https://github.com/MTCloudVision/mxnet-dssd
 + CNN and LSTM model for text recognition, https://github.com/oyxhust/CNN-LSTM-CTC-text-recognition
 
-
 ## Recurrent Neural Network
 + Recurrent Neural Network - A curated list of resources dedicated to RNN, https://github.com/kjw0612/awesome-rnn
 + Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow, https://github.com/hunkim/word-rnn-tensorflow
@@ -78,6 +77,7 @@
 + An interactive book on deep learning. Much easy, so MXNet. Wow. http://gluon.mxnet.io, https://github.com/zackchase/mxnet-the-straight-dope
 + A curated list of MXNet examples, tutorials and blogs, https://github.com/chinakook/Awesome-MXNet
 + mobilenet-mxnet, https://github.com/KeyKy/mobilenet-mxnet
++ the implementation of MTCNN in MXnet, https://github.com/Seanlinx/mtcnn
 
 
 ## PyTorch
