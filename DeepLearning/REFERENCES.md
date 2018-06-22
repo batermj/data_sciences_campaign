@@ -6,6 +6,7 @@
 + Deep Learning Architecture Genealogy Project,https://github.com/hunkim/deep_architecture_genealogy
 + https://github.com/dennybritz?tab=repositories
 + Summaries and notes on Deep Learning research papers,https://github.com/dennybritz/deeplearning-papernotes
++ https://github.com/lisa-lab
 
 
 ## CNN
