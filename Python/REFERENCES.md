@@ -20,3 +20,6 @@
 ## NLP
 + tutorial for sentiment analysis on Twitter data using Python, https://github.com/ujjwalkarn
 
+## Finance Analytics
++ https://github.com/yhilpisch
+
