@@ -2,6 +2,9 @@
 
 ## Resources on Github
 
+## General
++ A curated list of awesome Machine Learning frameworks, libraries and software, https://github.com/josephmisiti/awesome-machine-learning
+
 ## Machine Learning Interpretability
 + A curated list of awesome machine learning interpretability resources, https://github.com/jphall663/awesome-machine-learning-interpretability
 
