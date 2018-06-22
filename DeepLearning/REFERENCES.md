@@ -18,6 +18,9 @@
 + Reinforcement Learning with Goals, https://github.com/awjuliani/dfp
 + Accompanying repository for Let's make a DQN / A3C series, https://github.com/jaara/AI-blog
 
+## Meta Learning
++ Implementation of Meta-RL A3C algorithm, Implementation of Meta-RL A3C algorithm
+
 
 
 ## Computer Vision
