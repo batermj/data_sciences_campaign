@@ -20,6 +20,9 @@
 + Deformable Convolutional Networks, https://github.com/msracver/Deformable-ConvNets
 + An mxnet implementation of Deconvolutional SSD, https://github.com/MTCloudVision/mxnet-dssd
 + CNN and LSTM model for text recognition, https://github.com/oyxhust/CNN-LSTM-CTC-text-recognition
++ The Places365-CNNs for Scene Classification http://places2.csail.mit.edu/, https://github.com/CSAILVision/places365
+
+
 
 ## Recurrent Neural Network
 + Recurrent Neural Network - A curated list of resources dedicated to RNN, https://github.com/kjw0612/awesome-rnn
