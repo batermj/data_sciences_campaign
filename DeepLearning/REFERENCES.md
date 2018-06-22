@@ -18,6 +18,8 @@
 + A convolutional neural network that classifies sounds, https://github.com/awjuliani/sound-cnn
 + Deformable Convolutional Networks, https://github.com/msracver/Deformable-ConvNets
 + An mxnet implementation of Deconvolutional SSD, https://github.com/MTCloudVision/mxnet-dssd
++ CNN and LSTM model for text recognition, https://github.com/oyxhust/CNN-LSTM-CTC-text-recognition
+
 
 ## Recurrent Neural Network
 + Recurrent Neural Network - A curated list of resources dedicated to RNN, https://github.com/kjw0612/awesome-rnn
