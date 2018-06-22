@@ -28,3 +28,5 @@
 
 ## MISC
 + dlsys-course,https://github.com/dlsys-course
++ This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research. http://cs20.stanford.edu,, https://github.com/chiphuyen/stanford-tensorflow-tutorials
+
