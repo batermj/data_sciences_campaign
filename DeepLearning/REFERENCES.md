@@ -78,7 +78,7 @@
 + A curated list of MXNet examples, tutorials and blogs, https://github.com/chinakook/Awesome-MXNet
 + mobilenet-mxnet, https://github.com/KeyKy/mobilenet-mxnet
 + the implementation of MTCNN in MXnet, https://github.com/Seanlinx/mtcnn
-
++ MXNet port of SSD: Single Shot MultiBox Object Detector. Reimplementation of https://github.com/weiliu89/caffe/tree/ssd, MXNet port of SSD: Single Shot MultiBox Object Detector. Reimplementation of https://github.com/weiliu89/caffe/tree/ssd
 
 ## PyTorch
 + Simple PyTorch Tutorials Zero to ALL! , https://github.com/hunkim/PyTorchZeroToAll
