@@ -1,6 +1,7 @@
 # References 
 
 ## Resources on Github
++ A curated list of awesome Deep Learning tutorials, projects and communities, https://github.com/ChristosChristofidis/awesome-deep-learning
 + A list of popular github projects related to deep learning, https://github.com/aymericdamien/TopDeepLearning
 + Top Deep Learning Projects based on their Stars!, https://github.com/hunkim/DeepLearningStars
 + Deep Learning Architecture Genealogy Project,https://github.com/hunkim/deep_architecture_genealogy
