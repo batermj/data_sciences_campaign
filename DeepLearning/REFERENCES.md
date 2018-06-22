@@ -64,6 +64,8 @@
 + Convolutional Neural Network for Text Classification in Tensorflow, https://github.com/dennybritz/cnn-text-classification-tf
 
 
+## MXNET
++ Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more https://mxnet.apache.org,https://github.com/apache/incubator-mxnet
 
 ## PyTorch
 + Simple PyTorch Tutorials Zero to ALL! , https://github.com/hunkim/PyTorchZeroToAll
