@@ -12,6 +12,7 @@
 
 ## Reinforcement Learning
 + Minimal Deep Q Learning (DQN & DDQN) implementations in Keras https://keon.io/deep-q-learning, https://github.com/keon/deep-q-learning
++ ReinforcementZeroToAll, https://github.com/hunkim/ReinforcementZeroToAll
 
 ## Computer Vision
 + A curated list of deep learning resources for computer vision, https://github.com/kjw0612/awesome-deep-vision
