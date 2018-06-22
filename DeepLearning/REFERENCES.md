@@ -34,6 +34,9 @@
 ## Tensorflow
 + TensorFlow Basic Tutorial Labs, https://github.com/hunkim/DeepLearningZeroToAll
 
+## PyTorch
++ Simple PyTorch Tutorials Zero to ALL! , https://github.com/hunkim/PyTorchZeroToAll
+
 ## Face Recognition
 + AIND-CV-FacialKeypoints, https://github.com/udacity/AIND-CV-FacialKeypoints
 
