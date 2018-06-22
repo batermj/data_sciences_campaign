@@ -6,3 +6,7 @@
 
 ## Data Wrangling
 + The ultimate reference guide to data wrangling with Python and R, https://github.com/ben519/DataWrangling
+
+## Machine Learning
++ common data analysis and machine learning tasks using python, https://github.com/ujjwalkarn/DataSciencePython
+
