@@ -22,6 +22,8 @@
 + CNN and LSTM model for text recognition, https://github.com/oyxhust/CNN-LSTM-CTC-text-recognition
 + The Places365-CNNs for Scene Classification http://places2.csail.mit.edu/, https://github.com/CSAILVision/places365
 
+## Residual Neural Network
++ Reproduce ResNet-v2(Identity Mappings in Deep Residual Networks) with MXNet, https://github.com/tornadomeet/ResNet
 
 
 ## Recurrent Neural Network
