@@ -21,6 +21,11 @@
 ## XGBoost
 + Simple package for creating LIMEs for XGBoost, https://github.com/jphall663/lime_xgboost
 
+## LDA
++ Single Machine implementation of LDA, https://github.com/dmlc/experimental-lda
+
+
+
 ## Hidden Markov Model
 + Yet Another Hidden Markov Model repository, https://github.com/jmschrei/yahmm
 
