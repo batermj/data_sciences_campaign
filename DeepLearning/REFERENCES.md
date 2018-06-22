@@ -4,6 +4,7 @@
 + A list of popular github projects related to deep learning, https://github.com/aymericdamien/TopDeepLearning
 + Top Deep Learning Projects based on their Stars!, https://github.com/hunkim/DeepLearningStars
 + Deep Learning Architecture Genealogy Project,https://github.com/hunkim/deep_architecture_genealogy
++ https://github.com/dennybritz?tab=repositories
 
 ## CNN
 + A convolutional neural network that classifies sounds, https://github.com/awjuliani/sound-cnn
