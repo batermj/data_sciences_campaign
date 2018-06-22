@@ -102,3 +102,5 @@
 ## GPU
 + Acceleration package for neural networks on multi-core CPUs, https://github.com/Maratyszcza/NNPACK
 
+## Neural Net Visualization
++ Neural network visualizer http://ethereon.github.io/netscope, https://github.com/ethereon/netscope
