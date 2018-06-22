@@ -2,6 +2,7 @@
 
 ## Resources on Github
 
+## CNN
 
 ## Recurrent Neural Network
 
@@ -12,4 +13,7 @@
 
 ## Computer Vision
 + A curated list of deep learning resources for computer vision, https://github.com/kjw0612/awesome-deep-vision
+
+## Natural Language Processing
++ Semantic Segmentation using Fully Convolutional Neural Network. https://github.com/upul/Semantic_Segmentation
 
