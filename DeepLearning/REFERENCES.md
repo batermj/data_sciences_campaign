@@ -19,3 +19,6 @@
 
 ## Auto Driving
 + Vehicle Detection Project, https://github.com/udacity/CarND-Vehicle-Detection
+
+## Frameworks, Library
++ Minimal Deep Learning library is written in Python/Cython/C++ and Numpy/CUDA/cuDNN. https://github.com/upul/Aurora
