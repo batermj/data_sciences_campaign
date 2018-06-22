@@ -9,7 +9,7 @@
 + Summaries and notes on Deep Learning research papers,https://github.com/dennybritz/deeplearning-papernotes
 + https://github.com/lisa-lab
 + https://github.com/ChristosChristofidis
-
++ https://github.com/zackchase
 
 ## CNN
 + A convolutional neural network that classifies sounds, https://github.com/awjuliani/sound-cnn
