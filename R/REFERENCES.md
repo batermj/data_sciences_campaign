@@ -11,3 +11,7 @@
 
 ## R uses in entreprise
 + A Curated list of R uses in entreprise, https://github.com/ThinkR-open/companies-using-r
+
+## Deep Learning
++ This is a curated list of libraries and frameworks for Neural network and deep learning in R, https://github.com/talegari/r_neural_network_deep_learning
+
