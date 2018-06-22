@@ -12,3 +12,6 @@
 ## Speech
 + A curated list of speech and natural language processing resources, https://github.com/edobashira/speech-language-processing
 
+## Text segmentation 
++ Chinese text segmentation, https://github.com/fxsjy/jieba
+
