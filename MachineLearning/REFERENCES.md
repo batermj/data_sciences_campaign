@@ -5,6 +5,7 @@
 ## General
 + A curated list of awesome Machine Learning frameworks, libraries and software, https://github.com/josephmisiti/awesome-machine-learning
 + Data Science and Machine Learning resources, a curated list,https://github.com/marcharper/ds_ml_resources
++ Machine learning and deep learning tutorials, articles and other resources,https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 
 ## Machine Learning Interpretability
 + A curated list of awesome machine learning interpretability resources, https://github.com/jphall663/awesome-machine-learning-interpretability
