@@ -25,6 +25,9 @@
 ## Machine Learning Problem
 + Machine Learning Problem Bible | Problem , https://github.com/ben519/MLPB
 
+## UDacity
++ Our mission is to bring accessible, affordable, engaging, and highly effective higher education to the world,https://github.com/udacity
+
 ## MISC
 + Repository of teaching materials, code, and data for my data analysis and machine learning projects. https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects
 
