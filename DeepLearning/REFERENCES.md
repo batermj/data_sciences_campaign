@@ -36,6 +36,8 @@
 ## Tensorflow
 + TensorFlow Basic Tutorial Labs, https://github.com/hunkim/DeepLearningZeroToAll
 + Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow,https://github.com/hunkim/word-rnn-tensorflow
++ Learning Machine Learning with TensorFlow, https://github.com/golbin/TensorFlow-ML-Exercises
+
 
 ## PyTorch
 + Simple PyTorch Tutorials Zero to ALL! , https://github.com/hunkim/PyTorchZeroToAll
