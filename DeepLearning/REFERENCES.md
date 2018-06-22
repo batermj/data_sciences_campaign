@@ -55,6 +55,9 @@
 + A set of Deep Reinforcement Learning Agents implemented in Tensorflow, https://github.com/awjuliani/DeepRL-Agents
 + Accompanying notebook for the Entailment with Tensorflow article, https://github.com/Steven-Hewitt/Entailment-with-Tensorflow
 + A collection of deep learning tutorials using Tensorflow and Python, https://github.com/awjuliani/TF-Tutorials
++ Convolutional Neural Network for Text Classification in Tensorflow, https://github.com/dennybritz/cnn-text-classification-tf
+
+
 
 ## PyTorch
 + Simple PyTorch Tutorials Zero to ALL! , https://github.com/hunkim/PyTorchZeroToAll
