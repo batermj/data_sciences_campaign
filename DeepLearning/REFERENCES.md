@@ -12,6 +12,7 @@
 + https://github.com/ChristosChristofidis
 + https://github.com/zackchase
 + https://github.com/msracver
++ https://github.com/aws-samples
 
 ## CNN
 + A convolutional neural network that classifies sounds, https://github.com/awjuliani/sound-cnn
