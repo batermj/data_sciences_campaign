@@ -10,3 +10,6 @@
 ## Machine Learning
 + common data analysis and machine learning tasks using python, https://github.com/ujjwalkarn/DataSciencePython
 
+## MISC
++ effective_python_notebook, https://github.com/hunkim/effective_python_notebook
+
