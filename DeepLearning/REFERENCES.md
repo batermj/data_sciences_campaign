@@ -1,6 +1,7 @@
 # References 
 
 ## Resources on Github
++ A list of popular github projects related to deep learning, https://github.com/aymericdamien/TopDeepLearning
 
 ## CNN
 
@@ -22,6 +23,9 @@
 + CarND-Advanced-Lane-Lines, https://github.com/udacity/CarND-Advanced-Lane-Lines
 + First Project Udacity's Self-Driving NanoDegree, https://github.com/upul/CarND-LaneLines-P1c
 + Third Project of the Udacity Self-Driving Car Nanodegree Program, https://github.com/upul/Behavioral-Cloning
+
+## Deep Learning Projects
+
 
 ## Frameworks, Library
 + Minimal Deep Learning library is written in Python/Cython/C++ and Numpy/CUDA/cuDNN. https://github.com/upul/Aurora
