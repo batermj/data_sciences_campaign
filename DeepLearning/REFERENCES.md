@@ -19,6 +19,9 @@
 + Contains Jupyter notebooks associated with the "Deep Reinforcement Learning Tutorial" tutorial given at the O'Reilly 2017 NYC AI Conference, https://github.com/awjuliani/oreilly-rl-tutorial
 + Reinforcement Learning with Goals, https://github.com/awjuliani/dfp
 + Accompanying repository for Let's make a DQN / A3C series, https://github.com/jaara/AI-blog
++ Code for experiments with our RNN regularizer, which stochastically forces units to maintain previous values., https://github.com/teganmaharaj/zoneout
+
+
 
 ## Meta Learning
 + Implementation of Meta-RL A3C algorithm, Implementation of Meta-RL A3C algorithm
