@@ -69,6 +69,8 @@
 ## MXNET
 + Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more https://mxnet.apache.org,https://github.com/apache/incubator-mxnet
 + An interactive book on deep learning. Much easy, so MXNet. Wow. http://gluon.mxnet.io, https://github.com/zackchase/mxnet-the-straight-dope
++ A curated list of MXNet examples, tutorials and blogs, https://github.com/chinakook/Awesome-MXNet
+
 
 ## PyTorch
 + Simple PyTorch Tutorials Zero to ALL! , https://github.com/hunkim/PyTorchZeroToAll
