@@ -79,6 +79,7 @@
 ## Face Detection and Recognition 
 + AIND-CV-FacialKeypoints, https://github.com/udacity/AIND-CV-FacialKeypoints
 + Detect and align faces in images using dlib and opencv, https://github.com/nlhkh/face-alignment-dlib
++ Face Recognition Project on MXNet, https://github.com/deepinsight/insightface
 
 ## MISC
 + dlsys-course,https://github.com/dlsys-course
