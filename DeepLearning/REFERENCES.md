@@ -114,4 +114,5 @@
 
 ## Benchmark
 + THE Deep Learning Benchmarks, https://github.com/DeepMark/deepmark
++ Easy benchmarking of all publicly accessible implementations of convnets, https://github.com/soumith/convnet-benchmarks
 
