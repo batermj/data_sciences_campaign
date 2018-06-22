@@ -20,6 +20,7 @@
 ## Auto Driving
 + Vehicle Detection Project, https://github.com/udacity/CarND-Vehicle-Detection
 + CarND-Advanced-Lane-Lines, https://github.com/udacity/CarND-Advanced-Lane-Lines
++ Third Project of the Udacity Self-Driving Car Nanodegree Program, https://github.com/upul/Behavioral-Cloning
 
 ## Frameworks, Library
 + Minimal Deep Learning library is written in Python/Cython/C++ and Numpy/CUDA/cuDNN. https://github.com/upul/Aurora
