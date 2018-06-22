@@ -13,6 +13,7 @@
 
 ## CNN
 + A convolutional neural network that classifies sounds, https://github.com/awjuliani/sound-cnn
++ Deformable Convolutional Networks, https://github.com/msracver/Deformable-ConvNets
 
 
 ## Recurrent Neural Network
