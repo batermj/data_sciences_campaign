@@ -6,6 +6,8 @@
 + Deep Learning Architecture Genealogy Project,https://github.com/hunkim/deep_architecture_genealogy
 
 ## CNN
++ A convolutional neural network that classifies sounds, https://github.com/awjuliani/sound-cnn
+
 
 ## Recurrent Neural Network
 + Recurrent Neural Network - A curated list of resources dedicated to RNN, https://github.com/kjw0612/awesome-rnn
