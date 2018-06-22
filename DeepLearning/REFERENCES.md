@@ -99,3 +99,6 @@
 + This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research. http://cs20.stanford.edu,, https://github.com/chiphuyen/stanford-tensorflow-tutorials
 + Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.), https://github.com/alexjc/neural-doodle
 
+## GPU
++ Acceleration package for neural networks on multi-core CPUs, https://github.com/Maratyszcza/NNPACK
+
