@@ -9,7 +9,7 @@
 
 ## Data Sciences
 + An awesome Data Science repository to learn and apply for real world problems, https://github.com/bulutyazilim/awesome-datascience
-
++ common data analysis and machine learning tasks using python, https://github.com/ujjwalkarn/DataSciencePython
 
 ## Machine Learning
 + common data analysis and machine learning tasks using python, https://github.com/ujjwalkarn/DataSciencePython
