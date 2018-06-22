@@ -2,6 +2,7 @@
 
 ## Resources on Github
 + A list of popular github projects related to deep learning, https://github.com/aymericdamien/TopDeepLearning
++ Top Deep Learning Projects based on their Stars!, https://github.com/hunkim/DeepLearningStars
 
 ## CNN
 
