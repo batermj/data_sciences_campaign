@@ -17,3 +17,6 @@
 ## MISC
 + effective_python_notebook, https://github.com/hunkim/effective_python_notebook
 
+## NLP
++ tutorial for sentiment analysis on Twitter data using Python, https://github.com/ujjwalkarn
+
