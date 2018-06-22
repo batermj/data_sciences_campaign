@@ -39,6 +39,7 @@
 + Learning Machine Learning with TensorFlow, https://github.com/golbin/TensorFlow-ML-Exercises
 + TensorFlow tutorials and best practices. https://twitter.com/VahidK, https://github.com/vahidk/EffectiveTensorflow
 + MNIST with TensorFlow, https://github.com/golbin/TensorFlow-MNIST
++ A set of Deep Reinforcement Learning Agents implemented in Tensorflow, https://github.com/awjuliani/DeepRL-Agents
 
 
 
