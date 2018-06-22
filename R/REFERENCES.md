@@ -7,6 +7,7 @@
 
 ## Explorative Data Analytics
 + Exploratory and diagnostic machine learning tools for R, https://github.com/ben519/mltools
++ R package for exploratory data analysis,https://github.com/ujjwalkarn/xda
 
 ## Data Sciences
 + A curated list of R tutorials for Data Science, NLP and Machine Learning, https://github.com/ujjwalkarn/DataScienceR
