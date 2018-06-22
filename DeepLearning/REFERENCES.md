@@ -46,8 +46,9 @@
 + Yet another WaveNet implementation in PyTorch, https://github.com/golbin/WaveNet
 + Yet another Cycle GAN implementation in PyTorch, https://github.com/golbin/CycleGAN
 
-## Face Recognition
+## Face Detection and Recognition 
 + AIND-CV-FacialKeypoints, https://github.com/udacity/AIND-CV-FacialKeypoints
++ Detect and align faces in images using dlib and opencv, https://github.com/nlhkh/face-alignment-dlib
 
 ## MISC
 + dlsys-course,https://github.com/dlsys-course
