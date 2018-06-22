@@ -45,7 +45,7 @@
 + MNIST with TensorFlow, https://github.com/golbin/TensorFlow-MNIST
 + A set of Deep Reinforcement Learning Agents implemented in Tensorflow, https://github.com/awjuliani/DeepRL-Agents
 + Accompanying notebook for the Entailment with Tensorflow article, https://github.com/Steven-Hewitt/Entailment-with-Tensorflow
-
++ A collection of deep learning tutorials using Tensorflow and Python, https://github.com/awjuliani/TF-Tutorials
 
 ## PyTorch
 + Simple PyTorch Tutorials Zero to ALL! , https://github.com/hunkim/PyTorchZeroToAll
