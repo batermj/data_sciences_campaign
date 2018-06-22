@@ -5,6 +5,8 @@
 + Top Deep Learning Projects based on their Stars!, https://github.com/hunkim/DeepLearningStars
 + Deep Learning Architecture Genealogy Project,https://github.com/hunkim/deep_architecture_genealogy
 + https://github.com/dennybritz?tab=repositories
++ Summaries and notes on Deep Learning research papers,https://github.com/dennybritz/deeplearning-papernotes
+
 
 ## CNN
 + A convolutional neural network that classifies sounds, https://github.com/awjuliani/sound-cnn
