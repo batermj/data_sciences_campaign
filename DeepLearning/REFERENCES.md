@@ -38,6 +38,8 @@
 + Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow,https://github.com/hunkim/word-rnn-tensorflow
 + Learning Machine Learning with TensorFlow, https://github.com/golbin/TensorFlow-ML-Exercises
 + TensorFlow tutorials and best practices. https://twitter.com/VahidK, https://github.com/vahidk/EffectiveTensorflow
++ MNIST with TensorFlow, https://github.com/golbin/TensorFlow-MNIST
+
 
 
 ## PyTorch
