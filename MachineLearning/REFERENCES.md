@@ -21,3 +21,6 @@
 
 ## Probabilistic Modelling
 + Fast, flexible and easy to use probabilistic modelling in Python. , https://github.com/jmschrei/pomegranate
+
+## Machine Learning Problem
++ Machine Learning Problem Bible | Problem , https://github.com/ben519/MLPB
