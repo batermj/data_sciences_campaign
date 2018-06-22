@@ -43,7 +43,7 @@
 + Simple PyTorch Tutorials Zero to ALL! , https://github.com/hunkim/PyTorchZeroToAll
 + PyTorch Tutorial for Deep Learning Researchers,https://github.com/yunjey/pytorch-tutorial
 + Yet another WaveNet implementation in PyTorch, https://github.com/golbin/WaveNet
-
++ Yet another Cycle GAN implementation in PyTorch, https://github.com/golbin/CycleGAN
 
 ## Face Recognition
 + AIND-CV-FacialKeypoints, https://github.com/udacity/AIND-CV-FacialKeypoints
