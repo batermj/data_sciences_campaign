@@ -1,5 +1,6 @@
 # References 
 
+
 ## Resources on Github
 + Distributed (Deep) Machine Learning Community, https://github.com/dmlc
 + Content consists of Jupyter Notebook tutorials walking through deep learning Frameworks (MXNet, Gluon) to Platforms (SageMaker, DeepLens) for common CV use-cases,https://github.com/aws-samples/aws-ml-vision-end2end
@@ -110,3 +111,7 @@
 
 ## Neural Net Visualization
 + Neural network visualizer http://ethereon.github.io/netscope, https://github.com/ethereon/netscope
+
+## Benchmark
++ THE Deep Learning Benchmarks, https://github.com/DeepMark/deepmark
+
