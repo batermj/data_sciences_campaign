@@ -39,6 +39,7 @@
 
 ## PyTorch
 + Simple PyTorch Tutorials Zero to ALL! , https://github.com/hunkim/PyTorchZeroToAll
++ PyTorch Tutorial for Deep Learning Researchers,https://github.com/yunjey/pytorch-tutorial
 
 ## Face Recognition
 + AIND-CV-FacialKeypoints, https://github.com/udacity/AIND-CV-FacialKeypoints
