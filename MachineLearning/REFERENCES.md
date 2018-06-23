@@ -31,6 +31,10 @@
 
 ## Probabilistic Modelling
 + Fast, flexible and easy to use probabilistic modelling in Python. , https://github.com/jmschrei/pomegranate
++ Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano http://pymc-devs.github.io/pymc3/, 	https://github.com/pymc-devs/pymc3
+
+
+
 
 ## Machine Learning Problem
 + Machine Learning Problem Bible | Problem , https://github.com/ben519/MLPB
