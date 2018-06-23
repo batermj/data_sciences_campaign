@@ -26,3 +26,6 @@
 ## Crawler
 + https://github.com/Jack-Cherish/python-spider
 
+## Scientific Programming and Mathematical and Statistical Computing
++ Curated decibans of scientific programming resources in Python. http://svaksha.github.io/pythonidae, https://github.com/svaksha/pythonidae
+
