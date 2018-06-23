@@ -8,7 +8,7 @@
 + Data Science and Machine Learning resources, a curated list,https://github.com/marcharper/ds_ml_resources
 + Machine learning and deep learning tutorials, articles and other resources,https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 + Multi-core implementation of Regularized Greedy Forest,https://github.com/baidu/fast_rgf
-
++ https://github.com/Jack-Cherish/Machine-Learning
 
 
 ## Machine Learning Interpretability
