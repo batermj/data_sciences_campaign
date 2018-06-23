@@ -24,7 +24,8 @@
 ## LDA
 + Single Machine implementation of LDA, https://github.com/dmlc/experimental-lda
 
-
+## Bayesian Analysis
++ Bayesian Analysis with Python by Packt, https://github.com/PacktPublishing/Bayesian-Analysis-with-Python
 
 ## Hidden Markov Model
 + Yet Another Hidden Markov Model repository, https://github.com/jmschrei/yahmm
