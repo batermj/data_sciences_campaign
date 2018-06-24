@@ -116,3 +116,7 @@
 + THE Deep Learning Benchmarks, https://github.com/DeepMark/deepmark
 + Easy benchmarking of all publicly accessible implementations of convnets, https://github.com/soumith/convnet-benchmarks
 
+
+## Online Courses
++ Deep Learning Projects from Stanford's 230 class, https://web.stanford.edu/class/cs230/, http://cs230.stanford.edu/proj-spring-2018.html
+
