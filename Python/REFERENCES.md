@@ -29,3 +29,5 @@
 ## Scientific Programming and Mathematical and Statistical Computing
 + Curated decibans of scientific programming resources in Python. http://svaksha.github.io/pythonidae, https://github.com/svaksha/pythonidae
 
+## Python Development Workflow
++ Python Development Workflow for Humans. https://docs.pipenv.org/,https://github.com/pypa/pipenv
