@@ -26,6 +26,9 @@
 ## LDA
 + Single Machine implementation of LDA, https://github.com/dmlc/experimental-lda
 
+## Bayesian Belief Network
++ Pythonic Bayesian Belief Network Package, supporting creation of and exact inference on Bayesian Belief Networks specified as pure python functions., https://github.com/eBay/bayesian-belief-networks
+
 ## Bayesian Analysis
 + Think Bayes,https://github.com/AllenDowney/ThinkBayes
 + A domain-general, Bayesian method for analyzing high-dimensional data tables http://probcomp.csail.mit.edu/crosscat/, https://github.com/probcomp/crosscat
