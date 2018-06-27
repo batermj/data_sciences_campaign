@@ -27,6 +27,7 @@
 
 ## Bayesian Analysis
 + Think Bayes,https://github.com/AllenDowney/ThinkBayes
++ A domain-general, Bayesian method for analyzing high-dimensional data tables http://probcomp.csail.mit.edu/crosscat/, https://github.com/probcomp/crosscat
 + Bayesian Analysis with Python by Packt, https://github.com/PacktPublishing/Bayesian-Analysis-with-Python
 + Python/PyMC3 versions of the programs described in Doing bayesian data analysis by John K. Kruschke, https://github.com/aloctavodia/Doing_bayesian_data_analysis
 + Bayesian Analysis with Python, https://github.com/aloctavodia/BAP
