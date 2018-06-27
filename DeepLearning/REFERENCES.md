@@ -2,6 +2,7 @@
 
 
 ## Resources on Github
++ https://github.com/topics/deep-learning
 + Distributed (Deep) Machine Learning Community, https://github.com/dmlc
 + Content consists of Jupyter Notebook tutorials walking through deep learning Frameworks (MXNet, Gluon) to Platforms (SageMaker, DeepLens) for common CV use-cases,https://github.com/aws-samples/aws-ml-vision-end2end
 + A curated list of awesome Deep Learning tutorials, projects and communities, https://github.com/ChristosChristofidis/awesome-deep-learning
@@ -62,11 +63,11 @@
 
 ## Deep Learning Projects
 
-
 ## Frameworks, Library
 + Minimal Deep Learning library is written in Python/Cython/C++ and Numpy/CUDA/cuDNN. https://github.com/upul/Aurora
 
 ## Tensorflow
++ Repository for "Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python",https://github.com/rasbt/deep-learning-book
 + TensorFlow Basic Tutorial Labs, https://github.com/hunkim/DeepLearningZeroToAll
 + Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow,https://github.com/hunkim/word-rnn-tensorflow
 + Learning Machine Learning with TensorFlow, https://github.com/golbin/TensorFlow-ML-Exercises
@@ -92,13 +93,14 @@
 + Yet another WaveNet implementation in PyTorch, https://github.com/golbin/WaveNet
 + Yet another Cycle GAN implementation in PyTorch, https://github.com/golbin/CycleGAN
 
+## Theano
++ Deep Learning with Theano, published by Packt, https://github.com/PacktPublishing/Deep-Learning-with-Theano
+
 ## Face Detection and Recognition 
 + AIND-CV-FacialKeypoints, https://github.com/udacity/AIND-CV-FacialKeypoints
 + Detect and align faces in images using dlib and opencv, https://github.com/nlhkh/face-alignment-dlib
 + Face Recognition Project on MXNet, https://github.com/deepinsight/insightface
 + Using mxnet for face-related algorithm, https://github.com/tornadomeet/mxnet-face
-
-
 
 
 ## MISC
@@ -112,6 +114,8 @@
 ## Neural Net Visualization
 + Neural network visualizer http://ethereon.github.io/netscope, https://github.com/ethereon/netscope
 
+## Neural Network
++ ,https://github.com/topics/neural-network
 ## Benchmark
 + THE Deep Learning Benchmarks, https://github.com/DeepMark/deepmark
 + Easy benchmarking of all publicly accessible implementations of convnets, https://github.com/soumith/convnet-benchmarks
