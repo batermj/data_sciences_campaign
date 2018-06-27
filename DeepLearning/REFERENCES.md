@@ -3,6 +3,7 @@
 
 ## Resources on Github
 + https://github.com/topics/deep-learning
++ Deep neural networks without the learning cliff! Classifiers and regressors compatible with scikit-learn., https://github.com/aigamedev/scikit-neuralnetwork
 + Distributed (Deep) Machine Learning Community, https://github.com/dmlc
 + Content consists of Jupyter Notebook tutorials walking through deep learning Frameworks (MXNet, Gluon) to Platforms (SageMaker, DeepLens) for common CV use-cases,https://github.com/aws-samples/aws-ml-vision-end2end
 + A curated list of awesome Deep Learning tutorials, projects and communities, https://github.com/ChristosChristofidis/awesome-deep-learning
