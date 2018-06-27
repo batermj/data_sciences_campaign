@@ -8,8 +8,10 @@
 + The ultimate reference guide to data wrangling with Python and R, https://github.com/ben519/DataWrangling
 
 ## Data Sciences
++ https://github.com/topics/data-science
 + An awesome Data Science repository to learn and apply for real world problems, https://github.com/bulutyazilim/awesome-datascience
 + common data analysis and machine learning tasks using python, https://github.com/ujjwalkarn/DataSciencePython
++ 
 
 ## Machine Learning
 + common data analysis and machine learning tasks using python, https://github.com/ujjwalkarn/DataSciencePython
