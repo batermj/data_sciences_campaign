@@ -64,3 +64,7 @@
 + Main repository for Vispy http://vispy.org, https://github.com/vispy/vispy
 + D3 Renderings of Matplotlib Graphics http://mpld3.github.io, https://github.com/mpld3/mpld3
 
+## Matplotlib
++ Matplotlib to D3js converter, https://github.com/mpld3
+
+
