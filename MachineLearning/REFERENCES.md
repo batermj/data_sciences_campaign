@@ -55,6 +55,9 @@
 + Python package to plot and analyse samples from probabilistic models http://arviz-devs.github.io/arviz/, https://github.com/arviz-devs/arviz
 + 
 
+## Probabilistic Graphical Models
++ Python Library for Probabilistic Graphical Models, https://github.com/pgmpy/pgmpy
+
 ## Computation Graph
 + Computation Graph Toolkit, https://github.com/joschu/cgt
 
