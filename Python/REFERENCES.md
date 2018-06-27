@@ -12,6 +12,7 @@
 
 ## Data Sciences
 + https://github.com/topics/data-science
++ Python for Data, https://github.com/pydata
 + Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines., https://github.com/batermj/data-science-ipython-notebooks
 + An awesome Data Science repository to learn and apply for real world problems, https://github.com/bulutyazilim/awesome-datascience
 + common data analysis and machine learning tasks using python, https://github.com/ujjwalkarn/DataSciencePython
