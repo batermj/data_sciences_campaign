@@ -34,6 +34,7 @@
 
 ## Bayesian Cognitive Modeling
 + PyMC3 codes of Lee and Wagenmakers' Bayesian Cognitive Modeling - A Pratical Course, https://github.com/junpenglao/Bayesian-Cognitive-Modeling-in-Pymc3
++ A python tutorial on bayesian modeling techniques (PyMC3), https://github.com/markdregan/Bayesian-Modelling-in-Python
 
 ## Hidden Markov Model
 + Yet Another Hidden Markov Model repository, https://github.com/jmschrei/yahmm
