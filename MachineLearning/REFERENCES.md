@@ -4,6 +4,7 @@
 
 ## General
 + https://github.com/topics/machine-learning
++ Repository of teaching materials, code, and data for my data analysis and machine learning projects. http://www.randalolson.com/blog/, https://github.com/batermj/Data-Analysis-and-Machine-Learning-Projects
 + Dive into Machine Learning with Python Jupyter notebook and scikit-learn! http://hangtwenty.github.io/dive-into…, https://github.com/hangtwenty/dive-into-machine-learning
 + Machine learning and deep learning tutorials, articles and other resources,https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 + A curated list of awesome Machine Learning frameworks, libraries and software, https://github.com/josephmisiti/awesome-machine-learning
