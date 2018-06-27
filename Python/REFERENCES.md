@@ -26,6 +26,9 @@
 ## NumPy
 + 100 numpy exercises (100% complete), https://github.com/rougier/numpy-100
 
+## Pandas
++ Recipes for using Python's pandas library, https://github.com/jvns/pandas-cookbook
+
 ## Scikit-learn
 + Some sample IPython notebooks for scikit-learn,https://github.com/ogrisel/notebooks
 + Jupyter notebooks from the scikit-learn video series http://bit.ly/scikit-learn-videos, https://github.com/justmarkham/scikit-learn-videos
