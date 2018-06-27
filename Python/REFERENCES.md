@@ -19,6 +19,10 @@
 ## NumPy
 + 100 numpy exercises (100% complete), https://github.com/rougier/numpy-100
 
+## Scikit-learn
++ Some sample IPython notebooks for scikit-learn,https://github.com/ogrisel/notebooks
+
+
 ## Machine Learning
 + common data analysis and machine learning tasks using python, https://github.com/ujjwalkarn/DataSciencePython
 
