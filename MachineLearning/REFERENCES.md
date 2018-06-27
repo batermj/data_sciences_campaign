@@ -71,3 +71,6 @@
 + Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.  https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
 
 
+## Tools
++ Sheffield Machine Learning Software (ML@SITraN), https://github.com/SheffieldML
+
