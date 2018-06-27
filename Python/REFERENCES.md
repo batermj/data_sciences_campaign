@@ -67,4 +67,6 @@
 ## Matplotlib
 + Matplotlib to D3js converter, https://github.com/mpld3
 
+## Seaborn
++ Statistical data visualization using matplotlib http://seaborn.pydata.org, https://github.com/mwaskom/seaborn
 
