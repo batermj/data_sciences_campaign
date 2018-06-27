@@ -42,6 +42,8 @@
 + Python package to plot and analyse samples from probabilistic models http://arviz-devs.github.io/arviz/, https://github.com/arviz-devs/arviz
 + 
 
+## Statistical Learning
++ An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013): Python code, An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013): Python code
 
 ## Machine Learning Problem
 + Machine Learning Problem Bible | Problem , https://github.com/ben519/MLPB
