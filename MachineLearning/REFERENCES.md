@@ -54,11 +54,15 @@
 + Python package to plot and analyse samples from probabilistic models http://arviz-devs.github.io/arviz/, https://github.com/arviz-devs/arviz
 + 
 
+## Computation Graph
++ Computation Graph Toolkit, https://github.com/joschu/cgt
+
 ## Statistical Learning
 + An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013): Python code, An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013): Python code
 
 ## Machine Learning Problem
 + Machine Learning Problem Bible | Problem , https://github.com/ben519/MLPB
+
 
 ## UDacity
 + Our mission is to bring accessible, affordable, engaging, and highly effective higher education to the world,https://github.com/udacity
