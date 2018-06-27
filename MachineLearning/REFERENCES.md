@@ -34,6 +34,7 @@
 + Yet Another Hidden Markov Model repository, https://github.com/jmschrei/yahmm
 
 ## Probabilistic Modelling
++ Python code for "Machine learning: a probabilistic perspective", https://github.com/probml/pyprobml
 + Fast, flexible and easy to use probabilistic modelling in Python. , https://github.com/jmschrei/pomegranate
 + Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano http://pymc-devs.github.io/pymc3/, 	https://github.com/pymc-devs/pymc3
 + Bayesian Stochastic Modelling in Python,https://github.com/pymc-devs
