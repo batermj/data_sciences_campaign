@@ -37,6 +37,7 @@
 + Python/PyMC3 versions of the programs described in Doing bayesian data analysis by John K. Kruschke, https://github.com/aloctavodia/Doing_bayesian_data_analysis
 + Bayesian Analysis with Python, https://github.com/aloctavodia/BAP
 + Bayesian Data Analysis demos for Python http://www.stat.columbia.edu/~gelman/…, https://github.com/avehtari/BDA_py_demos
++ ka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;), https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 
 ## Bayesian Cognitive Modeling
 + PyMC3 codes of Lee and Wagenmakers' Bayesian Cognitive Modeling - A Pratical Course, https://github.com/junpenglao/Bayesian-Cognitive-Modeling-in-Pymc3
