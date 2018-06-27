@@ -28,6 +28,7 @@
 ## Scikit-learn
 + Some sample IPython notebooks for scikit-learn,https://github.com/ogrisel/notebooks
 + Jupyter notebooks from the scikit-learn video series http://bit.ly/scikit-learn-videos, https://github.com/justmarkham/scikit-learn-videos
++ Tutorial on scikit-learn and IPython for parallel machine learning, https://github.com/ogrisel/parallel_ml_tutorial
 
 ## Machine Learning
 + common data analysis and machine learning tasks using python, https://github.com/ujjwalkarn/DataSciencePython
