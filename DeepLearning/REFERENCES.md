@@ -88,10 +88,12 @@
 + MXNet port of SSD: Single Shot MultiBox Object Detector. Reimplementation of https://github.com/weiliu89/caffe/tree/ssd, MXNet port of SSD: Single Shot MultiBox Object Detector. Reimplementation of https://github.com/weiliu89/caffe/tree/ssd
 
 ## PyTorch
++ https://github.com/topics/pytorch
 + Simple PyTorch Tutorials Zero to ALL! , https://github.com/hunkim/PyTorchZeroToAll
 + PyTorch Tutorial for Deep Learning Researchers,https://github.com/yunjey/pytorch-tutorial
 + Yet another WaveNet implementation in PyTorch, https://github.com/golbin/WaveNet
 + Yet another Cycle GAN implementation in PyTorch, https://github.com/golbin/CycleGAN
+
 
 ## Theano
 + Deep Learning with Theano, published by Packt, https://github.com/PacktPublishing/Deep-Learning-with-Theano
