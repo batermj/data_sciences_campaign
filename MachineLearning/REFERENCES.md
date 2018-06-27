@@ -30,6 +30,9 @@
 + Python/PyMC3 versions of the programs described in Doing bayesian data analysis by John K. Kruschke, https://github.com/aloctavodia/Doing_bayesian_data_analysis
 + Bayesian Analysis with Python, https://github.com/aloctavodia/BAP
 
+## Bayesian Cognitive Modeling
++ PyMC3 codes of Lee and Wagenmakers' Bayesian Cognitive Modeling - A Pratical Course, https://github.com/junpenglao/Bayesian-Cognitive-Modeling-in-Pymc3
+
 ## Hidden Markov Model
 + Yet Another Hidden Markov Model repository, https://github.com/jmschrei/yahmm
 
