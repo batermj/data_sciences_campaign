@@ -1,6 +1,7 @@
 # References 
 
 ## Resources on Github
++ https://github.com/CamDavidsonPilon
 + https://github.com/rougier
 + https://github.com/fonnesbeck
 + https://github.com/ogrisel
