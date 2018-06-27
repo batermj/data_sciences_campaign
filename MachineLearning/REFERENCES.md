@@ -55,4 +55,7 @@
 ## Google Summer of Code
 + NumFOCUS Google Summer of Code Materials http://numfocus.org/programs/gsoc.html, https://github.com/numfocus/gsoc
 
+## Kalman Filte
++ Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.  https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
+
 
