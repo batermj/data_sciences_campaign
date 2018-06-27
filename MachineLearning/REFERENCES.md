@@ -38,6 +38,8 @@
 + Bayesian Analysis with Python, https://github.com/aloctavodia/BAP
 + Bayesian Data Analysis demos for Python http://www.stat.columbia.edu/~gelman/…, https://github.com/avehtari/BDA_py_demos
 + ka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;), https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
++ Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano http://pymc-devs.github.io/pymc3/,https://github.com/pymc-devs/pymc3
+
 
 ## Bayesian Cognitive Modeling
 + PyMC3 codes of Lee and Wagenmakers' Bayesian Cognitive Modeling - A Pratical Course, https://github.com/junpenglao/Bayesian-Cognitive-Modeling-in-Pymc3
