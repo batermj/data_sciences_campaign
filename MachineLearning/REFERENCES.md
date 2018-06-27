@@ -26,6 +26,8 @@
 
 ## Bayesian Analysis
 + Bayesian Analysis with Python by Packt, https://github.com/PacktPublishing/Bayesian-Analysis-with-Python
++ Python/PyMC3 versions of the programs described in Doing bayesian data analysis by John K. Kruschke, https://github.com/aloctavodia/Doing_bayesian_data_analysis
++ Bayesian Analysis with Python, https://github.com/aloctavodia/BAP
 
 ## Hidden Markov Model
 + Yet Another Hidden Markov Model repository, https://github.com/jmschrei/yahmm
@@ -33,8 +35,10 @@
 ## Probabilistic Modelling
 + Fast, flexible and easy to use probabilistic modelling in Python. , https://github.com/jmschrei/pomegranate
 + Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano http://pymc-devs.github.io/pymc3/, 	https://github.com/pymc-devs/pymc3
-
-
++ Bayesian Stochastic Modelling in Python,https://github.com/pymc-devs
++ Python/PyMC3 port of the examples in " Statistical Rethinking A Bayesian Course with Examples in R and Stan" by Richard McElreath, https://github.com/aloctavodia/Statistical-Rethinking-with-Python-and-PyMC3
++ Python package to plot and analyse samples from probabilistic models http://arviz-devs.github.io/arviz/, https://github.com/arviz-devs/arviz
++ 
 
 
 ## Machine Learning Problem
@@ -46,3 +50,9 @@
 ## MISC
 + Repository of teaching materials, code, and data for my data analysis and machine learning projects. https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects
 + https://github.com/AM207/2018spring
+
+
+## Google Summer of Code
++ NumFOCUS Google Summer of Code Materials http://numfocus.org/programs/gsoc.html, https://github.com/numfocus/gsoc
+
+
