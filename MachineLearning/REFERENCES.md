@@ -72,5 +72,6 @@
 
 
 ## Tools
++ Collection of jupyter notebooks for demonstrating software.,https://github.com/avehtari/notebook
 + Sheffield Machine Learning Software (ML@SITraN), https://github.com/SheffieldML
 
