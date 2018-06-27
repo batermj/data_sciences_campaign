@@ -35,6 +35,10 @@
 + Jupyter notebooks from the scikit-learn video series http://bit.ly/scikit-learn-videos, https://github.com/justmarkham/scikit-learn-videos
 + Tutorial on scikit-learn and IPython for parallel machine learning, https://github.com/ogrisel/parallel_ml_tutorial
 
+
+## Statsmodels
++ Statsmodels,https://github.com/statsmodels
+
 ## Machine Learning
 + common data analysis and machine learning tasks using python, https://github.com/ujjwalkarn/DataSciencePython
 
