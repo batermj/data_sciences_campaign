@@ -21,6 +21,7 @@
 + common data analysis and machine learning tasks using python, https://github.com/ujjwalkarn/DataSciencePython
 + Python Data Science Handbook,https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks
 + Code for Data Science From Scratch book,https://github.com/joelgrus/data-science-from-scratch
++ Open Content for self-directed learning in data science, https://github.com/nborwankar/LearnDataScience
 
 ## NumPy
 + 100 numpy exercises (100% complete), https://github.com/rougier/numpy-100
