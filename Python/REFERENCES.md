@@ -37,3 +37,6 @@
 
 ## Python code formatter 
 + The uncompromising Python code formatter https://black.readthedocs.io/en/stable/, https://github.com/ambv/black
+
+## Visualization
++ Main repository for Vispy http://vispy.org, https://github.com/vispy/vispy
