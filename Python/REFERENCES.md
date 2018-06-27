@@ -11,7 +11,7 @@
 + https://github.com/topics/data-science
 + An awesome Data Science repository to learn and apply for real world problems, https://github.com/bulutyazilim/awesome-datascience
 + common data analysis and machine learning tasks using python, https://github.com/ujjwalkarn/DataSciencePython
-+ 
++ Python Data Science Handbook,https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks
 
 ## Machine Learning
 + common data analysis and machine learning tasks using python, https://github.com/ujjwalkarn/DataSciencePython
