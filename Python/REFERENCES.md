@@ -45,6 +45,8 @@
 
 ## Scientific Programming and Mathematical and Statistical Computing
 + Curated decibans of scientific programming resources in Python. http://svaksha.github.io/pythonidae, https://github.com/svaksha/pythonidae
++ A course in numerical methods with Python for engineers and scientists: currently 5 learning modules, with student assignments. http://openedx.seas.gwu.edu,https://github.com/numerical-mooc/numerical-mooc
+
 
 ## Python Development Workflow
 + Python Development Workflow for Humans. https://docs.pipenv.org/,https://github.com/pypa/pipenv
