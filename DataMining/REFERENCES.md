@@ -3,5 +3,6 @@
 
 ## Resources on Github
 
-## Statistics With Python
-+ Python modules and IPython Notebooks, for the book "Introduction to Statistics With Python",https://github.com/thomas-haslwanter/statsintro_python
+
+## Social Media Analytics
++ This repository contains code and bonus content which will be added from time to time for the book "Learning Social Media Analytics with R" by Packt, https://github.com/dipanjanS/learning-social-media-analytics-with-r
