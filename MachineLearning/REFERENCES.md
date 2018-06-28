@@ -20,6 +20,8 @@
 ## Random Forest
 + Random Forest - a curated list of resources regarding random forest, 	https://github.com/kjw0612/awesome-random-forest
 
+## Scalable Machine Learning
++ This repository contains code files specifically IPython notebooks for the assignments in the course "Scalable Machine Learning" by UC Berkeley and Databricks on edX, https://github.com/dipanjanS/BerkeleyX-CS190.1x-Scalable-Machine-Learning
 
 ## XGBoost
 + Simple package for creating LIMEs for XGBoost, https://github.com/jphall663/lime_xgboost
