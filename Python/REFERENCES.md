@@ -49,6 +49,9 @@
 ## NLP
 + tutorial for sentiment analysis on Twitter data using Python, https://github.com/ujjwalkarn
 
+## Text Analytics
++ Learn how to process, classify, cluster, summarize, understand syntax, semantics and sentiment of text data with the power of Python! This repository contains code and datasets used in my book, "Text Analytics with Python" published by Apress/Springer. https://github.com/dipanjanS/text-analytics-with-python
+
 ## Finance Analytics
 + https://github.com/yhilpisch
 
