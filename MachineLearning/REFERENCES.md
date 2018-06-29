@@ -13,7 +13,6 @@
 + Multi-core implementation of Regularized Greedy Forest,https://github.com/baidu/fast_rgf
 + https://github.com/Jack-Cherish/Machine-Learning
 
-
 ## Machine Learning Interpretability
 + A curated list of awesome machine learning interpretability resources, https://github.com/jphall663/awesome-machine-learning-interpretability
 
@@ -72,13 +71,15 @@
 ## Machine Learning Problem
 + Machine Learning Problem Bible | Problem , https://github.com/ben519/MLPB
 
-
 ## UDacity
 + Our mission is to bring accessible, affordable, engaging, and highly effective higher education to the world,https://github.com/udacity
 
 ## MISC
 + Repository of teaching materials, code, and data for my data analysis and machine learning projects. https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects
 + https://github.com/AM207/2018spring
+
+## Udacity
++ Our mission is to bring accessible, affordable, engaging, and highly effective higher education to the world, https://github.com/udacity
 
 
 ## Google Summer of Code
