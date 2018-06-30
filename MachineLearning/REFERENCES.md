@@ -23,6 +23,9 @@
 + Multi-core implementation of Regularized Greedy Forest,https://github.com/baidu/fast_rgf
 + https://github.com/Jack-Cherish/Machine-Learning
 
+## Magazine
++ https://mlmag.co/
+
 ## Machine Learning Interpretability
 + A curated list of awesome machine learning interpretability resources, https://github.com/jphall663/awesome-machine-learning-interpretability
 
