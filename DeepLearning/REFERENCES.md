@@ -69,6 +69,8 @@
 + Minimal Deep Learning library is written in Python/Cython/C++ and Numpy/CUDA/cuDNN. https://github.com/upul/Aurora
 
 ## Tensorflow
++ This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research. http://cs20.stanford.edu, https://github.com/chiphuyen/stanford-tensorflow-tutorials
+
 + Repository for "Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python",https://github.com/rasbt/deep-learning-book
 + TensorFlow Basic Tutorial Labs, https://github.com/hunkim/DeepLearningZeroToAll
 + Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow,https://github.com/hunkim/word-rnn-tensorflow
