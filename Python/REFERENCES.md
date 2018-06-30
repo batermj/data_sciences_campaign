@@ -17,6 +17,9 @@
 ## ETL 
 + dataset: databases for lazy people,https://github.com/pudo/dataset,https://github.com/pudo
 
+## Fake Data Generator 
++ Faker is a Python package that generates fake data for you. http://faker.rtfd.org,https://github.com/joke2k/faker
+
 ## Data Wrangling
 + The ultimate reference guide to data wrangling with Python and R, https://github.com/ben519/DataWrangling
 
