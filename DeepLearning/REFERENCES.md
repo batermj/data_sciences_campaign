@@ -96,9 +96,11 @@
 + Yet another WaveNet implementation in PyTorch, https://github.com/golbin/WaveNet
 + Yet another Cycle GAN implementation in PyTorch, https://github.com/golbin/CycleGAN
 
-
 ## Theano
 + Deep Learning with Theano, published by Packt, https://github.com/PacktPublishing/Deep-Learning-with-Theano
+
+## Deeplearning4J
++ https://github.com/deeplearning4j/dl4j-examples
 
 ## Face Detection and Recognition 
 + AIND-CV-FacialKeypoints, https://github.com/udacity/AIND-CV-FacialKeypoints
