@@ -141,6 +141,7 @@
 + A collection of data science IPython notebooks with Plotly graphs https://plot.ly/ipython-notebooks/, https://github.com/plotly/IPython-plotly
 + Plotting library for IPython/Jupyter Notebooks, https://github.com/bloomberg/bqplot
 + Big Data / Data Mining / Data Visualization, http://miamioh.edu/cas/academics/departments/statistics/about/faculty-openings/data-visualization/index.html
++ Visualization and Data Mining, http://scholarslab.org/category/visualization-and-data-mining/
 
 ## Matplotlib
 + Matplotlib to D3js converter, https://github.com/mpld3
