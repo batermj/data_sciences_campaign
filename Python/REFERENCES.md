@@ -21,6 +21,7 @@
 + A curated list of awesome Python frameworks, libraries, software and resources https://awesome-python.com/, https://github.com/vinta/awesome-python
 + A curated list of awesome Python frameworks, libraries and software, https://github.com/uhub/awesome-python
 + https://github.com/fbkarsdorp
++ A curated list of analytics frameworks, software and other tools. https://github.com/onurakpolat/awesom…, https://github.com/onurakpolat/awesome-analytics
 
 ## Jupyter
 + This repo contains Jupyter notebooks, along with related code and example data, for a tutorial on the use of D3 in Jupyter., https://github.com/stitchfix/d3-jupyter-tutorial
@@ -33,6 +34,7 @@
 + Tutorial and introduction into programming with Python for the humanities and social sciences http://www.karsdorp.io/python-course/, https://github.com/fbkarsdorp/python-course
 + My coworkers often ask me for Python learning resources. Here are some picks. Many skill levels, emphasis on beginner and intermediate., https://github.com/hangtwenty/python-is-for-lovers
 + The Hitchhiker’s Guide to Python!, http://docs.python-guide.org/en/latest/,
+
 ## Algorithms
 + https://github.com/zhew2013/Leetcode-Py
 + My implementation of useful data structures, algorithms, as well as my solutions to programming puzzles., https://github.com/chiphuyen/coding-exercises
