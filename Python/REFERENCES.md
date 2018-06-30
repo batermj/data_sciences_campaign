@@ -21,6 +21,9 @@
 + A curated list of awesome Python frameworks, libraries and software, https://github.com/uhub/awesome-python
 + https://github.com/fbkarsdorp
 
+## Jupyter
++ This repo contains Jupyter notebooks, along with related code and example data, for a tutorial on the use of D3 in Jupyter., https://github.com/stitchfix/d3-jupyter-tutorial
+
 ## Fundamental
 + http://docs.python-guide.org
 + Python best practices guidebook, written for Humans.  https://github.com/kennethreitz/python-guide,
