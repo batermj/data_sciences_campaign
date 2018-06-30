@@ -24,6 +24,7 @@
 
 ## Jupyter
 + This repo contains Jupyter notebooks, along with related code and example data, for a tutorial on the use of D3 in Jupyter., https://github.com/stitchfix/d3-jupyter-tutorial
++ Ready-to-run Docker images containing Jupyter applications https://jupyter-docker-stacks.readthe…, https://github.com/jupyter/docker-stacks, https://github.com/jupyter/docker-stacks
 
 ## Fundamental
 + http://docs.python-guide.org
