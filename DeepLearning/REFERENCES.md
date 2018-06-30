@@ -70,7 +70,7 @@
 
 ## Tensorflow
 + This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research. http://cs20.stanford.edu, https://github.com/chiphuyen/stanford-tensorflow-tutorials
-
++ Code for O'Reilly's "A Short Course on TensorFlow", https://github.com/chiphuyen/tf-oreilly
 + Repository for "Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python",https://github.com/rasbt/deep-learning-book
 + TensorFlow Basic Tutorial Labs, https://github.com/hunkim/DeepLearningZeroToAll
 + Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow,https://github.com/hunkim/word-rnn-tensorflow
@@ -81,7 +81,6 @@
 + Accompanying notebook for the Entailment with Tensorflow article, https://github.com/Steven-Hewitt/Entailment-with-Tensorflow
 + A collection of deep learning tutorials using Tensorflow and Python, https://github.com/awjuliani/TF-Tutorials
 + Convolutional Neural Network for Text Classification in Tensorflow, https://github.com/dennybritz/cnn-text-classification-tf
-
 
 ## MXNET
 + Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more https://mxnet.apache.org,https://github.com/apache/incubator-mxnet
