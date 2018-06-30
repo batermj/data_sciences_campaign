@@ -71,6 +71,7 @@
 + https://github.com/topics/text-summarization
 + A python library for simple text summarization, https://github.com/thavelick/summarize
 + Summarizes news articles http://xiaoxu193.github.io/PyTeaser/, https://github.com/xiaoxu193/PyTeaser
++ News, full-text, and article metadata extraction in Python 3. Advanced docs: https://goo.gl/VX41yK, https://github.com/codelucas/newspaper
 
 ## Finance Analytics
 + https://github.com/yhilpisch
