@@ -18,6 +18,9 @@
 + http://docs.python-guide.org
 + Python best practices guidebook, written for Humans.  https://github.com/kennethreitz/python-guide,
 
+## Algorithms
++ https://github.com/zhew2013/Leetcode-Py
+
 ## ETL 
 + dataset: databases for lazy people,https://github.com/pudo/dataset,https://github.com/pudo
 
