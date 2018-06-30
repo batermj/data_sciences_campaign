@@ -14,6 +14,10 @@
 + A curated list of awesome Python frameworks, libraries, software and resources https://awesome-python.com/, https://github.com/vinta/awesome-python
 + A curated list of awesome Python frameworks, libraries and software, https://github.com/uhub/awesome-python
 
+## Fundamental
++ http://docs.python-guide.org
++ Python best practices guidebook, written for Humans.  https://github.com/kennethreitz/python-guide,
+
 ## ETL 
 + dataset: databases for lazy people,https://github.com/pudo/dataset,https://github.com/pudo
 
