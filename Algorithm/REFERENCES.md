@@ -1,5 +1,8 @@
 # References 
 
+## Happy Coding
++ Creative Coding: Generative Art, Data visualization, Interaction Design, Resources. https://creativecoding.rocks, https://github.com/terkelg/awesome-creative-coding
+
 ## Resources on Github
 + Academic writing with Markdown, https://github.com/smathot/academicmarkdown
 
