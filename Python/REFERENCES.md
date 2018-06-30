@@ -88,6 +88,8 @@
 ## Regular Expression
 + A collection of common regular expressions bundled with an easy to use interface, https://github.com/aaronsw/html2text
 
+## Text Generation
+
 ## Text Processing
 + TextBlob: Simplified Text Processing, Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more. https://textblob.readthedocs.io/, https://github.com/sloria/TextBlob
 
