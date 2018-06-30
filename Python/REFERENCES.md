@@ -53,6 +53,9 @@
 ## Text Analytics
 + Learn how to process, classify, cluster, summarize, understand syntax, semantics and sentiment of text data with the power of Python! This repository contains code and datasets used in my book, "Text Analytics with Python" published by Apress/Springer. https://github.com/dipanjanS/text-analytics-with-python
 
+## Text Summarization
++ A python library for simple text summarization, https://github.com/thavelick/summarize
+
 ## Finance Analytics
 + https://github.com/yhilpisch
 
