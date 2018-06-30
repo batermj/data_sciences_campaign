@@ -120,6 +120,7 @@
 + D3 Renderings of Matplotlib Graphics http://mpld3.github.io, https://github.com/mpld3/mpld3
 + A visualization of GitHub users throughout the globe http://aasen.in/github_globe/, https://github.com/aaasen/github_globe
 + Visualizing Python Project Import Graphs, https://github.com/madisonmay/BlackWidow
++ A collection of data science IPython notebooks with Plotly graphs https://plot.ly/ipython-notebooks/, https://github.com/plotly/IPython-plotly
 
 ## Matplotlib
 + Matplotlib to D3js converter, https://github.com/mpld3
