@@ -18,6 +18,7 @@
 ## Fundamental
 + http://docs.python-guide.org
 + Python best practices guidebook, written for Humans.  https://github.com/kennethreitz/python-guide,
++ Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python, https://github.com/amontalenti/elements-of-python-style
 
 ## Algorithms
 + https://github.com/zhew2013/Leetcode-Py
