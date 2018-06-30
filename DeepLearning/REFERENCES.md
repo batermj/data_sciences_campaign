@@ -1,5 +1,7 @@
 # References 
 
+## Papers
++ Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!  https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 
 ## Resources on Github
 + https://github.com/topics/deep-learning
