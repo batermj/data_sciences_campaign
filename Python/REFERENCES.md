@@ -29,6 +29,9 @@
 ## Fake Data Generator 
 + Faker is a Python package that generates fake data for you. http://faker.rtfd.org,https://github.com/joke2k/faker
 
+## Data Formater
++ Richly formatted data tables in IPython, https://github.com/epmoyer/ipy_table
+
 ## Data Wrangling
 + The ultimate reference guide to data wrangling with Python and R, https://github.com/ben519/DataWrangling
 
