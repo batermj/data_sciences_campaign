@@ -15,6 +15,7 @@
 + https://github.com/fbkarsdorp
 + https://github.com/rasbt
 + https://github.com/fbkarsdorp
++ https://github.com/stitchfix
 
 ## A curated list of awesome Python frameworks, libraries, software and resources
 + A curated list of awesome Python frameworks, libraries, software and resources https://awesome-python.com/, https://github.com/vinta/awesome-python
