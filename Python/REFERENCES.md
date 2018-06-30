@@ -68,6 +68,7 @@
 + Some sample IPython notebooks for scikit-learn,https://github.com/ogrisel/notebooks
 + Jupyter notebooks from the scikit-learn video series http://bit.ly/scikit-learn-videos, https://github.com/justmarkham/scikit-learn-videos
 + Tutorial on scikit-learn and IPython for parallel machine learning, https://github.com/ogrisel/parallel_ml_tutorial
++ Dive into Machine Learning with Python Jupyter notebook and scikit-learn! http://hangtwenty.github.io/dive-into…, https://github.com/hangtwenty/dive-into-machine-learning
 
 ## Statsmodels
 + Statsmodels,https://github.com/statsmodels
