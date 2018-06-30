@@ -124,6 +124,7 @@
 + A visualization of GitHub users throughout the globe http://aasen.in/github_globe/, https://github.com/aaasen/github_globe
 + Visualizing Python Project Import Graphs, https://github.com/madisonmay/BlackWidow
 + A collection of data science IPython notebooks with Plotly graphs https://plot.ly/ipython-notebooks/, https://github.com/plotly/IPython-plotly
++ Plotting library for IPython/Jupyter Notebooks, https://github.com/bloomberg/bqplot
 
 ## Matplotlib
 + Matplotlib to D3js converter, https://github.com/mpld3
