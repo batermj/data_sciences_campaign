@@ -94,7 +94,8 @@
 + https://github.com/Jack-Cherish/python-spider
 + Html Content / Article Extractor, web scrapping lib in Python, https://github.com/grangier/python-goose
 + A twitter crawler in Python,https://github.com/bianjiang/tweetf0rm
-+ a small library for extracting rich content from urls http://micawber.readthedocs.org/, https://github.com/coleifer/micawber
++ A small library for extracting rich content from urls http://micawber.readthedocs.org/, https://github.com/coleifer/micawber
++ Python library for getting metadata, https://github.com/jvanasco/metadata_parser
 
 ## Scientific Programming and Mathematical and Statistical Computing
 + Curated decibans of scientific programming resources in Python. http://svaksha.github.io/pythonidae, https://github.com/svaksha/pythonidae
