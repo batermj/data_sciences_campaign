@@ -41,6 +41,7 @@
 + Pythonic Bayesian Belief Network Package, supporting creation of and exact inference on Bayesian Belief Networks specified as pure python functions., https://github.com/eBay/bayesian-belief-networks
 
 ## Bayesian Analysis
++ aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;) http://camdavidsonpilon.github.io/Pro…, https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 + Think Bayes,https://github.com/AllenDowney/ThinkBayes
 + A domain-general, Bayesian method for analyzing high-dimensional data tables http://probcomp.csail.mit.edu/crosscat/, https://github.com/probcomp/crosscat
 + Bayesian Analysis with Python by Packt, https://github.com/PacktPublishing/Bayesian-Analysis-with-Python
