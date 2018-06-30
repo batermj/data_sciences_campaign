@@ -125,6 +125,7 @@
 
 ## Neural Network
 + ,https://github.com/topics/neural-network
+
 ## Benchmark
 + THE Deep Learning Benchmarks, https://github.com/DeepMark/deepmark
 + Easy benchmarking of all publicly accessible implementations of convnets, https://github.com/soumith/convnet-benchmarks
@@ -140,3 +141,5 @@
 ## NIPS Proceedings
 + https://papers.nips.cc/
 
+## Deep Learning Problem
++ A living collection of deep learning problems https://openai.com/requests-for-research, https://github.com/openai/requests-for-research
