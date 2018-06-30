@@ -15,3 +15,7 @@
 ## Text segmentation 
 + Chinese text segmentation, https://github.com/fxsjy/jieba
 
+## Text Representation
++ Library for fast text representation and classification, https://github.com/facebookresearch/fastText
+
+
