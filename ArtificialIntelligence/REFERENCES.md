@@ -1,9 +1,6 @@
 # References 
-[TOC]
-[Resources on Github]
-[OpenAI]
-[DeepMind]
-[Meta Learning]
+![TOC]
+
 
 ## Resources on Github
 + https://github.com/SerpentAI
