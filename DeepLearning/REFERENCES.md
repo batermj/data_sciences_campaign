@@ -103,6 +103,9 @@
 ## Deeplearning4J
 + https://github.com/deeplearning4j/dl4j-examples
 
+## BigDL
++ https://software.intel.com/en-us/articles/building-large-scale-image-feature-extraction-with-bigdl-at-jdcom
+
 ## Face Detection and Recognition 
 + AIND-CV-FacialKeypoints, https://github.com/udacity/AIND-CV-FacialKeypoints
 + Detect and align faces in images using dlib and opencv, https://github.com/nlhkh/face-alignment-dlib
