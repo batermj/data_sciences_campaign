@@ -30,6 +30,7 @@
 + Python best practices guidebook, written for Humans.  https://github.com/kennethreitz/python-guide,
 + Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python, https://github.com/amontalenti/elements-of-python-style
 + Tutorial and introduction into programming with Python for the humanities and social sciences http://www.karsdorp.io/python-course/, https://github.com/fbkarsdorp/python-course
++ My coworkers often ask me for Python learning resources. Here are some picks. Many skill levels, emphasis on beginner and intermediate., https://github.com/hangtwenty/python-is-for-lovers
 
 ## Algorithms
 + https://github.com/zhew2013/Leetcode-Py
