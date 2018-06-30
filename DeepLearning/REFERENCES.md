@@ -32,6 +32,7 @@
 ## Recurrent Neural Network
 + Recurrent Neural Network - A curated list of resources dedicated to RNN, https://github.com/kjw0612/awesome-rnn
 + Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow, https://github.com/hunkim/word-rnn-tensorflow
++ A little library for text analysis with RNNs, https://github.com/IndicoDataSolutions/Passage
 
 ## Reinforcement Learning
 + Minimal Deep Q Learning (DQN & DDQN) implementations in Keras https://keon.io/deep-q-learning, https://github.com/keon/deep-q-learning
