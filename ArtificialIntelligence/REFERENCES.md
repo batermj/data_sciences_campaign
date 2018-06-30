@@ -1,6 +1,4 @@
 # References 
-![TOC]
-
 
 ## Resources on Github
 + https://github.com/SerpentAI
