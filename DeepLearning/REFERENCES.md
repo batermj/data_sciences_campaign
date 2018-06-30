@@ -135,3 +135,7 @@
 
 ## Sumer School
 + Summer School, https://github.com/mila-udem/summerschool2015
+
+## NIPS Proceedings
++ https://papers.nips.cc/
+
