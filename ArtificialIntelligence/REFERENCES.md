@@ -1,4 +1,5 @@
 # References 
+[TOC]
 [Resources on Github]
 [OpenAI]
 [DeepMind]
