@@ -56,10 +56,12 @@
 + ka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;), https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 + Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano http://pymc-devs.github.io/pymc3/,https://github.com/pymc-devs/pymc3
 
-
 ## Bayesian Cognitive Modeling
 + PyMC3 codes of Lee and Wagenmakers' Bayesian Cognitive Modeling - A Pratical Course, https://github.com/junpenglao/Bayesian-Cognitive-Modeling-in-Pymc3
 + A python tutorial on bayesian modeling techniques (PyMC3), https://github.com/markdregan/Bayesian-Modelling-in-Python
+
+## Monte Carlo Search
++ Monte Carlo Tree Search – beginners guide, https://int8.io/monte-carlo-tree-search-beginners-guide/
 
 ## Hidden Markov Model
 + Yet Another Hidden Markov Model repository, https://github.com/jmschrei/yahmm
@@ -75,7 +77,6 @@
 + Bayesian Stochastic Modelling in Python,https://github.com/pymc-devs
 + Python/PyMC3 port of the examples in " Statistical Rethinking A Bayesian Course with Examples in R and Stan" by Richard McElreath, https://github.com/aloctavodia/Statistical-Rethinking-with-Python-and-PyMC3
 + Python package to plot and analyse samples from probabilistic models http://arviz-devs.github.io/arviz/, https://github.com/arviz-devs/arviz
-+ 
 
 ## Probabilistic Graphical Models
 + Python Library for Probabilistic Graphical Models, https://github.com/pgmpy/pgmpy
