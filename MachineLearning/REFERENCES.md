@@ -9,6 +9,7 @@
 + https://github.com/twitter
 + https://github.com/uber
 + https://github.com/bloomberg
++ https://github.com/zenkay/bigdata-ecosystem
 
 ## General
 + https://github.com/topics/machine-learning
