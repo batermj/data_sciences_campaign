@@ -58,6 +58,7 @@
 
 ## Crawler
 + https://github.com/Jack-Cherish/python-spider
++ Html Content / Article Extractor, web scrapping lib in Python, https://github.com/grangier/python-goose
 
 ## Scientific Programming and Mathematical and Statistical Computing
 + Curated decibans of scientific programming resources in Python. http://svaksha.github.io/pythonidae, https://github.com/svaksha/pythonidae
