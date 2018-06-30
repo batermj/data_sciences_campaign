@@ -6,6 +6,9 @@
 ## Resources on Github
 + Academic writing with Markdown, https://github.com/smathot/academicmarkdown
 
+## A curated list of awesome algorithms
++ A curated list of awesome places to learn and/or practice algorithms., https://github.com/tayllan/awesome-algorithms
+
 ## Hash Table
 + A high-performance, concurrent hash table, https://github.com/efficient/libcuckoo
 
