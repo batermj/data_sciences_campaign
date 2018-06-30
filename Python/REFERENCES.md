@@ -50,6 +50,9 @@
 ## NLP
 + tutorial for sentiment analysis on Twitter data using Python, https://github.com/ujjwalkarn
 
+## Text Processing
++ TextBlob: Simplified Text Processing, Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more. https://textblob.readthedocs.io/, https://github.com/sloria/TextBlob
+
 ## Text Analytics
 + Learn how to process, classify, cluster, summarize, understand syntax, semantics and sentiment of text data with the power of Python! This repository contains code and datasets used in my book, "Text Analytics with Python" published by Apress/Springer. https://github.com/dipanjanS/text-analytics-with-python
 
