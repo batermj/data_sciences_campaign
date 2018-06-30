@@ -8,3 +8,7 @@
 
 ## DeepMind
 + https://github.com/deepmind
+
+## Reinforcement Learning
++ OpenAI Baselines: high-quality implementations of reinforcement learning algorithms, https://github.com/openai/baselines
+
