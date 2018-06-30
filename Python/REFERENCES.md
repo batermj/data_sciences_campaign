@@ -14,7 +14,7 @@
 + A curated list of awesome Python frameworks, libraries and software, https://github.com/uhub/awesome-python
 
 ## ETL 
-+ dataset: databases for lazy people,https://github.com/pudo/dataset
++ dataset: databases for lazy people,https://github.com/pudo/dataset,https://github.com/pudo
 
 ## Data Wrangling
 + The ultimate reference guide to data wrangling with Python and R, https://github.com/ben519/DataWrangling
