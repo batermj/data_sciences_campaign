@@ -1,13 +1,13 @@
 # References 
 
 ## Resources on Github
++ A curated list of awesome Python frameworks, libraries, software and resources https://awesome-python.com/,https://github.com/vinta/awesome-python
 
 ## Gorgeous
 + https://github.com/google
 + https://github.com/facebook
 + https://github.com/twitter
 +
-
 ## General
 + https://github.com/topics/machine-learning
 + Repository of teaching materials, code, and data for my data analysis and machine learning projects. http://www.randalolson.com/blog/, https://github.com/batermj/Data-Analysis-and-Machine-Learning-Projects
