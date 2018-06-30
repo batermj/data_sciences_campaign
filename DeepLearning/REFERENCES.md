@@ -106,6 +106,8 @@
 + Face Recognition Project on MXNet, https://github.com/deepinsight/insightface
 + Using mxnet for face-related algorithm, https://github.com/tornadomeet/mxnet-face
 
+## Object Recognition
++ mean Average Precision - This code evaluates the performance of your neural net for object recognition., https://github.com/Cartucho/mAP
 
 ## MISC
 + dlsys-course,https://github.com/dlsys-course
