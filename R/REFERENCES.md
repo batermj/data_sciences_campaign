@@ -5,6 +5,13 @@
 + A curated list of awesome R packages, frameworks and software. https://awesome-r.com, https://github.com/qinwf/awesome-R
 + A curated list of awesome R frameworks, libraries and software, https://github.com/uhub/awesome-r
 
+## Jupyter
++ R kernel for Jupyter https://irkernel.github.io/,https://github.com/IRkernel/IRkernel
+
+## Fundamental
+
+## Algorithms
+
 ## Explorative Data Analytics
 + Exploratory and diagnostic machine learning tools for R, https://github.com/ben519/mltools
 + R package for exploratory data analysis,https://github.com/ujjwalkarn/xda
