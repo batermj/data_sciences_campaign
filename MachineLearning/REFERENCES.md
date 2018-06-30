@@ -55,6 +55,9 @@
 ## Hidden Markov Model
 + Yet Another Hidden Markov Model repository, https://github.com/jmschrei/yahmm
 
+## Probabilistic Progrmming
++ Deep universal probabilistic programming with Python and PyTorch http://pyro.ai, https://github.com/uber/pyro
+
 ## Probabilistic Modelling
 + https://github.com/pymc-devs
 + Python code for "Machine learning: a probabilistic perspective", https://github.com/probml/pyprobml
