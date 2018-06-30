@@ -8,6 +8,7 @@
 + https://github.com/facebook
 + https://github.com/twitter
 + https://github.com/uber
++ https://github.com/bloomberg
 
 ## General
 + https://github.com/topics/machine-learning
