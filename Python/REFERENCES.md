@@ -57,12 +57,12 @@
 + Jupyter notebooks from the scikit-learn video series http://bit.ly/scikit-learn-videos, https://github.com/justmarkham/scikit-learn-videos
 + Tutorial on scikit-learn and IPython for parallel machine learning, https://github.com/ogrisel/parallel_ml_tutorial
 
-
 ## Statsmodels
 + Statsmodels,https://github.com/statsmodels
 
 ## Machine Learning
 + common data analysis and machine learning tasks using python, https://github.com/ujjwalkarn/DataSciencePython
++ The "Python Machine Learning (1st edition)" book code repository and info resource, https://github.com/rasbt/python-machine-learning-book
 
 ## MISC
 + effective_python_notebook, https://github.com/hunkim/effective_python_notebook
