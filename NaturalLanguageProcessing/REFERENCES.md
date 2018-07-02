@@ -2,6 +2,10 @@
 
 ## Gorgeous
 + https://github.com/facebookresearch
++ https://github.com/NervanaSystems
+
+## Architectures
++ NLP Architect by Intel AI Lab: Python library for exploring the state-of-the-art deep learning topologies and techniques for natural language processing and natural language understanding http://nlp_architect.nervanasys.com/, https://github.com/NervanaSystems/nlp-architect
 
 ## Resources on Github
 + https://github.com/RaRe-Technologies
