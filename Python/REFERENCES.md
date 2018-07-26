@@ -62,6 +62,7 @@
 + Code for Data Science From Scratch book,https://github.com/joelgrus/data-science-from-scratch
 + Open Content for self-directed learning in data science, https://github.com/nborwankar/LearnDataScience
 + Harvard CS 109: Data Science， https://github.com/cs109
++ A curated list of data science blogs ,https://github.com/rushter/data-science-blogs
 
 ## NumPy
 + 100 numpy exercises (100% complete), https://github.com/rougier/numpy-100
