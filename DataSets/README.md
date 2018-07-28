@@ -11,6 +11,9 @@
 * [DBpedia](http://wiki.dbpedia.org/Datasets) - utilizing a large multi-domain ontology
 * [Public Data Sets on AWS](https://aws.amazon.com/datasets?_encoding=UTF8&jiveRedirect=1) - common web crawl corpus, NASA satellite imagery, Human Genome, Google Book NGrams, Wikipedia Traffic, Million Song Dataset, Federal Reserve Economic Data, PubChem, more.
 
+## Temperature
+* [National Aeronautics and Space AdministrationGoddard Institute for Space Studies](https://data.giss.nasa.gov/)
+
 ## Private Opened Data
 * [New York Times](http://data.nytimes.com/) - vocabulary as linked open data; linked vocabulary of people, places, companies, etc.
 
