@@ -494,6 +494,9 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [REACTOME](https://reactome.org)
 *   [STRING](https://string-db.org)
 
+## References of Awesome Weather data 
+*   [NCEI's Radar Archive includes the Next Generation Weather Radar System (NEXRAD) and Terminal Doppler Weather Radar (TDWR) networks. ](https://www.ncdc.noaa.gov/data-access/radar-data)
+
 
 ## References of Awesome Government & statistics data
 *   [Data USA](http://datausa.io/): The most comprehensive visualization of US public data
