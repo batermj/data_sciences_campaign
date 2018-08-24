@@ -156,13 +156,15 @@ Welcome to the data_sciences_campaign（数据科学家系列课程Campaign） w
 | 150 | ds04800005 | v1.0 | 数据工程师面试实战课程 | 36 | 待定 |
 | 151 | ds04800006 | v1.0 | 算法工程师面试实战课程 | 36 | 待定 |
 | 152 | ds04900001 | v1.0 | AI和大数据平台项目管理实战课程 | 36 | 1000 |
-| 153 | ds04900002 | v1.0 | Maven项目管理实战课程 | 36 | 待定 |
-| 154 | ds04900003 | v1.0 | Jenkins项目管理实战课程 | 36 | 待定 |
-| 155 | ds05000001 | v1.0 | How to Write a Business Proposal | 36 | 待定 |
-| 156 | ds05000002 | v1.0 | How to write a Data Science Proposal | 36 | 待定 |
-| 157 | ds05000003 | v1.0 | How to Write a Research Proposal | 36 | 待定 |
-| 158 | ds05000004 | v1.0 | How to Write a Magazine Proposal | 36 | 待定 |
-| 159 | ds05000005 | v1.0 | How to Write a Ph.D. Dissertation Proposal | 36 | 待定 |
+| 153 | ds04900002 | v1.0 | 数据科学项目管理实战课程 | 36 | 待定 |
+| 154 | ds04900003 | v1.0 | 机器学习项目管理实战课程 | 36 | 待定 |
+| 155 | ds04900004 | v1.0 | CI/CD项目管理实战课程 | 36 | 待定 |
+| 156 | ds04900005 | v1.0 | Maven项目管理实战课程 | 36 | 待定 |
+| 157 | ds05000001 | v1.0 | How to Write a Business Proposal | 36 | 待定 |
+| 158 | ds05000002 | v1.0 | How to write a Data Science Proposal | 36 | 待定 |
+| 159 | ds05000003 | v1.0 | How to Write a Research Proposal | 36 | 待定 |
+| 160 | ds05000004 | v1.0 | How to Write a Magazine Proposal | 36 | 待定 |
+| 161 | ds05000005 | v1.0 | How to Write a Ph.D. Dissertation Proposal | 36 | 待定 |
 
 ## 课程前提
 本课程前提：
