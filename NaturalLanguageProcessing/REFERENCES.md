@@ -4,6 +4,9 @@
 + https://github.com/facebookresearch
 + https://github.com/NervanaSystems
 
+## Multi-Lingual
++ A curated list of resources for Chinese NLP 中文自然语言处理相关资料
+
 ## Architectures
 + NLP Architect by Intel AI Lab: Python library for exploring the state-of-the-art deep learning topologies and techniques for natural language processing and natural language understanding http://nlp_architect.nervanasys.com/, https://github.com/NervanaSystems/nlp-architect
 
