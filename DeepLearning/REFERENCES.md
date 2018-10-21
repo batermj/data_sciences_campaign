@@ -100,6 +100,7 @@
 + PyTorch Tutorial for Deep Learning Researchers,https://github.com/yunjey/pytorch-tutorial
 + Yet another WaveNet implementation in PyTorch, https://github.com/golbin/WaveNet
 + Yet another Cycle GAN implementation in PyTorch, https://github.com/golbin/CycleGAN
++ A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.,https://github.com/bharathgs/Awesome-pytorch-list
 
 ## Theano
 + Deep Learning with Theano, published by Packt, https://github.com/PacktPublishing/Deep-Learning-with-Theano
