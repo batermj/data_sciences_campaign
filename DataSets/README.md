@@ -81,7 +81,10 @@
 | TBC | TBC | TBC | TBC |
 
 
-
+## References of Awesome Plice Data Science安全数据科学
+| 编号 | 数据集名称 | 数据集链接 |
+| :---: | :--- |  :--- | 
+| 1 | the uk police data repository |  http://ukpolice.njtierney.com | 
 
 ## References of Awesome Security Data Science安全数据科学
 
