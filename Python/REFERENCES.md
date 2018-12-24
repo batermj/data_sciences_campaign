@@ -52,6 +52,7 @@
 + The ultimate reference guide to data wrangling with Python and R, https://github.com/ben519/DataWrangling
 
 ## Data Sciences
++ List of Data Science Cheatsheets to rule the world, https://github.com/FavioVazquez/ds-cheatsheets
 + Data for Democracy is partnering with Bloomberg and BrightHive to develop a code of ethics for data scientists. This code will aim to define values and priorities for overall ethical behavior, in order to guide a data scientist in being a thoughtful, responsible agent of change. The code of ethics is being developed through a community-driven approach. By hosting discussions among data scientists, we hope to better capture the diverse interests, needs, and concerns that are at play in the community, and put together a code that is truly created by data scientists, for data scientists, https://github.com/Data4Democracy/ethics-resources
 + https://github.com/topics/data-science
 + Python for Data, https://github.com/pydata
