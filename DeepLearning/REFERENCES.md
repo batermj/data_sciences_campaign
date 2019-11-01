@@ -357,6 +357,7 @@ Source: https://github.com/CancerDataScience/SurvivalNet
 + Minimal Deep Learning library is written in Python/Cython/C++ and Numpy/CUDA/cuDNN. https://github.com/upul/Aurora
 
 ## Tensorflow
++ This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research. http://cs20.stanford.edu, https://github.com/chiphuyen/stanford-tensorflow-tutorials
 + TensorFlow - A curated list of dedicated resources http://tensorflow.org, https://github.com/jtoy/awesome-tensorflow
 + This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research. http://cs20.stanford.edu, https://github.com/chiphuyen/stanford-tensorflow-tutorials
 + Code for O'Reilly's "A Short Course on TensorFlow", https://github.com/chiphuyen/tf-oreilly
