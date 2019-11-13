@@ -1,4 +1,5 @@
-Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& Researcher Pleased, v0.1, (2019NOV13)
+Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& Researcher Pleased, v0.1, 
+(2019NOV13)
 
 # Top 100 Awesome Data Mining Resources
 + Papers
