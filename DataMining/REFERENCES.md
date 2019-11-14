@@ -417,71 +417,47 @@ C. H. Huberty. Applied Discriminant Analysis. Wiley-Interscience, 1994.
 B. B. Hubbard. The World According to Wavelets. A. K. Peters, 1996.
 J. Huan, W. Wang, D. Bandyopadhyay, J. Snoeyink, J. Prins, and A. Tropsha. Min- ing spatial motifs from protein structure graphs. In Proc. 8th Int. Conf. Research in Computational Molecular Biology (RECOMB), pp. 308–315, San Diego, CA, Mar. 2004.
 
-+ [HXD03]
-[IGG03]
-[IKA02]
-[IM96]
-[Inm96] [IWM98]
-[Jac88]
-[Jai10]
-[Jam85] [JBD05]
-[JD88] [Jen96] [JL96]
-[JMF99] [Joh97] [Joh99] [JP04] [JSD+10]
-[JTH01] [JTHW06] [JW92]
-Z. He, X. Xu, and S. Deng. Discovering cluster-based local outliers. Pattern Recognition Lett., 24:1641–1650, June, 2003.
-C. Imhoff, N. Galemmo, and J. G. Geiger. Mastering Data Warehouse Design: Relational and Dimensional Techniques. John Wiley & Sons, 2003.
-T. Imielinski, L. Khachiyan, and A. Abdulghani. Cubegrades: Generalizing association rules. Data Mining and Knowledge Discovery, 6:219–258, 2002.
-T. Imielinski and H. Mannila. A database perspective on knowledge discovery. Commu- nications of the ACM, 39:58–64, 1996.
-W. H. Inmon. Building the Data Warehouse. John Wiley & Sons, 1996.
-A. Inokuchi, T. Washio, and H. Motoda. An apriori-based algorithm for mining frequent substructures from graph data. In Proc. 2000 European Symp. Principles of Data Mining and Knowledge Discovery (PKDD’00), pp. 13–23, Lyon, France, Sept. 1998.
-R. Jacobs. Increased rates of convergence through learning rate adaptation. Neural Networks, 1:295–307, 1988.
-A. K. Jain. Data clustering: 50 years beyond k-means. Pattern Recognition Lett., 31(8):651–666, 2010.
-M. James. Classification Algorithms. John Wiley & Sons, 1985.
-X. Ji, J. Bailey, and G. Dong. Mining minimal distinguishing subsequence patterns with gap constraints. In Proc. 2005 Int. Conf. Data Mining (ICDM’05), pp. 194–201, Houston, TX, Nov. 2005.
-A. K. Jain and R. C. Dubes. Algorithms for Clustering Data. Prentice-Hall, 1988.
-F. V. Jensen. An Introduction to Bayesian Networks. Springer Verlag, 1996.
-G. H. John and P. Langley. Static versus dynamic sampling for data mining. In Proc. 1996 Int. Conf. Knowledge Discovery and Data Mining (KDD’96), pp. 367–370, Portland, OR, Aug. 1996.
-A. K. Jain, M. N. Murty, and P. J. Flynn. Data clustering: A survey. ACM Computing Surveys, 31:264–323, 1999.
-G. H. John. Enhancements to the Data Mining Process. Ph.D. Thesis, Computer Science Department, Stanford University, 1997.
-G. H. John. Behind-the-scenes data mining: A report on the KDD-98 panel. SIGKDD Explorations, 1:6–8, 1999.
-N. C. Jones and P. A. Pevzner. An Introduction to Bioinformatics Algorithms. Cambridge, MA: MIT Press, 2004.
-M. Ji, Y. Sun, M. Danilevsky, J. Han, and J. Gao. Graph regularized transductive classification on heterogeneous information networks. In Proc. 2010 European Conf. Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD’10), pp. 570–586, Barcelona, Spain, Sept. 2010.
-W. Jin, K. H. Tung, and J. Han. Mining top-n local outliers in large databases. In Proc. 2001 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’01), pp. 293–298, San Fransisco, CA, Aug. 2001.
-W. Jin, A. K. H. Tung, J. Han, and W. Wang. Ranking outliers using symmetric neigh- borhood relationship. In Proc. 2006 Pacific-Asia Conf. Knowledge Discovery and Data Mining (PAKDD’06), Singapore, Apr. 2006.
-R. A. Johnson and D. A. Wichern. Applied Multivariate Statistical Analysis (3rd ed.). Prentice-Hall, 1992.
-
-+ [JW02a]
-[JW02b]
-[Kam09]
-[Kas80]
-[KBDM09]
-[Kec01] [Kei97]
-[Ker92] [KF09] [KH95]
-[KH97] [KH09]
-[KHC97] [KHK99]
-[KHY+ 08] [KJ97] [KJSY04] [KK01] [KKW+ 10]
-[KKZ09]
-G. Jeh and J. Widom. SimRank: A measure of structural-context similarity. In Proc. 2002 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’02), pp. 538–543, Edmonton, Alberta, Canada, July 2002.
-R. A. Johnson and D. A. Wichern. Applied Multivariate Statistical Analysis (5th ed.). Prentice Hall, 2002.
-C. Kamath. Scientific Data Mining: A Practical Perspective. Society for Industrial and Applied Mathematic (SIAM), 2009.
-G. V. Kass. An exploratory technique for investigating large quantities of categorical data. Applied Statistics, 29:119–127, 1980.
-B. Kulis, S. Basu, I. Dhillon, and R. Mooney. Semi-supervised graph clustering: A kernel approach. Machine Learning, 74:1–22, 2009.
-V. Kecman. Learning and Soft Computing. Cambridge, MA: MIT Press, 2001.
-D. A. Keim. Visual techniques for exploring databases. In Tutorial Notes, 3rd Int. Conf. Knowledge Discovery and Data Mining (KDD’97), Newport Beach, CA, Aug. 1997.
-R. Kerber. ChiMerge: Discretization of numeric attributes. In Proc. 1992 Nat. Conf. Artificial Intelligence (AAAI’92), pp. 123–128, San Jose, CA, 1992.
-D. Koller and N. Friedman. Probabilistic Graphical Models: Principles and Techniques. Cambridge, MA: MIT Press, 2009.
-K. Koperski and J. Han. Discovery of spatial association rules in geographic informa- tion databases. In Proc. 1995 Int. Symp. Large Spatial Databases (SSD’95), pp. 47–66, Portland, ME, Aug. 1995.
-I. Kononenko and S. J. Hong. Attribute selection for modeling. Future Generation Computer Systems, 13:181–195, 1997.
-M.-S. Kim and J. Han. A particle-and-density based evolutionary clustering method for dynamic networks. In Proc. 2009 Int. Conf. Very Large Data Bases (VLDB’09), Lyon, France, Aug. 2009.
-M. Kamber, J. Han, and J. Y. Chiang. Metarule-guided mining of multi-dimensional association rules using data cubes. In Proc. 1997 Int. Conf. Knowledge Discovery and Data Mining (KDD’97), pp. 207–210, Newport Beach, CA, Aug. 1997.
-G. Karypis, E.-H. Han, and V. Kumar. CHAMELEON: A hierarchical clustering algo- rithm using dynamic modeling. COMPUTER, 32:68–75, 1999.
-H. Kargupta, J. Han, P. S. Yu, R. Motwani, and V. Kumar. Next Generation of Data Mining. Chapman & Hall/CRC, 2008.
-R. Kohavi and G. H. John. Wrappers for feature subset selection. Artificial Intelligence, 97:273–324, 1997.
-H. Kargupta, A. Joshi, K. Sivakumar, and Y. Yesha. Data Mining: Next Generation Challenges and Future Directions. Cambridge, MA: AAAI/MIT Press, 2004.
-M. Kuramochi and G. Karypis. Frequent subgraph discovery. In Proc. 2001 Int. Conf. Data Mining (ICDM’01), pp. 313–320, San Jose, CA, Nov. 2001.
-H. S. Kim, S. Kim, T. Weninger, J. Han, and T. Abdelzaher. NDPMine: Efficiently min- ing discriminative numerical features for pattern-based classification. In Proc. 2010 European Conf. Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD’10), Barcelona, Spain, Sept. 2010.
-H.-P. Kriegel, P. Kroeger, and A. Zimek. Clustering high-dimensional data: A survey on subspace clustering, pattern-based clustering, and correlation clustering. ACM Trans. Knowledge Discovery from Data (TKDD), 3(1):1–58, 2009.
-
++ [HXD03] Z. He, X. Xu, and S. Deng. Discovering cluster-based local outliers. Pattern Recognition Lett., 24:1641–1650, June, 2003.
++ [IKA02] C. Imhoff, N. Galemmo, and J. G. Geiger. Mastering Data Warehouse Design: Relational and Dimensional Techniques. John Wiley & Sons, 2003.
++ [IKA02] T. Imielinski, L. Khachiyan, and A. Abdulghani. Cubegrades: Generalizing association rules. Data Mining and Knowledge Discovery, 6:219–258, 2002.
++ [IM96] T. Imielinski and H. Mannila. A database perspective on knowledge discovery. Commu- nications of the ACM, 39:58–64, 1996.
++ [Inm96] W. H. Inmon. Building the Data Warehouse. John Wiley & Sons, 1996.
++ [IWM98] A. Inokuchi, T. Washio, and H. Motoda. An apriori-based algorithm for mining frequent substructures from graph data. In Proc. 2000 European Symp. Principles of Data Mining and Knowledge Discovery (PKDD’00), pp. 13–23, Lyon, France, Sept. 1998.
++ [Jac88] R. Jacobs. Increased rates of convergence through learning rate adaptation. Neural Networks, 1:295–307, 1988.
++ [Jai10] A. K. Jain. Data clustering: 50 years beyond k-means. Pattern Recognition Lett., 31(8):651–666, 2010.
++ [Jam85] M. James. Classification Algorithms. John Wiley & Sons, 1985.
++ [JBD05] X. Ji, J. Bailey, and G. Dong. Mining minimal distinguishing subsequence patterns with gap constraints. In Proc. 2005 Int. Conf. Data Mining (ICDM’05), pp. 194–201, Houston, TX, Nov. 2005.
++ [JD88] A. K. Jain and R. C. Dubes. Algorithms for Clustering Data. Prentice-Hall, 1988.
++ [Jen96] F. V. Jensen. An Introduction to Bayesian Networks. Springer Verlag, 1996.
++ [JL96] G. H. John and P. Langley. Static versus dynamic sampling for data mining. In Proc. 1996 Int. Conf. Knowledge Discovery and Data Mining (KDD’96), pp. 367–370, Portland, OR, Aug. 1996.
++ [JMF99] A. K. Jain, M. N. Murty, and P. J. Flynn. Data clustering: A survey. ACM Computing Surveys, 31:264–323, 1999.
++ [Joh97] G. H. John. Enhancements to the Data Mining Process. Ph.D. Thesis, Computer Science Department, Stanford University, 1997.
++ [Joh99] G. H. John. Behind-the-scenes data mining: A report on the KDD-98 panel. SIGKDD Explorations, 1:6–8, 1999.
++ [JP04] N. C. Jones and P. A. Pevzner. An Introduction to Bioinformatics Algorithms. Cambridge, MA: MIT Press, 2004.
++ [JSD+10] M. Ji, Y. Sun, M. Danilevsky, J. Han, and J. Gao. Graph regularized transductive classification on heterogeneous information networks. In Proc. 2010 European Conf. Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD’10), pp. 570–586, Barcelona, Spain, Sept. 2010.
++ [JTH01] W. Jin, K. H. Tung, and J. Han. Mining top-n local outliers in large databases. In Proc. 2001 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’01), pp. 293–298, San Fransisco, CA, Aug. 2001.
++ [JTHW06] W. Jin, A. K. H. Tung, J. Han, and W. Wang. Ranking outliers using symmetric neigh- borhood relationship. In Proc. 2006 Pacific-Asia Conf. Knowledge Discovery and Data Mining (PAKDD’06), Singapore, Apr. 2006.
++ [JW92] R. A. Johnson and D. A. Wichern. Applied Multivariate Statistical Analysis (3rd ed.). Prentice-Hall, 1992.
++ [JW02a] G. Jeh and J. Widom. SimRank: A measure of structural-context similarity. In Proc. 2002 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’02), pp. 538–543, Edmonton, Alberta, Canada, July 2002.
++ [JW02b] R. A. Johnson and D. A. Wichern. Applied Multivariate Statistical Analysis (5th ed.). Prentice Hall, 2002.
++ [Kam09] C. Kamath. Scientific Data Mining: A Practical Perspective. Society for Industrial and Applied Mathematic (SIAM), 2009.
++ [Kas80] G. V. Kass. An exploratory technique for investigating large quantities of categorical data. Applied Statistics, 29:119–127, 1980.
++ [KBDM09] B. Kulis, S. Basu, I. Dhillon, and R. Mooney. Semi-supervised graph clustering: A kernel approach. Machine Learning, 74:1–22, 2009.
++ [Kec01] V. Kecman. Learning and Soft Computing. Cambridge, MA: MIT Press, 2001.
++ [Kei97] D. A. Keim. Visual techniques for exploring databases. In Tutorial Notes, 3rd Int. Conf. Knowledge Discovery and Data Mining (KDD’97), Newport Beach, CA, Aug. 1997.
++ [Ker92] R. Kerber. ChiMerge: Discretization of numeric attributes. In Proc. 1992 Nat. Conf. Artificial Intelligence (AAAI’92), pp. 123–128, San Jose, CA, 1992.
++ [KF09] D. Koller and N. Friedman. Probabilistic Graphical Models: Principles and Techniques. Cambridge, MA: MIT Press, 2009.
++ [KH95] K. Koperski and J. Han. Discovery of spatial association rules in geographic informa- tion databases. In Proc. 1995 Int. Symp. Large Spatial Databases (SSD’95), pp. 47–66, Portland, ME, Aug. 1995.
++ [KH97] I. Kononenko and S. J. Hong. Attribute selection for modeling. Future Generation Computer Systems, 13:181–195, 1997.
++ [KH09] M.-S. Kim and J. Han. A particle-and-density based evolutionary clustering method for dynamic networks. In Proc. 2009 Int. Conf. Very Large Data Bases (VLDB’09), Lyon, France, Aug. 2009.
++ [KHC97] M. Kamber, J. Han, and J. Y. Chiang. Metarule-guided mining of multi-dimensional association rules using data cubes. In Proc. 1997 Int. Conf. Knowledge Discovery and Data Mining (KDD’97), pp. 207–210, Newport Beach, CA, Aug. 1997.
++ [KHK99] G. Karypis, E.-H. Han, and V. Kumar. CHAMELEON: A hierarchical clustering algo- rithm using dynamic modeling. COMPUTER, 32:68–75, 1999.
++ [KHY+ 08] H. Kargupta, J. Han, P. S. Yu, R. Motwani, and V. Kumar. Next Generation of Data Mining. Chapman & Hall/CRC, 2008.
++ [KJ97] R. Kohavi and G. H. John. Wrappers for feature subset selection. Artificial Intelligence, 97:273–324, 1997.
++ [KJSY04] H. Kargupta, A. Joshi, K. Sivakumar, and Y. Yesha. Data Mining: Next Generation Challenges and Future Directions. Cambridge, MA: AAAI/MIT Press, 2004.
++ [KK01] M. Kuramochi and G. Karypis. Frequent subgraph discovery. In Proc. 2001 Int. Conf. Data Mining (ICDM’01), pp. 313–320, San Jose, CA, Nov. 2001.
++ [KKW+ 10] H. S. Kim, S. Kim, T. Weninger, J. Han, and T. Abdelzaher. NDPMine: Efficiently min- ing discriminative numerical features for pattern-based classification. In Proc. 2010 European Conf. Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD’10), Barcelona, Spain, Sept. 2010.
++ [KKZ09] H.-P. Kriegel, P. Kroeger, and A. Zimek. Clustering high-dimensional data: A survey on subspace clustering, pattern-based clustering, and correlation clustering. ACM Trans. Knowledge Discovery from Data (TKDD), 3(1):1–58, 2009.
 + [KLA+ 08] M. Khan, H. Le, H. Ahmadi, T. Abdelzaher, and J. Han. DustMiner: Troubleshooting interactive complexity bugs in sensor networks. In Proc. 2008 ACM Int. Conf. Embedded Networked Sensor Systems (SenSys’08), pp. 99–112, Raleigh, NC, Nov. 2008.
 + [Kle99] J. M. Kleinberg. Authoritative sources in a hyperlinked environment. J. ACM, 46: 604–632, 1999.
 + [KLV+ 98] R. L. Kennedy, Y. Lee, B. Van Roy, C. D. Reed, and R. P. Lippman. Solving Data Mining Problems Through Pattern Recognition. Prentice-Hall, 1998.
