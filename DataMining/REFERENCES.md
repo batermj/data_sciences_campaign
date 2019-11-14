@@ -81,6 +81,24 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + [B-G05] I. Ben-Gal. Outlier detection. In O. Maimon and L. Rockach (eds.), Data Mining and Knowledge Discovery Handbook: A Complete Guide for Practitioners and Researchers. Kluwer Academic, 2005.
 + [BGKW03] C. Bucila, J. Gehrke, D. Kifer, and W. White. DualMiner: A dual-pruning algorithm for itemsets with constraints. Data Mining and Knowledge Discovery, 7:241–272, 2003.
 + [BGMP03] F. Bonchi, F. Giannotti, A. Mazzanti, and D. Pedreschi. ExAnte: Anticipated data reduction in constrained pattern mining. In Proc. 7th European Conf. Principles and Pratice of Knowledge Discovery in Databases (PKDD’03), Vol. 2838/2003, pp. 59–70, Cavtat-Dubrovnik, Croatia, Sept. 2003.
++ [BGRS99] K. S. Beyer, J. Goldstein, R. Ramakrishnan, and U. Shaft. When is “nearest neigh- bor” meaningful? In Proc. 1999 Int. Conf. Database Theory (ICDT’99), pp. 217–235, Jerusalem, Israel, Jan. 1999.
++ [BGV92] B. Boser, I. Guyon, and V. N. Vapnik. A training algorithm for optimal margin classifiers. In Proc. Fifth Annual Workshop on Computational Learning Theory, pp. 144–152, ACM Press, San Mateo, CA, 1992.
++ [Bis95] C. M. Bishop. Neural Networks for Pattern Recognition. Oxford University Press, 1995.
++ [Bis06] C. M. Bishop. Pattern Recognition and Machine Learning. New York: Springer, 2006.
++ [BJR08] G. E. P. Box, G. M. Jenkins, and G. C. Reinsel. Time Series Analysis: Forecasting and Control (4th ed.). Prentice-Hall, 2008.
++ [BKNS00] M. M. Breunig, H.-P. Kriegel, R. Ng, and J. Sander. LOF: Identifying density-based local outliers. In Proc. 2000 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’00), pp. 93–104, Dallas, TX, May 2000.
++ [BL99] M. J. A. Berry and G. Linoff. Mastering Data Mining: The Art and Science of Customer Relationship Management. John Wiley & Sons, 1999.
++ [BL04] M. J. A. Berry and G. S. Linoff. Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management. John Wiley & Sons, 2004.
++ [BL09] D. Blei and J. Lafferty. Topic models. In A. Srivastava and M. Sahami (eds.), Text Mining: Theory and Applications, Taylor and Francis, 2009.
++ [BLC+ 03] D. Barbara ́, Y. Li, J. Couto, J.-L. Lin, and S. Jajodia. Bootstrapping a data mining intru- sion detection system. In Proc. 2003 ACM Symp. on Applied Computing (SAC’03), Melbourne, FL, March 2003.
++ [BM98] A. Blum and T. Mitchell. Combining labeled and unlabeled data with co-training. In Proc. 11th Conf. Computational Learning Theory (COLT’98), pp. 92–100, Madison, WI, 1998.
++ [BMAD06] Z. A. Bakar, R. Mohemad, A. Ahmad, and M. M. Deris. A comparative study for outlier detection techniques in data mining. In Proc. 2006 IEEE Conf. Cybernetics and Intelligent Systems, pp. 1–6, Bangkok, Thailand, 2006.
++ [BMS97] S. Brin, R. Motwani, and C. Silverstein. Beyond market basket: Generalizing associa- tion rules to correlations. In Proc. 1997 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’97), pp. 265–276, Tucson, AZ, May 1997.
++ [BMUT97] S. Brin, R. Motwani, J. D. Ullman, and S. Tsur. Dynamic itemset counting and implication rules for market basket analysis. In Proc. 1997 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’97), pp. 255–264, Tucson, AZ, May 1997.
++ [BN92] W. L. Buntine and T. Niblett. A further comparison of splitting rules for decision-tree induction. Machine Learning, 8:75–85, 1992.
++ [BO04] A. Baxevanis and B. F. F. Ouellette. Bioinformatics: A Practical Guide to the Analysis of Genes and Proteins (3rd ed.). John Wiley & Sons, 2004.
++ [BP92] J. C. Bezdek and S. K. Pal. Fuzzy Models for Pattern Recognition: Methods That Search for Structures in Data. IEEE Press, 1992.
++ [BP98] S. Brin and L. Page. The anatomy of a large-scale hypertextual web search engine. In Proc. 7th Int. World Wide Web Conf. (WWW’98), pp. 107–117, Brisbane, Australia, Apr. 1998.
 
 # Journals
 + IEEETKDE（IEEE Transactions on Knowledge and Data Engineering）
