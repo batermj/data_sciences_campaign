@@ -482,253 +482,169 @@ M. Kuramochi and G. Karypis. Frequent subgraph discovery. In Proc. 2001 Int. Con
 H. S. Kim, S. Kim, T. Weninger, J. Han, and T. Abdelzaher. NDPMine: Efficiently min- ing discriminative numerical features for pattern-based classification. In Proc. 2010 European Conf. Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD’10), Barcelona, Spain, Sept. 2010.
 H.-P. Kriegel, P. Kroeger, and A. Zimek. Clustering high-dimensional data: A survey on subspace clustering, pattern-based clustering, and correlation clustering. ACM Trans. Knowledge Discovery from Data (TKDD), 3(1):1–58, 2009.
 
-+ [KLA+ 08] [Kle99]
-[KLV+ 98] [KM90] [KM94] [KMN+ 02]
-[KMR+ 94]
-[KMS03]
-[KN97]
-[KNNL04] [KNT00] [Koh95]
-[Kol93] [Kon95]
-[Kot88] [KPR98] [KPS03] [KR90] [KR02]
-M. Khan, H. Le, H. Ahmadi, T. Abdelzaher, and J. Han. DustMiner: Troubleshooting interactive complexity bugs in sensor networks. In Proc. 2008 ACM Int. Conf. Embedded Networked Sensor Systems (SenSys’08), pp. 99–112, Raleigh, NC, Nov. 2008.
-J. M. Kleinberg. Authoritative sources in a hyperlinked environment. J. ACM, 46: 604–632, 1999.
-R. L. Kennedy, Y. Lee, B. Van Roy, C. D. Reed, and R. P. Lippman. Solving Data Mining Problems Through Pattern Recognition. Prentice-Hall, 1998.
-Y. Kodratoff and R. S. Michalski. Machine Learning, An Artificial Intelligence Approach, Vol. 3. Morgan Kaufmann, 1990.
-J. Kivinen and H. Mannila. The power of sampling in knowledge discovery. In Proc. 13th ACM Symp. Principles of Database Systems, pp. 77–85, Minneapolis, MN, May 1994.
-T. Kanungo, D. M. Mount, N. S. Netanyahu, C. D. Piatko, R. Silverman, and A. Y. Wu. An efficient k-means clustering algorithm: Analysis and implementation. IEEE Trans. Pattern Analysis and Machine Intelligence (PAMI), 24:881–892, 2002.
-M. Klemettinen, H. Mannila, P. Ronkainen, H. Toivonen, and A. I. Verkamo. Finding interesting rules from large sets of discovered association rules. In Proc. 3rd Int. Conf. Information and Knowledge Management, pp. 401–408, Gaithersburg, MD, Nov. 1994. J. Kubica, A. Moore, and J. Schneider. Tractable group detection on large link data sets. In Proc. 2003 Int. Conf. Data Mining (ICDM’03), pp. 573–576, Melbourne, FL, Nov. 2003.
-E. Knorr and R. Ng. A unified notion of outliers: Properties and computation. In Proc. 1997 Int. Conf. Knowledge Discovery and Data Mining (KDD’97), pp. 219–222, Newport Beach, CA, Aug. 1997.
-M. H. Kutner, C. J. Nachtsheim, J. Neter, and W. Li. Applied Linear Statistical Models with Student CD. Irwin, 2004.
-E. M. Knorr, R. T. Ng, and V. Tucakov. Distance-based outliers: Algorithms and appli- cations. The VLDB J., 8:237–253, 2000.
-R. Kohavi. A study of cross-validation and bootstrap for accuracy estimation and model selection. In Proc. 14th Joint Int. Conf. Artificial Intelligence (IJCAI’95), Vol. 2, pp. 1137– 1143, Montreal, Quebec, Canada, Aug. 1995.
-J. L. Kolodner. Case-Based Reasoning. Morgan Kaufmann, 1993.
-I. Kononenko. On biases in estimating multi-valued attributes. In Proc. 14th Joint Int. Conf. Artificial Intelligence (IJCAI’95), Vol. 2, pp. 1034–1040, Montreal, Quebec, Canada, Aug. 1995.
-P. Koton. Reasoning about evidence in causal explanation. In Proc. 7th Nat. Conf. Artificial Intelligence (AAAI’88), pp. 256–263, St. Paul, MN, Aug. 1988.
-J. M. Kleinberg, C. Papadimitriou, and P. Raghavan. A microeconomic view of data mining. Data Mining and Knowledge Discovery, 2:311–324, 1998.
-R. M. Karp, C. H. Papadimitriou, and S. Shenker. A simple algorithm for finding frequent elements in streams and bags. ACM Trans. Database Systems, 28:51–55, 2003. L. Kaufman and P. J. Rousseeuw. Finding Groups in Data: An Introduction to Cluster Analysis. John Wiley & Sons, 1990.
-R. Kimball and M. Ross. The Data Warehouse Toolkit: The Complete Guide to Dimen- sional Modeling (2nd ed.). John Wiley & Sons, 2002.
++ [KLA+ 08] M. Khan, H. Le, H. Ahmadi, T. Abdelzaher, and J. Han. DustMiner: Troubleshooting interactive complexity bugs in sensor networks. In Proc. 2008 ACM Int. Conf. Embedded Networked Sensor Systems (SenSys’08), pp. 99–112, Raleigh, NC, Nov. 2008.
++ [Kle99] J. M. Kleinberg. Authoritative sources in a hyperlinked environment. J. ACM, 46: 604–632, 1999.
++ [KLV+ 98] R. L. Kennedy, Y. Lee, B. Van Roy, C. D. Reed, and R. P. Lippman. Solving Data Mining Problems Through Pattern Recognition. Prentice-Hall, 1998.
++ [KM90] Y. Kodratoff and R. S. Michalski. Machine Learning, An Artificial Intelligence Approach, Vol. 3. Morgan Kaufmann, 1990.
++ [KM94] J. Kivinen and H. Mannila. The power of sampling in knowledge discovery. In Proc. 13th ACM Symp. Principles of Database Systems, pp. 77–85, Minneapolis, MN, May 1994.
++ [KMN+ 02] T. Kanungo, D. M. Mount, N. S. Netanyahu, C. D. Piatko, R. Silverman, and A. Y. Wu. An efficient k-means clustering algorithm: Analysis and implementation. IEEE Trans. Pattern Analysis and Machine Intelligence (PAMI), 24:881–892, 2002.
++ [KMR+ 94] M. Klemettinen, H. Mannila, P. Ronkainen, H. Toivonen, and A. I. Verkamo. Finding interesting rules from large sets of discovered association rules. In Proc. 3rd Int. Conf. Information and Knowledge Management, pp. 401–408, Gaithersburg, MD, Nov. 1994. 
++ [KMS03] J. Kubica, A. Moore, and J. Schneider. Tractable group detection on large link data sets. In Proc. 2003 Int. Conf. Data Mining (ICDM’03), pp. 573–576, Melbourne, FL, Nov. 2003.
++ [KN97] E. Knorr and R. Ng. A unified notion of outliers: Properties and computation. In Proc. 1997 Int. Conf. Knowledge Discovery and Data Mining (KDD’97), pp. 219–222, Newport Beach, CA, Aug. 1997.
++ [KNNL04] M. H. Kutner, C. J. Nachtsheim, J. Neter, and W. Li. Applied Linear Statistical Models with Student CD. Irwin, 2004.
++ [KNT00] E. M. Knorr, R. T. Ng, and V. Tucakov. Distance-based outliers: Algorithms and appli- cations. The VLDB J., 8:237–253, 2000.
++ [Koh95] R. Kohavi. A study of cross-validation and bootstrap for accuracy estimation and model selection. In Proc. 14th Joint Int. Conf. Artificial Intelligence (IJCAI’95), Vol. 2, pp. 1137– 1143, Montreal, Quebec, Canada, Aug. 1995.
++ [Kol93] J. L. Kolodner. Case-Based Reasoning. Morgan Kaufmann, 1993.
++ [Kon95] I. Kononenko. On biases in estimating multi-valued attributes. In Proc. 14th Joint Int. Conf. Artificial Intelligence (IJCAI’95), Vol. 2, pp. 1034–1040, Montreal, Quebec, Canada, Aug. 1995.
++ [Kot88] P. Koton. Reasoning about evidence in causal explanation. In Proc. 7th Nat. Conf. Artificial Intelligence (AAAI’88), pp. 256–263, St. Paul, MN, Aug. 1988.
++ [KPR98] J. M. Kleinberg, C. Papadimitriou, and P. Raghavan. A microeconomic view of data mining. Data Mining and Knowledge Discovery, 2:311–324, 1998.
++ [KPS03] R. M. Karp, C. H. Papadimitriou, and S. Shenker. A simple algorithm for finding frequent elements in streams and bags. ACM Trans. Database Systems, 28:51–55, 2003. 
++ [KR90] L. Kaufman and P. J. Rousseeuw. Finding Groups in Data: An Introduction to Cluster Analysis. John Wiley & Sons, 1990.
++ [KR02] R. Kimball and M. Ross. The Data Warehouse Toolkit: The Complete Guide to Dimen- sional Modeling (2nd ed.). John Wiley & Sons, 2002.
++ [KR03] D. Krane and R. Raymer. Fundamental Concepts of Bioinformatics. Benjamin Cummings, 2003.
++ [Kre02] V. Krebs. Mapping networks of terrorist cells. Connections, 24:43–52 (Winter), 2002.
++ [KRR+ 00] R. Kumar, P. Raghavan, S. Rajagopalan, D. Sivakumar, A. Tomkins, and E. Upfal. Stochastic models for the web graph. In Proc. 2000 IEEE Symp. Foundations of Computer Science (FOCS’00), pp. 57–65, Redondo Beach, CA, Nov. 2000.
++ [KRTM08] R. Kimball, M. Ross, W. Thornthwaite, and J. Mundy. The Data Warehouse Lifecycle Toolkit. Hoboken, NJ: John Wiley & Sons, 2008.
++ [KSZ08] H.-P. Kriegel, M. Schubert, and A. Zimek. Angle-based outlier detection in high- dimensional data. In Proc. 2008 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’08), pp. 444–452, Las Vegas, NV, Aug. 2008.
++ [KT99] J. M. Kleinberg and A. Tomkins. Application of linear algebra in information retrieval and hypertext analysis. In Proc. 18th ACM Symp. Principles of Database Systems (PODS’99), pp. 185–193, Philadelphia, PA, May 1999.
++ [KYB03] I. Korf, M. Yandell, and J. Bedell. BLAST. Sebastopol, CA: O’Reilly Media, 2003.
++ [Lam98] W. Lam. Bayesian network refinement via machine learning approach. IEEE Trans. Pattern Analysis and Machine Intelligence, 20:240–252, 1998.
++ [Lau95] S. L. Lauritzen. The EM algorithm for graphical association models with missing data. Computational Statistics and Data Analysis, 19:191–201, 1995.
++ [LCH+ 09] D. Lo, H. Cheng, J. Han, S. Khoo, and C. Sun. Classification of software behaviors for failure detection: A discriminative pattern mining approach. In Proc. 2009 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’09), pp. 557–566, Paris, France, June 2009.
++ [LDH+ 08] C. X. Lin, B. Ding, J. Han, F. Zhu, and B. Zhao. Text cube: Computing IR measures for multidimensional text database analysis. In Proc. 2008 Int. Conf. Data Mining (ICDM’08), pp. 905–910, Pisa, Italy, Dec. 2008.
++ [LDH+ 10] Z. Li, B. Ding, J. Han, R. Kays, and P. Nye. Mining periodic behaviors for moving objects. In Proc. 2010 ACM SIGKDD Conf. Knowledge Discovery and Data Mining (KDD’10), pp. 1099–1108, Washington, DC, July 2010.
++ [LDR00]J. Li, G. Dong, and K. Ramamohanrarao. Making use of the most expressive jumping emerging patterns for classification. In Proc. 2000 Pacific-Asia Conf. Knowledge Discovery and Data Mining (PAKDD’00), pp. 220–232, Kyoto, Japan, Apr. 2000.
++ [LDS90] Y. Le Cun, J. S. Denker, and S. A. Solla. Optimal brain damage. In D. Touretzky (ed.), Advances in Neural Information Processing Systems. Morgan Kaufmann, 1990.
++ [Lea96] D. B. Leake. CBR in context: The present and future. In D. B. Leake (ed.), Cased- Based Reasoning: Experiences, Lessons, and Future Directions, pp. 3–30. AAAI Press, 1996.
++ [LGT97] S. Lawrence, C. L. Giles, and A. C. Tsoi. Symbolic conversion, grammatical inference and rule extraction for foreign exchange rate prediction. In Y. Abu-Mostafa, A. S. Weigend, and P. N. Refenes (eds.), Neural Networks in the Capital Markets. London: World Scientific, 1997.
+[LHC97] B. Liu, W. Hsu, and S. Chen. Using general impressions to analyze discovered classifi- cation rules. In Proc. 1997 Int. Conf. Knowledge Discovery and Data Mining (KDD’97), pp. 31–36, Newport Beach, CA, Aug. 1997.
 
-+ [KR03] [Kre02]
-[KRR+ 00] [KRTM08]
-[KSZ08]
-[KT99]
-[KYB03] [Lam98]
-[Lau95] [LCH+ 09]
-[LDH+ 08]
-[LDH+ 10]
-[LDR00]
-[LDS90] [Lea96]
-[LGT97]
-[LHC97]
-D. Krane and R. Raymer. Fundamental Concepts of Bioinformatics. Benjamin Cummings, 2003.
-V. Krebs. Mapping networks of terrorist cells. Connections, 24:43–52 (Winter), 2002.
-R. Kumar, P. Raghavan, S. Rajagopalan, D. Sivakumar, A. Tomkins, and E. Upfal. Stochastic models for the web graph. In Proc. 2000 IEEE Symp. Foundations of Computer Science (FOCS’00), pp. 57–65, Redondo Beach, CA, Nov. 2000.
-R. Kimball, M. Ross, W. Thornthwaite, and J. Mundy. The Data Warehouse Lifecycle Toolkit. Hoboken, NJ: John Wiley & Sons, 2008.
-H.-P. Kriegel, M. Schubert, and A. Zimek. Angle-based outlier detection in high- dimensional data. In Proc. 2008 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’08), pp. 444–452, Las Vegas, NV, Aug. 2008.
-J. M. Kleinberg and A. Tomkins. Application of linear algebra in information retrieval and hypertext analysis. In Proc. 18th ACM Symp. Principles of Database Systems (PODS’99), pp. 185–193, Philadelphia, PA, May 1999.
-I. Korf, M. Yandell, and J. Bedell. BLAST. Sebastopol, CA: O’Reilly Media, 2003.
-W. Lam. Bayesian network refinement via machine learning approach. IEEE Trans. Pattern Analysis and Machine Intelligence, 20:240–252, 1998.
-S. L. Lauritzen. The EM algorithm for graphical association models with missing data. Computational Statistics and Data Analysis, 19:191–201, 1995.
-D. Lo, H. Cheng, J. Han, S. Khoo, and C. Sun. Classification of software behaviors for failure detection: A discriminative pattern mining approach. In Proc. 2009 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’09), pp. 557–566, Paris, France, June 2009.
-C. X. Lin, B. Ding, J. Han, F. Zhu, and B. Zhao. Text cube: Computing IR measures for multidimensional text database analysis. In Proc. 2008 Int. Conf. Data Mining (ICDM’08), pp. 905–910, Pisa, Italy, Dec. 2008.
-Z. Li, B. Ding, J. Han, R. Kays, and P. Nye. Mining periodic behaviors for moving objects. In Proc. 2010 ACM SIGKDD Conf. Knowledge Discovery and Data Mining (KDD’10), pp. 1099–1108, Washington, DC, July 2010.
-J. Li, G. Dong, and K. Ramamohanrarao. Making use of the most expressive jumping emerging patterns for classification. In Proc. 2000 Pacific-Asia Conf. Knowledge Discovery and Data Mining (PAKDD’00), pp. 220–232, Kyoto, Japan, Apr. 2000.
-Y. Le Cun, J. S. Denker, and S. A. Solla. Optimal brain damage. In D. Touretzky (ed.), Advances in Neural Information Processing Systems. Morgan Kaufmann, 1990.
-D. B. Leake. CBR in context: The present and future. In D. B. Leake (ed.), Cased- Based Reasoning: Experiences, Lessons, and Future Directions, pp. 3–30. AAAI Press, 1996.
-S. Lawrence, C. L. Giles, and A. C. Tsoi. Symbolic conversion, grammatical inference and rule extraction for foreign exchange rate prediction. In Y. Abu-Mostafa, A. S. Weigend, and P. N. Refenes (eds.), Neural Networks in the Capital Markets. London: World Scientific, 1997.
-B. Liu, W. Hsu, and S. Chen. Using general impressions to analyze discovered classifi- cation rules. In Proc. 1997 Int. Conf. Knowledge Discovery and Data Mining (KDD’97), pp. 31–36, Newport Beach, CA, Aug. 1997.
-
-+ [LHF98]
-[LHG04]
-[LHKG07]
-[LHM98]
-[LHP01]
-[LHTD02] [LHW07] [LHXS06]
-[LHY+ 08] [Liu06]
-[LJK00] [LKCH03] [LKF05] [LLLY03] [LLMZ04] [Llo57]
-H. Lu, J. Han, and L. Feng. Stock movement and n-dimensional inter-transaction asso- ciation rules. In Proc. 1998 SIGMOD Workshop Research Issues on Data Mining and Knowledge Discovery (DMKD’98), pp. 12:1–12:7, Seattle, WA, June 1998.
-X. Li, J. Han, and H. Gonzalez. High-dimensional OLAP: A minimal cubing approach. In Proc. 2004 Int. Conf. Very Large Data Bases (VLDB’04), pp. 528–539, Toronto, Ontario, Canada, Aug. 2004.
-X. Li, J. Han, S. Kim, and H. Gonzalez. Roam: Rule- and motif-based anomaly detec- tion in massive moving object data sets. In Proc. 2007 SIAM Int. Conf. Data Mining (SDM’07), Minneapolis, MN, Apr. 2007.
-B. Liu, W. Hsu, and Y. Ma. Integrating classification and association rule mining. In Proc. 1998 Int. Conf. Knowledge Discovery and Data Mining (KDD’98), pp. 80–86, New York, Aug. 1998.
-W. Li, J. Han, and J. Pei. CMAR: Accurate and efficient classification based on multiple class-association rules. In Proc. 2001 Int. Conf. Data Mining (ICDM’01), pp. 369–376, San Jose, CA, Nov. 2001.
-H. Liu, F. Hussain, C. L. Tan, and M. Dash. Discretization: An enabling technique. Data Mining and Knowledge Discovery, 6:393–423, 2002.
-J.-G. Lee, J. Han, and K. Whang. Clustering trajectory data. In Proc. 2007 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’07), Beijing, China, June 2007.
-H. Liu, J. Han, D. Xin, and Z. Shao. Mining frequent patterns on very high dimen- sional data: A top-down row enumeration approach. In Proc. 2006 SIAM Int. Conf. Data Mining (SDM’06), Bethesda, MD, Apr. 2006.
-X. Li, J. Han, Z. Yin, J.-G. Lee, and Y. Sun. Sampling Cube: A framework for statistical OLAP over sampling data. In Proc. 2008 ACM SIGMOD Int. Conf. Management of Data (SIGMOD’08), pp. 779–790, Vancouver, British Columbia, Canada, June 2008.
-B. Liu. Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data. New York: Springer, 2006.
-J. Laurikkala, M. Juhola, and E. Kentala. Informal identification of outliers in med- ical data. In Proc. 5th Int. Workshop on Intelligent Data Analysis in Medicine and Pharmacology, Berlin, Germany, Aug. 2000.
-Y.-K. Lee, W.-Y. Kim, Y. D. Cai, and J. Han. CoMine: Efficient mining of correlated patterns. In Proc. 2003 Int. Conf. Data Mining (ICDM’03), pp. 581–584, Melbourne, FL, Nov. 2003.
-J. Leskovec, J. Kleinberg, and C. Faloutsos. Graphs over time: Densification laws, shrinking diameters and possible explanations. In Proc. 2005 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’05), pp. 177–187, Chicago, IL, Aug. 2005. G. Liu, H. Lu, W. Lou, and J. X. Yu. On computing, storing and querying frequent patterns. In Proc. 2003 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’03), pp. 607–612, Washington, DC, Aug. 2003.
-Z. Li, S. Lu, S. Myagmar, and Y. Zhou. CP-Miner: A tool for finding copy-paste and related bugs in operating system code. In Proc. 2004 Symp. Operating Systems Design and Implementation (OSDI’04), pp. 20–22, San Francisco, CA, Dec. 2004.
-S. P. Lloyd. Least squares quantization in PCM. IEEE Trans. Information Theory, 28:128–137, 1982 (original version: Technical Report, Bell Labs, 1957).
-
-+ [LLS00]
-[LM97]
-[LM98a] [LM98b] [LNHP99]
-[L-NK03]
-[Los01] [LP97]
-[LPH02]
-[LPWH02]
-[LPZ03]
-[LS95]
-[LS97] [LSBZ87] [LSL95]
-[LSW97] [Lux07]
-T.-S. Lim, W.-Y. Loh, and Y.-S. Shih. A comparison of prediction accuracy, complex- ity, and training time of thirty-three old and new classification algorithms. Machine Learning, 40:203–228, 2000.
-K. Laskey and S. Mahoney. Network fragments: Representing knowledge for construct- ing probabilistic models. In Proc. 13th Annual Conf. Uncertainty in Artificial Intelligence, pp. 334–341, San Francisco, CA, Aug. 1997.
-H. Liu and H. Motoda. Feature Selection for Knowledge Discovery and Data Mining. Kluwer Academic, 1998.
-H. Liu and H. Motoda (eds.). Feature Extraction, Construction, and Selection: A Data Mining Perspective. Kluwer Academic, 1998.
-L. V. S. Lakshmanan, R. Ng, J. Han, and A. Pang. Optimization of constrained fre- quent set queries with 2-variable constraints. In Proc. 1999 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’99), pp. 157–168, Philadelphia, PA, June 1999.
-D. Liben-Nowell and J. Kleinberg. The link prediction problem for social networks. In Proc. 2003 Int. Conf. Information and Knowledge Management (CIKM’03), pp. 556–559, New Orleans, LA, Nov. 2003.
-D. Loshin. Enterprise Knowledge Management: The Data Quality Approach. Morgan Kaufmann, 2001.
-A. Lenarcik and Z. Piasta. Probabilistic rough classifiers with mixture of discrete and continuous variables. In T. Y. Lin and N. Cercone (eds.), Rough Sets and Data Mining: Analysis for Imprecise Data, pp. 373–383, Kluwer Academic, 1997.
-L. V. S. Lakshmanan, J. Pei, and J. Han. Quotient cube: How to summarize the semantics of a data cube. In Proc. 2002 Int. Conf. Very Large Data Bases (VLDB’02), pp. 778–789, Hong Kong, China, Aug. 2002.
-J. Liu, Y. Pan, K. Wang, and J. Han. Mining frequent itemsets by opportunistic projec- tion. In Proc. 2002 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’02), pp. 239–248, Edmonton, Alberta, Canada, July 2002.
-L. V. S. Lakshmanan, J. Pei, and Y. Zhao. QC-Trees: An efficient summary structure for semantic OLAP. In Proc. 2003 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’03), pp. 64–75, San Diego, CA, June 2003.
-H. Liu and R. Setiono. Chi2: Feature selection and discretization of numeric attributes. In Proc. 1995 IEEE Int. Conf. Tools with AI (ICTAI’95), pp. 388–391, Washington, DC, Nov. 1995.
-W. Y. Loh and Y. S. Shih. Split selection methods for classification trees. Statistica Sinica, 7:815–840, 1997.
-P. Langley, H. A. Simon, G. L. Bradshaw, and J. M. Zytkow. Scientific Discovery: Computational Explorations of the Creative Processes. Cambridge, MA: MIT Press, 1987. H. Lu, R. Setiono, and H. Liu. Neurorule: A connectionist approach to data mining. In Proc. 1995 Int. Conf. Very Large Data Bases (VLDB’95), pp. 478–489, Zurich, Switzerland, Sept. 1995.
-B. Lent, A. Swami, and J. Widom. Clustering association rules. In Proc. 1997 Int. Conf. Data Engineering (ICDE’97), pp. 220–231, Birmingham, England, Apr. 1997.
-U. Luxburg. A tutorial on spectral clustering. Statistics and Computing, 17:395–416, 2007.
-
-+ [LV88] [LZ05]
-[MA03] [MAE05]
-[Mac67] [Mag94]
-[Man00] [MAR96]
-[Mar09] [MB88]
-[MC03] [MCK+ 04]
-[MCM83] [MCM86] [MD88]
-[Mei03]
-[Mei05] [Men03]
-W. Y. Loh and N. Vanichsetakul. Tree-structured classificaiton via generalized discrimi- nant analysis. J. American Statistical Association, 83:715–728, 1988.
-Z. Li and Y. Zhou. PR-Miner: Automatically extracting implicit programming rules and detecting violations in large software code. In Proc. 2005 ACM SIGSOFT Symp. Foundations of Software Engineering (FSE’05), Lisbon, Portugal, Sept. 2005.
-S. Mitra and T. Acharya. Data Mining: Multimedia, Soft Computing, and Bioinformatics. John Wiley & Sons, 2003.
-A. Metwally, D. Agrawal, and A. El Abbadi. Efficient computation of frequent and top-k elements in data streams. In Proc. 2005 Int. Conf. Database Theory (ICDT’05), pp. 398–412, Edinburgh, Scotland, Jan. 2005.
-J. MacQueen. Some methods for classification and analysis of multivariate observations. In Proc. 5th Berkeley Symp. Math. Stat. Prob., 1:281–297, Berkeley, CA, 1967.
-J. Magidson. The CHAID approach to segmentation modeling: CHI-squared automatic interaction detection. In R. P. Bagozzi (ed.), Advanced Methods of Marketing Research, pp. 118–159. Blackwell Business, 1994.
-H. Mannila. Theoretical frameworks of data mining. SIGKDD Explorations, 1:30–32, 2000.
-M. Mehta, R. Agrawal, and J. Rissanen. SLIQ: A fast scalable classifier for data mining. In Proc. 1996 Int. Conf. Extending Database Technology (EDBT’96), pp. 18–32, Avignon, France, Mar. 1996.
-S. Marsland. Machine Learning: An Algorithmic Perspective. Chapman & Hall/CRC, 2009. G. J. McLachlan and K. E. Basford. Mixture Models: Inference and Applications to Clustering. John Wiley & Sons, 1988.
-M. V. Mahoney and P. K. Chan. Learning rules for anomaly detection of hostile net- work traffic. In Proc. 2003 Int. Conf. Data Mining (ICDM’03), Melbourne, FL, Nov. 2003.
-N. Mamoulis, H. Cao, G. Kollios, M. Hadjieleftheriou, Y. Tao, and D. Cheung. Min- ing, indexing, and querying historical spatiotemporal data. In Proc. 2004 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’04), pp. 236–245, Seattle, WA, Aug. 2004.
-R. S. Michalski, J. G. Carbonell, and T. M. Mitchell. Machine Learning, An Artificial Intelligence Approach, Vol. 1. Morgan Kaufmann, 1983.
-R. S. Michalski, J. G. Carbonell, and T. M. Mitchell. Machine Learning, An Artificial Intelligence Approach, Vol. 2. Morgan Kaufmann, 1986.
-M. Muralikrishna and D. J. DeWitt. Equi-depth histograms for extimating selectiv- ity factors for multi-dimensional queries. In Proc. 1988 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’88), pp. 28–36, Chicago, IL, June 1988.
-M. Meilaˇ. Comparing clusterings by the variation of information. In Proc. 16th Annual Conf. Computational Learning Theory (COLT’03), pp. 173–187, Washington, DC, Aug. 2003.
-M. Meilaˇ. Comparing clusterings: An axiomatic view. In Proc. 22nd Int. Conf. Machine Learning (ICML’05), pp. 577–584, Bonn, Germany, 2005.
-J. Mena. Investigative Data Mining with Security and Criminal Detection. Butterworth- Heinemann, 2003.
-
-+ [MFS95] [MH95]
-[MH09] [Mic83]
-[Mic92]
-[Mil98] [Min89]
-[Mir98]
-[Mit96] [Mit97] [MK91]
-[MLSZ06]
-[MM95] [MM02]
-[MN89] [MO04] [MP69] [MRA95]
-[MRS08] [MS03a]
-D. Malerba, E. Floriana, and G. Semeraro. A further comparison of simplification meth- ods for decision tree induction. In D. Fisher and H. Lenz (eds.), Learning from Data: AI and Statistics. Springer Verlag, 1995.
-J. K. Martin and D. S. Hirschberg. The time complexity of decision tree induction. In Technical Report ICS-TR 95-27, pp. 1–27, Department of Information and Computer Science, University of California, Irvine, CA, Aug. 1995.
-H. Miller and J. Han. Geographic Data Mining and Knowledge Discovery (2nd ed.). Chapman & Hall/CRC, 2009.
-R. S. Michalski. A theory and methodology of inductive learning. In R. S. Michalski, J. G. Carbonell, and T. M. Mitchell (eds.), Machine Learning: An Artificial Intelligence Approach, Vol. 1, pp. 83–134. Morgan Kaufmann, 1983.
-Z. Michalewicz. Genetic Algorithms + Data Structures = Evolution Programs. Springer Verlag, 1992.
-R. G. Miller. Survival Analysis. Wiley-Interscience, 1998.
-J. Mingers. An empirical comparison of pruning methods for decision-tree induction. Machine Learning, 4:227–243, 1989.
-B. Mirkin. Mathematical classification and clustering. J. Global Optimization, 12:105– 108, 1998.
-M. Mitchell. An Introduction to Genetic Algorithms. Cambridge, MA: MIT Press, 1996. T. M. Mitchell. Machine Learning. McGraw-Hill, 1997.
-M. Manago and Y. Kodratoff. Induction of decision trees from complex structured data. In G. Piatetsky-Shapiro and W. J. Frawley (eds.), Knowledge Discovery in Databases, pp. 289–306. AAAI/MIT Press, 1991.
-Q. Mei, C. Liu, H. Su, and C. Zhai. A probabilistic approach to spatiotemporal theme pattern mining on weblogs. In Proc. 15th Int. Conf. World Wide Web (WWW’06), pp. 533–542, Edinburgh, Scotland, May 2006.
-J. Major and J. Mangano. Selecting among rules induced from a hurricane database. J. Intelligent Information Systems, 4:39–52, 1995.
-G. Manku and R. Motwani. Approximate frequency counts over data streams. In Proc. 2002 Int. Conf. Very Large Data Bases (VLDB’02), pp. 346–357, Hong Kong, China, Aug. 2002.
-M. Me ́zard and J.-P. Nadal. Learning in feedforward layered networks: The tiling algorithm. J. Physics, 22:2191–2204, 1989.
-S. C. Madeira and A. L. Oliveira. Biclustering algorithms for biological data analysis: A survey. IEEE/ACM Trans. Computational Biology and Bioinformatics, 1(1):24–25, 2004. M. L. Minsky and S. Papert. Perceptrons: An Introduction to Computational Geometry. Cambridge, MA: MIT Press, 1969.
-M. Metha, J. Rissanen, and R. Agrawal. MDL-based decision tree pruning. In Proc. 1995 Int. Conf. Knowledge Discovery and Data Mining (KDD’95), pp. 216–221, Montreal, Quebec, Canada, Aug. 1995.
-C. D. Manning, P. Raghavan, and H. Schutze. Introduction to Information Retrieval. Cambridge University Press, 2008.
-M. Markou and S. Singh. Novelty detection: A review—part 1: Statistical approaches. Signal Processing, 83:2481–2497, 2003.
-
-+ [MS03b] [MST94] [MT94] [MTV94]
-[MTV97]
-[Mur98]
-[Mut05] [MXC+07]
-[MY97]
-[MZ06]
-[NB86]
-[NBW06] [NC03]
-[New10] [NG04]
-[NGE-R09] [NH94] [NJW01] [NK04]
-M. Markou and S. Singh. Novelty detection: A review—part 2: Neural network based approaches. Signal Processing, 83:2499–2521, 2003.
-D. Michie, D. J. Spiegelhalter, and C. C. Taylor. Machine Learning, Neural and Statistical Classification. Chichester, England: Ellis Horwood, 1994.
-R. S. Michalski and G. Tecuci. Machine Learning, A Multistrategy Approach, Vol. 4. Morgan Kaufmann, 1994.
-H. Mannila, H. Toivonen, and A. I. Verkamo. Efficient algorithms for discovering asso- ciation rules. In Proc. AAAI’94 Workshop Knowledge Discovery in Databases (KDD’94), pp. 181–192, Seattle, WA, July 1994.
-H. Mannila, H. Toivonen, and A. I. Verkamo. Discovery of frequent episodes in event sequences. Data Mining and Knowledge Discovery, 1:259–289, 1997.
-S. K. Murthy. Automatic construction of decision trees from data: A multi-disciplinary survey. Data Mining and Knowledge Discovery, 2:345–389, 1998.
-S. Muthukrishnan. Data Streams: Algorithms and Applications. Now Publishers, 2005. Q. Mei, D. Xin, H. Cheng, J. Han, and C. Zhai. Semantic annotation of frequent patterns. ACM Trans. Knowledge Discovery from Data (TKDD), 15:321–348, 2007.
-R. J. Miller and Y. Yang. Association rules over interval data. In Proc. 1997 ACM- SIGMOD Int. Conf. Management of Data (SIGMOD’97), pp. 452–461, Tucson, AZ, May 1997.
-Q. Mei and C. Zhai. A mixture model for contextual text mining. In Proc. 2006 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’06), pp. 649–655, Philadelphia, PA, Aug. 2006.
-T. Niblett and I. Bratko. Learning decision rules in noisy domains. In M. A. Brammer (ed.), Expert Systems ’86: Research and Development in Expert Systems III, pp. 25–34. British Computer Society Specialist Group on Expert Systems, Dec. 1986.
-M. Newman, A.-L. Barabasi, and D. J. Watts. The Structure and Dynamics of Networks. Princeton University Press, 2006.
-C. C. Noble and D. J. Cook. Graph-based anomaly detection. In Proc. 2003 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’03), pp. 631–636, Washington, DC, Aug. 2003.
-M. Newman. Networks: An Introduction. Oxford University Press, 2010.
-M. E. J. Newman and M. Girvan. Finding and evaluating community structure in networks. Physical Rev. E, 69:113–128, 2004.
-J. Neville, B. Gallaher, and T. Eliassi-Rad. Evaluating statistical tests for within-network classifiers of relational data. In Proc. 2009 Int. Conf. Data Mining (ICDM’09), pp. 397– 406, Miami, FL, Dec. 2009.
-R. Ng and J. Han. Efficient and effective clustering method for spatial data mining. In Proc. 1994 Int. Conf. Very Large Data Bases (VLDB’94), pp. 144–155, Santiago, Chile, Sept. 1994.
-A. Y. Ng, M. I. Jordan, and Y. Weiss. On spectral clustering: Analysis and an algorithm. In T. G. Dietterich, S. Becker, and Z. Ghahramani (eds.), Advances in Neural Information Processing Systems 14. pp. 849–856, Cambridge, MA: MIT Press, 2001.
-S. Nijssen and J. Kok. A quick start in frequent structure mining can make a difference. In Proc. 2004 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’04), pp. 647–652, Seattle, WA, Aug. 2004.
-
-+ [NKNW96] [NLHP98]
-[NRS99]
-[NW99] [OFG97]
-[OG95]
-[Ols03] [Omi03]
-[OMM+ 02] [OQ97]
-[ORS98] [Pag89] [Paw91] [PB00] [PBTL99]
-[PCT+ 03] [PCY95a] [PCY95b] [Pea88]
-J. Neter, M. H. Kutner, C. J. Nachtsheim, and L. Wasserman. Applied Linear Statistical Models (4th ed.). Irwin, 1996.
-R. Ng, L. V. S. Lakshmanan, J. Han, and A. Pang. Exploratory mining and pruning optimizations of constrained associations rules. In Proc. 1998 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’98), pp. 13–24, Seattle, WA, June 1998.
-A. Natsev, R. Rastogi, and K. Shim. Walrus: A similarity retrieval algorithm for image databases. In Proc. 1999 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’99), pp. 395–406, Philadelphia, PA, June 1999.
-J. Nocedal and S. J. Wright. Numerical Optimization. Springer Verlag, 1999.
-E. Osuna, R. Freund, and F. Girosi. An improved training algorithm for support vec- tor machines. In Proc. 1997 IEEE Workshop Neural Networks for Signal Processing (NNSP’97), pp. 276–285, Amelia Island, FL, Sept. 1997.
-P. O’Neil and G. Graefe. Multi-table joins through bitmapped join indices. SIGMOD Record, 24:8–11, Sept. 1995.
-J. E. Olson. Data Quality: The Accuracy Dimension. Morgan Kaufmann, 2003.
-E. Omiecinski. Alternative interest measures for mining associations. IEEE Trans. Knowledge and Data Engineering, 15:57–69, 2003.
-L. O’Callaghan, A. Meyerson, R. Motwani, N. Mishra, and S. Guha. Streaming-data algorithms for high-quality clustering. In Proc. 2002 Int. Conf. Data Engineering (ICDE’02), pp. 685–696, San Fransisco, CA, Apr. 2002.
-P. O’Neil and D. Quass. Improved query performance with variant indexes. In Proc. 1997 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’97), pp. 38–49, Tucson, AZ, May 1997. B.O ̈zden,S.Ramaswamy,andA.Silberschatz.Cyclicassociationrules.InProc.1998Int. Conf. Data Engineering (ICDE’98), pp. 412–421, Orlando, FL, Feb. 1998.
-G. Pagallo. Learning DNF by decision trees. In Proc. 1989 Int. Joint Conf. Artificial Intelligence (IJCAI’89), pp. 639–644, San Francisco, CA, 1989.
-Z. Pawlak. Rough Sets, Theoretical Aspects of Reasoning about Data. Kluwer Academic, 1991.
-J. C. Pinheiro and D. M. Bates. Mixed Effects Models in S and S-PLUS. Springer Verlag, 2000.
-N. Pasquier, Y. Bastide, R. Taouil, and L. Lakhal. Discovering frequent closed itemsets for association rules. In Proc. 7th Int. Conf. Database Theory (ICDT’99), pp. 398–416, Jerusalem, Israel, Jan. 1999.
-F. Pan, G. Cong, A. K. H. Tung, J. Yang, and M. Zaki. CARPENTER: Finding closed patterns in long biological datasets. In Proc. 2003 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’03), pp. 637–642, Washington, DC, Aug. 2003.
-J. S. Park, M. S. Chen, and P. S. Yu. An effective hash-based algorithm for mining associ- ation rules. In Proc. 1995 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’95), pp. 175–186, San Jose, CA, May 1995.
-J. S. Park, M. S. Chen, and P. S. Yu. Efficient parallel mining for association rules. In Proc. 4th Int. Conf. Information and Knowledge Management, pp. 31–36, Baltimore, MD, Nov. 1995.
-J. Pearl. Probabilistic Reasoning in Intelligent Systems. Morgan Kaufmann, 1988.
-
-
-+ [PHL01]
-[PHL+ 01]
-[PHL04] [PHM00]
-J. Pei, J. Han, and L. V. S. Lakshmanan. Mining frequent itemsets with convertible con- straints. In Proc. 2001 Int. Conf. Data Engineering (ICDE’01), pp. 433–442, Heidelberg, Germany, Apr. 2001.
-J. Pei, J. Han, H. Lu, S. Nishio, S. Tang, and D. Yang, H-Mine: Hyper-Structure Mining of Frequent Patterns in Large Databases. In Proc. 2001 Int. Conf. Data Mining (ICDM’01), pp. 441–448, San Jose, CA, Nov. 2001.
-L. Parsons, E. Haque, and H. Liu. Subspace clustering for high dimensional data: A review. SIGKDD Explorations, 6:90–105, 2004.
-J. Pei, J. Han, and R. Mao. CLOSET: An efficient algorithm for mining frequent closed itemsets. In Proc. 2000 ACM-SIGMOD Int. Workshop Data Mining and Knowledge Discovery (DMKD’00), pp. 11–20, Dallas, TX, May 2000.
-[PHM-A+01] J.Pei,J.Han,B.Mortazavi-Asl,H.Pinto,Q.Chen,U.Dayal,andM.-C.Hsu.PrefixSpan: Mining sequential patterns efficiently by prefix-projected pattern growth. In Proc. 2001 Int. Conf. Data Engineering (ICDE’01), pp. 215–224, Heidelberg, Germany, Apr. 2001.
-[PHM-A+04] J. Pei, J. Han, B. Mortazavi-Asl, J. Wang, H. Pinto, Q. Chen, U. Dayal, and M.-C. Hsu. Mining sequential patterns by pattern-growth: The prefixSpan approach. IEEE Trans. Knowledge and Data Engineering, 16:1424–1440, 2004.
-V. Poosala and Y. Ioannidis. Selectivity estimation without the attribute value independence assumption. In Proc. 1997 Int. Conf. Very Large Data Bases (VLDB’97), pp. 486–495, Athens, Greece, Aug. 1997.
-[PI97]
-[PKGF03]
-[PKMT99]
-[PKZT01]
-[PL07] [Pla98]
-[PP07] [PS85] [P-S91] [P-SF91] [PTCX04]
-S. Papadimitriou, H. Kitagawa, P. B. Gibbons, and C. Faloutsos. Loci: Fast outlier detec- tion using the local correlation integral. In Proc. 2003 Int. Conf. Data Engineering (ICDE’03), pp. 315–326, Bangalore, India, Mar. 2003.
-A. Pfeffer, D. Koller, B. Milch, and K. Takusagawa. SPOOK: A system for probabilistic object-oriented knowledge representation. In Proc. 15th Annual Conf. Uncertainty in Artificial Intelligence (UAI’99), pp. 541–550, Stockholm, Sweden, 1999.
-D. Papadias, P. Kalnis, J. Zhang, and Y. Tao. Efficient OLAP operations in spatial data warehouses. In Proc. 2001 Int. Symp. Spatial and Temporal Databases (SSTD’01), pp. 443–459, Redondo Beach, CA, July 2001.
-B. Pang and L. Lee. Opinion mining and sentiment analysis. Foundations and Trends in Information Retrieval, 2:1–135, 2007.
-J. C. Platt. Fast training of support vector machines using sequential minimal optimization. In B. Scho ̈lkopf, C. J. C. Burges, and A. Smola (eds.), Advances in Kernel Methods—Support Vector Learning, pp. 185–208. Cambridge, MA: MIT Press, 1998.
-A. Patcha, and J.-M. Park. An overview of anomaly detection techniques: Existing solutions and latest technological trends. Computer Networks, 51(12):3448–3470, 2007. F. P. Preparata and M. I. Shamos. Computational Geometry: An Introduction. Springer Verlag, 1985.
-G. Piatetsky-Shapiro. Notes AAAI’91 Workshop Knowledge Discovery in Databases (KDD’91). Anaheim, CA, July 1991.
-G. Piatetsky-Shapiro and W. J. Frawley. Knowledge Discovery in Databases. AAAI/MIT Press, 1991.
-F. Pan, A. K. H. Tung, G. Cong, and X. Xu. COBBLER: Combining column and row enumeration for closed pattern discovery. In Proc. 2004 Int. Conf. Scientific and Statistical Database Management (SSDBM’04), pp. 21–30, Santorini Island, Greece, June 2004.
-
++ [LHF98] H. Lu, J. Han, and L. Feng. Stock movement and n-dimensional inter-transaction asso- ciation rules. In Proc. 1998 SIGMOD Workshop Research Issues on Data Mining and Knowledge Discovery (DMKD’98), pp. 12:1–12:7, Seattle, WA, June 1998.
++ [LHG04] X. Li, J. Han, and H. Gonzalez. High-dimensional OLAP: A minimal cubing approach. In Proc. 2004 Int. Conf. Very Large Data Bases (VLDB’04), pp. 528–539, Toronto, Ontario, Canada, Aug. 2004.
++ [LHKG07] X. Li, J. Han, S. Kim, and H. Gonzalez. Roam: Rule- and motif-based anomaly detec- tion in massive moving object data sets. In Proc. 2007 SIAM Int. Conf. Data Mining (SDM’07), Minneapolis, MN, Apr. 2007.
++ [LHM98] B. Liu, W. Hsu, and Y. Ma. Integrating classification and association rule mining. In Proc. 1998 Int. Conf. Knowledge Discovery and Data Mining (KDD’98), pp. 80–86, New York, Aug. 1998.
++ [LHP01] W. Li, J. Han, and J. Pei. CMAR: Accurate and efficient classification based on multiple class-association rules. In Proc. 2001 Int. Conf. Data Mining (ICDM’01), pp. 369–376, San Jose, CA, Nov. 2001.
++ [LHTD02] H. Liu, F. Hussain, C. L. Tan, and M. Dash. Discretization: An enabling technique. Data Mining and Knowledge Discovery, 6:393–423, 2002.
++ [LHW07] J.-G. Lee, J. Han, and K. Whang. Clustering trajectory data. In Proc. 2007 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’07), Beijing, China, June 2007.
++ [LHXS06] H. Liu, J. Han, D. Xin, and Z. Shao. Mining frequent patterns on very high dimen- sional data: A top-down row enumeration approach. In Proc. 2006 SIAM Int. Conf. Data Mining (SDM’06), Bethesda, MD, Apr. 2006.
++ [LHY+ 08] X. Li, J. Han, Z. Yin, J.-G. Lee, and Y. Sun. Sampling Cube: A framework for statistical OLAP over sampling data. In Proc. 2008 ACM SIGMOD Int. Conf. Management of Data (SIGMOD’08), pp. 779–790, Vancouver, British Columbia, Canada, June 2008.
++ [Liu06] B. Liu. Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data. New York: Springer, 2006.
++ [LJK00] J. Laurikkala, M. Juhola, and E. Kentala. Informal identification of outliers in med- ical data. In Proc. 5th Int. Workshop on Intelligent Data Analysis in Medicine and Pharmacology, Berlin, Germany, Aug. 2000.
++ [LKCH03] Y.-K. Lee, W.-Y. Kim, Y. D. Cai, and J. Han. CoMine: Efficient mining of correlated patterns. In Proc. 2003 Int. Conf. Data Mining (ICDM’03), pp. 581–584, Melbourne, FL, Nov. 2003.
++ [LKF05] J. Leskovec, J. Kleinberg, and C. Faloutsos. Graphs over time: Densification laws, shrinking diameters and possible explanations. In Proc. 2005 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’05), pp. 177–187, Chicago, IL, Aug. 2005. 
++ [LLLY03] G. Liu, H. Lu, W. Lou, and J. X. Yu. On computing, storing and querying frequent patterns. In Proc. 2003 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’03), pp. 607–612, Washington, DC, Aug. 2003.
++ [LLMZ04] Z. Li, S. Lu, S. Myagmar, and Y. Zhou. CP-Miner: A tool for finding copy-paste and related bugs in operating system code. In Proc. 2004 Symp. Operating Systems Design and Implementation (OSDI’04), pp. 20–22, San Francisco, CA, Dec. 2004.
++ [Llo57] S. P. Lloyd. Least squares quantization in PCM. IEEE Trans. Information Theory, 28:128–137, 1982 (original version: Technical Report, Bell Labs, 1957).
++ [LLS00] T.-S. Lim, W.-Y. Loh, and Y.-S. Shih. A comparison of prediction accuracy, complex- ity, and training time of thirty-three old and new classification algorithms. Machine Learning, 40:203–228, 2000.
++ [LM97] K. Laskey and S. Mahoney. Network fragments: Representing knowledge for construct- ing probabilistic models. In Proc. 13th Annual Conf. Uncertainty in Artificial Intelligence, pp. 334–341, San Francisco, CA, Aug. 1997.
++ [LM98a] H. Liu and H. Motoda. Feature Selection for Knowledge Discovery and Data Mining. Kluwer Academic, 1998.
++ [LM98b] H. Liu and H. Motoda (eds.). Feature Extraction, Construction, and Selection: A Data Mining Perspective. Kluwer Academic, 1998.
++ [LNHP99] L. V. S. Lakshmanan, R. Ng, J. Han, and A. Pang. Optimization of constrained fre- quent set queries with 2-variable constraints. In Proc. 1999 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’99), pp. 157–168, Philadelphia, PA, June 1999.
++ [L-NK03] D. Liben-Nowell and J. Kleinberg. The link prediction problem for social networks. In Proc. 2003 Int. Conf. Information and Knowledge Management (CIKM’03), pp. 556–559, New Orleans, LA, Nov. 2003.
++ [Los01] D. Loshin. Enterprise Knowledge Management: The Data Quality Approach. Morgan Kaufmann, 2001.
++ [LP97] A. Lenarcik and Z. Piasta. Probabilistic rough classifiers with mixture of discrete and continuous variables. In T. Y. Lin and N. Cercone (eds.), Rough Sets and Data Mining: Analysis for Imprecise Data, pp. 373–383, Kluwer Academic, 1997.
++ [LPH02] L. V. S. Lakshmanan, J. Pei, and J. Han. Quotient cube: How to summarize the semantics of a data cube. In Proc. 2002 Int. Conf. Very Large Data Bases (VLDB’02), pp. 778–789, Hong Kong, China, Aug. 2002.
++ [LPWH02] J. Liu, Y. Pan, K. Wang, and J. Han. Mining frequent itemsets by opportunistic projec- tion. In Proc. 2002 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’02), pp. 239–248, Edmonton, Alberta, Canada, July 2002.
++ [LPZ03] L. V. S. Lakshmanan, J. Pei, and Y. Zhao. QC-Trees: An efficient summary structure for semantic OLAP. In Proc. 2003 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’03), pp. 64–75, San Diego, CA, June 2003.
++ [LS95] H. Liu and R. Setiono. Chi2: Feature selection and discretization of numeric attributes. In Proc. 1995 IEEE Int. Conf. Tools with AI (ICTAI’95), pp. 388–391, Washington, DC, Nov. 1995.
++ [LS97] W. Y. Loh and Y. S. Shih. Split selection methods for classification trees. Statistica Sinica, 7:815–840, 1997.
++ [LSBZ87] P. Langley, H. A. Simon, G. L. Bradshaw, and J. M. Zytkow. Scientific Discovery: Computational Explorations of the Creative Processes. Cambridge, MA: MIT Press, 1987. 
++ [LSL95] H. Lu, R. Setiono, and H. Liu. Neurorule: A connectionist approach to data mining. In Proc. 1995 Int. Conf. Very Large Data Bases (VLDB’95), pp. 478–489, Zurich, Switzerland, Sept. 1995.
++ [LSW97] B. Lent, A. Swami, and J. Widom. Clustering association rules. In Proc. 1997 Int. Conf. Data Engineering (ICDE’97), pp. 220–231, Birmingham, England, Apr. 1997.
++ [Lux07] U. Luxburg. A tutorial on spectral clustering. Statistics and Computing, 17:395–416, 2007.
++ [LV88] W. Y. Loh and N. Vanichsetakul. Tree-structured classificaiton via generalized discrimi- nant analysis. J. American Statistical Association, 83:715–728, 1988.
++ [LZ05] Z. Li and Y. Zhou. PR-Miner: Automatically extracting implicit programming rules and detecting violations in large software code. In Proc. 2005 ACM SIGSOFT Symp. Foundations of Software Engineering (FSE’05), Lisbon, Portugal, Sept. 2005.
++ [MA03] S. Mitra and T. Acharya. Data Mining: Multimedia, Soft Computing, and Bioinformatics. John Wiley & Sons, 2003.
++ [MAE05] A. Metwally, D. Agrawal, and A. El Abbadi. Efficient computation of frequent and top-k elements in data streams. In Proc. 2005 Int. Conf. Database Theory (ICDT’05), pp. 398–412, Edinburgh, Scotland, Jan. 2005.
++ [Mac67] J. MacQueen. Some methods for classification and analysis of multivariate observations. In Proc. 5th Berkeley Symp. Math. Stat. Prob., 1:281–297, Berkeley, CA, 1967.
++ [Mag94] J. Magidson. The CHAID approach to segmentation modeling: CHI-squared automatic interaction detection. In R. P. Bagozzi (ed.), Advanced Methods of Marketing Research, pp. 118–159. Blackwell Business, 1994.
++ [Man00] H. Mannila. Theoretical frameworks of data mining. SIGKDD Explorations, 1:30–32, 2000.
++ [MAR96]  M. Mehta, R. Agrawal, and J. Rissanen. SLIQ: A fast scalable classifier for data mining. In Proc. 1996 Int. Conf. Extending Database Technology (EDBT’96), pp. 18–32, Avignon, France, Mar. 1996.
++ [Mar09] S. Marsland. Machine Learning: An Algorithmic Perspective. Chapman & Hall/CRC, 2009. 
++ [MB88] G. J. McLachlan and K. E. Basford. Mixture Models: Inference and Applications to Clustering. John Wiley & Sons, 1988.
++ [MC03] M. V. Mahoney and P. K. Chan. Learning rules for anomaly detection of hostile net- work traffic. In Proc. 2003 Int. Conf. Data Mining (ICDM’03), Melbourne, FL, Nov. 2003.
++ [MCK+ 04] N. Mamoulis, H. Cao, G. Kollios, M. Hadjieleftheriou, Y. Tao, and D. Cheung. Min- ing, indexing, and querying historical spatiotemporal data. In Proc. 2004 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’04), pp. 236–245, Seattle, WA, Aug. 2004.
++ [MCM83] R. S. Michalski, J. G. Carbonell, and T. M. Mitchell. Machine Learning, An Artificial Intelligence Approach, Vol. 1. Morgan Kaufmann, 1983.
++ [MCM86] R. S. Michalski, J. G. Carbonell, and T. M. Mitchell. Machine Learning, An Artificial Intelligence Approach, Vol. 2. Morgan Kaufmann, 1986.
++ [MD88] M. Muralikrishna and D. J. DeWitt. Equi-depth histograms for extimating selectiv- ity factors for multi-dimensional queries. In Proc. 1988 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’88), pp. 28–36, Chicago, IL, June 1988.
++ [Mei03] M. Meilaˇ. Comparing clusterings by the variation of information. In Proc. 16th Annual Conf. Computational Learning Theory (COLT’03), pp. 173–187, Washington, DC, Aug. 2003.
++ [Mei05] M. Meilaˇ. Comparing clusterings: An axiomatic view. In Proc. 22nd Int. Conf. Machine Learning (ICML’05), pp. 577–584, Bonn, Germany, 2005.
++ [Men03] J. Mena. Investigative Data Mining with Security and Criminal Detection. Butterworth- Heinemann, 2003.
++ [MFS95] D. Malerba, E. Floriana, and G. Semeraro. A further comparison of simplification meth- ods for decision tree induction. In D. Fisher and H. Lenz (eds.), Learning from Data: AI and Statistics. Springer Verlag, 1995.
++ [MH95] J. K. Martin and D. S. Hirschberg. The time complexity of decision tree induction. In Technical Report ICS-TR 95-27, pp. 1–27, Department of Information and Computer Science, University of California, Irvine, CA, Aug. 1995.
++ [MH09] H. Miller and J. Han. Geographic Data Mining and Knowledge Discovery (2nd ed.). Chapman & Hall/CRC, 2009.
++ [Mic83] R. S. Michalski. A theory and methodology of inductive learning. In R. S. Michalski, J. G. Carbonell, and T. M. Mitchell (eds.), Machine Learning: An Artificial Intelligence Approach, Vol. 1, pp. 83–134. Morgan Kaufmann, 1983.
++ [Mic92] Z. Michalewicz. Genetic Algorithms + Data Structures = Evolution Programs. Springer Verlag, 1992.
++ [Mil98] R. G. Miller. Survival Analysis. Wiley-Interscience, 1998.
++ [Min89] J. Mingers. An empirical comparison of pruning methods for decision-tree induction. Machine Learning, 4:227–243, 1989.
++ [Mir98] B. Mirkin. Mathematical classification and clustering. J. Global Optimization, 12:105– 108, 1998.
++ [Mit96]M. Mitchell. An Introduction to Genetic Algorithms. Cambridge, MA: MIT Press, 1996. 
++ [Mit97] T. M. Mitchell. Machine Learning. McGraw-Hill, 1997.
++ [MK91] M. Manago and Y. Kodratoff. Induction of decision trees from complex structured data. In G. Piatetsky-Shapiro and W. J. Frawley (eds.), Knowledge Discovery in Databases, pp. 289–306. AAAI/MIT Press, 1991.
++ [MLSZ06] Q. Mei, C. Liu, H. Su, and C. Zhai. A probabilistic approach to spatiotemporal theme pattern mining on weblogs. In Proc. 15th Int. Conf. World Wide Web (WWW’06), pp. 533–542, Edinburgh, Scotland, May 2006.
++ [MM95] J. Major and J. Mangano. Selecting among rules induced from a hurricane database. J. Intelligent Information Systems, 4:39–52, 1995.
++ [MM02] G. Manku and R. Motwani. Approximate frequency counts over data streams. In Proc. 2002 Int. Conf. Very Large Data Bases (VLDB’02), pp. 346–357, Hong Kong, China, Aug. 2002.
++ [MN89] M. Me ́zard and J.-P. Nadal. Learning in feedforward layered networks: The tiling algorithm. J. Physics, 22:2191–2204, 1989.
++ [MO04] S. C. Madeira and A. L. Oliveira. Biclustering algorithms for biological data analysis: A survey. IEEE/ACM Trans. Computational Biology and Bioinformatics, 1(1):24–25, 2004. 
++ [MP69] M. L. Minsky and S. Papert. Perceptrons: An Introduction to Computational Geometry. Cambridge, MA: MIT Press, 1969.
++ [MRA95] M. Metha, J. Rissanen, and R. Agrawal. MDL-based decision tree pruning. In Proc. 1995 Int. Conf. Knowledge Discovery and Data Mining (KDD’95), pp. 216–221, Montreal, Quebec, Canada, Aug. 1995.
++ [MRS08] C. D. Manning, P. Raghavan, and H. Schutze. Introduction to Information Retrieval. Cambridge University Press, 2008.
++ [MS03a] M. Markou and S. Singh. Novelty detection: A review—part 1: Statistical approaches. Signal Processing, 83:2481–2497, 2003.
++ [MS03b] M. Markou and S. Singh. Novelty detection: A review—part 2: Neural network based approaches. Signal Processing, 83:2499–2521, 2003.
++ [MST94] D. Michie, D. J. Spiegelhalter, and C. C. Taylor. Machine Learning, Neural and Statistical Classification. Chichester, England: Ellis Horwood, 1994.
++ [MT94] R. S. Michalski and G. Tecuci. Machine Learning, A Multistrategy Approach, Vol. 4. Morgan Kaufmann, 1994.
++ [MTV94] H. Mannila, H. Toivonen, and A. I. Verkamo. Efficient algorithms for discovering asso- ciation rules. In Proc. AAAI’94 Workshop Knowledge Discovery in Databases (KDD’94), pp. 181–192, Seattle, WA, July 1994.
++ [MTV97] H. Mannila, H. Toivonen, and A. I. Verkamo. Discovery of frequent episodes in event sequences. Data Mining and Knowledge Discovery, 1:259–289, 1997.
++ [Mur98] S. K. Murthy. Automatic construction of decision trees from data: A multi-disciplinary survey. Data Mining and Knowledge Discovery, 2:345–389, 1998.
++ [Mut05] S. Muthukrishnan. Data Streams: Algorithms and Applications. Now Publishers, 2005. 
++ [MXC+07] Q. Mei, D. Xin, H. Cheng, J. Han, and C. Zhai. Semantic annotation of frequent patterns. ACM Trans. Knowledge Discovery from Data (TKDD), 15:321–348, 2007.
++ [MY97] R. J. Miller and Y. Yang. Association rules over interval data. In Proc. 1997 ACM- SIGMOD Int. Conf. Management of Data (SIGMOD’97), pp. 452–461, Tucson, AZ, May 1997.
++ [MZ06] Q. Mei and C. Zhai. A mixture model for contextual text mining. In Proc. 2006 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’06), pp. 649–655, Philadelphia, PA, Aug. 2006.
++ [NB86] T. Niblett and I. Bratko. Learning decision rules in noisy domains. In M. A. Brammer (ed.), Expert Systems ’86: Research and Development in Expert Systems III, pp. 25–34. British Computer Society Specialist Group on Expert Systems, Dec. 1986.
++ [NBW06] M. Newman, A.-L. Barabasi, and D. J. Watts. The Structure and Dynamics of Networks. Princeton University Press, 2006.
++ [NC03] C. C. Noble and D. J. Cook. Graph-based anomaly detection. In Proc. 2003 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’03), pp. 631–636, Washington, DC, Aug. 2003.
++ [New10] M. Newman. Networks: An Introduction. Oxford University Press, 2010.
++ [NG04] M. E. J. Newman and M. Girvan. Finding and evaluating community structure in networks. Physical Rev. E, 69:113–128, 2004.
++ [NGE-R09] J. Neville, B. Gallaher, and T. Eliassi-Rad. Evaluating statistical tests for within-network classifiers of relational data. In Proc. 2009 Int. Conf. Data Mining (ICDM’09), pp. 397– 406, Miami, FL, Dec. 2009.
++ [NH94] R. Ng and J. Han. Efficient and effective clustering method for spatial data mining. In Proc. 1994 Int. Conf. Very Large Data Bases (VLDB’94), pp. 144–155, Santiago, Chile, Sept. 1994.
++ [NJW01] A. Y. Ng, M. I. Jordan, and Y. Weiss. On spectral clustering: Analysis and an algorithm. In T. G. Dietterich, S. Becker, and Z. Ghahramani (eds.), Advances in Neural Information Processing Systems 14. pp. 849–856, Cambridge, MA: MIT Press, 2001.
++ [NK04] S. Nijssen and J. Kok. A quick start in frequent structure mining can make a difference. In Proc. 2004 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’04), pp. 647–652, Seattle, WA, Aug. 2004.
++ [NKNW96] J. Neter, M. H. Kutner, C. J. Nachtsheim, and L. Wasserman. Applied Linear Statistical Models (4th ed.). Irwin, 1996.
++ [NLHP98] R. Ng, L. V. S. Lakshmanan, J. Han, and A. Pang. Exploratory mining and pruning optimizations of constrained associations rules. In Proc. 1998 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’98), pp. 13–24, Seattle, WA, June 1998.
++ [NRS99] A. Natsev, R. Rastogi, and K. Shim. Walrus: A similarity retrieval algorithm for image databases. In Proc. 1999 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’99), pp. 395–406, Philadelphia, PA, June 1999.
++ [NW99] J. Nocedal and S. J. Wright. Numerical Optimization. Springer Verlag, 1999.
++ [OFG97] E. Osuna, R. Freund, and F. Girosi. An improved training algorithm for support vec- tor machines. In Proc. 1997 IEEE Workshop Neural Networks for Signal Processing (NNSP’97), pp. 276–285, Amelia Island, FL, Sept. 1997.
++ [OG95] P. O’Neil and G. Graefe. Multi-table joins through bitmapped join indices. SIGMOD Record, 24:8–11, Sept. 1995.
++ [Ols03] J. E. Olson. Data Quality: The Accuracy Dimension. Morgan Kaufmann, 2003.
++ [Omi03] E. Omiecinski. Alternative interest measures for mining associations. IEEE Trans. Knowledge and Data Engineering, 15:57–69, 2003.
++ [OMM+ 02] L. O’Callaghan, A. Meyerson, R. Motwani, N. Mishra, and S. Guha. Streaming-data algorithms for high-quality clustering. In Proc. 2002 Int. Conf. Data Engineering (ICDE’02), pp. 685–696, San Fransisco, CA, Apr. 2002.
++ [OQ97] P. O’Neil and D. Quass. Improved query performance with variant indexes. In Proc. 1997 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’97), pp. 38–49, Tucson, AZ, May 1997. 
++ [ORS98] B.O ̈zden,S.Ramaswamy,andA.Silberschatz.Cyclicassociationrules.InProc.1998Int. Conf. Data Engineering (ICDE’98), pp. 412–421, Orlando, FL, Feb. 1998.
++ [Pag89] G. Pagallo. Learning DNF by decision trees. In Proc. 1989 Int. Joint Conf. Artificial Intelligence (IJCAI’89), pp. 639–644, San Francisco, CA, 1989.
++ [Paw91] Z. Pawlak. Rough Sets, Theoretical Aspects of Reasoning about Data. Kluwer Academic, 1991.
++ [PB00] J. C. Pinheiro and D. M. Bates. Mixed Effects Models in S and S-PLUS. Springer Verlag, 2000.
++ [PBTL99] N. Pasquier, Y. Bastide, R. Taouil, and L. Lakhal. Discovering frequent closed itemsets for association rules. In Proc. 7th Int. Conf. Database Theory (ICDT’99), pp. 398–416, Jerusalem, Israel, Jan. 1999.
++ [PCT+ 03] F. Pan, G. Cong, A. K. H. Tung, J. Yang, and M. Zaki. CARPENTER: Finding closed patterns in long biological datasets. In Proc. 2003 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’03), pp. 637–642, Washington, DC, Aug. 2003.
++ [PCY95a] J. S. Park, M. S. Chen, and P. S. Yu. An effective hash-based algorithm for mining associ- ation rules. In Proc. 1995 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’95), pp. 175–186, San Jose, CA, May 1995.
++ [PCY95b] J. S. Park, M. S. Chen, and P. S. Yu. Efficient parallel mining for association rules. In Proc. 4th Int. Conf. Information and Knowledge Management, pp. 31–36, Baltimore, MD, Nov. 1995.
++ [Pea88] J. Pearl. Probabilistic Reasoning in Intelligent Systems. Morgan Kaufmann, 1988.
++ [PHL01]J. Pei, J. Han, and L. V. S. Lakshmanan. Mining frequent itemsets with convertible con- straints. In Proc. 2001 Int. Conf. Data Engineering (ICDE’01), pp. 433–442, Heidelberg, Germany, Apr. 2001.
++ [PHL+ 01] J. Pei, J. Han, H. Lu, S. Nishio, S. Tang, and D. Yang, H-Mine: Hyper-Structure Mining of Frequent Patterns in Large Databases. In Proc. 2001 Int. Conf. Data Mining (ICDM’01), pp. 441–448, San Jose, CA, Nov. 2001.
++ [PHL04] L. Parsons, E. Haque, and H. Liu. Subspace clustering for high dimensional data: A review. SIGKDD Explorations, 6:90–105, 2004.
++ [PHM00] J. Pei, J. Han, and R. Mao. CLOSET: An efficient algorithm for mining frequent closed itemsets. In Proc. 2000 ACM-SIGMOD Int. Workshop Data Mining and Knowledge Discovery (DMKD’00), pp. 11–20, Dallas, TX, May 2000.
++ [PHM-A+01] J.Pei,J.Han,B.Mortazavi-Asl,H.Pinto,Q.Chen,U.Dayal,andM.-C.Hsu.PrefixSpan: Mining sequential patterns efficiently by prefix-projected pattern growth. In Proc. 2001 Int. Conf. Data Engineering (ICDE’01), pp. 215–224, Heidelberg, Germany, Apr. 2001.
++ [PHM-A+04] J. Pei, J. Han, B. Mortazavi-Asl, J. Wang, H. Pinto, Q. Chen, U. Dayal, and M.-C. Hsu. Mining sequential patterns by pattern-growth: The prefixSpan approach. IEEE Trans. Knowledge and Data Engineering, 16:1424–1440, 2004.
++ [PI97] V. Poosala and Y. Ioannidis. Selectivity estimation without the attribute value independence assumption. In Proc. 1997 Int. Conf. Very Large Data Bases (VLDB’97), pp. 486–495, Athens, Greece, Aug. 1997.
++ [PKGF03] S. Papadimitriou, H. Kitagawa, P. B. Gibbons, and C. Faloutsos. Loci: Fast outlier detec- tion using the local correlation integral. In Proc. 2003 Int. Conf. Data Engineering (ICDE’03), pp. 315–326, Bangalore, India, Mar. 2003.
++ [PKMT99] A. Pfeffer, D. Koller, B. Milch, and K. Takusagawa. SPOOK: A system for probabilistic object-oriented knowledge representation. In Proc. 15th Annual Conf. Uncertainty in Artificial Intelligence (UAI’99), pp. 541–550, Stockholm, Sweden, 1999.
++ [PKZT01] D. Papadias, P. Kalnis, J. Zhang, and Y. Tao. Efficient OLAP operations in spatial data warehouses. In Proc. 2001 Int. Symp. Spatial and Temporal Databases (SSTD’01), pp. 443–459, Redondo Beach, CA, July 2001.
++ [PL07]  B. Pang and L. Lee. Opinion mining and sentiment analysis. Foundations and Trends in Information Retrieval, 2:1–135, 2007.
++ [Pla98] J. C. Platt. Fast training of support vector machines using sequential minimal optimization. In B. Scho ̈lkopf, C. J. C. Burges, and A. Smola (eds.), Advances in Kernel Methods—Support Vector Learning, pp. 185–208. Cambridge, MA: MIT Press, 1998.
++ [PS85] A. Patcha, and J.-M. Park. An overview of anomaly detection techniques: Existing solutions and latest technological trends. Computer Networks, 51(12):3448–3470, 2007. 
++ [PP07] F. P. Preparata and M. I. Shamos. Computational Geometry: An Introduction. Springer Verlag, 1985.
++ [P-S91] G. Piatetsky-Shapiro. Notes AAAI’91 Workshop Knowledge Discovery in Databases (KDD’91). Anaheim, CA, July 1991.
++ [P-SF91] G. Piatetsky-Shapiro and W. J. Frawley. Knowledge Discovery in Databases. AAAI/MIT Press, 1991.
++ [PTCX04] F. Pan, A. K. H. Tung, G. Cong, and X. Xu. COBBLER: Combining column and row enumeration for closed pattern discovery. In Proc. 2004 Int. Conf. Scientific and Statistical Database Management (SSDBM’04), pp. 21–30, Santorini Island, Greece, June 2004.
 + [PTVF07] W. H. Press, S. A. Teukolosky, W. T. Vetterling, and B. P. Flannery. Numerical Recipes: The Art of Scientific Computing. Cambridge: Cambridge University Press, 2007.
 + [PY10] S. J. Pan and Q. Yang. A survey on transfer learning. IEEE Trans. Knowledge and Data Engineering, 22:1345–1359, 2010.
 + [Pyl99] D. Pyle. Data Preparation for Data Mining. Morgan Kaufmann, 1999.
@@ -752,7 +668,6 @@ F. Pan, A. K. H. Tung, G. Cong, and X. Xu. COBBLER: Combining column and row enu
 + [RGN10] L. De Raedt, T. Guns, and S. Nijssen. Constraint programming for data mining and machine learning. In Proc. 2010 AAAI Conf. Artificial Intelligence (AAAI’10), pp. 1671– 1675, Atlanta, GA, July 2010.
 + [RH01] V. Raman and J. M. Hellerstein. Potter’s wheel: An interactive data cleaning system. In Proc. 2001 Int. Conf. Very Large Data Bases (VLDB’01), pp. 381–390, Rome, Italy, Sept. 2001.
 + [RH07] A. Rosenberg and J. Hirschberg. V-measure: A conditional entropy-based external cluster evaluation measure. In Proc. 2007 Joint Conf. Empirical Methods in Natural Lan- guage Processing and Computational Natural Language Learning (EMNLP-CoNLL’07), pp. 410–420, Prague, Czech Republic, June 2007.
-
 + [RHS01] J. F. Roddick, K. Hornsby, and M. Spiliopoulou. An updated bibliography of tempo- ral, spatial, and spatio-temporal data mining research. In J. F. Roddick and K. Hornsby (eds.), TSDM 2000, Lecture Notes in Computer Science 2007, pp. 147–163. New York: Springer, 2001.
 + [RHW86] D. E. Rumelhart, G. E. Hinton, and R. J. Williams. Learning internal representations by error propagation. In D. E. Rumelhart and J. L. McClelland (eds.), Parallel Distributed Processing. Cambridge, MA: MIT Press, 1986.
 + [Rip96] B. D. Ripley. Pattern Recognition and Neural Networks. Cambridge University Press, 1996.
