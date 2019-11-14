@@ -99,6 +99,26 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + [BO04] A. Baxevanis and B. F. F. Ouellette. Bioinformatics: A Practical Guide to the Analysis of Genes and Proteins (3rd ed.). John Wiley & Sons, 2004.
 + [BP92] J. C. Bezdek and S. K. Pal. Fuzzy Models for Pattern Recognition: Methods That Search for Structures in Data. IEEE Press, 1992.
 + [BP98] S. Brin and L. Page. The anatomy of a large-scale hypertextual web search engine. In Proc. 7th Int. World Wide Web Conf. (WWW’98), pp. 107–117, Brisbane, Australia, Apr. 1998.
++ [BPT97] E. Baralis, S. Paraboschi, and E. Teniente. Materialized view selection in a multidimen- sional database. In Proc. 1997 Int. Conf. Very Large Data Bases (VLDB’97), pp. 98–12, Athens, Greece, Aug. 1997.
++ [BPW88] E. R. Bareiss, B. W. Porter, and C. C. Weir. Protos: An exemplar-based learning apprentice. Int. J. Man-Machine Studies, 29:549–561, 1988.
++ [BR99] K. Beyer and R. Ramakrishnan. Bottom-up computation of sparse and iceberg cubes. In Proc. 1999 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’99), pp. 359–370, Philadelphia, PA, June 1999.
++ [Bre96] L. Breiman. Bagging predictors. Machine Learning, 24:123–140, 1996.
++ [Bre01] L. Breiman. Random forests. Machine Learning, 45:5–32, 2001.
++ [BS97] D. Barbara ́ and M. Sullivan. Quasi-cubes: Exploiting approximation in multidimen- sional databases. SIGMOD Record, 26:12–17, 1997.
++ [BS03] S. D. Bay and M. Schwabacher. Mining distance-based outliers in near linear time with randomization and a simple pruning rule. In Proc. 2003 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’03), pp. 29–38, Washington, DC, Aug. 2003.
++ [BST99] A. Berson, S. J. Smith, and K. Thearling. Building Data Mining Applications for CRM. McGraw-Hill, 1999.
++ [BT99] D. P. Ballou and G. K. Tayi. Enhancing data quality in data warehouse environments. Communications of the ACM, 42:73–78, 1999.
++ [BU95] C. E. Brodley and P. E. Utgoff. Multivariate decision trees. Machine Learning, 19:45–77, 1995.
++ [Bun94] W. L. Buntine. Operations for learning with graphical models. J. Artificial Intelligence Research, 2:159–225, 1994.
++ [Bur98] C. J. C. Burges. A tutorial on support vector machines for pattern recognition. Data Mining and Knowledge Discovery, 2:121–168, 1998.
++ [BW00] D. Barbara ́ and X. Wu. Using loglinear models to compress datacubes. In Proc. 1st Int. Conf. Web-Age Information Management (WAIM’00), pp. 311–322, Shanghai, China, 2000.
++ [BW01] S. Babu and J. Widom. Continuous queries over data streams. SIGMOD Record, 30: 109–120, 2001.
++ [BYRN11] R. A. Baeza-Yates and B. A. Ribeiro-Neto. Modern Information Retrieval (2nd ed.). Boston: Addison-Wesley, 2011.
++ [Cat91] J. Catlett. Megainduction: Machine Learning on Very large Databases. Ph.D. Thesis, University of Sydney, 1991.
++ [CBK09] V. Chandola, A. Banerjee, and V. Kumar. Anomaly detection: A survey. ACM Computing Surveys, 41:1–58, 2009.
++ [CC00] Y. Cheng and G. Church. Biclustering of expression data. In Proc. 2000 Int. Conf. Intelligent Systems for Molecular Biology (ISMB’00), pp. 93–103, La Jolla, CA, Aug. 2000.
++ [CCH91] Y. Cai, N. Cercone, and J. Han. Attribute-oriented induction in relational databases. In G. Piatetsky-Shapiro and W. J. Frawley (eds.), Knowledge Discovery in Databases, pp. 213–228. AAAI/MIT Press, 1991.
++ [CCLR05] B.-C. Chen, L. Chen, Y. Lin, and R. Ramakrishnan. Prediction cubes. In Proc. 2005 Int. Conf. Very Large Data Bases (VLDB’05), pp. 982–993, Trondheim, Norway, Aug. 2005.
 
 # Journals
 + IEEETKDE（IEEE Transactions on Knowledge and Data Engineering）
