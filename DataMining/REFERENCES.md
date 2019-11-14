@@ -820,57 +820,41 @@ N. Stefanovic, J. Han, and K. Koperski. Object-based selective materialization f
 A. Shoshani. OLAP and statistical databases: Similarities and differences. In Proc. 16th ACM Symp. Principles of Database Systems, pp. 185–196, Tucson, AZ, May 1997.
 R. H. Shumway. Applied Statistical Time Series Analysis. Prentice-Hall, 1988.
 
-+ [SHX04] [SHZ+ 09]
-[Sil10] [SK08]
-[SKS10] [SLT+ 01]
-[SM97] [SMT91] [SN88] [SOMZ96]
-[SON95]
-[SON98]
-[SR81] [SR92]
-[SS88] [SS94]
-[SS01]
-Z. Shao, J. Han, and D. Xin. MM-Cubing: Computing iceberg cubes by factorizing the lattice space. In Proc. 2004 Int. Conf. Scientific and Statistical Database Management (SSDBM’04), pp. 213–222, Santorini Island, Greece, June 2004.
-Y. Sun, J. Han, P. Zhao, Z. Yin, H. Cheng, and T. Wu. RankClus: Integrating clustering with ranking for heterogeneous information network analysis. In Proc. 2009 Int. Conf. Extending Data Base Technology (EDBT’09), pp. 565–576, Saint Petersburg, Russia, Mar. 2009.
-F. Silvestri. Mining query logs: Turning search usage data into knowledge. Foundations and Trends in Information Retrieval, 4:1–174, 2010.
-J. Shieh and E. Keogh. iSAX: Indexing and mining terabyte sized time series. In Proc. 2008 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’08), pp. 623– 631, Las Vegas, NV, Aug. 2008.
-A. Silberschatz, H. F. Korth, and S. Sudarshan. Database System Concepts (6th ed.). McGraw-Hill, 2010.
-S. Shekhar, C.-T. Lu, X. Tan, S. Chawla, and R. R. Vatsavai. Map cube: A visualiza- tion tool for spatial data warehouses. In H. J. Miller and J. Han (eds.), Geographic Data Mining and Knowledge Discovery, pp. 73–108. Taylor and Francis, 2001.
-J. C. Setubal and J. Meidanis. Introduction to Computational Molecular Biology. PWS Publishing Co., 1997.
-J. W. Shavlik, R. J. Mooney, and G. G. Towell. Symbolic and neural learning algorithms: An experimental comparison. Machine Learning, 6:111–144, 1991.
-K. Saito and R. Nakano. Medical diagnostic expert system based on PDP model. In Proc. 1988 IEEE Int. Conf. Neural Networks, pp. 225–262, San Mateo, CA, 1988.
-W. Shen, K. Ong, B. Mitbander, and C. Zaniolo. Metaqueries for data mining. In U. M. Fayyad, G. Piatetsky-Shapiro, P. Smyth, and R. Uthurusamy (eds.), Advances in Knowledge Discovery and Data Mining, pp. 375–398. AAAI/MIT Press, 1996.
-A. Savasere, E. Omiecinski, and S. Navathe. An efficient algorithm for mining associa- tion rules in large databases. In Proc. 1995 Int. Conf. Very Large Data Bases (VLDB’95), pp. 432–443, Zurich, Switzerland, Sept. 1995.
-A. Savasere, E. Omiecinski, and S. Navathe. Mining for strong negative associations in a large database of customer transactions. In Proc. 1998 Int. Conf. Data Engineering (ICDE’98), pp. 494–502, Orlando, FL, Feb. 1998.
-R. Sokal and F. Rohlf. Biometry. Freeman, 1981.
-A. Skowron and C. Rauszer. The discernibility matrices and functions in information systems. In R. Slowinski (ed.), Intelligent Decision Support, Handbook of Applications and Advances of the Rough Set Theory, pp. 331–362. Kluwer Academic, 1992.
-W. Siedlecki and J. Sklansky. On automatic feature selection. Int. J. Pattern Recognition and Artificial Intelligence, 2:197–220, 1988.
-S. Sarawagi and M. Stonebraker. Efficient organization of large multidimensional arrays. In Proc. 1994 Int. Conf. Data Engineering (ICDE’94), pp. 328–336, Houston, TX, Feb. 1994.
-G. Sathe and S. Sarawagi. Intelligent rollups in multidimensional OLAP data. In Proc. 2001 Int. Conf. Very Large Data Bases (VLDB’01), pp. 531–540, Rome, Italy, Sept. 2001.
-
-+ [SS05] [ST96] [STA98]
-[STH+ 10] [Ste72]
-[Sto74] [SVA97]
-[SW49]
-[Swe88] [Swi98]
-[SWJR07] [SZ04] [TD02]
-[TFPL04] [TG01] [THH01] [THLN01] [THP08]
-R. H. Shumway and D. S. Stoffer. Time Series Analysis and Its Applications. New York: Springer, 2005.
-A. Silberschatz and A. Tuzhilin. What makes patterns interesting in knowledge discovery systems. IEEE Trans. Knowledge and Data Engineering, 8:970–974, Dec. 1996.
-S. Sarawagi, S. Thomas, and R. Agrawal. Integrating association rule mining with rela- tional database systems: Alternatives and implications. In Proc. 1998 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’98), pp. 343–354, Seattle, WA, June 1998.
-Y. Sun, J. Tang, J. Han, M. Gupta, and B. Zhao. Community evolution detection in dynamic heterogeneous information networks. In Proc. 2010 KDD Workshop Mining and Learning with Graphs (MLG’10), Washington, DC, July 2010.
-W. Stefansky. Rejecting outliers in factorial designs. Technometrics, 14:469–479, 1972. M. Stone. Cross-validatory choice and assessment of statistical predictions. J. Royal Statistical Society, 36:111–147, 1974.
-R. Srikant, Q. Vu, and R. Agrawal. Mining association rules with item constraints. In Proc. 1997 Int. Conf. Knowledge Discovery and Data Mining (KDD’97), pp. 67–73, Newport Beach, CA, Aug. 1997.
-C. E. Shannon and W. Weaver. The Mathematical Theory of Communication. University of Illinois Press, 1949.
-J. Swets. Measuring the accuracy of diagnostic systems. Science, 240:1285–1293, 1988. R. Swiniarski. Rough sets and principal component analysis and their applications in feature extraction and selection, data model building and classification. In S. K. Pal and A. Skowron (eds.), Rough Fuzzy Hybridization: A New Trend in Decision-Making, Springer Verlag, Singapore, 1999.
-X. Song, M. Wu, C. Jermaine, and S. Ranka. Conditional anomaly detection. IEEE Trans. on Knowledge and Data Engineering, 19(5):631–645, 2007.
-D. Shasha and Y. Zhu. High Performance Discovery in Time Series: Techniques and Case Studies. New York: Springer, 2004.
-D. M. J. Tax and R. P. W. Duin. Using two-class classifiers for multiclass classification. In Proc. 16th Intl. Conf. Pattern Recognition (ICPR’2002), pp. 124–127, Montreal, Quebec, Canada, 2002.
-Y. Tao, C. Faloutsos, D. Papadias, and B. Liu. Prediction and indexing of moving objects with unknown motion patterns. In Proc. 2004 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’04), pp. 611–622, Paris, France, June 2004.
-I. Tsoukatos and D. Gunopulos. Efficient mining of spatiotemporal patterns. In Proc. 2001 Int. Symp. Spatial and Temporal Databases (SSTD’01), pp. 425–442, Redondo Beach, CA, July 2001.
-A. K. H. Tung, J. Hou, and J. Han. Spatial clustering in the presence of obstacles. In Proc. 2001 Int. Conf. Data Engineering (ICDE’01), pp. 359–367, Heidelberg, Germany, Apr. 2001.
-A. K. H. Tung, J. Han, L. V. S. Lakshmanan, and R. T. Ng. Constraint-based clustering in large databases. In Proc. 2001 Int. Conf. Database Theory (ICDT’01), pp. 405–419, London, Jan. 2001.
-Y. Tian, R. A. Hankins, and J. M. Patel. Efficient aggregation for graph summariza- tion. In Proc. 2008 ACM SIGMOD Int. Conf. Management of Data (SIGMOD’08), pp. 567–580, Vancouver, British Columbia, Canada, June 2008.
-
++ [SHX04] Z. Shao, J. Han, and D. Xin. MM-Cubing: Computing iceberg cubes by factorizing the lattice space. In Proc. 2004 Int. Conf. Scientific and Statistical Database Management (SSDBM’04), pp. 213–222, Santorini Island, Greece, June 2004.
++ [SHZ+ 09] Y. Sun, J. Han, P. Zhao, Z. Yin, H. Cheng, and T. Wu. RankClus: Integrating clustering with ranking for heterogeneous information network analysis. In Proc. 2009 Int. Conf. Extending Data Base Technology (EDBT’09), pp. 565–576, Saint Petersburg, Russia, Mar. 2009.
++ [Sil10] F. Silvestri. Mining query logs: Turning search usage data into knowledge. Foundations and Trends in Information Retrieval, 4:1–174, 2010.
++ [SK08] J. Shieh and E. Keogh. iSAX: Indexing and mining terabyte sized time series. In Proc. 2008 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’08), pp. 623– 631, Las Vegas, NV, Aug. 2008.
++ [SKS10] A. Silberschatz, H. F. Korth, and S. Sudarshan. Database System Concepts (6th ed.). McGraw-Hill, 2010.
++ [SLT+ 01] S. Shekhar, C.-T. Lu, X. Tan, S. Chawla, and R. R. Vatsavai. Map cube: A visualiza- tion tool for spatial data warehouses. In  H. J. Miller and J. Han (eds.), Geographic Data Mining and Knowledge Discovery, pp. 73–108. Taylor and Francis, 2001.
++ [SM97] J. C. Setubal and J. Meidanis. Introduction to Computational Molecular Biology. PWS Publishing Co., 1997.
++ [SMT91] J. W. Shavlik, R. J. Mooney, and G. G. Towell. Symbolic and neural learning algorithms: An experimental comparison. Machine Learning, 6:111–144, 1991.
++ [SN88] K. Saito and R. Nakano. Medical diagnostic expert system based on PDP model. In Proc. 1988 IEEE Int. Conf. Neural Networks, pp. 225–262, San Mateo, CA, 1988.
++ [SOMZ96] W. Shen, K. Ong, B. Mitbander, and C. Zaniolo. Metaqueries for data mining. In U. M. Fayyad, G. Piatetsky-Shapiro, P. Smyth, and R. Uthurusamy (eds.), Advances in Knowledge Discovery and Data Mining, pp. 375–398. AAAI/MIT Press, 1996.
++ [SON95] A. Savasere, E. Omiecinski, and S. Navathe. An efficient algorithm for mining associa- tion rules in large databases. In Proc. 1995 Int. Conf. Very Large Data Bases (VLDB’95), pp. 432–443, Zurich, Switzerland, Sept. 1995.
++ [SON98] A. Savasere, E. Omiecinski, and S. Navathe. Mining for strong negative associations in a large database of customer transactions. In Proc. 1998 Int. Conf. Data Engineering (ICDE’98), pp. 494–502, Orlando, FL, Feb. 1998.
++ [SR81] R. Sokal and F. Rohlf. Biometry. Freeman, 1981.
++ [SR92] A. Skowron and C. Rauszer. The discernibility matrices and functions in information systems. In R. Slowinski (ed.), Intelligent Decision Support, Handbook of Applications and Advances of the Rough Set Theory, pp. 331–362. Kluwer Academic, 1992.
++ [SS88] W. Siedlecki and J. Sklansky. On automatic feature selection. Int. J. Pattern Recognition and Artificial Intelligence, 2:197–220, 1988.
++ [SS94] S. Sarawagi and M. Stonebraker. Efficient organization of large multidimensional arrays. In Proc. 1994 Int. Conf. Data Engineering (ICDE’94), pp. 328–336, Houston, TX, Feb. 1994.
++ [SS01] G. Sathe and S. Sarawagi. Intelligent rollups in multidimensional OLAP data. In Proc. 2001 Int. Conf. Very Large Data Bases (VLDB’01), pp. 531–540, Rome, Italy, Sept. 2001.
++ [SS05] R. H. Shumway and D. S. Stoffer. Time Series Analysis and Its Applications. New York: Springer, 2005.
++ [ST96]  A. Silberschatz and A. Tuzhilin. What makes patterns interesting in knowledge discovery systems. IEEE Trans. Knowledge and Data Engineering, 8:970–974, Dec. 1996.
++ [STA98] S. Sarawagi, S. Thomas, and R. Agrawal. Integrating association rule mining with rela- tional database systems: Alternatives and implications. In Proc. 1998 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’98), pp. 343–354, Seattle, WA, June 1998.
++ [STH+ 10] Y. Sun, J. Tang, J. Han, M. Gupta, and B. Zhao. Community evolution detection in dynamic heterogeneous information networks. In Proc. 2010 KDD Workshop Mining and Learning with Graphs (MLG’10), Washington, DC, July 2010.
++ [Ste72] W. Stefansky. Rejecting outliers in factorial designs. Technometrics, 14:469–479, 1972. 
++ [Sto74] M. Stone. Cross-validatory choice and assessment of statistical predictions. J. Royal Statistical Society, 36:111–147, 1974.
++ [SVA97] R. Srikant, Q. Vu, and R. Agrawal. Mining association rules with item constraints. In Proc. 1997 Int. Conf. Knowledge Discovery and Data Mining (KDD’97), pp. 67–73, Newport Beach, CA, Aug. 1997.
++ [SW49] C. E. Shannon and W. Weaver. The Mathematical Theory of Communication. University of Illinois Press, 1949.
++ [Swe88]  J. Swets. Measuring the accuracy of diagnostic systems. Science, 240:1285–1293, 1988. 
++ [Swi98] R. Swiniarski. Rough sets and principal component analysis and their applications in feature extraction and selection, data model building and classification. In S. K. Pal and A. Skowron (eds.), Rough Fuzzy Hybridization: A New Trend in Decision-Making, Springer Verlag, Singapore, 1999.
++ [SWJR07] X. Song, M. Wu, C. Jermaine, and S. Ranka. Conditional anomaly detection. IEEE Trans. on Knowledge and Data Engineering, 19(5):631–645, 2007.
++ [SZ04] D. Shasha and Y. Zhu. High Performance Discovery in Time Series: Techniques and Case Studies. New York: Springer, 2004.
++ [TD02] D. M. J. Tax and R. P. W. Duin. Using two-class classifiers for multiclass classification. In Proc. 16th Intl. Conf. Pattern Recognition (ICPR’2002), pp. 124–127, Montreal, Quebec, Canada, 2002.
++ [TFPL04] Y. Tao, C. Faloutsos, D. Papadias, and B. Liu. Prediction and indexing of moving objects with unknown motion patterns. In Proc. 2004 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’04), pp. 611–622, Paris, France, June 2004.
++ [TG01] I. Tsoukatos and D. Gunopulos. Efficient mining of spatiotemporal patterns. In Proc. 2001 Int. Symp. Spatial and Temporal Databases (SSTD’01), pp. 425–442, Redondo Beach, CA, July 2001.
++ [THH01] A. K. H. Tung, J. Hou, and J. Han. Spatial clustering in the presence of obstacles. In Proc. 2001 Int. Conf. Data Engineering (ICDE’01), pp. 359–367, Heidelberg, Germany, Apr. 2001.
++ [THLN01] A. K. H. Tung, J. Han, L. V. S. Lakshmanan, and R. T. Ng. Constraint-based clustering in large databases. In Proc. 2001 Int. Conf. Database Theory (ICDT’01), pp. 405–419, London, Jan. 2001.
++ [THP08] Y. Tian, R. A. Hankins, and J. M. Patel. Efficient aggregation for graph summariza- tion. In Proc. 2008 ACM SIGMOD Int. Conf. Management of Data (SIGMOD’08), pp. 567–580, Vancouver, British Columbia, Canada, June 2008.
 + [Thu04] B. Thuraisingham. Data mining for counterterrorism. In H. Kargupta, A. Joshi, K. Sivakumar, and Y. Yesha (eds.), Data Mining: Next Generation Challenges and Future Directions, pp. 157–183. AAAI/MIT Press, 2004.
 + [TK08] S. Theodoridis and K. Koutroumbas. Pattern Recognition (4th ed.) Academic Press, 2008. 
 + [TKS02] P.-N. Tan, V. Kumar, and J. Srivastava. Selecting the right interestingness measure for association patterns. In Proc. 2002 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’02), pp. 32–41, Edmonton, Alberta, Canada, July 2002.
