@@ -138,6 +138,24 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + [CK98] M. Carey and D. Kossman. Reducing the braking distance of an SQL query engine. In Proc. 1998 Int. Conf. Very Large Data Bases (VLDB’98), pp. 158–169, New York, Aug. 1998.
 + [CKT06] D. Chakrabarti, R. Kumar, and A. Tomkins. Evolutionary clustering. In Proc. 2006 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’06), pp. 554–560, Philadelphia, PA, Aug. 2006.
 + [Cle93] W. Cleveland. Visualizing Data. Hobart Press, 1993.
++ [CSZ06] O. Chapelle, B. Scho ̈lkopf, and A. Zien. Semi-supervised Learning. Cambridge, MA: MIT Press, 2006.
++ [CM94] S. P. Curram and J. Mingers. Neural networks, decision tree induction and discrim- inant analysis: An empirical comparison. J. Operational Research Society, 45:440–450, 1994.
++ [CMC05] H. Cao, N. Mamoulis, and D. W. Cheung. Mining frequent spatio-temporal sequential patterns. In Proc. 2005 Int. Conf. Data Mining (ICDM’05), pp. 82–89, Houston, TX, Nov. 2005.
++ [CMS09] B. Croft, D. Metzler, and T. Strohman. Search Engines: Information Retrieval in Practice. Boston: Addison-Wesley, 2009.
++ [CN89] P. Clark and T. Niblett. The CN2 induction algorithm. Machine Learning, 3:261–283, 1989.
++ [Coh95] W. Cohen. Fast effective rule induction. In Proc. 1995 Int. Conf. Machine Learning (ICML’95), pp. 115–123, Tahoe City, CA, July 1995.
++ [Coo90] G. F. Cooper. The computational complexity of probabilistic inference using Bayesian belief networks. Artificial Intelligence, 42:393–405, 1990.
++ [CPS98] K. Cios, W. Pedrycz, and R. Swiniarski. Data Mining Methods for Knowledge Discovery. Kluwer Academic, 1998.
++ [CR95] Y. Chauvin and D. Rumelhart. Backpropagation: Theory, Architectures, and Applications. Lawrence Erlbaum, 1995.
++ [Cra89] S. L. Crawford. Extensions to the CART algorithm. Int. J. Man-Machine Studies, 31:197–217, Aug. 1989.
++ [CRST06] B.-C. Chen, R. Ramakrishnan, J. W. Shavlik, and P. Tamma. Bellwether analysis: Predict- ing global aggregates from local regions. In Proc. 2006 Int. Conf. Very Large Data Bases (VLDB’06), pp. 655–666, Seoul, Korea, Sept. 2006.
++ [CS93a] P. K. Chan and S. J. Stolfo. Experiments on multistrategy learning by metalearning. In Proc. 2nd. Int. Conf. Information and Knowledge Management (CIKM’93), pp. 314–323, Washington, DC, Nov. 1993.
++ [CS93b] P. K. Chan and S. J. Stolfo. Toward multi-strategy parallel & distributed learning in sequence analysis. In Proc. 1st Int. Conf. Intelligent Systems for Molecular Biology (ISMB’93), pp. 65–73, Bethesda, MD, July 1993.
++ [CS96] M. W. Craven and J. W. Shavlik. Extracting tree-structured representations of trained networks. In D. Touretzky, M. Mozer, and M. Hasselmo (eds.), Advances in Neural Information Processing Systems. Cambridge, MA: MIT Press, 1996.
++ [CS97] M. W. Craven and J. W. Shavlik. Using neural networks in data mining. Future Generation Computer Systems, 13:211–229, 1997.
++ [CS-T00] N. Cristianini and J. Shawe-Taylor. An Introduction to Support Vector Machines and Other Kernel-Based Learning Methods. Cambridge University Press, 2000.
++ [CSZ+ 07] Y. Chi, X. Song, D. Zhou, K. Hino, and B. L. Tseng. Evolutionary spectral clustering by incorporating temporal smoothness. In Proc. 2007 ACM SIGKDD Intl. Conf. Knowledge Discovery and Data Mining (KDD’07), pp. 153–162, San Jose, CA, Aug. 2007.
++ [CTTX05] G. Cong, K.-Lee Tan, A. K. H. Tung, and X. Xu. Mining top-k covering rule groups for gene expression data. In Proc. 2005 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’05), pp. 670–681, Baltimore, MD, June 2005.
 
 # Journals
 + IEEETKDE（IEEE Transactions on Knowledge and Data Engineering）
