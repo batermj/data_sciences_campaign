@@ -27,6 +27,24 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + [Agg06] C. C. Aggarwal. Data Streams: Models and Algorithms. Kluwer Academic, 2006.
 + [AGGR98] R. Agrawal, J. Gehrke, D. Gunopulos, and P. Raghavan. Automatic subspace clustering of high dimensional data for data mining applications. In Proc. 1998 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’98), pp. 94–105, Seattle, WA, June 1998.
 + [AGM04] F. N. Afrati, A. Gionis, and H. Mannila. Approximating a collection of frequent sets. In Proc. 2004 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’04), pp. 12–19, Seattle, WA, Aug. 2004.
++ [AGS97] R. Agrawal, A. Gupta, and S. Sarawagi. Modeling multidimensional databases. In Proc. 1997 Int. Conf. Data Engineering (ICDE’97), pp. 232–243, Birmingham, England, Apr. 1997. 
++ [Aha92] D. Aha. Tolerating noisy, irrelevant, and novel attributes in instance-based learning algorithms. Int. J. Man-Machine Studies, 36:267–287, 1992.
++ [AHS96] P. Arabie, L. J. Hubert, and G. De Soete. Clustering and Classification. World Scientific, 1996.
++ [AHWY03]C. C. Aggarwal, J. Han, J. Wang, and P. S. Yu. A framework for clustering evolving data streams. In Proc. 2003 Int. Conf. Very Large Data Bases (VLDB’03), pp. 81–92, Berlin, Germany, Sept. 2003.
++ [AHWY04a] C. C. Aggarwal, J. Han, J. Wang, and P. S. Yu. A framework for projected cluster- ing of high dimensional data streams. In Proc. 2004 Int. Conf. Very Large Data Bases (VLDB’04), pp. 852–863, Toronto, Ontario, Canada, Aug. 2004.
++ [AHWY04b] C. C. Aggarwal, J. Han, J. Wang, and P. S. Yu. On demand classification of data streams. In Proc. 2004 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’04), pp. 503–508, Seattle, WA, Aug. 2004.
++ [AIS93] R. Agrawal, T. Imielinski, and A. Swami. Mining association rules between sets of items in large databases. In Proc. 1993 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’93), pp. 207–216, Washington, DC, May 1993.
++ [AK93] T. Anand and G. Kahn. Opportunity explorer: Navigating large databases using knowl- edge discovery templates. In Proc. AAAI-93 Workshop Knowledge Discovery in Databases, pp. 45–51, Washington, DC, July 1993.
++ [AL99] Y. Aumann and Y. Lindell. A statistical theory for quantitative association rules. In Proc. 1999 Int. Conf. Knowledge Discovery and Data Mining (KDD’99), pp. 261–270, San Diego, CA, Aug. 1999.
++ [All94] B. P. Allen. Case-based reasoning: Business applications. Communications of the ACM, 37:40–42, 1994.
++ [Alp11] E. Alpaydin. Introduction to Machine Learning (2nd ed.). Cambridge, MA: MIT Press, 2011.
++ [ALSS95] R. Agrawal, K.-I. Lin, H. S. Sawhney, and K. Shim. Fast similarity search in the presence of noise, scaling, and translation in time-series databases. In Proc. 1995 Int. Conf. Very Large Data Bases (VLDB’95), pp. 490–501, Zurich, Switzerland, Sept. 1995.
++ [AMS+ 96] R. Agrawal, M. Mehta, J. Shafer, R. Srikant, A. Arning, and T. Bollinger. The Quest data mining system. In Proc. 1996 Int. Conf. Data Mining and Knowledge Discovery (KDD’96), pp. 244–249, Portland, OR, Aug. 1996.
++ [Aok98] P. M. Aoki. Generalizing “search” in generalized search trees. In Proc. 1998 Int. Conf. Data Engineering (ICDE’98), pp. 380–389, Orlando, FL, Feb. 1998.
++ [AP94] A. Aamodt and E. Plazas. Case-based reasoning: Foundational issues, methodological variations, and system approaches. AI Communications, 7:39–52, 1994.
++ [AP05] F. Angiulli, and C. Pizzuti. Outlier mining in large high-dimensional data sets. IEEE Trans. on Knowl. and Data Eng., 17:203–215, 2005.
++ [APW+ 99] C. C. Aggarwal, C. Procopiuc, J. Wolf, P. S. Yu, and J.-S. Park. Fast algorithms for projected clustering. In Proc. 1999 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’99), pp. 61–72, Philadelphia, PA, June 1999.
++ [ARV09] S. Arora, S. Rao, and U. Vazirani. Expander flows, geometric embeddings and graph partitioning. J. ACM, 56(2):1–37, 2009.
 
 # Journals
 + IEEETKDE（IEEE Transactions on Knowledge and Data Engineering）
