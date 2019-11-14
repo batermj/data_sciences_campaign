@@ -63,6 +63,24 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + [BB02] C. Borgelt and M. R. Berthold. Mining molecular fragments: Finding relevant sub- structures of molecules. In Proc. 2002 Int. Conf. Data Mining (ICDM’02), pp. 211–218, Maebashi, Japan, Dec. 2002.
 + [BBD+ 02] B. Babcock, S. Babu, M. Datar, R. Motwani, and J. Widom. Models and issues in data stream systems. In Proc. 2002 ACM Symp. Principles of Database Systems (PODS’02), pp. 1–16, Madison, WI, June 2002.
 + [BC83] R. J. Beckman and R. D. Cook. Outlier. . .s. Technometrics, 25:119–149, 1983.
++ [BCC10] S. Buettcher, C. L. A. Clarke, and G. V. Cormack. Information Retrieval: Implementing and Evaluating Search Engines. Cambridge, MA: MIT Press, 2010.
++ [BCG01] D. Burdick, M. Calimlim, and J. Gehrke. MAFIA: A maximal frequent itemset algo- rithm for transactional databases. In Proc. 2001 Int. Conf. Data Engineering (ICDE’01), pp. 443–452, Heidelberg, Germany, Apr. 2001.
++ [BCP93] D. E. Brown, V. Corruble, and C. L. Pittard. A comparison of decision tree classifiers with backpropagation neural networks for multimodal classification problems. Pattern Recognition, 26:953–961, 1993.
++ [BD01] P. J. Bickel and K. A. Doksum. Mathematical Statistics: Basic Ideas and Selected Topics, Vol. 1. Prentice-Hall, 2001.
++ [BD02] P. J. Brockwell and R. A. Davis. Introduction to Time Series and Forecasting (2nd ed.). New York: Springer, 2002.
++ [BDF+ 97] D. Barbara ́, W. DuMouchel, C. Faloutsos, P. J. Haas, J. H. Hellerstein, Y. Ioannidis, H. V. Jagadish, T. Johnson, R. Ng, V. Poosala, K. A. Ross, and K. C. Servcik. The New Jersey data reduction report. Bull. Technical Committee on Data Engineering, 20:3–45, Dec. 1997.
++ [BDG96] A. Bruce, D. Donoho, and H.-Y. Gao. Wavelet analysis. IEEE Spectrum, 33:26–35, Oct. 1996.
++ [BDJ+ 05] D. Burdick, P. Deshpande, T. S. Jayram, R. Ramakrishnan, and S. Vaithyanathan. OLAP over uncertain and imprecise data. In Proc. 2005 Int. Conf. Very Large Data Bases (VLDB’05), pp. 970–981, Trondheim, Norway, Aug. 2005.
++ [Ben08] S. Benninga. Financial Modeling (3rd. ed.). Cambridge, MA: MIT Press, 2008.
++ [Ber81] J. Bertin. Graphics and Graphic Information Processing. Walter de Gruyter, Berlin, 1981. 
++ [Ber03] M. W. Berry. Survey of Text Mining: Clustering, Classification, and Retrieval. New York: Springer, 2003.
++ [Bez81] J. C. Bezdek. Pattern Recognition with Fuzzy Objective Function Algorithms. Plenum Press, 1981.
++ [BFOS84] L. Breiman, J. Friedman, R. Olshen, and C. Stone. Classification and Regression Trees. Wadsworth International Group, 1984.
++ [BFR98] P. Bradley, U. Fayyad, and C. Reina. Scaling clustering algorithms to large databases. In Proc. 1998 Int. Conf. Knowledge Discovery and Data Mining (KDD’98), pp. 9–15, New York, Aug. 1998.
++ [BG04] I. Bhattacharya and L. Getoor. Iterative record linkage for cleaning and integration. In Proc. SIGMOD 2004 Workshop on Research Issues on Data Mining and Knowledge Discovery (DMKD’04), pp. 11–18, Paris, France, June 2004.
++ [B-G05] I. Ben-Gal. Outlier detection. In O. Maimon and L. Rockach (eds.), Data Mining and Knowledge Discovery Handbook: A Complete Guide for Practitioners and Researchers. Kluwer Academic, 2005.
++ [BGKW03] C. Bucila, J. Gehrke, D. Kifer, and W. White. DualMiner: A dual-pruning algorithm for itemsets with constraints. Data Mining and Knowledge Discovery, 7:241–272, 2003.
++ [BGMP03] F. Bonchi, F. Giannotti, A. Mazzanti, and D. Pedreschi. ExAnte: Anticipated data reduction in constrained pattern mining. In Proc. 7th European Conf. Principles and Pratice of Knowledge Discovery in Databases (PKDD’03), Vol. 2838/2003, pp. 59–70, Cavtat-Dubrovnik, Croatia, Sept. 2003.
 
 # Journals
 + IEEETKDE（IEEE Transactions on Knowledge and Data Engineering）
