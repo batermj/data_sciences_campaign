@@ -45,6 +45,24 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + [AP05] F. Angiulli, and C. Pizzuti. Outlier mining in large high-dimensional data sets. IEEE Trans. on Knowl. and Data Eng., 17:203–215, 2005.
 + [APW+ 99] C. C. Aggarwal, C. Procopiuc, J. Wolf, P. S. Yu, and J.-S. Park. Fast algorithms for projected clustering. In Proc. 1999 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’99), pp. 61–72, Philadelphia, PA, June 1999.
 + [ARV09] S. Arora, S. Rao, and U. Vazirani. Expander flows, geometric embeddings and graph partitioning. J. ACM, 56(2):1–37, 2009.
++ [AS94a] R. Agrawal and R. Srikant. Fast algorithm for mining association rules in large databases. In Research Report RJ 9839, IBM Almaden Research Center, San Jose, CA, June 1994.
++ [AS94b] R. Agrawal and R. Srikant. Fast algorithms for mining association rules. In Proc. 1994 Int. Conf. Very Large Data Bases (VLDB’94), pp. 487–499, Santiago, Chile, Sept. 1994. 
++ [AS95] R. Agrawal and R. Srikant. Mining sequential patterns. In Proc. 1995 Int. Conf. Data Engineering (ICDE’95), pp. 3–14, Taipei, Taiwan, Mar. 1995.
++ [AS96] R. Agrawal and J. C. Shafer. Parallel mining of association rules: Design, imple- mentation, and experience. IEEE Trans. Knowledge and Data Engineering, 8:962–969, 1996.
++ [AS00] R. Agrawal and R. Srikant. Privacy-preserving data mining. In Proc. 2000 ACM- SIGMOD Int. Conf. Management of Data (SIGMOD’00), pp. 439–450, Dallas, TX, May 2000.
++ [ASS00] E. Allwein, R. Shapire, and Y. Singer. Reducing multiclass to binary: A unifying approach for margin classifiers. Journal of Machine Learning Research, 1:113–141, 2000.
++ [AV07] D. Arthur and S. Vassilvitskii. K-means++: The advantages of careful seeding. In Proc. 2007 ACM-SIAM Symp. on Discrete Algorithms (SODA’07), pp. 1027–1035, Tokyo, 2007.
++ [Avn95] S. Avner. Discovery of comprehensible symbolic rules in a neural network. In Proc. 1995 Int. Symp. Intelligence in Neural and Biological Systems, pp. 64–67, Washington, DC, 1995.
++ [AY99] C. C. Aggarwal and P. S. Yu. A new framework for itemset generation. In Proc. 1998 ACM Symp. Principles of Database Systems (PODS’98), pp. 18–24, Seattle, WA, June 1999.
++ [AY01] C. C. Aggarwal and P. S. Yu. Outlier detection for high dimensional data. In Proc. 2001 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’01), pp. 37–46, Santa Barbara, CA, May 2001.
++ [AY08] C. C. Aggarwal and P. S. Yu. Privacy-Preserving Data Mining: Models and Algorithms. New York: Springer, 2008.
++ [BA97] L. A. Breslow and D. W. Aha. Simplifying decision trees: A survey. Knowledge Engineering Rev., 12:1–40, 1997.
++ [Bay98] R. J. Bayardo. Efficiently mining long patterns from databases. In Proc. 1998 ACM- SIGMOD Int. Conf. Management of Data (SIGMOD’98), pp. 85–93, Seattle, WA, June 1998.
++ [BB98] A. Bagga and B. Baldwin. Entity-based cross-document coreferencing using the vector space model. In Proc. 1998 Annual Meeting of the Association for Computational Lin- guistics and Int. Conf. Computational Linguistics (COLING-ACL’98), Montreal, Quebec, Canada, Aug. 1998.
++ [BB01] P. Baldi and S. Brunak. Bioinformatics: The Machine Learning Approach (2nd ed.). Cambridge, MA: MIT Press, 2001.
++ [BB02] C. Borgelt and M. R. Berthold. Mining molecular fragments: Finding relevant sub- structures of molecules. In Proc. 2002 Int. Conf. Data Mining (ICDM’02), pp. 211–218, Maebashi, Japan, Dec. 2002.
++ [BBD+ 02] B. Babcock, S. Babu, M. Datar, R. Motwani, and J. Widom. Models and issues in data stream systems. In Proc. 2002 ACM Symp. Principles of Database Systems (PODS’02), pp. 1–16, Madison, WI, June 2002.
++ [BC83] R. J. Beckman and R. D. Cook. Outlier. . .s. Technometrics, 25:119–149, 1983.
 
 # Journals
 + IEEETKDE（IEEE Transactions on Knowledge and Data Engineering）
