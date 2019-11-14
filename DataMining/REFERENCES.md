@@ -249,63 +249,43 @@ J. H. Friedman, J. L. Bentley, and R. A. Finkel. An algorithm for finding best m
 M. Faloutsos, P. Faloutsos, and C. Faloutsos. On power-law relationships of the internet topology. In Proc. ACM SIGCOMM’99 Conf. Applications, Technologies, Architectures, and Protocols for Computer Communication, pp. 251–262, Cambridge, MA, Aug. 1999. M. Fishelson and D. Geiger. Exact genetic linkage computations for general pedigrees. Disinformation, 18:189–198, 2002.
 
 
-+ [FGK+ 05] [FGW01]
-[FH51]
-[FH87] [FH95]
-[FI90] [FI92]
-[FI93]
-[Fie73] [FL90]
-[FL95]
-[Fle87] [FMMT96]
-[FP05]
-[FPP07] [FPSS+96]
-[FP97] [FR02]
-R. Fagin, R. V. Guha, R. Kumar, J. Novak, D. Sivakumar, and A. Tomkins. Multi- structural databases. In Proc. 2005 ACM SIGMOD-SIGACT-SIGART Symp. Principles of Database Systems (PODS’05), pp. 184–195, Baltimore, MD, June 2005.
-U. Fayyad, G. Grinstein, and A. Wierse. Information Visualization in Data Mining and Knowledge Discovery. Morgan Kaufmann, 2001.
-E. Fix and J. L. Hodges Jr. Discriminatory analysis, non-parametric discrimination: Consistency properties. In Technical Report 21-49-004(4), USAF School of Aviation Medicine, Randolph Field, Texas, 1951.
-K. Fukunaga and D. Hummels. Bayes error estimation using Parzen and k-nn procedure. IEEE Trans. Pattern Analysis and Machine Learning, 9:634–643, 1987.
-Y. Fu and J. Han. Meta-rule-guided mining of association rules in relational databases. In
++ [FGK+ 05] R. Fagin, R. V. Guha, R. Kumar, J. Novak, D. Sivakumar, and A. Tomkins. Multi- structural databases. In Proc. 2005 ACM SIGMOD-SIGACT-SIGART Symp. Principles of Database Systems (PODS’05), pp. 184–195, Baltimore, MD, June 2005.
++ [FGW01] U. Fayyad, G. Grinstein, and A. Wierse. Information Visualization in Data Mining and Knowledge Discovery. Morgan Kaufmann, 2001.
++ [FH87] E. Fix and J. L. Hodges Jr. Discriminatory analysis, non-parametric discrimination: Consistency properties. In Technical Report 21-49-004(4), USAF School of Aviation Medicine, Randolph Field, Texas, 1951.
++ [FH87] K. Fukunaga and D. Hummels. Bayes error estimation using Parzen and k-nn procedure. IEEE Trans. Pattern Analysis and Machine Learning, 9:634–643, 1987.
++ [FH95] Y. Fu and J. Han. Meta-rule-guided mining of association rules in relational databases. In
 Proc. 1995 Int. Workshop Integration of Knowledge Discovery with Deductive and Object- Oriented Databases (KDOOD’95), pp. 39–46, Singapore, Dec. 1995.
-U. M. Fayyad and K. B. Irani. What should be minimized in a decision tree? In Proc. 1990 Nat. Conf. Artificial Intelligence (AAAI’90), pp. 749–754, Boston, MA, 1990.
-U. M. Fayyad and K. B. Irani. The attribute selection problem in decision tree gener- ation. In Proc. 1992 Nat. Conf. Artificial Intelligence (AAAI’92), pp. 104–110, San Jose, CA, 1992.
-U. Fayyad and K. Irani. Multi-interval discretization of continuous-valued attributes for classification learning. In Proc. 1993 Int. Joint Conf. Artificial Intelligence (IJCAI’93), pp. 1022–1029, Chambery, France, 1993.
-M. Fiedler. Algebraic connectivity of graphs. Czechoslovak Mathematical J., 23:298–305, 1973.
-S. Fahlman and C. Lebiere. The cascade-correlation learning algorithm. In Technical Report CMU-CS-90-100, Computer Sciences Department, Carnegie Mellon University, 1990.
-C. Faloutsos and K.-I. Lin. FastMap: A fast algorithm for indexing, data-mining and visualization of traditional and multimedia datasets. In Proc. 1995 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’95), pp. 163–174, San Jose, CA, May 1995.
-R. Fletcher. Practical Methods of Optimization. John Wiley & Sons, 1987.
-T. Fukuda, Y. Morimoto, S. Morishita, and T. Tokuyama. Data mining using two- dimensional optimized association rules: Scheme, algorithms, and visualization. In Proc. 1996 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’96), pp. 13–23, Montreal, Quebec, Canada, June 1996.
-J. Friedman and B. E. Popescu. Predictive learning via rule ensembles. In Technical Report, Department of Statistics, Stanford University, 2005.
-D. Freedman, R. Pisani, and R. Purves. Statistics (4th ed.). W. W. Norton & Co., 2007. U. M. Fayyad, G. Piatetsky-Shapiro, P. Smyth, and R. Uthurusamy (eds.). Advances in Knowledge Discovery and Data Mining. AAAI/MIT Press, 1996.
-T. Fawcett and F. Provost. Adaptive fraud detection. Data Mining and Knowledge Discovery, 1:291–316, 1997.
-C. Fraley and A. E. Raftery. Model-based clustering, discriminant analysis, and density estimation. J. American Statistical Association, 97:611–631, 2002.
-
-+ [Fri77] [Fri01] [Fri03] [FRM94]
-[FS93]
-[FS97] [FS06] [FSGM+ 98]
-[FW94] [FWFY10] [FYM05]
-[Gal93] [Gat00] [GCB+ 97]
-[GFKT01]
-[GFS+ 01]
-[GG92] [GG98]
-J. H. Friedman. A recursive partitioning decision rule for nonparametric classifiers. IEEE Trans. Computer, 26:404–408, 1977.
-J. H. Friedman. Greedy function approximation: A gradient boosting machine. Ann. Statistics, 29:1189–1232, 2001.
-N. Friedman. Pcluster: Probabilistic agglomerative clustering of gene expression profiles. In Technical Report 2003-80, Hebrew University, 2003.
-C. Faloutsos, M. Ranganathan, and Y. Manolopoulos. Fast subsequence matching in time-series databases. In Proc. 1994 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’94), pp. 419–429, Minneapolis, MN, May 1994.
-U. Fayyad and P. Smyth. Image database exploration: Progress and challenges. In Proc. AAAI’93 Workshop Knowledge Discovery in Databases (KDD’93), pp. 14–27, Washington, DC, July 1993.
-Y. Freund and R. E. Schapire. A decision-theoretic generalization of on-line learning and an application to boosting. J. Computer and System Sciences, 55:119–139, 1997.
-R. Feldman and J. Sanger. The Text Mining Handbook: Advanced Approaches in Analyzing Unstructured Data. Cambridge University Press, 2006.
-M. Fang, N. Shivakumar, H. Garcia-Molina, R. Motwani, and J. D. Ullman. Computing iceberg queries efficiently. In Proc. 1998 Int. Conf. Very Large Data Bases (VLDB’98), pp. 299–310, New York, NY, Aug. 1998.
-J. Furnkranz and G. Widmer. Incremental reduced error pruning. In Proc. 1994 Int. Conf. Machine Learning (ICML’94), pp. 70–77, New Brunswick, NJ, 1994.
-B. C. M. Fung, K. Wang, A. W.-C. Fu, and P. S. Yu. Introduction to Privacy-Preserving Data Publishing: Concepts and Techniques. Chapman & Hall/CRC, 2010.
-R. Fujimaki, T. Yairi, and K. Machida. An approach to spacecraft anomaly detec- tion problem using kernel feature space. In Proc. 2005 Int. Workshop Link Discovery (LinkKDD’05), pp. 401–410, Chicago, IL, 2005.
-S. I. Gallant. Neural Network Learning and Expert Systems. Cambridge, MA: MIT Press, 1993.
-B. Gates. Business @ the Speed of Thought: Succeeding in the Digital Economy. Warner Books, 2000.
-J. Gray, S. Chaudhuri, A. Bosworth, A. Layman, D. Reichart, M. Venkatrao, F. Pellow, and H. Pirahesh. Data cube: A relational aggregation operator generalizing group-by, cross-tab and sub-totals. Data Mining and Knowledge Discovery, 1:29–54, 1997.
-L. Getoor, N. Friedman, D. Koller, and B. Taskar. Learning probabilistic models of rela- tional structure. In Proc. 2001 Int. Conf. Machine Learning (ICML’01), pp. 170–177, Williamstown, MA, 2001.
-H. Galhardas, D. Florescu, D. Shasha, E. Simon, and C.-A. Saita. Declarative data clean- ing: Language, model, and algorithms. In Proc. 2001 Int. Conf. Very Large Data Bases (VLDB’01), pp. 371–380, Rome, Italy, Sept. 2001.
-A. Gersho and R. M. Gray. Vector Quantization and Signal Compression. Kluwer Academic, 1992.
-V. Gaede and O. Gu ̈nther. Multidimensional access methods. ACM Computing Surveys, 30:170–231, 1998.
-
++ [FI92] U. M. Fayyad and K. B. Irani. What should be minimized in a decision tree? In Proc. 1990 Nat. Conf. Artificial Intelligence (AAAI’90), pp. 749–754, Boston, MA, 1990.
++ [FI92] U. M. Fayyad and K. B. Irani. The attribute selection problem in decision tree gener- ation. In Proc. 1992 Nat. Conf. Artificial Intelligence (AAAI’92), pp. 104–110, San Jose, CA, 1992.
++ [FI93] U. Fayyad and K. Irani. Multi-interval discretization of continuous-valued attributes for classification learning. In Proc. 1993 Int. Joint Conf. Artificial Intelligence (IJCAI’93), pp. 1022–1029, Chambery, France, 1993.
++ [Fie73] M. Fiedler. Algebraic connectivity of graphs. Czechoslovak Mathematical J., 23:298–305, 1973.
++ [FL90] S. Fahlman and C. Lebiere. The cascade-correlation learning algorithm. In Technical Report CMU-CS-90-100, Computer Sciences Department, Carnegie Mellon University, 1990.
++ [FL95] C. Faloutsos and K.-I. Lin. FastMap: A fast algorithm for indexing, data-mining and visualization of traditional and multimedia datasets. In Proc. 1995 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’95), pp. 163–174, San Jose, CA, May 1995.
++ [Fle87] R. Fletcher. Practical Methods of Optimization. John Wiley & Sons, 1987.
++ [FMMT96] T. Fukuda, Y. Morimoto, S. Morishita, and T. Tokuyama. Data mining using two- dimensional optimized association rules: Scheme, algorithms, and visualization. In Proc. 1996 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’96), pp. 13–23, Montreal, Quebec, Canada, June 1996.
++ [FP05] J. Friedman and B. E. Popescu. Predictive learning via rule ensembles. In Technical Report, Department of Statistics, Stanford University, 2005.
++ [FPP07] D. Freedman, R. Pisani, and R. Purves. Statistics (4th ed.). W. W. Norton & Co., 2007. 
++ [FPSS+96] U. M. Fayyad, G. Piatetsky-Shapiro, P. Smyth, and R. Uthurusamy (eds.). Advances in Knowledge Discovery and Data Mining. AAAI/MIT Press, 1996.
++ [FP97] T. Fawcett and F. Provost. Adaptive fraud detection. Data Mining and Knowledge Discovery, 1:291–316, 1997.
++ [FR02] C. Fraley and A. E. Raftery. Model-based clustering, discriminant analysis, and density estimation. J. American Statistical Association, 97:611–631, 2002.
++ [Fri77] J. H. Friedman. A recursive partitioning decision rule for nonparametric classifiers. IEEE Trans. Computer, 26:404–408, 1977.
++ [Fri01] J. H. Friedman. Greedy function approximation: A gradient boosting machine. Ann. Statistics, 29:1189–1232, 2001.
++ [Fri03] N. Friedman. Pcluster: Probabilistic agglomerative clustering of gene expression profiles. In Technical Report 2003-80, Hebrew University, 2003.
++ [FRM94] C. Faloutsos, M. Ranganathan, and Y. Manolopoulos. Fast subsequence matching in time-series databases. In Proc. 1994 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’94), pp. 419–429, Minneapolis, MN, May 1994.
++ [FS93] U. Fayyad and P. Smyth. Image database exploration: Progress and challenges. In Proc. AAAI’93 Workshop Knowledge Discovery in Databases (KDD’93), pp. 14–27, Washington, DC, July 1993.
++ [FS97] Y. Freund and R. E. Schapire. A decision-theoretic generalization of on-line learning and an application to boosting. J. Computer and System Sciences, 55:119–139, 1997.
++ [FS06] R. Feldman and J. Sanger. The Text Mining Handbook: Advanced Approaches in Analyzing Unstructured Data. Cambridge University Press, 2006.
++ [FSGM+ 98] M. Fang, N. Shivakumar, H. Garcia-Molina, R. Motwani, and J. D. Ullman. Computing iceberg queries efficiently. In Proc. 1998 Int. Conf. Very Large Data Bases (VLDB’98), pp. 299–310, New York, NY, Aug. 1998.
++ [FW94] J. Furnkranz and G. Widmer. Incremental reduced error pruning. In Proc. 1994 Int. Conf. Machine Learning (ICML’94), pp. 70–77, New Brunswick, NJ, 1994.
++ [FWFY10] B. C. M. Fung, K. Wang, A. W.-C. Fu, and P. S. Yu. Introduction to Privacy-Preserving Data Publishing: Concepts and Techniques. Chapman & Hall/CRC, 2010.
++ [FYM05] R. Fujimaki, T. Yairi, and K. Machida. An approach to spacecraft anomaly detec- tion problem using kernel feature space. In Proc. 2005 Int. Workshop Link Discovery (LinkKDD’05), pp. 401–410, Chicago, IL, 2005.
++ [Gal93] S. I. Gallant. Neural Network Learning and Expert Systems. Cambridge, MA: MIT Press, 1993.
++ [Gat00] B. Gates. Business @ the Speed of Thought: Succeeding in the Digital Economy. Warner Books, 2000.
++ [GCB+ 97] J. Gray, S. Chaudhuri, A. Bosworth, A. Layman, D. Reichart, M. Venkatrao, F. Pellow, and H. Pirahesh. Data cube: A relational aggregation operator generalizing group-by, cross-tab and sub-totals. Data Mining and Knowledge Discovery, 1:29–54, 1997.
++ [GFKT01] L. Getoor, N. Friedman, D. Koller, and B. Taskar. Learning probabilistic models of rela- tional structure. In Proc. 2001 Int. Conf. Machine Learning (ICML’01), pp. 170–177, Williamstown, MA, 2001.
++ [GFS+ 01] H. Galhardas, D. Florescu, D. Shasha, E. Simon, and C.-A. Saita. Declarative data clean- ing: Language, model, and algorithms. In Proc. 2001 Int. Conf. Very Large Data Bases (VLDB’01), pp. 371–380, Rome, Italy, Sept. 2001.
++ [GG92] A. Gersho and R. M. Gray. Vector Quantization and Signal Compression. Kluwer Academic, 1992.
++ [GG98] V. Gaede and O. Gu ̈nther. Multidimensional access methods. ACM Computing Surveys, 30:170–231, 1998.
 + [GGR99] V. Ganti, J. E. Gehrke, and R. Ramakrishnan. CACTUS—clustering categorical data using summaries. In Proc. 1999 Int. Conf. Knowledge Discovery and Data Mining (KDD’99), pp. 73–83, San Diego, CA, 1999.
 + [GGRL99] J. Gehrke, V. Ganti, R. Ramakrishnan, and W.-Y. Loh. BOAT—optimistic decision tree construction. In Proc. 1999 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’99), pp. 169–180, Philadelphia, PA, June 1999.
 + [GHL06] H. Gonzalez, J. Han, and X. Li. Flowcube: Constructuing RFID flowcubes for multi- dimensional analysis of commodity flows. In Proc. 2006 Int. Conf. Very Large Data Bases (VLDB’06), pp. 834–845, Seoul, Korea, Sept. 2006.
