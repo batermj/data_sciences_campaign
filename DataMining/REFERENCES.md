@@ -306,117 +306,80 @@ H. Galhardas, D. Florescu, D. Shasha, E. Simon, and C.-A. Saita. Declarative dat
 A. Gersho and R. M. Gray. Vector Quantization and Signal Compression. Kluwer Academic, 1992.
 V. Gaede and O. Gu ̈nther. Multidimensional access methods. ACM Computing Surveys, 30:170–231, 1998.
 
-+ [GGR99]
-[GGRL99]
-[GHL06]
-[GHLK06]
-[GKK+ 01] [GKR98]
-[GM99] [GMMO00]
-[GMP+ 09] [GMUW08]
-[GMV96]
-[Gol89] [GR04] [GR07] [GRG98]
-[GRS98]
-V. Ganti, J. E. Gehrke, and R. Ramakrishnan. CACTUS—clustering categorical data using summaries. In Proc. 1999 Int. Conf. Knowledge Discovery and Data Mining (KDD’99), pp. 73–83, San Diego, CA, 1999.
-J. Gehrke, V. Ganti, R. Ramakrishnan, and W.-Y. Loh. BOAT—optimistic decision tree construction. In Proc. 1999 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’99), pp. 169–180, Philadelphia, PA, June 1999.
-H. Gonzalez, J. Han, and X. Li. Flowcube: Constructuing RFID flowcubes for multi- dimensional analysis of commodity flows. In Proc. 2006 Int. Conf. Very Large Data Bases (VLDB’06), pp. 834–845, Seoul, Korea, Sept. 2006.
-H. Gonzalez, J. Han, X. Li, and D. Klabjan. Warehousing and analysis of massive RFID data sets. In Proc. 2006 Int. Conf. Data Engineering (ICDE’06), p. 83, Atlanta, GA, Apr. 2006.
-R. L. Grossman, C. Kamath, P. Kegelmeyer, V. Kumar, and R. R. Namburu. Data Mining for Scientific and Engineering Applications. Kluwer Academic, 2001.
-D. Gibson, J. M. Kleinberg, and P. Raghavan. Clustering categorical data: An approach based on dynamical systems. In Proc. 1998 Int. Conf. Very Large Data Bases (VLDB’98), pp. 311–323, New York, NY, Aug. 1998.
-A. Gupta and I. S. Mumick. Materialized Views: Techniques, Implementations, and Applications. Cambridge, MA: MIT Press, 1999.
-S. Guha, N. Mishra, R. Motwani, and L. O’Callaghan. Clustering data streams. In Proc. 2000 Symp. Foundations of Computer Science (FOCS’00), pp. 359–366, Redondo Beach, CA, 2000.
-J. Ginsberg, M. H. Mohebbi, R. S. Patel, L. Brammer, M. S. Smolinski, and L. Brilliant. Detecting influenza epidemics using search engine query data. Nature, 457:1012–1014, Feb. 2009.
-H. Garcia-Molina, J. D. Ullman, and J. Widom. Database Systems: The Complete Book (2nd ed.). Prentice Hall, 2008.
-I. Guyon, N. Matic, and V. Vapnik. Discoverying informative patterns and data cleaning. In U. M. Fayyad, G. Piatetsky-Shapiro, P. Smyth, and R. Uthurusamy (eds.), Advances in Knowledge Discovery and Data Mining, pp. 181–203. AAAI/MIT Press, 1996.
-D. Goldberg. Genetic Algorithms in Search, Optimization, and Machine Learning. Read- ing, MA: Addison-Wesley, 1989.
-D. A. Grossman and O. Frieder. Information Retrieval: Algorithms and Heuristics. New York: Springer, 2004.
-P. D. Grunwald and J. Rissanen. The Minimum Description Length Principle. Cambridge, MA: MIT Press, 2007.
-J. Gehrke, R. Ramakrishnan, and V. Ganti. RainForest: A framework for fast decision tree construction of large datasets. In Proc. 1998 Int. Conf. Very Large Data Bases (VLDB’98), pp. 416–427, New York, NY, Aug. 1998.
-S. Guha, R. Rastogi, and K. Shim. CURE: An efficient clustering algorithm for large databases. In Proc. 1998 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’98), pp. 73–84, Seattle, WA, June 1998.
-
-+ [GRS99]
-[Gru69] [Gup97] [Gut84]
-[GW07] [GZ03a]
-[GZ03b] [HA04]
-[HAC+ 99] [Ham94]
-[Han98] [Har68]
-[Har72] [Har75] [Hay99] [Hay08] [HB87]
-[HBV01] [HCC93] [HCD94]
-[Hec96]
-S. Guha, R. Rastogi, and K. Shim. ROCK: A robust clustering algorithm for categorical attributes. In Proc. 1999 Int. Conf. Data Engineering (ICDE’99), pp. 512–521, Sydney, Australia, Mar. 1999.
-F. E. Grubbs. Procedures for detecting outlying observations in samples. Technometrics, 11:1–21, 1969.
-H. Gupta. Selection of views to materialize in a data warehouse. In Proc. 7th Int. Conf. Database Theory (ICDT’97), pp. 98–112, Delphi, Greece, Jan. 1997.
-A. Guttman. R-Tree: A dynamic index structure for spatial searching. In Proc. 1984 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’84), pp. 47–57, Boston, MA, June 1984.
-R. C. Gonzalez and R. E. Woods. Digital Image Processing (3rd ed.). Prentice Hall, 2007. B. Goethals and M. Zaki. An introduction to workshop frequent itemset mining imple- mentations. In Proc. ICDM’03 Int. Workshop Frequent Itemset Mining Implementations (FIMI’03), pp. 1–13, Melbourne, FL, Nov. 2003.
-G. Grahne and J. Zhu. Efficiently using prefix-trees in mining frequent itemsets. In Proc. ICDM’03 Int. Workshop on Frequent Itemset Mining Implementations (FIMI’03), Melbourne, FL, Nov. 2003.
-V. J. Hodge, and J. Austin. A survey of outlier detection methodologies. Artificial Intelligence Review, 22:85–126, 2004.
-J. M. Hellerstein, R. Avnur, A. Chou, C. Hidber, C. Olston, V. Raman, T. Roth, and P. J. Haas. Interactive data analysis: The control project. IEEE Computer, 32:51–59, 1999.
-J. Hamilton. Time Series Analysis. Princeton University Press, 1994.
-J. Han. Towards on-line analytical mining in large databases. SIGMOD Record, 27:97–107, 1998.
-P. E. Hart. The condensed nearest neighbor rule. IEEE Trans. Information Theory, 14:515–516, 1968.
-J. Hartigan. Direct clustering of a data matrix. J. American Stat. Assoc., 67:123–129, 1972. J. A. Hartigan. Clustering Algorithms. John Wiley & Sons, 1975.
-S. S. Haykin. Neural Networks: A Comprehensive Foundation. Prentice-Hall, 1999.
-S. Haykin. Neural Networks and Learning Machines. Prentice-Hall, 2008.
-S. J. Hanson and D. J. Burr. Minkowski-r back-propagation: Learning in connection- ist models with non-euclidian error signals. In Neural Information Proc. Systems Conf., pp. 348–357, Denver, CO, 1987.
-M. Halkidi, Y. Batistakis, and M. Vazirgiannis. On clustering validation techniques. J. Intelligent Information Systems, 17:107–145, 2001.
-J. Han, Y. Cai, and N. Cercone. Data-driven discovery of quantitative rules in relational databases. IEEE Trans. Knowledge and Data Engineering, 5:29–40, 1993.
-L. B. Holder, D. J. Cook, and S. Djoko. Substructure discovery in the subdue system. In Proc. AAAI’94 Workshop on Knowledge Discovery in Databases (KDD’94), pp. 169–180, Seattle, WA, July 1994.
-D. Heckerman. Bayesian networks for knowledge discovery. In U. M. Fayyad, G. Piatetsky-Shapiro, P. Smyth, and R. Uthurusamy (eds.), Advances in Knowledge Discovery and Data Mining, pp. 273–305. Cambridge, MA: MIT Press, 1996.
-
-+ [HF94]
-[HF95]
-[HF96]
-[HFLP01] [HG05] [HG07]
-[HGC95]
-[HH01] [HHW97]
-[Hig08] [HK91]
-[HK98] [HKGT03]
-[HKKR99] [HKP91] [HLW07] [HLZ02]
-J. Han and Y. Fu. Dynamic generation and refinement of concept hierarchies for knowledge discovery in databases. In Proc. AAAI’94 Workshop Knowledge Discovery in Databases (KDD’94), pp. 157–168, Seattle, WA, July 1994.
-J. Han and Y. Fu. Discovery of multiple-level association rules from large databases. In Proc. 1995 Int. Conf. Very Large Data Bases (VLDB’95), pp. 420–431, Zurich, Switzerland, Sept. 1995.
-J. Han and Y. Fu. Exploration of the power of attribute-oriented induction in data mining. In U. M. Fayyad, G. Piatetsky-Shapiro, P. Smyth, and R. Uthurusamy (eds.), Advances in Knowledge Discovery and Data Mining, pp. 399–421. AAAI/MIT Press, 1996. P. S. Horn, L. Feng, Y. Li, and A. J. Pesce. Effect of outliers and nonhealthy individuals on reference interval estimation. Clinical Chemistry, 47:2137–2145, 2001.
-K. A. Heller and Z. Ghahramani. Bayesian hierarchical clustering. In Proc. 22nd Int. Conf. Machine Learning (ICML’05), pp. 297–304, Bonn, Germany, 2005.
-A. Hinneburg and H.-H. Gabriel. DENCLUE 2.0: Fast clustering based on kernel den- sity estimation. In Proc. 2007 Int. Conf. Intelligent Data Analysis (IDA’07), pp. 70–80, Ljubljana, Slovenia, 2007.
-D. Heckerman, D. Geiger, and D. M. Chickering. Learning Bayesian networks: The combination of knowledge and statistical data. Machine Learning, 20:197–243, 1995.
-R. J. Hilderman and H. J. Hamilton. Knowledge Discovery and Measures of Interest. Kluwer Academic, 2001.
-J. Hellerstein, P. Haas, and H. Wang. Online aggregation. In Proc. 1997 ACM- SIGMOD Int. Conf. Management of Data (SIGMOD’97), pp. 171–182, Tucson, AZ, May 1997.
-R. C. Higgins. Analysis for Financial Management with S&P Bind-In Card. Irwin/ McGraw-Hill, 2008.
-P. Hoschka and W. Klo ̈sgen. A support system for interpreting statistical data. In G. Piatetsky-Shapiro and W. J. Frawley (eds.), Knowledge Discovery in Databases, pp. 325–346. AAAI/MIT Press, 1991.
-A. Hinneburg and D. A. Keim. An efficient approach to clustering in large multimedia databases with noise. In Proc. 1998 Int. Conf. Knowledge Discovery and Data Mining (KDD’98), pp. 58–65, New York, NY, Aug. 1998.
-M. Hadjieleftheriou, G. Kollios, D. Gunopulos, and V. J. Tsotras. Online discovery of dense areas in spatio-temporal databases. In Proc. 2003 Int. Symp. Spatial and Temporal Databases (SSTD’03), pp. 306–324, Santorini Island, Greece, July 2003.
-F. Ho ̈ppner, F. Klawonn, R. Kruse, and T. Runkler. Fuzzy Cluster Analysis: Methods for Classification, Data Analysis and Image Recognition. Wiley, 1999.
-J. Hertz, A. Krogh, and R. G. Palmer. Introduction to the Theory of Neural Computation. Reading, MA: Addison-Wesley, 1991.
-W. Hsu, M. L. Lee, and J. Wang. Temporal and Spatio-Temporal Data Mining. IGI Publishing, 2007.
-W. Hsu, M. L. Lee, and J. Zhang. Image mining: Trends and developments. J. Intelligent Information Systems, 19:7–23, 2002.
-
-+ [HMM86]
-[HMS66] [HMS01]
-[HN90] [Hor08]
-[HP07]
-[HPDW01]
-[HPS97] [HPY00]
-[HRMS10] [HRU96]
-[HS05] [HSG90]
-[HT98] [HTF09] [Hua98]
-[Hub94] [Hub96] [HWB+ 04]
-J. Hong, I. Mozetic, and R. S. Michalski. Incremental learning of attribute-based descriptions from examples, the method and user’s guide. In Report ISG 85-5, UIUCDCS-F-86-949, Department of Computer Science, University of Illinois at Urbana-Champaign, 1986.
-E. B. Hunt, J. Marin, and P. T. Stone. Experiments in Induction. Academic Press, 1966. D. J. Hand, H. Mannila, and P. Smyth. Principles of Data Mining (Adaptive Computation and Machine Learning). Cambridge, MA: MIT Press, 2001.
-R. Hecht-Nielsen. Neurocomputing. Reading, MA: Addison-Wesley, 1990.
-R. Horak. Telecommunications and Data Communications Handbook (2nd ed.). Wiley- Interscience, 2008.
-M. Hua and J. Pei. Cleaning disguised missing data: A heuristic approach. In Proc. 2007 ACM SIGKDD Intl. Conf. Knowledge Discovery and Data Mining (KDD’07), pp. 950–958, San Jose, CA, Aug. 2007.
-J. Han, J. Pei, G. Dong, and K. Wang. Efficient computation of iceberg cubes with complex measures. In Proc. 2001 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’01), pp. 1–12, Santa Barbara, CA, May 2001.
-J. Hosking, E. Pednault, and M. Sudan. A statistical perspective on data mining. Future Generation Computer Systems, 13:117–134, 1997.
-J. Han, J. Pei, and Y. Yin. Mining frequent patterns without candidate generation. In Proc. 2000 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’00), pp. 1–12, Dallas, TX, May 2000.
-M. Hay, V. Rastogi, G. Miklau, and D. Suciu. Boosting the accuracy of differentially- private queries through consistency. In Proc. 2010 Int. Conf. Very Large Data Bases (VLDB’10), pp. 1021–1032, Singapore, Sept. 2010.
-V. Harinarayan, A. Rajaraman, and J. D. Ullman. Implementing data cubes efficiently. In Proc. 1996 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’96), pp. 205–216, Montreal, Quebec, Canada, June 1996.
-J. M. Hellerstein and M. Stonebraker. Readings in Database Systems (4th ed.). Cam- bridge, MA: MIT Press, 2005.
-S. A. Harp, T. Samad, and A. Guha. Designing application-specific neural networks using the genetic algorithm. In D. S. Touretzky (ed.), Advances in Neural Information Processing Systems II, pp. 447–454. Morgan Kaufmann, 1990.
-T. Hastie and R. Tibshirani. Classification by pairwise coupling. Ann. Statistics, 26:451– 471, 1998.
-T. Hastie, R. Tibshirani, and J. Friedman. The Elements of Statistical Learning: Data Mining, Inference, and Prediction (2nd ed.). Springer Verlag, 2009.
-Z. Huang. Extensions to the k-means algorithm for clustering large data sets with categorical values. Data Mining and Knowledge Discovery, 2:283–304, 1998.
-C. H. Huberty. Applied Discriminant Analysis. Wiley-Interscience, 1994.
-B. B. Hubbard. The World According to Wavelets. A. K. Peters, 1996.
-J. Huan, W. Wang, D. Bandyopadhyay, J. Snoeyink, J. Prins, and A. Tropsha. Min- ing spatial motifs from protein structure graphs. In Proc. 8th Int. Conf. Research in Computational Molecular Biology (RECOMB), pp. 308–315, San Diego, CA, Mar. 2004.
-
++ [GGR99] V. Ganti, J. E. Gehrke, and R. Ramakrishnan. CACTUS—clustering categorical data using summaries. In Proc. 1999 Int. Conf. Knowledge Discovery and Data Mining (KDD’99), pp. 73–83, San Diego, CA, 1999.
++ [GGRL99] J. Gehrke, V. Ganti, R. Ramakrishnan, and W.-Y. Loh. BOAT—optimistic decision tree construction. In Proc. 1999 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’99), pp. 169–180, Philadelphia, PA, June 1999.
++ [GHL06] H. Gonzalez, J. Han, and X. Li. Flowcube: Constructuing RFID flowcubes for multi- dimensional analysis of commodity flows. In Proc. 2006 Int. Conf. Very Large Data Bases (VLDB’06), pp. 834–845, Seoul, Korea, Sept. 2006.
++ [GHLK06] H. Gonzalez, J. Han, X. Li, and D. Klabjan. Warehousing and analysis of massive RFID data sets. In Proc. 2006 Int. Conf. Data Engineering (ICDE’06), p. 83, Atlanta, GA, Apr. 2006.
++ [GKK+ 01] R. L. Grossman, C. Kamath, P. Kegelmeyer, V. Kumar, and R. R. Namburu. Data Mining for Scientific and Engineering Applications. Kluwer Academic, 2001.
++ [GKR98] D. Gibson, J. M. Kleinberg, and P. Raghavan. Clustering categorical data: An approach based on dynamical systems. In Proc. 1998 Int. Conf. Very Large Data Bases (VLDB’98), pp. 311–323, New York, NY, Aug. 1998.
++ [GM99] A. Gupta and I. S. Mumick. Materialized Views: Techniques, Implementations, and Applications. Cambridge, MA: MIT Press, 1999.
++ [GMMO00] S. Guha, N. Mishra, R. Motwani, and L. O’Callaghan. Clustering data streams. In Proc. 2000 Symp. Foundations of Computer Science (FOCS’00), pp. 359–366, Redondo Beach, CA, 2000.
++ [GMP+ 09] J. Ginsberg, M. H. Mohebbi, R. S. Patel, L. Brammer, M. S. Smolinski, and L. Brilliant. Detecting influenza epidemics using search engine query data. Nature, 457:1012–1014, Feb. 2009.
++ [GMMO00] H. Garcia-Molina, J. D. Ullman, and J. Widom. Database Systems: The Complete Book (2nd ed.). Prentice Hall, 2008.
++ [GMV96] I. Guyon, N. Matic, and V. Vapnik. Discoverying informative patterns and data cleaning. In U. M. Fayyad, G. Piatetsky-Shapiro, 1996
++ [GMV96] P. Smyth, and R. Uthurusamy (eds.), Advances in Knowledge Discovery and Data Mining, pp. 181–203. AAAI/MIT Press, 1996.
++ [Gol89] D. Goldberg. Genetic Algorithms in Search, Optimization, and Machine Learning. Read- ing, MA: Addison-Wesley, 1989.
++ [GR04] D. A. Grossman and O. Frieder. Information Retrieval: Algorithms and Heuristics. New York: Springer, 2004.
++ [GR07] P. D. Grunwald and J. Rissanen. The Minimum Description Length Principle. Cambridge, MA: MIT Press, 2007.
++ [GRG98] J. Gehrke, R. Ramakrishnan, and V. Ganti. RainForest: A framework for fast decision tree construction of large datasets. In Proc. 1998 Int. Conf. Very Large Data Bases (VLDB’98), pp. 416–427, New York, NY, Aug. 1998.
++ [GRS98] S. Guha, R. Rastogi, and K. Shim. CURE: An efficient clustering algorithm for large databases. In Proc. 1998 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’98), pp. 73–84, Seattle, WA, June 1998.
++ [GRS99] S. Guha, R. Rastogi, and K. Shim. ROCK: A robust clustering algorithm for categorical attributes. In Proc. 1999 Int. Conf. Data Engineering (ICDE’99), pp. 512–521, Sydney, Australia, Mar. 1999.
++ [Gru69] F. E. Grubbs. Procedures for detecting outlying observations in samples. Technometrics, 11:1–21, 1969.
++ [Gup97] H. Gupta. Selection of views to materialize in a data warehouse. In Proc. 7th Int. Conf. Database Theory (ICDT’97), pp. 98–112, Delphi, Greece, Jan. 1997.
++ [Gut84] A. Guttman. R-Tree: A dynamic index structure for spatial searching. In Proc. 1984 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’84), pp. 47–57, Boston, MA, June 1984.
++ [GW07] R. C. Gonzalez and R. E. Woods. Digital Image Processing (3rd ed.). Prentice Hall, 2007. 
++ [GZ03a] B. Goethals and M. Zaki. An introduction to workshop frequent itemset mining imple- mentations. In Proc. ICDM’03 Int. Workshop Frequent Itemset Mining Implementations (FIMI’03), pp. 1–13, Melbourne, FL, Nov. 2003.
++ [GZ03b] G. Grahne and J. Zhu. Efficiently using prefix-trees in mining frequent itemsets. In Proc. ICDM’03 Int. Workshop on Frequent Itemset Mining Implementations (FIMI’03), Melbourne, FL, Nov. 2003.
++ [HA04] V. J. Hodge, and J. Austin. A survey of outlier detection methodologies. Artificial Intelligence Review, 22:85–126, 2004.
++ [HAC+ 99] J. M. Hellerstein, R. Avnur, A. Chou, C. Hidber, C. Olston, V. Raman, T. Roth, and P. J. Haas. Interactive data analysis: The control project. IEEE Computer, 32:51–59, 1999.
++ [Ham94] J. Hamilton. Time Series Analysis. Princeton University Press, 1994.
++ [Han98] J. Han. Towards on-line analytical mining in large databases. SIGMOD Record, 27:97–107, 1998.
++ [Har68] P. E. Hart. The condensed nearest neighbor rule. IEEE Trans. Information Theory, 14:515–516, 1968.
++ [Har72] J. Hartigan. Direct clustering of a data matrix. J. American Stat. Assoc., 67:123–129, 1972. 
+vJ. A. Hartigan. Clustering Algorithms. John Wiley & Sons, 1975.
++ [Hay99] S. S. Haykin. Neural Networks: A Comprehensive Foundation. Prentice-Hall, 1999.
++ [Hay08] S. Haykin. Neural Networks and Learning Machines. Prentice-Hall, 2008.
++ [HB87] S. J. Hanson and D. J. Burr. Minkowski-r back-propagation: Learning in connection- ist models with non-euclidian error signals. In Neural Information Proc. Systems Conf., pp. 348–357, Denver, CO, 1987.
++ [HBV01] M. Halkidi, Y. Batistakis, and M. Vazirgiannis. On clustering validation techniques. J. Intelligent Information Systems, 17:107–145, 2001.
++ [HCC93] J. Han, Y. Cai, and N. Cercone. Data-driven discovery of quantitative rules in relational databases. IEEE Trans. Knowledge and Data Engineering, 5:29–40, 1993.
++ [HCD94] L. B. Holder, D. J. Cook, and S. Djoko. Substructure discovery in the subdue system. In Proc. AAAI’94 Workshop on Knowledge Discovery in Databases (KDD’94), pp. 169–180, Seattle, WA, July 1994.
++ [Hec96] D. Heckerman. Bayesian networks for knowledge discovery. In U. M. Fayyad, G. Piatetsky-Shapiro, P. Smyth, and R. Uthurusamy (eds.), Advances in Knowledge Discovery and Data Mining, pp. 273–305. Cambridge, MA: MIT Press, 1996.
++ [HF94] J. Han and Y. Fu. Dynamic generation and refinement of concept hierarchies for knowledge discovery in databases. In Proc. AAAI’94 Workshop Knowledge Discovery in Databases (KDD’94), pp. 157–168, Seattle, WA, July 1994.
++ [HF95] J. Han and Y. Fu. Discovery of multiple-level association rules from large databases. In Proc. 1995 Int. Conf. Very Large Data Bases (VLDB’95), pp. 420–431, Zurich, Switzerland, Sept. 1995.
++ [HFLP01]  J. Han and Y. Fu. Exploration of the power of attribute-oriented induction in data mining. In U. M. Fayyad, G. Piatetsky-Shapiro, P. Smyth, and R. Uthurusamy (eds.), Advances in Knowledge Discovery and Data Mining, pp. 399–421. AAAI/MIT Press, 1996. 
++ [HFLP01] P. S. Horn, L. Feng, Y. Li, and A. J. Pesce. Effect of outliers and nonhealthy individuals on reference interval estimation. Clinical Chemistry, 47:2137–2145, 2001.
++ [HG05] K. A. Heller and Z. Ghahramani. Bayesian hierarchical clustering. In Proc. 22nd Int. Conf. Machine Learning (ICML’05), pp. 297–304, Bonn, Germany, 2005.
++ [HG07] A. Hinneburg and H.-H. Gabriel. DENCLUE 2.0: Fast clustering based on kernel den- sity estimation. In Proc. 2007 Int. Conf. Intelligent Data Analysis (IDA’07), pp. 70–80, Ljubljana, Slovenia, 2007.
++ [HGC95] D. Heckerman, D. Geiger, and D. M. Chickering. Learning Bayesian networks: The combination of knowledge and statistical data. Machine Learning, 20:197–243, 1995.
++ [HH01] R. J. Hilderman and H. J. Hamilton. Knowledge Discovery and Measures of Interest. Kluwer Academic, 2001.
++ [HHW97] J. Hellerstein, P. Haas, and H. Wang. Online aggregation. In Proc. 1997 ACM- SIGMOD Int. Conf. Management of Data (SIGMOD’97), pp. 171–182, Tucson, AZ, May 1997.
++ [Hig08] R. C. Higgins. Analysis for Financial Management with S&P Bind-In Card. Irwin/ McGraw-Hill, 2008.
++ [HK91] P. Hoschka and W. Klo ̈sgen. A support system for interpreting statistical data. In G. Piatetsky-Shapiro and W. J. Frawley (eds.), Knowledge Discovery in Databases, pp. 325–346. AAAI/MIT Press, 1991.
++ [HK98] A. Hinneburg and D. A. Keim. An efficient approach to clustering in large multimedia databases with noise. In Proc. 1998 Int. Conf. Knowledge Discovery and Data Mining (KDD’98), pp. 58–65, New York, NY, Aug. 1998.
++ [HKGT03] M. Hadjieleftheriou, G. Kollios, D. Gunopulos, and V. J. Tsotras. Online discovery of dense areas in spatio-temporal databases. In Proc. 2003 Int. Symp. Spatial and Temporal Databases (SSTD’03), pp. 306–324, Santorini Island, Greece, July 2003.
++ [HKKR99] F. Ho ̈ppner, F. Klawonn, R. Kruse, and T. Runkler. Fuzzy Cluster Analysis: Methods for Classification, Data Analysis and Image Recognition. Wiley, 1999.
++ [HKP91] J. Hertz, A. Krogh, and R. G. Palmer. Introduction to the Theory of Neural Computation. Reading, MA: Addison-Wesley, 1991.
++ [HLW07] W. Hsu, M. L. Lee, and J. Wang. Temporal and Spatio-Temporal Data Mining. IGI Publishing, 2007.
++ [HLZ02] W. Hsu, M. L. Lee, and J. Zhang. Image mining: Trends and developments. J. Intelligent Information Systems, 19:7–23, 2002.
++ [HMM86] J. Hong, I. Mozetic, and R. S. Michalski. Incremental learning of attribute-based descriptions from examples, the method and user’s guide. In Report ISG 85-5, UIUCDCS-F-86-949, Department of Computer Science, University of Illinois at Urbana-Champaign, 1986.
++ [HMS01] E. B. Hunt, J. Marin, and P. T. Stone. Experiments in Induction. Academic Press, 1966. 
++ [HMS01] D. J. Hand, H. Mannila, and P. Smyth. Principles of Data Mining (Adaptive Computation and Machine Learning). Cambridge, MA: MIT Press, 2001.
++ [HN90] R. Hecht-Nielsen. Neurocomputing. Reading, MA: Addison-Wesley, 1990.
++ [Hor08] R. Horak. Telecommunications and Data Communications Handbook (2nd ed.). Wiley- Interscience, 2008.
++ [HP07] M. Hua and J. Pei. Cleaning disguised missing data: A heuristic approach. In Proc. 2007 ACM SIGKDD Intl. Conf. Knowledge Discovery and Data Mining (KDD’07), pp. 950–958, San Jose, CA, Aug. 2007.
++ [HPDW01] J. Han, J. Pei, G. Dong, and K. Wang. Efficient computation of iceberg cubes with complex measures. In Proc. 2001 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’01), pp. 1–12, Santa Barbara, CA, May 2001.
++ [HPS97] J. Hosking, E. Pednault, and M. Sudan. A statistical perspective on data mining. Future Generation Computer Systems, 13:117–134, 1997.
++ [HPY00] J. Han, J. Pei, and Y. Yin. Mining frequent patterns without candidate generation. In Proc. 2000 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’00), pp. 1–12, Dallas, TX, May 2000.
++ [HRMS10] M. Hay, V. Rastogi, G. Miklau, and D. Suciu. Boosting the accuracy of differentially- private queries through consistency. In Proc. 2010 Int. Conf. Very Large Data Bases (VLDB’10), pp. 1021–1032, Singapore, Sept. 2010.
++ [HRU96] V. Harinarayan, A. Rajaraman, and J. D. Ullman. Implementing data cubes efficiently. In Proc. 1996 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’96), pp. 205–216, Montreal, Quebec, Canada, June 1996.
++ [HS05] J. M. Hellerstein and M. Stonebraker. Readings in Database Systems (4th ed.). Cam- bridge, MA: MIT Press, 2005.
++ [HSG90] S. A. Harp, T. Samad, and A. Guha. Designing application-specific neural networks using the genetic algorithm. In D. S. Touretzky (ed.), Advances in Neural Information Processing Systems II, pp. 447–454. Morgan Kaufmann, 1990.
++ [HT98] T. Hastie and R. Tibshirani. Classification by pairwise coupling. Ann. Statistics, 26:451– 471, 1998.
++ [HTF09] T. Hastie, R. Tibshirani, and J. Friedman. The Elements of Statistical Learning: Data Mining, Inference, and Prediction (2nd ed.). Springer Verlag, 2009.
++ [Hua98] Z. Huang. Extensions to the k-means algorithm for clustering large data sets with categorical values. Data Mining and Knowledge Discovery, 2:283–304, 1998.
++ [Hub94] C. H. Huberty. Applied Discriminant Analysis. Wiley-Interscience, 1994.
++ [Hub96] B. B. Hubbard. The World According to Wavelets. A. K. Peters, 1996.
++ [HWB+ 04] J. Huan, W. Wang, D. Bandyopadhyay, J. Snoeyink, J. Prins, and A. Tropsha. Min- ing spatial motifs from protein structure graphs. In Proc. 8th Int. Conf. Research in Computational Molecular Biology (RECOMB), pp. 308–315, San Diego, CA, Mar. 2004.
 + [HXD03] Z. He, X. Xu, and S. Deng. Discovering cluster-based local outliers. Pattern Recognition Lett., 24:1641–1650, June, 2003.
 + [IKA02] C. Imhoff, N. Galemmo, and J. G. Geiger. Mastering Data Warehouse Design: Relational and Dimensional Techniques. John Wiley & Sons, 2003.
 + [IKA02] T. Imielinski, L. Khachiyan, and A. Abdulghani. Cubegrades: Generalizing association rules. Data Mining and Knowledge Discovery, 6:219–258, 2002.
