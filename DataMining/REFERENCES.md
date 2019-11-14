@@ -871,37 +871,27 @@ A. K. H. Tung, J. Hou, and J. Han. Spatial clustering in the presence of obstacl
 A. K. H. Tung, J. Han, L. V. S. Lakshmanan, and R. T. Ng. Constraint-based clustering in large databases. In Proc. 2001 Int. Conf. Database Theory (ICDT’01), pp. 405–419, London, Jan. 2001.
 Y. Tian, R. A. Hankins, and J. M. Patel. Efficient aggregation for graph summariza- tion. In Proc. 2008 ACM SIGMOD Int. Conf. Management of Data (SIGMOD’08), pp. 567–580, Vancouver, British Columbia, Canada, June 2008.
 
-+ [Thu04]
-[TK08] [TKS02]
-[TLZN08]
-[Toi96] [TS93] [TSK05] [TSS04]
-[Tuf83] [Tuf90] [Tuf97]
-[Tuf01] [TXZ06]
-[UBC97] [UFS91]
-[Utg88]
-[Val87] [Vap95] [Vap98] [VC71]
-[VC03]
-B. Thuraisingham. Data mining for counterterrorism. In H. Kargupta, A. Joshi, K. Sivakumar, and Y. Yesha (eds.), Data Mining: Next Generation Challenges and Future Directions, pp. 157–183. AAAI/MIT Press, 2004.
-S. Theodoridis and K. Koutroumbas. Pattern Recognition (4th ed.) Academic Press, 2008. P.-N. Tan, V. Kumar, and J. Srivastava. Selecting the right interestingness measure for association patterns. In Proc. 2002 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’02), pp. 32–41, Edmonton, Alberta, Canada, July 2002.
-L. Tang, H. Liu, J. Zhang, and Z. Nazeri. Community evolution in dynamic multi-mode networks. In Proc. 2008 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’08), pp. 677–685, Las Vegas, NV, Aug. 2008.
-H. Toivonen. Sampling large databases for association rules. In Proc. 1996 Int. Conf. Very Large Data Bases (VLDB’96), pp. 134–145, Bombay, India, Sept. 1996.
-G. G. Towell and J. W. Shavlik. Extracting refined rules from knowledge-based neural networks. Machine Learning, 13:71–101, Oct. 1993.
-P. N. Tan, M. Steinbach, and V. Kumar. Introduction to Data Mining. Boston: Addison- Wesley, 2005.
-A. Tanay, R. Sharan, and R. Shamir. Biclustering algorithms: A survey. In S. Aluru (ed.), Handbook of Computational Molecular Biology, pp. 26:1–26:17. London: Chapman & Hall, 2004.
-E. R. Tufte. The Visual Display of Quantitative Information. Graphics Press, 1983.
-E. R. Tufte. Envisioning Information. Graphics Press, 1990.
-E. R. Tufte. Visual Explanations: Images and Quantities, Evidence and Narrative. Graphics Press, 1997.
-E. R. Tufte. The Visual Display of Quantitative Information (2nd ed.). Graphics Press, 2001.
-Y. Tao, X. Xiao, and S. Zhou. Mining distance-based outliers from large databases in any metric space. In Proc. 2006 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’06), pp. 394–403, Philadelphia, PA, Aug. 2006.
-P. E. Utgoff, N. C. Berkman, and J. A. Clouse. Decision tree induction based on efficient tree restructuring. Machine Learning, 29:5–44, 1997.
-R. Uthurusamy, U. M. Fayyad, and S. Spangler. Learning useful rules from inconclusive data. In G. Piatetsky-Shapiro and W. J. Frawley (eds.), Knowledge Discovery in Databases, pp. 141–157. AAAI/MIT Press, 1991.
-P. E. Utgoff. An incremental ID3. In Proc. Fifth Int. Conf. Machine Learning (ICML’88), pp. 107–120, San Mateo, CA, 1988.
-P. Valduriez. Join indices. ACM Trans. Database Systems, 12:218–246, 1987.
-V. N. Vapnik. The Nature of Statistical Learning Theory. Springer Verlag, 1995.
-V. N. Vapnik. Statistical Learning Theory. John Wiley & Sons, 1998.
-V. N. Vapnik and A. Y. Chervonenkis. On the uniform convergence of relative fre- quencies of events to their probabilities. Theory of Probability and Its Applications, 16:264–280, 1971.
-J. Vaidya and C. Clifton. Privacy-preserving k-means clustering over vertically parti- tioned data. In Proc. 2003 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’03), Washington, DC, Aug 2003.
-
++ [Thu04] B. Thuraisingham. Data mining for counterterrorism. In H. Kargupta, A. Joshi, K. Sivakumar, and Y. Yesha (eds.), Data Mining: Next Generation Challenges and Future Directions, pp. 157–183. AAAI/MIT Press, 2004.
++ [TK08] S. Theodoridis and K. Koutroumbas. Pattern Recognition (4th ed.) Academic Press, 2008. 
++ [TKS02] P.-N. Tan, V. Kumar, and J. Srivastava. Selecting the right interestingness measure for association patterns. In Proc. 2002 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’02), pp. 32–41, Edmonton, Alberta, Canada, July 2002.
++ [TLZN08] L. Tang, H. Liu, J. Zhang, and Z. Nazeri. Community evolution in dynamic multi-mode networks. In Proc. 2008 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’08), pp. 677–685, Las Vegas, NV, Aug. 2008.
++ [Toi96] H. Toivonen. Sampling large databases for association rules. In Proc. 1996 Int. Conf. Very Large Data Bases (VLDB’96), pp. 134–145, Bombay, India, Sept. 1996.
++ [TS93] G. G. Towell and J. W. Shavlik. Extracting refined rules from knowledge-based neural networks. Machine Learning, 13:71–101, Oct. 1993.
++ [TSK05] P. N. Tan, M. Steinbach, and V. Kumar. Introduction to Data Mining. Boston: Addison- Wesley, 2005.
++ [TSS04] A. Tanay, R. Sharan, and R. Shamir. Biclustering algorithms: A survey. In S. Aluru (ed.), Handbook of Computational Molecular Biology, pp. 26:1–26:17. London: Chapman & Hall, 2004.
++ [Tuf83] E. R. Tufte. The Visual Display of Quantitative Information. Graphics Press, 1983.
++ [Tuf90] E. R. Tufte. Envisioning Information. Graphics Press, 1990.
++ [Tuf97] E. R. Tufte. Visual Explanations: Images and Quantities, Evidence and Narrative. Graphics Press, 1997.
++ [Tuf01] E. R. Tufte. The Visual Display of Quantitative Information (2nd ed.). Graphics Press, 2001.
++ [TXZ06] Y. Tao, X. Xiao, and S. Zhou. Mining distance-based outliers from large databases in any metric space. In Proc. 2006 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’06), pp. 394–403, Philadelphia, PA, Aug. 2006.
++ [UBC97] P. E. Utgoff, N. C. Berkman, and J. A. Clouse. Decision tree induction based on efficient tree restructuring. Machine Learning, 29:5–44, 1997.
++ [UFS91] R. Uthurusamy, U. M. Fayyad, and S. Spangler. Learning useful rules from inconclusive data. In G. Piatetsky-Shapiro and W. J. Frawley (eds.), Knowledge Discovery in Databases, pp. 141–157. AAAI/MIT Press, 1991.
++ [Utg88] P. E. Utgoff. An incremental ID3. In Proc. Fifth Int. Conf. Machine Learning (ICML’88), pp. 107–120, San Mateo, CA, 1988.
++ [Val87] P. Valduriez. Join indices. ACM Trans. Database Systems, 12:218–246, 1987.
++ [Vap95] V. N. Vapnik. The Nature of Statistical Learning Theory. Springer Verlag, 1995.
++ [Vap98] V. N. Vapnik. Statistical Learning Theory. John Wiley & Sons, 1998.
++ [VC71] V. N. Vapnik and A. Y. Chervonenkis. On the uniform convergence of relative fre- quencies of events to their probabilities. Theory of Probability and Its Applications, 16:264–280, 1971.
++ [VC03] J. Vaidya and C. Clifton. Privacy-preserving k-means clustering over vertically parti- tioned data. In Proc. 2003 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’03), Washington, DC, Aug 2003.
 + [VC06] M. Vuk and T. Curk. ROC curve, lift chart and calibration plot. Metodoloˇski zvezki, 3:89–108, 2006.
 + [VCZ10] J. Vaidya, C. W. Clifton, and Y. M. Zhu. Privacy Preserving Data Mining. New York: Springer, 2010.
 + [VGK02] M. Vlachos, D. Gunopulos, and G. Kollios. Discovering similar multidimensional trajec- tories. In Proc. 2002 Int. Conf. Data Engineering (ICDE’02), pp. 673–684, San Fransisco, CA, Apr. 2002.
@@ -921,8 +911,6 @@ J. Vaidya and C. Clifton. Privacy-preserving k-means clustering over vertically 
 + [WHH00] K. Wang, Y. He, and J. Han. Mining frequent itemsets using support constraints. In Proc. 2000 Int. Conf. Very Large Data Bases (VLDB’00), pp. 43–52, Cairo, Egypt, Sept. 2000.
 + [WHJ+ 10] C. Wang, J. Han, Y. Jia, J. Tang, D. Zhang, Y. Yu, and J. Guo. Mining advisor-advisee relationships from research publication networks. In Proc. 2010 ACM SIGKDD Conf. Knowledge Discovery and Data Mining (KDD’10), Washington, DC, July 2010.
 + [WHLT05] J. Wang, J. Han, Y. Lu, and P. Tzvetkov. TFP: An efficient algorithm for mining top-k frequent closed itemsets. IEEE Trans. Knowledge and Data Engineering, 17:652–664, 2005.
-
-
 + [WHP03] J. Wang, J. Han, and J. Pei. CLOSET+: Searching for the best strategies for mining fre- quent closed itemsets. In Proc. 2003 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’03), pp. 236–245, Washington, DC, Aug. 2003.
 + [WI98] S. M. Weiss and N. Indurkhya. Predictive Data Mining. Morgan Kaufmann, 1998.
 + [Wid95] J. Widom. Research problems in data warehousing. In Proc. 4th Int. Conf. Information and Knowledge Management, pp. 25–30, Baltimore, MD, Nov. 1995.
@@ -940,8 +928,6 @@ J. Vaidya and C. Clifton. Privacy-preserving k-means clustering over vertically 
 + [WYM97] W. Wang, J. Yang, and R. Muntz. STING: A statistical information grid approach to spatial data mining. In Proc. 1997 Int. Conf. Very Large Data Bases (VLDB’97), pp. 186–195, Athens, Greece, Aug. 1997.
 + [XCYH06] D. Xin, H. Cheng, X. Yan, and J. Han. Extracting redundancy-aware top-k patterns. In Proc. 2006 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’06), pp. 444–453, Philadelphia, PA, Aug. 2006.
 + [XHCL06] D. Xin, J. Han, H. Cheng, and X. Li. Answering top-k queries with multi-dimensional selections: The ranking cube approach. In Proc. 2006 Int. Conf. Very Large Data Bases (VLDB’06), pp. 463–475, Seoul, Korea, Sept. 2006.
-
-
 + [XHLW03] D. Xin, J. Han, X. Li, and B. W. Wah. Star-cubing: Computing iceberg cubes by top-down and bottom-up integration. In Proc. 2003 Int. Conf. Very Large Data Bases (VLDB’03), pp. 476–487, Berlin, Germany, Sept. 2003.
 + [XHSL06] D. Xin, J. Han, Z. Shao, and H. Liu. C-cubing: Efficient computation of closed cubes by aggregation-based checking. In Proc. 2006 Int. Conf. Data Engineering (ICDE’06), p. 4, Atlanta, GA, Apr. 2006.
 + [XHYC05] D. Xin, J. Han, X. Yan, and H. Cheng. Mining compressed frequent-pattern sets. In Proc. 2005 Int. Conf. Very Large Data Bases (VLDB’05), pp. 709–720, Trondheim, Norway, Aug. 2005.
