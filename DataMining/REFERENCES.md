@@ -729,97 +729,67 @@ G. Piatetsky-Shapiro. Notes AAAI’91 Workshop Knowledge Discovery in Databases 
 G. Piatetsky-Shapiro and W. J. Frawley. Knowledge Discovery in Databases. AAAI/MIT Press, 1991.
 F. Pan, A. K. H. Tung, G. Cong, and X. Xu. COBBLER: Combining column and row enumeration for closed pattern discovery. In Proc. 2004 Int. Conf. Scientific and Statistical Database Management (SSDBM’04), pp. 21–30, Santorini Island, Greece, June 2004.
 
-+ [PTVF07]
-[PY10]
-[Pyl99] [PZC+ 03]
-[QC-J93]
-[QR89]
-[Qui86] [Qui87] [Qui88]
-[Qui89] [Qui90]
-[Qui93] [Qui96]
-[RA87] [Rab89] [RBKK95]
-[RC07]
-[Red92] [Red01] [RG03]
-[RGN10] [RH01] [RH07]
-W. H. Press, S. A. Teukolosky, W. T. Vetterling, and B. P. Flannery. Numerical Recipes: The Art of Scientific Computing. Cambridge: Cambridge University Press, 2007.
-S. J. Pan and Q. Yang. A survey on transfer learning. IEEE Trans. Knowledge and Data Engineering, 22:1345–1359, 2010.
-D. Pyle. Data Preparation for Data Mining. Morgan Kaufmann, 1999.
-J. Pei, X. Zhang, M. Cho, H. Wang, and P. S. Yu. Maple: A fast algorithm for maximal pattern-based clustering. In Proc. 2003 Int. Conf. Data Mining (ICDM’03), pp. 259–266, Melbourne, FL, Dec. 2003.
-J. R. Quinlan and R. M. Cameron-Jones. FOIL: A midterm report. In Proc. 1993 European Conf. Machine Learning (ECML’93), pp. 3–20, Vienna, Austria, 1993.
-J. R. Quinlan and R. L. Rivest. Inferring decision trees using the minimum description length principle. Information and Computation, 80:227–248, Mar. 1989.
-J. R. Quinlan. Induction of decision trees. Machine Learning, 1:81–106, 1986.
-J. R. Quinlan. Simplifying decision trees. Int. J. Man-Machine Studies, 27:221–234, 1987. J. R. Quinlan. An empirical comparison of genetic and decision-tree classifiers. In Proc. 1988 Int. Conf. Machine Learning (ICML’88), pp. 135–141, Ann Arbor, MI, June 1988. J. R. Quinlan. Unknown attribute values in induction. In Proc. 1989 Int. Conf. Machine Learning (ICML’89), pp. 164–168, Ithaca, NY, June 1989.
-J. R. Quinlan. Learning logic definitions from relations. Machine Learning, 5:139–166, 1990.
-J. R. Quinlan. C4.5: Programs for Machine Learning. Morgan Kaufmann, 1993.
-J. R. Quinlan. Bagging, boosting, and C4.5. In Proc. 1996 Nat. Conf. Artificial Intelligence (AAAI’96), Vol. 1, pp. 725–730, Portland, OR, Aug. 1996.
-E. L. Rissland and K. Ashley. HYPO: A case-based system for trade secret law. In Proc. 1st Int. Conf. Artificial Intelligence and Law, pp. 60–66, Boston, MA, May 1987.
-L. R. Rabiner. A tutorial on hidden Markov models and selected applications in speech recognition. Proc. IEEE, 77:257–286, 1989.
-S. Russell, J. Binder, D. Koller, and K. Kanazawa. Local learning in probabilistic networks with hidden variables. In Proc. 1995 Joint Int. Conf. Artificial Intelligence (IJCAI’95), pp. 1146–1152, Montreal, Quebec, Canada, Aug. 1995.
-R. Ramakrishnan and B.-C. Chen. Exploratory mining in cube space. Data Mining and Knowledge Discovery, 15:29–54, 2007.
-T. Redman. Data Quality: Management and Technology. Bantam Books, 1992.
-T. Redman. Data Quality: The Field Guide. Digital Press (Elsevier), 2001.
-R. Ramakrishnan and J. Gehrke. Database Management Systems (3rd ed.). McGraw-Hill, 2003.
-L. De Raedt, T. Guns, and S. Nijssen. Constraint programming for data mining and machine learning. In Proc. 2010 AAAI Conf. Artificial Intelligence (AAAI’10), pp. 1671– 1675, Atlanta, GA, July 2010.
-V. Raman and J. M. Hellerstein. Potter’s wheel: An interactive data cleaning system. In Proc. 2001 Int. Conf. Very Large Data Bases (VLDB’01), pp. 381–390, Rome, Italy, Sept. 2001.
-A. Rosenberg and J. Hirschberg. V-measure: A conditional entropy-based external cluster evaluation measure. In Proc. 2007 Joint Conf. Empirical Methods in Natural Lan- guage Processing and Computational Natural Language Learning (EMNLP-CoNLL’07), pp. 410–420, Prague, Czech Republic, June 2007.
++ [PTVF07] W. H. Press, S. A. Teukolosky, W. T. Vetterling, and B. P. Flannery. Numerical Recipes: The Art of Scientific Computing. Cambridge: Cambridge University Press, 2007.
++ [PY10] S. J. Pan and Q. Yang. A survey on transfer learning. IEEE Trans. Knowledge and Data Engineering, 22:1345–1359, 2010.
++ [Pyl99] D. Pyle. Data Preparation for Data Mining. Morgan Kaufmann, 1999.
++ [PZC+ 03] J. Pei, X. Zhang, M. Cho, H. Wang, and P. S. Yu. Maple: A fast algorithm for maximal pattern-based clustering. In Proc. 2003 Int. Conf. Data Mining (ICDM’03), pp. 259–266, Melbourne, FL, Dec. 2003.
++ [QC-J93] J. R. Quinlan and R. M. Cameron-Jones. FOIL: A midterm report. In Proc. 1993 European Conf. Machine Learning (ECML’93), pp. 3–20, Vienna, Austria, 1993.
++ [QR89] J. R. Quinlan and R. L. Rivest. Inferring decision trees using the minimum description length principle. Information and Computation, 80:227–248, Mar. 1989.
++ [Qui86] J. R. Quinlan. Induction of decision trees. Machine Learning, 1:81–106, 1986.
++ [Qui87] J. R. Quinlan. Simplifying decision trees. Int. J. Man-Machine Studies, 27:221–234, 1987. 
++ [Qui88] J. R. Quinlan. An empirical comparison of genetic and decision-tree classifiers. In Proc. 1988 Int. Conf. Machine Learning (ICML’88), pp. 135–141, Ann Arbor, MI, June 1988. 
++ [Qui89] J. R. Quinlan. Unknown attribute values in induction. In Proc. 1989 Int. Conf. Machine Learning (ICML’89), pp. 164–168, Ithaca, NY, June 1989.
++ [Qui90] J. R. Quinlan. Learning logic definitions from relations. Machine Learning, 5:139–166, 1990.
++ [Qui93] J. R. Quinlan. C4.5: Programs for Machine Learning. Morgan Kaufmann, 1993.
++ [Qui96] J. R. Quinlan. Bagging, boosting, and C4.5. In Proc. 1996 Nat. Conf. Artificial Intelligence (AAAI’96), Vol. 1, pp. 725–730, Portland, OR, Aug. 1996.
++ [RA87] E. L. Rissland and K. Ashley. HYPO: A case-based system for trade secret law. In Proc. 1st Int. Conf. Artificial Intelligence and Law, pp. 60–66, Boston, MA, May 1987.
++ [Rab89] L. R. Rabiner. A tutorial on hidden Markov models and selected applications in speech recognition. Proc. IEEE, 77:257–286, 1989.
++ [RBKK95] S. Russell, J. Binder, D. Koller, and K. Kanazawa. Local learning in probabilistic networks with hidden variables. In Proc. 1995 Joint Int. Conf. Artificial Intelligence (IJCAI’95), pp. 1146–1152, Montreal, Quebec, Canada, Aug. 1995.
++ [RC07] R. Ramakrishnan and B.-C. Chen. Exploratory mining in cube space. Data Mining and Knowledge Discovery, 15:29–54, 2007.
++ [Red92] T. Redman. Data Quality: Management and Technology. Bantam Books, 1992.
++ [Red01] T. Redman. Data Quality: The Field Guide. Digital Press (Elsevier), 2001.
++ [RG03] R. Ramakrishnan and J. Gehrke. Database Management Systems (3rd ed.). McGraw-Hill, 2003.
++ [RGN10] L. De Raedt, T. Guns, and S. Nijssen. Constraint programming for data mining and machine learning. In Proc. 2010 AAAI Conf. Artificial Intelligence (AAAI’10), pp. 1671– 1675, Atlanta, GA, July 2010.
++ [RH01] V. Raman and J. M. Hellerstein. Potter’s wheel: An interactive data cleaning system. In Proc. 2001 Int. Conf. Very Large Data Bases (VLDB’01), pp. 381–390, Rome, Italy, Sept. 2001.
++ [RH07] A. Rosenberg and J. Hirschberg. V-measure: A conditional entropy-based external cluster evaluation measure. In Proc. 2007 Joint Conf. Empirical Methods in Natural Lan- guage Processing and Computational Natural Language Learning (EMNLP-CoNLL’07), pp. 410–420, Prague, Czech Republic, June 2007.
 
-+ [RHS01]
-[RHW86]
-[Rip96] [RM86] [RMS98]
-[RN95] [RNI09]
-[Ros58]
-[RS89] [RS97]
-[RS98]
-[RS01] [RSC98]
-[Rus06] [SA95]
-[SA96] [SAM96] [SAM98]
-J. F. Roddick, K. Hornsby, and M. Spiliopoulou. An updated bibliography of tempo- ral, spatial, and spatio-temporal data mining research. In J. F. Roddick and K. Hornsby (eds.), TSDM 2000, Lecture Notes in Computer Science 2007, pp. 147–163. New York: Springer, 2001.
-D. E. Rumelhart, G. E. Hinton, and R. J. Williams. Learning internal representations by error propagation. In D. E. Rumelhart and J. L. McClelland (eds.), Parallel Distributed Processing. Cambridge, MA: MIT Press, 1986.
-B. D. Ripley. Pattern Recognition and Neural Networks. Cambridge University Press, 1996.
-D. E. Rumelhart and J. L. McClelland. Parallel Distributed Processing. Cambridge, MA: MIT Press, 1986.
-S. Ramaswamy, S. Mahajan, and A. Silberschatz. On the discovery of interesting pat- terns in association rules. In Proc. 1998 Int. Conf. Very Large Data Bases (VLDB’98), pp. 368–379, New York, Aug. 1998.
-S. Russell and P. Norvig. Artificial Intelligence: A Modern Approach. Prentice-Hall, 1995. M. Radovanovic ́, A. Nanopoulos, and M. Ivanovic ́. Nearest neighbors in high- dimensional data: The emergence and influence of hubs. In Proc. 2009 Int. Conf. Machine Learning (ICML’09), pp. 865–872, Montreal, Quebec, Canada, June 2009.
-F. Rosenblatt. The perceptron: A probabilistic model for information storage and organization in the brain. Psychological Rev., 65:386–498, 1958.
-C. Riesbeck and R. Schank. Inside Case-Based Reasoning. Lawrence Erlbaum, 1989.
-K. Ross and D. Srivastava. Fast computation of sparse datacubes. In Proc. 1997 Int. Conf. Very Large Data Bases (VLDB’97), pp. 116–125, Athens, Greece, Aug. 1997.
-R. Rastogi and K. Shim. Public: A decision tree classifer that integrates building and pruning. In Proc. 1998 Int. Conf. Very Large Data Bases (VLDB’98), pp. 404–415, New York, Aug. 1998.
-F. Ramsey and D. Schafer. The Statistical Sleuth: A Course in Methods of Data Analysis. Duxbury Press, 2001.
-K. A. Ross, D. Srivastava, and D. Chatziantoniou. Complex aggregation at multiple gran- ularities. In Proc. Int. Conf. Extending Database Technology (EDBT’98), pp. 263–277, Valencia, Spain, Mar. 1998.
-J. C. Russ. The Image Processing Handbook (5th ed.). CRC Press, 2006.
-R. Srikant and R. Agrawal. Mining generalized association rules. In Proc. 1995 Int. Conf. Very Large Data Bases (VLDB’95), pp. 407–419, Zurich, Switzerland, Sept. 1995.
-R. Srikant and R. Agrawal. Mining sequential patterns: Generalizations and perfor- mance improvements. In Proc. 5th Int. Conf. Extending Database Technology (EDBT’96), pp. 3–17, Avignon, France, Mar. 1996.
-J. Shafer, R. Agrawal, and M. Mehta. SPRINT: A scalable parallel classifier for data min- ing. In Proc. 1996 Int. Conf. Very Large Data Bases (VLDB’96), pp. 544–555, Bombay, India, Sept. 1996.
-S. Sarawagi, R. Agrawal, and N. Megiddo. Discovery-driven exploration of OLAP data cubes. In Proc. Int. Conf. Extending Database Technology (EDBT’98), pp. 168–182, Valencia, Spain, Mar. 1998.
-
-
-+ [SBSW99]
-[SC03] [Sch86]
-[Sch07] [SCZ98]
-[SD90] [SD02] [SDJL96]
-[SDN98]
-[SE10] [Set10] [SF86] [SFB99]
-[SG92] [She31] [Shi99] [SHK00]
-[Sho97] [Shu88]
-B. Scho ̈lkopf, P. L. Bartlett, A. Smola, and R. Williamson. Shrinking the tube: A new support vector regression algorithm. In M. S. Kearns, S. A. Solla, and D. A. Cohn (eds.), Advances in Neural Information Processing Systems 11, pp. 330–336. Cambridge, MA: MIT Press, 1999.
-S. Shekhar and S. Chawla. Spatial Databases: A Tour. Prentice-Hall, 2003.
-J. C. Schlimmer. Learning and representation change. In Proc. 1986 Nat. Conf. Artificial Intelligence (AAAI’86), pp. 511–515, Philadelphia, PA, 1986.
-S. E. Schaeffer. Graph clustering. Computer Science Rev., 1:27–64, 2007.
-G. Sheikholeslami, S. Chatterjee, and A. Zhang. WaveCluster: A multi-resolution clus- tering approach for very large spatial databases. In Proc. 1998 Int. Conf. Very Large Data Bases (VLDB’98), pp. 428–439, New York, Aug. 1998.
-J. W. Shavlik and T. G. Dietterich. Readings in Machine Learning. Morgan Kaufmann, 1990.
-T. Soukup and I. Davidson. Visual Data Mining: Techniques and Tools for Data Visual- ization and Mining. Wiley, 2002.
-D. Srivastava, S. Dar, H. V. Jagadish, and A. V. Levy. Answering queries with aggregation using views. In Proc. 1996 Int. Conf. Very Large Data Bases (VLDB’96), pp. 318–329, Bombay, India, Sept. 1996.
-A. Shukla, P. M. Deshpande, and J. F. Naughton. Materialized view selection for multidimensional datasets. In Proc. 1998 Int. Conf. Very Large Data Bases (VLDB’98), pp. 488–499, New York, Aug. 1998.
-G. Seni and J. F. Elder. Ensemble Methods in Data Mining: Improving Accuracy Through Combining Predictions. Morgan and Claypool, 2010.
-B. Settles. Active learning literature survey. In Computer Sciences Technical Report 1648, University of Wisconsin–Madison, 2010.
-J. C. Schlimmer and D. Fisher. A case study of incremental concept induction. In Proc. 1986 Nat. Conf. Artificial Intelligence (AAAI’86), pp. 496–501, Philadelphia, PA, 1986.
-J. Shanmugasundaram, U. M. Fayyad, and P. S. Bradley. Compressed data cubes for OLAP aggregate query approximation on continuous dimensions. In Proc. 1999 Int. Conf. Knowledge Discovery and Data Mining (KDD’99), pp. 223–232, San Diego, CA, Aug. 1999.
-P. Smyth and R. M. Goodman. An information theoretic approach to rule induction. IEEE Trans. Knowledge and Data Engineering, 4:301–316, 1992.
-W. A. Shewhart. Economic Control of Quality of Manufactured Product. D. Van Nostrand, 1931.
-Y.-S. Shih. Families of splitting criteria for classification trees. Statistics and Computing, 9:309–315, 1999.
-N. Stefanovic, J. Han, and K. Koperski. Object-based selective materialization for effi- cient implementation of spatial data cubes. IEEE Trans. Knowledge and Data Engi- neering, 12:938–958, 2000.
-A. Shoshani. OLAP and statistical databases: Similarities and differences. In Proc. 16th ACM Symp. Principles of Database Systems, pp. 185–196, Tucson, AZ, May 1997.
-R. H. Shumway. Applied Statistical Time Series Analysis. Prentice-Hall, 1988.
-
++ [RHS01] J. F. Roddick, K. Hornsby, and M. Spiliopoulou. An updated bibliography of tempo- ral, spatial, and spatio-temporal data mining research. In J. F. Roddick and K. Hornsby (eds.), TSDM 2000, Lecture Notes in Computer Science 2007, pp. 147–163. New York: Springer, 2001.
++ [RHW86] D. E. Rumelhart, G. E. Hinton, and R. J. Williams. Learning internal representations by error propagation. In D. E. Rumelhart and J. L. McClelland (eds.), Parallel Distributed Processing. Cambridge, MA: MIT Press, 1986.
++ [Rip96] B. D. Ripley. Pattern Recognition and Neural Networks. Cambridge University Press, 1996.
++ [RM86] D. E. Rumelhart and J. L. McClelland. Parallel Distributed Processing. Cambridge, MA: MIT Press, 1986.
++ [RMS98] S. Ramaswamy, S. Mahajan, and A. Silberschatz. On the discovery of interesting pat- terns in association rules. In Proc. 1998 Int. Conf. Very Large Data Bases (VLDB’98), pp. 368–379, New York, Aug. 1998.
++ [RN95] S. Russell and P. Norvig. Artificial Intelligence: A Modern Approach. Prentice-Hall, 1995. 
++ [RNI09] M. Radovanovic ́, A. Nanopoulos, and M. Ivanovic ́. Nearest neighbors in high- dimensional data: The emergence and influence of hubs. In Proc. 2009 Int. Conf. Machine Learning (ICML’09), pp. 865–872, Montreal, Quebec, Canada, June 2009.
++ [Ros58] F. Rosenblatt. The perceptron: A probabilistic model for information storage and organization in the brain. Psychological Rev., 65:386–498, 1958.
++ [RS89] C. Riesbeck and R. Schank. Inside Case-Based Reasoning. Lawrence Erlbaum, 1989.
++ [RS97] K. Ross and D. Srivastava. Fast computation of sparse datacubes. In Proc. 1997 Int. Conf. Very Large Data Bases (VLDB’97), pp. 116–125, Athens, Greece, Aug. 1997.
++ [RS98] R. Rastogi and K. Shim. Public: A decision tree classifer that integrates building and pruning. In Proc. 1998 Int. Conf. Very Large Data Bases (VLDB’98), pp. 404–415, New York, Aug. 1998.
++ [RS01] F. Ramsey and D. Schafer. The Statistical Sleuth: A Course in Methods of Data Analysis. Duxbury Press, 2001.
++ [RSC98] K. A. Ross, D. Srivastava, and D. Chatziantoniou. Complex aggregation at multiple gran- ularities. In Proc. Int. Conf. Extending Database Technology (EDBT’98), pp. 263–277, Valencia, Spain, Mar. 1998.
++ [Rus06] J. C. Russ. The Image Processing Handbook (5th ed.). CRC Press, 2006.
++ [SA95] R. Srikant and R. Agrawal. Mining generalized association rules. In Proc. 1995 Int. Conf. Very Large Data Bases (VLDB’95), pp. 407–419, Zurich, Switzerland, Sept. 1995.
++ [SA96] R. Srikant and R. Agrawal. Mining sequential patterns: Generalizations and perfor- mance improvements. In Proc. 5th Int. Conf. Extending Database Technology (EDBT’96), pp. 3–17, Avignon, France, Mar. 1996.
++ [SAM96] J. Shafer, R. Agrawal, and M. Mehta. SPRINT: A scalable parallel classifier for data min- ing. In Proc. 1996 Int. Conf. Very Large Data Bases (VLDB’96), pp. 544–555, Bombay, India, Sept. 1996.
++ [SAM98] S. Sarawagi, R. Agrawal, and N. Megiddo. Discovery-driven exploration of OLAP data cubes. In Proc. Int. Conf. Extending Database Technology (EDBT’98), pp. 168–182, Valencia, Spain, Mar. 1998.
++ [SBSW99]B. Scho ̈lkopf, P. L. Bartlett, A. Smola, and R. Williamson. Shrinking the tube: A new support vector regression algorithm. In + [SC03] M. S. Kearns, S. A. Solla, and D. A. Cohn (eds.), Advances in Neural Information Processing Systems 11, pp. 330–336. Cambridge, MA: MIT Press, 1999.
++ [Sch86] S. Shekhar and S. Chawla. Spatial Databases: A Tour. Prentice-Hall, 2003.
++ [Sch07] J. C. Schlimmer. Learning and representation change. In Proc. 1986 Nat. Conf. Artificial Intelligence (AAAI’86), pp. 511–515, Philadelphia, PA, 1986.
++ [SCZ98] S. E. Schaeffer. Graph clustering. Computer Science Rev., 1:27–64, 2007.
++ [SD90] G. Sheikholeslami, S. Chatterjee, and A. Zhang. WaveCluster: A multi-resolution clus- tering approach for very large spatial databases. In Proc. 1998 Int. Conf. Very Large Data Bases (VLDB’98), pp. 428–439, New York, Aug. 1998.
++ [SD02] J. W. Shavlik and T. G. Dietterich. Readings in Machine Learning. Morgan Kaufmann, 1990.
++ [SDJL96] T. Soukup and I. Davidson. Visual Data Mining: Techniques and Tools for Data Visual- ization and Mining. Wiley, 2002.
++ [SDN98] D. Srivastava, S. Dar, H. V. Jagadish, and A. V. Levy. Answering queries with aggregation using views. In Proc. 1996 Int. Conf. Very Large Data Bases (VLDB’96), pp. 318–329, Bombay, India, Sept. 1996.
++ [SE10] A. Shukla, P. M. Deshpande, and J. F. Naughton. Materialized view selection for multidimensional datasets. In Proc. 1998 Int. Conf. Very Large Data Bases (VLDB’98), pp. 488–499, New York, Aug. 1998.
++ [SE10] G. Seni and J. F. Elder. Ensemble Methods in Data Mining: Improving Accuracy Through Combining Predictions. Morgan and Claypool, 2010.
++ [Set10] B. Settles. Active learning literature survey. In Computer Sciences Technical Report 1648, University of Wisconsin–Madison, 2010.
++ [SF86] J. C. Schlimmer and D. Fisher. A case study of incremental concept induction. In Proc. 1986 Nat. Conf. Artificial Intelligence (AAAI’86), pp. 496–501, Philadelphia, PA, 1986.
++ [SFB99] J. Shanmugasundaram, U. M. Fayyad, and P. S. Bradley. Compressed data cubes for OLAP aggregate query approximation on continuous dimensions. In Proc. 1999 Int. Conf. Knowledge Discovery and Data Mining (KDD’99), pp. 223–232, San Diego, CA, Aug. 1999.
++ [SG92] P. Smyth and R. M. Goodman. An information theoretic approach to rule induction. IEEE Trans. Knowledge and Data Engineering, 4:301–316, 1992.
++ [She31] W. A. Shewhart. Economic Control of Quality of Manufactured Product. D. Van Nostrand, 1931.
++ [Shi99] Y.-S. Shih. Families of splitting criteria for classification trees. Statistics and Computing, 9:309–315, 1999.
++ [SHK00] N. Stefanovic, J. Han, and K. Koperski. Object-based selective materialization for effi- cient implementation of spatial data cubes. IEEE Trans. Knowledge and Data Engi- neering, 12:938–958, 2000.
++ [Sho97] A. Shoshani. OLAP and statistical databases: Similarities and differences. In Proc. 16th ACM Symp. Principles of Database Systems, pp. 185–196, Tucson, AZ, May 1997.
++ [Shu88] R. H. Shumway. Applied Statistical Time Series Analysis. Prentice-Hall, 1988.
 + [SHX04] Z. Shao, J. Han, and D. Xin. MM-Cubing: Computing iceberg cubes by factorizing the lattice space. In Proc. 2004 Int. Conf. Scientific and Statistical Database Management (SSDBM’04), pp. 213–222, Santorini Island, Greece, June 2004.
 + [SHZ+ 09] Y. Sun, J. Han, P. Zhao, Z. Yin, H. Cheng, and T. Wu. RankClus: Integrating clustering with ranking for heterogeneous information network analysis. In Proc. 2009 Int. Conf. Extending Data Base Technology (EDBT’09), pp. 565–576, Saint Petersburg, Russia, Mar. 2009.
 + [Sil10] F. Silvestri. Mining query logs: Turning search usage data into knowledge. Foundations and Trends in Information Retrieval, 4:1–174, 2010.
