@@ -119,6 +119,25 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + [CC00] Y. Cheng and G. Church. Biclustering of expression data. In Proc. 2000 Int. Conf. Intelligent Systems for Molecular Biology (ISMB’00), pp. 93–103, La Jolla, CA, Aug. 2000.
 + [CCH91] Y. Cai, N. Cercone, and J. Han. Attribute-oriented induction in relational databases. In G. Piatetsky-Shapiro and W. J. Frawley (eds.), Knowledge Discovery in Databases, pp. 213–228. AAAI/MIT Press, 1991.
 + [CCLR05] B.-C. Chen, L. Chen, Y. Lin, and R. Ramakrishnan. Prediction cubes. In Proc. 2005 Int. Conf. Very Large Data Bases (VLDB’05), pp. 982–993, Trondheim, Norway, Aug. 2005.
++ [CCS93] E. F. Codd, S. B. Codd, and C. T. Salley. Beyond decision support. Computer World, 27(30):5–12, July 1993.
++ [CD97] S. Chaudhuri and U. Dayal. An overview of data warehousing and OLAP technology. SIGMOD Record, 26:65–74, 1997.
++ [CDH+ 02] Y. Chen, G. Dong, J. Han, B. W. Wah, and J. Wang. Multidimensional regression analysis of time-series data streams. In Proc. 2002 Int. Conf. Very Large Data Bases (VLDB’02), pp. 323–334, Hong Kong, China, Aug. 2002.
++ [CDH+ 06] Y. Chen, G. Dong, J. Han, J. Pei, B. W. Wah, and J. Wang. Regression cubes with lossless compression and aggregation. IEEE Trans. Knowledge and Data Engineering, 18:1585–1599, 2006.
++ [CDI98] S. Chakrabarti, B. E. Dom, and P. Indyk. Enhanced hypertext classification using hyper- links. In Proc. 1998 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’98), pp. 307–318, Seattle, WA, June 1998.
++ [CDK+ 99] S. Chakrabarti, B. E. Dom, S. R. Kumar, P. Raghavan, S. Rajagopalan, A. Tomkins, D. Gibson, and J. M. Kleinberg. Mining the web’s link structure. COMPUTER, 32:60–67, 1999.
++ [CGC94] A. Chaturvedi, P. Green, and J. Carroll. k-means, k-medians and k-modes: Special cases of partitioning multiway data. In The Classification Society of North America (CSNA) Meeting Presentation, Houston, TX, 1994.
++ [CGC01] A. Chaturvedi, P. Green, and J. Carroll. k-modes clustering. J. Classification, 18:35–55, 2001.
++ [CH67] T. Cover and P. Hart. Nearest neighbor pattern classification. IEEE Trans. Information Theory, 13:21–27, 1967.
++ [CH92] G. Cooper and E. Herskovits. A Bayesian method for the induction of probabilistic networks from data. Machine Learning, 9:309–347, 1992.
++ [CH07] D. J. Cook and L. B. Holder. Mining Graph Data. John Wiley & Sons, 2007.
++ [Cha03a] S. Chakrabarti. Mining the Web: Discovering Knowledge from Hypertext Data. Morgan Kaufmann, 2003.
++ [Cha03b] C. Chatfield. The Analysis of Time Series: An Introduction (6th ed.). Chapman & Hall, 2003.
++ [CHN+ 96] D. W. Cheung, J. Han, V. Ng, A. Fu, and Y. Fu. A fast distributed algorithm for mining association rules. In Proc. 1996 Int. Conf. Parallel and Distributed Information Systems, pp. 31–44, Miami Beach, FL, Dec. 1996.
++ [CHNW96] D. W. Cheung, J. Han, V. Ng, and C. Y. Wong. Maintenance of discovered association rules in large databases: An incremental updating technique. In Proc. 1996 Int. Conf. Data Engineering (ICDE’96), pp. 106–114, New Orleans, LA, Feb. 1996.
++ [CHY96] M. S. Chen, J. Han, and P. S. Yu. Data mining: An overview from a database perspective. IEEE Trans. Knowledge and Data Engineering, 8:866–883, 1996.
++ [CK98] M. Carey and D. Kossman. Reducing the braking distance of an SQL query engine. In Proc. 1998 Int. Conf. Very Large Data Bases (VLDB’98), pp. 158–169, New York, Aug. 1998.
++ [CKT06] D. Chakrabarti, R. Kumar, and A. Tomkins. Evolutionary clustering. In Proc. 2006 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’06), pp. 554–560, Philadelphia, PA, Aug. 2006.
++ [Cle93] W. Cleveland. Visualizing Data. Hobart Press, 1993.
 
 # Journals
 + IEEETKDE（IEEE Transactions on Knowledge and Data Engineering）
