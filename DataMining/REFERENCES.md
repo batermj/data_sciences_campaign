@@ -3,6 +3,7 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 
 # Top 100 Awesome Data Mining Resources
 + Researchers
++ Research Groups
 + Papers
 + Journals
 + Conferences
@@ -21,6 +22,14 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + Michael Steinbach, University of Minnesota 
 + Anuj Karpatne, University of Minnesota 
 + Vipin Kumar, University of Minnesota 
+
+# Research Groups
++ Data Mining, University of Houston
++ Data Mining Program, University of Central Florida, http://dms.stat.ucf.edu/
++ Data Mining Group, University of Dortmund, http://www-ai.cs.uni-dortmund.de/index.html
++ Data Mining, MIT OCW
++ Data Mining Group, Tsinghua
++ KDD oral presentations video
 
 # Papers
 + [AAD+ 96] S. Agarwal, R. Agrawal, P. M. Deshpande, A. Gupta, J. F. Naughton, R. Ramakrishnan, and S. Sarawagi. On the computation of multidimensional aggregates. In Proc. 1996 Int. Conf. Very Large Data Bases (VLDB’96), pp. 506–521, Bombay, India, Sept. 1996.
@@ -825,15 +834,9 @@ ing. In Proc. 2002 SIAM Int. Conf. Data Mining (SDM’02), pp. 457–473, Arling
 ***Introduction to Data Mining*** (Second Edition), https://www-users.cs.umn.edu/~kumar001/dmbook/index.php
 
 # Blog
-+ http://www.kdnuggets.com
-+ Data Mining, University of Houston
-+ Data Mining Program, University of Central Florida, http://dms.stat.ucf.edu/
-+ Data Mining Group, University of Dortmund, http://www-ai.cs.uni-dortmund.de/index.html
-+ Data Mining, MIT OCW
-+ Data Mining Group, Tsinghua
-+ KDD oral presentations video
 
 # Datasets
 + https://github.com/batermj/data_sciences_campaign/tree/master/DataSets
 
 # Whatever The Entrepreneur& Researcher Pleased
++ www.kdnuggets.com 
