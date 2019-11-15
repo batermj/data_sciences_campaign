@@ -17,6 +17,10 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 
 # Researchers
 + Deepak Agarwal 
++ Pang-Ning Tan, Michigan State University, 
++ Michael Steinbach, University of Minnesota 
++ Anuj Karpatne, University of Minnesota 
++ Vipin Kumar, University of Minnesota 
 
 # Papers
 + [AAD+ 96] S. Agarwal, R. Agrawal, P. M. Deshpande, A. Gupta, J. F. Naughton, R. Ramakrishnan, and S. Sarawagi. On the computation of multidimensional aggregates. In Proc. 1996 Int. Conf. Very Large Data Bases (VLDB’96), pp. 506–521, Bombay, India, Sept. 1996.
