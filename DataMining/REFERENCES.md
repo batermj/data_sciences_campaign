@@ -829,5 +829,6 @@ ing. In Proc. 2002 SIAM Int. Conf. Data Mining (SDM’02), pp. 457–473, Arling
 + KDD oral presentations video
 
 # Datasets
++ https://github.com/batermj/data_sciences_campaign/tree/master/DataSets
 
 # Whatever The Entrepreneur& Researcher Pleased
