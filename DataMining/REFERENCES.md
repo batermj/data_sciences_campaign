@@ -5,6 +5,7 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + Researchers
 + Research Groups
 + Group Meetings
++ Topics (Categories)
 + Papers
 + Journals
 + Conferences
@@ -29,9 +30,6 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + Mohammed J. Zaki
 + Wagner Meira Jr.
 
-# Group Meetings
-+ Data Mining Research Group Meeting, Mondays @ Siebel Center (for DMG group member only)
-
 # Research Groups
 + Data Mining, University of Houston
 + Data Mining Program, University of Central Florida, http://dms.stat.ucf.edu/
@@ -39,6 +37,18 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + Data Mining, MIT OCW
 + Data Mining Group, Tsinghua
 + KDD oral presentations video
+
+# Group Meetings
++ Data Mining Research Group Meeting, Mondays @ Siebel Center (for DMG group member only)
+
+# Topics (Categories)
++ Patterns Mining
++ Classification
++ Clustering
++ Sequence Mining
++ Text Mining
++ Graph Mining
++ Anomaly Detection
 
 # Papers
 + [AAD+ 96] S. Agarwal, R. Agrawal, P. M. Deshpande, A. Gupta, J. F. Naughton, R. Ramakrishnan, and S. Sarawagi. On the computation of multidimensional aggregates. In Proc. 1996 Int. Conf. Very Large Data Bases (VLDB’96), pp. 506–521, Bombay, India, Sept. 1996.
