@@ -2,16 +2,21 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 (2019NOV13)
 
 # Top 100 Awesome Data Mining Resources
++ Researchers
 + Papers
 + Journals
 + Conferences
 + Github Projects
 + Tools
++ Languages
 + Patents
 + Books
 + Blog
 + Datasets
 + Whatever The Entrepreneur& Researcher Pleased
+
+# Researchers
++ Deepak Agarwal 
 
 # Papers
 + [AAD+ 96] S. Agarwal, R. Agrawal, P. M. Deshpande, A. Gupta, J. F. Naughton, R. Ramakrishnan, and S. Sarawagi. On the computation of multidimensional aggregates. In Proc. 1996 Int. Conf. Very Large Data Bases (VLDB’96), pp. 506–521, Bombay, India, Sept. 1996.
@@ -799,7 +804,17 @@ ing. In Proc. 2002 SIAM Int. Conf. Data Mining (SDM’02), pp. 457–473, Arling
 
 # Tools
 
+# Languages
++ R
++ SAS
++ Python
+
 # Patents
++ Determining a Churn Probability for a Subscriber of a Social Network Service 
++ Determining user preference of items based on user ratings and user features 
++ System and method for serving electronic content 
++ Available from uspto as specified below 
++ Determining a School Rank Utilizing Perturbed Data Sets
 
 # Books
 ***Data Mining  The Textbook***, Aggarwal, Charu C.
