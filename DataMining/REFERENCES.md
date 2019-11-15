@@ -4,6 +4,7 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 # Top 100 Awesome Data Mining Resources
 + Researchers
 + Research Groups
++ Group Meetings
 + Papers
 + Journals
 + Conferences
@@ -27,6 +28,9 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + Vipin Kumar, University of Minnesota 
 + Mohammed J. Zaki
 + Wagner Meira Jr.
+
+# Group Meetings
++ Data Mining Research Group Meeting, Mondays @ Siebel Center (for DMG group member only)
 
 # Research Groups
 + Data Mining, University of Houston
