@@ -184,7 +184,7 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 [DBK+ 97] [DE84]
 [De01] [DEKM98]
 [Dev95] [Dev03] [DH73] [DH00]
-[DHL+ 01] [DHL+ 04] [DHS01]
+[DHL+ 01] [DHL+ 04] 
 G. Cong, L. Wang, C.-Y. Lin, Y.-I. Song, and Y. Sun. Finding question-answer pairs from online forums. In Proc. 2008 Int. ACM SIGIR Conf. Research and Development in Information Retrieval (SIGIR’08), pp. 467–474, Singapore, July 2008.
 H. Cheng, X. Yan, J. Han, and C.-W. Hsu. Discriminative frequent pattern analysis for effective classification. In Proc. 2007 Int. Conf. Data Engineering (ICDE’07), pp. 716–725, Istanbul, Turkey, Apr. 2007.
 H. Cheng, X. Yan, J. Han, and P. S. Yu. Direct discriminative pattern mining for effective classification. In Proc. 2008 Int. Conf. Data Engineering (ICDE’08), pp. 169–178, Cancun, Mexico, Apr. 2008.
@@ -203,71 +203,46 @@ W. E. Donath and A. J. Hoffman. Lower bounds for the partitioning of graphs. IBM
 P. Domingos and G. Hulten. Mining high-speed data streams. In Proc. 2000 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’00), pp. 71–80, Boston, MA, Aug. 2000.
 G. Dong, J. Han, J. Lam, J. Pei, and K. Wang. Mining multi-dimensional constrained gradients in data cubes. In Proc. 2001 Int. Conf. Very Large Data Bases (VLDB’01), pp. 321–330, Rome, Italy, Sept. 2001.
 G. Dong, J. Han, J. Lam, J. Pei, K. Wang, and W. Zou. Mining constrained gradients in multi-dimensional databases. IEEE Trans. Knowledge and Data Engineering, 16:922–938, 2004.
-R. O. Duda, P. E. Hart, and D. G. Stork. Pattern Classification (2nd ed.). John Wiley & Sons, 2001.
++ [DHS01] R. O. Duda, P. E. Hart, and D. G. Stork. Pattern Classification (2nd ed.). John Wiley & Sons, 2001.
 
-+ [DJ03] [DJMS02]
-[DL97] [DL99]
-[DLR77] [DLY97]
-[DM02]
-[DNR+ 97]
-[Dob90] [Dob01]
-[Dom94]
-[Dom99] [DP96]
-[DP97]
-[DP07] [DR99]
-[DR05] [DT93]
-T. Dasu and T. Johnson. Exploratory Data Mining and Data Cleaning. John Wiley & Sons, 2003.
-T. Dasu, T. Johnson, S. Muthukrishnan, and V. Shkapenyuk. Mining database struc- ture; or how to build a data quality browser. In Proc. 2002 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’02), pp. 240–251, Madison, WI, June 2002.
-M. Dash and H. Liu. Feature selection methods for classification. Intelligent Data Analysis, 1:131–156, 1997.
-G. Dong and J. Li. Efficient mining of emerging patterns: Discovering trends and dif- ferences. In Proc. 1999 Int. Conf. Knowledge Discovery and Data Mining (KDD’99), pp. 43–52, San Diego, CA, Aug. 1999.
-A. P. Dempster, N. M. Laird, and D. B. Rubin. Maximum likelihood from incomplete data via the EM algorithm. J. Royal Statistical Society, Series B, 39:1–38, 1977.
-M. Dash, H. Liu, and J. Yao. Dimensionality reduction of unsupervised data. In Proc. 1997 IEEE Int. Conf. Tools with AI (ICTAI’97), pp. 532–539, Newport Beach, CA, IEEE Computer Society, 1997.
-D. Dasgupta and N. S. Majumdar. Anomaly detection in multidimensional data using negative selection algorithm. In Proc. 2002 Congress on Evolutionary Computation (CEC’02), Chapter 12, pp. 1039–1044, Washington, DC, 2002.
-P. Deshpande, J. Naughton, K. Ramasamy, A. Shukla, K. Tufte, and Y. Zhao. Cubing algorithms, storage estimation, and storage and processing alternatives for OLAP. Bull. Technical Committee on Data Engineering, 20:3–11, 1997.
-A. J. Dobson. An Introduction to Generalized Linear Models. Chapman & Hall, 1990.
-A. J. Dobson. An Introduction to Generalized Linear Models (2nd ed.). Chapman & Hall, 2001.
-P. Domingos. The RISE system: Conquering without separating. In Proc. 1994 IEEE Int. Conf. Tools with Artificial Intelligence (TAI’94), pp. 704–707, New Orleans, LA, 1994.
-P. Domingos. The role of Occam’s razor in knowledge discovery. Data Mining and Knowledge Discovery, 3:409–425, 1999.
-P. Domingos and M. Pazzani. Beyond independence: Conditions for the optimality of the simple Bayesian classifier. In Proc. 1996 Int. Conf. Machine Learning (ML’96), pp. 105–112, Bari, Italy, July 1996.
-J. Devore and R. Peck. Statistics: The Exploration and Analysis of Data. Duxbury Press, 1997.
-G. Dong and J. Pei. Sequence Data Mining. New York: Springer, 2007.
-D. Donjerkovic and R. Ramakrishnan. Probabilistic optimization of top N queries. In Proc. 1999 Int. Conf. Very Large Data Bases (VLDB’99), pp. 411–422, Edinburgh, UK, Sept. 1999.
-I. Davidson and S. S. Ravi. Clustering with constraints: Feasibility issues and the k-means algorithm. In Proc. 2005 SIAM Int. Conf. Data Mining (SDM’05), Newport Beach, CA, Apr. 2005.
-V. Dhar and A. Tuzhilin. Abstract-driven pattern discovery in databases. IEEE Trans. Knowledge and Data Engineering, 5:926–938, 1993.
-
-
-+ [Dun03] [DWB06]
-[Dwo06]
-[DYXY07]
-[Ega75] [EK10]
-[Esk00] [EKSX96]
-[EKX95]
-[Elk97]
-[Elk01] [EN10] [Eng99] [ESAG02]
-[ET93] [FB74]
-[FB08] [FBF77] [FFF99]
-[FG02]
-M. Dunham. Data Mining: Introductory and Advanced Topics. Prentice-Hall, 2003.
-I. Davidson, K. L. Wagstaff, and S. Basu. Measuring constraint-set utility for partitional clustering algorithms. In Proc. 10th European Conf. Principles and Practice of Knowledge Discovery in Databases (PKDD’06), pp. 115–126, Berlin, Germany, Sept. 2006.
-C. Dwork. Differential privacy. In Proc. 2006 Int. Col. Automata, Languages and Programming (ICALP), pp. 1–12, Venice, Italy, July 2006.
-W. Dai, Q. Yang, G. Xue, and Y. Yu. Boosting for transfer learning. In Proc. 24th Intl. Conf. Machine Learning, pp. 193–200, Corvallis, OR, June 2007.
-J. P. Egan. Signal Detection Theory and ROC Analysis. Academic Press, 1975.
-D. Easley and J. Kleinberg. Networks, Crowds, and Markets: Reasoning about a Highly Connected World. Cambridge University Press, 2010.
-E. Eskin. Anomaly detection over noisy data using learned probability distributions. In Proc. 17th Int. Conf. Machine Learning (ICML’00), Stanford, CA, 2000.
-M. Ester, H.-P. Kriegel, J. Sander, and X. Xu. A density-based algorithm for discovering clusters in large spatial databases. In Proc. 1996 Int. Conf. Knowledge Discovery and Data Mining (KDD’96), pp. 226–231, Portland, OR, Aug. 1996.
-M. Ester, H.-P. Kriegel, and X. Xu. Knowledge discovery in large spatial databases: Focus- ing techniques for efficient class identification. In Proc. 1995 Int. Symp. Large Spatial Databases (SSD’95), pp. 67–82, Portland, ME, Aug. 1995.
-C. Elkan. Boosting and na ̈ıve Bayesian learning. In Technical Report CS97-557, Dept. Computer Science and Engineering, University of California at San Diego, Sept. 1997.
-C. Elkan. The foundations of cost-sensitive learning. In Proc. 17th Intl. Joint Conf. Artificial Intelligence (IJCAI’01), pp. 973–978, Seattle, WA, 2001.
-R. Elmasri and S. B. Navathe. Fundamentals of Database Systems (6th ed.). Boston: Addison-Wesley, 2010.
-L. English. Improving Data Warehouse and Business Information Quality: Methods for Reducing Costs and Increasing Profits. John Wiley & Sons, 1999.
-A. Evfimievski, R. Srikant, R. Agrawal, and J. Gehrke. Privacy preserving mining of asso- ciation rules. In Proc. 2002 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’02), pp. 217–228, Edmonton, Alberta, Canada, July 2002.
-B. Efron and R. Tibshirani. An Introduction to the Bootstrap. Chapman & Hall, 1993.
-R. A. Finkel and J. L. Bentley. Quad-trees: A data structure for retrieval on composite keys. ACTA Informatica, 4:1–9, 1974.
-J. Friedman and E. P. Bogdan. Predictive learning via rule ensembles. Ann. Applied Statistics, 2:916–954, 2008.
-J. H. Friedman, J. L. Bentley, and R. A. Finkel. An algorithm for finding best matches in logarithmic expected time. ACM Transactions on Math Software, 3:209–226, 1977.
-M. Faloutsos, P. Faloutsos, and C. Faloutsos. On power-law relationships of the internet topology. In Proc. ACM SIGCOMM’99 Conf. Applications, Technologies, Architectures, and Protocols for Computer Communication, pp. 251–262, Cambridge, MA, Aug. 1999. M. Fishelson and D. Geiger. Exact genetic linkage computations for general pedigrees. Disinformation, 18:189–198, 2002.
-
-
++ [DJ03] T. Dasu and T. Johnson. Exploratory Data Mining and Data Cleaning. John Wiley & Sons, 2003.
++ [DJMS02] T. Dasu, T. Johnson, S. Muthukrishnan, and V. Shkapenyuk. Mining database struc- ture; or how to build a data quality browser. In Proc. 2002 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’02), pp. 240–251, Madison, WI, June 2002.
++ [DL97] M. Dash and H. Liu. Feature selection methods for classification. Intelligent Data Analysis, 1:131–156, 1997.
++ [DL99] G. Dong and J. Li. Efficient mining of emerging patterns: Discovering trends and dif- ferences. In Proc. 1999 Int. Conf. Knowledge Discovery and Data Mining (KDD’99), pp. 43–52, San Diego, CA, Aug. 1999.
++ [DLR77] A. P. Dempster, N. M. Laird, and D. B. Rubin. Maximum likelihood from incomplete data via the EM algorithm. J. Royal Statistical Society, Series B, 39:1–38, 1977.
++ [DLY97] M. Dash, H. Liu, and J. Yao. Dimensionality reduction of unsupervised data. In Proc. 1997 IEEE Int. Conf. Tools with AI (ICTAI’97), pp. 532–539, Newport Beach, CA, IEEE Computer Society, 1997.
++ [DM02] D. Dasgupta and N. S. Majumdar. Anomaly detection in multidimensional data using negative selection algorithm. In Proc. 2002 Congress on Evolutionary Computation (CEC’02), Chapter 12, pp. 1039–1044, Washington, DC, 2002.
++ [DNR+ 97] P. Deshpande, J. Naughton, K. Ramasamy, A. Shukla, K. Tufte, and Y. Zhao. Cubing algorithms, storage estimation, and storage and processing alternatives for OLAP. Bull. Technical Committee on Data Engineering, 20:3–11, 1997.
++ [Dob90] A. J. Dobson. An Introduction to Generalized Linear Models. Chapman & Hall, 1990.
++ [Dob01] A. J. Dobson. An Introduction to Generalized Linear Models (2nd ed.). Chapman & Hall, 2001.
++ [Dom94] P. Domingos. The RISE system: Conquering without separating. In Proc. 1994 IEEE Int. Conf. Tools with Artificial Intelligence (TAI’94), pp. 704–707, New Orleans, LA, 1994.
++ [Dom99] P. Domingos. The role of Occam’s razor in knowledge discovery. Data Mining and Knowledge Discovery, 3:409–425, 1999.
++ [DP96] P. Domingos and M. Pazzani. Beyond independence: Conditions for the optimality of the simple Bayesian classifier. In Proc. 1996 Int. Conf. Machine Learning (ML’96), pp. 105–112, Bari, Italy, July 1996.
++ [DP97] J. Devore and R. Peck. Statistics: The Exploration and Analysis of Data. Duxbury Press, 1997.
++ [DP07] G. Dong and J. Pei. Sequence Data Mining. New York: Springer, 2007.
++ [DR99] D. Donjerkovic and R. Ramakrishnan. Probabilistic optimization of top N queries. In Proc. 1999 Int. Conf. Very Large Data Bases (VLDB’99), pp. 411–422, Edinburgh, UK, Sept. 1999.
++ [DR05] I. Davidson and S. S. Ravi. Clustering with constraints: Feasibility issues and the k-means algorithm. In Proc. 2005 SIAM Int. Conf. Data Mining (SDM’05), Newport Beach, CA, Apr. 2005.
++ [DT93] V. Dhar and A. Tuzhilin. Abstract-driven pattern discovery in databases. IEEE Trans. Knowledge and Data Engineering, 5:926–938, 1993.
++ [Dun03] M. Dunham. Data Mining: Introductory and Advanced Topics. Prentice-Hall, 2003.
++ [DWB06] I. Davidson, K. L. Wagstaff, and S. Basu. Measuring constraint-set utility for partitional clustering algorithms. In Proc. 10th European Conf. Principles and Practice of Knowledge Discovery in Databases (PKDD’06), pp. 115–126, Berlin, Germany, Sept. 2006.
++ [Dwo06] C. Dwork. Differential privacy. In Proc. 2006 Int. Col. Automata, Languages and Programming (ICALP), pp. 1–12, Venice, Italy, July 2006.
++ [DYXY07] W. Dai, Q. Yang, G. Xue, and Y. Yu. Boosting for transfer learning. In Proc. 24th Intl. Conf. Machine Learning, pp. 193–200, Corvallis, OR, June 2007.
++ [Ega75] J. P. Egan. Signal Detection Theory and ROC Analysis. Academic Press, 1975.
++ [EK10] D. Easley and J. Kleinberg. Networks, Crowds, and Markets: Reasoning about a Highly Connected World. Cambridge University Press, 2010.
++ [Esk00] E. Eskin. Anomaly detection over noisy data using learned probability distributions. In Proc. 17th Int. Conf. Machine Learning (ICML’00), Stanford, CA, 2000.
++ [EKSX96] M. Ester, H.-P. Kriegel, J. Sander, and X. Xu. A density-based algorithm for discovering clusters in large spatial databases. In Proc. 1996 Int. Conf. Knowledge Discovery and Data Mining (KDD’96), pp. 226–231, Portland, OR, Aug. 1996.
++ [EKX95] M. Ester, H.-P. Kriegel, and X. Xu. Knowledge discovery in large spatial databases: Focus- ing techniques for efficient class identification. In Proc. 1995 Int. Symp. Large Spatial Databases (SSD’95), pp. 67–82, Portland, ME, Aug. 1995.
++ [Elk97] C. Elkan. Boosting and na ̈ıve Bayesian learning. In Technical Report CS97-557, Dept. Computer Science and Engineering, University of California at San Diego, Sept. 1997.
++ [Elk01] C. Elkan. The foundations of cost-sensitive learning. In Proc. 17th Intl. Joint Conf. Artificial Intelligence (IJCAI’01), pp. 973–978, Seattle, WA, 2001.
++ [EN10] R. Elmasri and S. B. Navathe. Fundamentals of Database Systems (6th ed.). Boston: Addison-Wesley, 2010.
++ [Eng99] L. English. Improving Data Warehouse and Business Information Quality: Methods for Reducing Costs and Increasing Profits. John Wiley & Sons, 1999.
++ [ESAG02] A. Evfimievski, R. Srikant, R. Agrawal, and J. Gehrke. Privacy preserving mining of asso- ciation rules. In Proc. 2002 ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD’02), pp. 217–228, Edmonton, Alberta, Canada, July 2002.
++ [ET93] B. Efron and R. Tibshirani. An Introduction to the Bootstrap. Chapman & Hall, 1993.
++ [FB74] R. A. Finkel and J. L. Bentley. Quad-trees: A data structure for retrieval on composite keys. ACTA Informatica, 4:1–9, 1974.
++ [FB08] J. Friedman and E. P. Bogdan. Predictive learning via rule ensembles. Ann. Applied Statistics, 2:916–954, 2008.
++ [FBF77] J. H. Friedman, J. L. Bentley, and R. A. Finkel. An algorithm for finding best matches in logarithmic expected time. ACM Transactions on Math Software, 3:209–226, 1977.
++ [FFF99]M. Faloutsos, P. Faloutsos, and C. Faloutsos. On power-law relationships of the internet topology. In Proc. ACM SIGCOMM’99 Conf. Applications, Technologies, Architectures, and Protocols for Computer Communication, pp. 251–262, Cambridge, MA, Aug. 1999. 
++ [FG02] M. Fishelson and D. Geiger. Exact genetic linkage computations for general pedigrees. Disinformation, 18:189–198, 2002.
 + [FGK+ 05] R. Fagin, R. V. Guha, R. Kumar, J. Novak, D. Sivakumar, and A. Tomkins. Multi- structural databases. In Proc. 2005 ACM SIGMOD-SIGACT-SIGART Symp. Principles of Database Systems (PODS’05), pp. 184–195, Baltimore, MD, June 2005.
 + [FGW01] U. Fayyad, G. Grinstein, and A. Wierse. Information Visualization in Data Mining and Knowledge Discovery. Morgan Kaufmann, 2001.
 + [FH87] E. Fix and J. L. Hodges Jr. Discriminatory analysis, non-parametric discrimination: Consistency properties. In Technical Report 21-49-004(4), USAF School of Aviation Medicine, Randolph Field, Texas, 1951.
