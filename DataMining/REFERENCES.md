@@ -51,6 +51,16 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + Anomaly Detection
 
 # Papers
++ [CEK15] Flavio Chierichetti,Alessandro Epasto,Ravi Kumar .etc, Efficient Algorithms for Public-Private Social Networks, 2015
++ [QARJ14] Aaron Q. Li,Amr Ahmed,Sujith Rav,Alexander J. Smola, Reducing the Sampling Complexity of Topic Models, 2014
++ [Edo13] Edo Liberty, Simple and Deterministic Matrix Sketching,2013
++ [RCM12] Thanawin Rakthanmanon, Bilson Campana, Abdullah Mueen .etc, Searching and Mining Trillions of Time Series Subsequences under Dynamic Time Warping, 2012
++ [KRP11] Shachar Kaufman,Saharon Rosset,Claudia Perlich, Leakage in Data Mining: Formulation, Detection, and Avoidance, 2011
++ [FJWJ10] Hsiang-Fu Yu,Cho-Jui Hsieh,Kai-Wei Chang,Chih-Jen Lin, Large Linear Classification When Data Cannot Fit In Memory, 2010
++ [SG10] Dafna Shahaf;Carlos Guestrin,Carnegie Mellon University, Connecting the Dots Between News Articles,2010
++ [Kor09] Yehuda Koren,Yahoo! Research, Collaborative Filtering with Temporal Dynamics, 2009
++ [ZZW08] Xiang Zhang;Fei Zou;and Wei Wang,University of North Carolina at Chapel Hill, FastANOVA: an Efficient Algorithm for Genome-Wide Association Study, 2008
++ [AM07] Deepak Agarwal； Srujana Merugu，Yahoo! Research, Predictive Discrete Latent Factor Models for Large Scale Dyadic Data,2007
 + [AAD+ 96] S. Agarwal, R. Agrawal, P. M. Deshpande, A. Gupta, J. F. Naughton, R. Ramakrishnan, and S. Sarawagi. On the computation of multidimensional aggregates. In Proc. 1996 Int. Conf. Very Large Data Bases (VLDB’96), pp. 506–521, Bombay, India, Sept. 1996.
 + [AAP01] R. Agarwal, C. C. Aggarwal, and V. V. V. Prasad. A tree projection algorithm for generation of frequent itemsets. J. Parallel and Distributed Computing, 61:350–371, 2001. 
 + [AB79] B. Abraham and G. E. P. Box. Bayesian analysis of some outlier problems in time series. Biometrika, 66:229–248, 1979.
