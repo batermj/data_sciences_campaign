@@ -822,6 +822,7 @@ ing. In Proc. 2002 SIAM Int. Conf. Data Mining (SDM’02), pp. 457–473, Arling
 
 # Books
 ***Data Mining  The Textbook***, Aggarwal, Charu C.
+***Introduction to Data Mining*** (Second Edition), https://www-users.cs.umn.edu/~kumar001/dmbook/index.php
 
 # Blog
 + http://www.kdnuggets.com
