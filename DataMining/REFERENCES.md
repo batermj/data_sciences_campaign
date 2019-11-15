@@ -51,6 +51,7 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + Anomaly Detection
 
 # Papers
++ [ZKG18] Daniel Zügner, Amir Akbarnejad, Stephan Günnemann, Technical University of Munich, Adversarial Attacks on Neural Networks for Graph Data, Germany, 2018, https://arxiv.org/pdf/1805.07984.pdf
 + [CEK15] Flavio Chierichetti,Alessandro Epasto,Ravi Kumar .etc, Efficient Algorithms for Public-Private Social Networks, 2015
 + [QARJ14] Aaron Q. Li,Amr Ahmed,Sujith Rav,Alexander J. Smola, Reducing the Sampling Complexity of Topic Models, 2014
 + [Edo13] Edo Liberty, Simple and Deterministic Matrix Sketching,2013
