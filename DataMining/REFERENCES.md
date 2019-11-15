@@ -10,6 +10,7 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + Patents
 + Books
 + Blog
++ Datasets
 + Whatever The Entrepreneur& Researcher Pleased
 
 # Papers
@@ -812,5 +813,6 @@ ing. In Proc. 2002 SIAM Int. Conf. Data Mining (SDM’02), pp. 457–473, Arling
 + Data Mining Group, Tsinghua
 + KDD oral presentations video
 
+# Datasets
 
 # Whatever The Entrepreneur& Researcher Pleased
