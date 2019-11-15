@@ -175,36 +175,25 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + [CS-T00] N. Cristianini and J. Shawe-Taylor. An Introduction to Support Vector Machines and Other Kernel-Based Learning Methods. Cambridge University Press, 2000.
 + [CSZ+ 07] Y. Chi, X. Song, D. Zhou, K. Hino, and B. L. Tseng. Evolutionary spectral clustering by incorporating temporal smoothness. In Proc. 2007 ACM SIGKDD Intl. Conf. Knowledge Discovery and Data Mining (KDD’07), pp. 153–162, San Jose, CA, Aug. 2007.
 + [CTTX05] G. Cong, K.-Lee Tan, A. K. H. Tung, and X. Xu. Mining top-k covering rule groups for gene expression data. In Proc. 2005 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’05), pp. 670–681, Baltimore, MD, June 2005.
-+ [CWL+ 08]
-[CYHH07]
-[CYHY08]
-[CYZ+ 08]
-[Dar10] [Das91]
-[Dau92] [DB95]
-[DBK+ 97] [DE84]
-[De01] [DEKM98]
-[Dev95] [Dev03] [DH73] [DH00]
-[DHL+ 01] [DHL+ 04] 
-G. Cong, L. Wang, C.-Y. Lin, Y.-I. Song, and Y. Sun. Finding question-answer pairs from online forums. In Proc. 2008 Int. ACM SIGIR Conf. Research and Development in Information Retrieval (SIGIR’08), pp. 467–474, Singapore, July 2008.
-H. Cheng, X. Yan, J. Han, and C.-W. Hsu. Discriminative frequent pattern analysis for effective classification. In Proc. 2007 Int. Conf. Data Engineering (ICDE’07), pp. 716–725, Istanbul, Turkey, Apr. 2007.
-H. Cheng, X. Yan, J. Han, and P. S. Yu. Direct discriminative pattern mining for effective classification. In Proc. 2008 Int. Conf. Data Engineering (ICDE’08), pp. 169–178, Cancun, Mexico, Apr. 2008.
-C. Chen, X. Yan, F. Zhu, J. Han, and P. S. Yu. Graph OLAP: Towards online analytical processing on graphs. In Proc. 2008 Int. Conf. Data Mining (ICDM’08), pp. 103–112, Pisa, Italy, Dec. 2008.
-A. Darwiche. Bayesian networks. Communications of the ACM, 53:80–90, 2010.
-B. V. Dasarathy. Nearest Neighbor (NN) Norms: NN Pattern Classification Techniques. IEEE Computer Society Press, 1991.
-I. Daubechies. Ten Lectures on Wavelets. Capital City Press, 1992.
-T. G. Dietterich and G. Bakiri. Solving multiclass learning problems via error-correcting output codes. J. Artificial Intelligence Research, 2:263–286, 1995.
-H. Drucker, C. J. C. Burges, L. Kaufman, A. Smola, and V. N. Vapnik. Support vec- tor regression machines. In M. Mozer, M. Jordan, and T. Petsche (eds.), Advances in Neural Information Processing Systems 9, pp. 155–161. Cambridge, MA: MIT Press, 1997.
-W. H. E. Day and H. Edelsbrunner. Efficient algorithms for agglomerative hierarchical clustering methods. J. Classification, 1:7–24, 1984.
-S. Dzeroski and N. Lavrac (eds.). Relational Data Mining. New York: Springer, 2001.
-R. Durbin, S. Eddy, A. Krogh, and G. Mitchison. Biological Sequence Analysis: Probability Models of Proteins and Nucleic Acids. Cambridge University Press, 1998.
-J. L. Devore. Probability and Statistics for Engineering and the Sciences (4th ed.). Duxbury Press, 1995.
-J. L. Devore. Probability and Statistics for Engineering and the Sciences (6th ed.). Duxbury Press, 2003.
-W. E. Donath and A. J. Hoffman. Lower bounds for the partitioning of graphs. IBM J. Research and Development, 17:420–425, 1973.
-P. Domingos and G. Hulten. Mining high-speed data streams. In Proc. 2000 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’00), pp. 71–80, Boston, MA, Aug. 2000.
-G. Dong, J. Han, J. Lam, J. Pei, and K. Wang. Mining multi-dimensional constrained gradients in data cubes. In Proc. 2001 Int. Conf. Very Large Data Bases (VLDB’01), pp. 321–330, Rome, Italy, Sept. 2001.
-G. Dong, J. Han, J. Lam, J. Pei, K. Wang, and W. Zou. Mining constrained gradients in multi-dimensional databases. IEEE Trans. Knowledge and Data Engineering, 16:922–938, 2004.
++ [CWL+ 08] G. Cong, L. Wang, C.-Y. Lin, Y.-I. Song, and Y. Sun. Finding question-answer pairs from online forums. In Proc. 2008 Int. ACM SIGIR Conf. Research and Development in Information Retrieval (SIGIR’08), pp. 467–474, Singapore, July 2008.
++ [CYHH07] H. Cheng, X. Yan, J. Han, and C.-W. Hsu. Discriminative frequent pattern analysis for effective classification. In Proc. 2007 Int. Conf. Data Engineering (ICDE’07), pp. 716–725, Istanbul, Turkey, Apr. 2007.
++ [CYHY08] H. Cheng, X. Yan, J. Han, and P. S. Yu. Direct discriminative pattern mining for effective classification. In Proc. 2008 Int. Conf. Data Engineering (ICDE’08), pp. 169–178, Cancun, Mexico, Apr. 2008.
++ [CYZ+ 08] C. Chen, X. Yan, F. Zhu, J. Han, and P. S. Yu. Graph OLAP: Towards online analytical processing on graphs. In Proc. 2008 Int. Conf. Data Mining (ICDM’08), pp. 103–112, Pisa, Italy, Dec. 2008.
++ [Dar10] A. Darwiche. Bayesian networks. Communications of the ACM, 53:80–90, 2010.
++ [Das91] B. V. Dasarathy. Nearest Neighbor (NN) Norms: NN Pattern Classification Techniques. IEEE Computer Society Press, 1991.
++ [Dau92] I. Daubechies. Ten Lectures on Wavelets. Capital City Press, 1992.
++ [DB95] T. G. Dietterich and G. Bakiri. Solving multiclass learning problems via error-correcting output codes. J. Artificial Intelligence Research, 2:263–286, 1995.
++ [DBK+ 97] H. Drucker, C. J. C. Burges, L. Kaufman, A. Smola, and V. N. Vapnik. Support vec- tor regression machines. In M. Mozer, M. Jordan, and T. Petsche (eds.), Advances in Neural Information Processing Systems 9, pp. 155–161. Cambridge, MA: MIT Press, 1997.
++ [DE84] W. H. E. Day and H. Edelsbrunner. Efficient algorithms for agglomerative hierarchical clustering methods. J. Classification, 1:7–24, 1984.
++ [De01] S. Dzeroski and N. Lavrac (eds.). Relational Data Mining. New York: Springer, 2001.
++ [DEKM98] R. Durbin, S. Eddy, A. Krogh, and G. Mitchison. Biological Sequence Analysis: Probability Models of Proteins and Nucleic Acids. Cambridge University Press, 1998.
++ [Dev95] J. L. Devore. Probability and Statistics for Engineering and the Sciences (4th ed.). Duxbury Press, 1995.
++ [Dev03] J. L. Devore. Probability and Statistics for Engineering and the Sciences (6th ed.). Duxbury Press, 2003.
++ [DH73] W. E. Donath and A. J. Hoffman. Lower bounds for the partitioning of graphs. IBM J. Research and Development, 17:420–425, 1973.
++ [DH00] P. Domingos and G. Hulten. Mining high-speed data streams. In Proc. 2000 ACM SIGKDD Int. Conf. Knowledge Discovery in Databases (KDD’00), pp. 71–80, Boston, MA, Aug. 2000.
++ [DHL+ 01] G. Dong, J. Han, J. Lam, J. Pei, and K. Wang. Mining multi-dimensional constrained gradients in data cubes. In Proc. 2001 Int. Conf. Very Large Data Bases (VLDB’01), pp. 321–330, Rome, Italy, Sept. 2001.
++ [DHL+ 04] G. Dong, J. Han, J. Lam, J. Pei, K. Wang, and W. Zou. Mining constrained gradients in multi-dimensional databases. IEEE Trans. Knowledge and Data Engineering, 16:922–938, 2004.
 + [DHS01] R. O. Duda, P. E. Hart, and D. G. Stork. Pattern Classification (2nd ed.). John Wiley & Sons, 2001.
-
 + [DJ03] T. Dasu and T. Johnson. Exploratory Data Mining and Data Cleaning. John Wiley & Sons, 2003.
 + [DJMS02] T. Dasu, T. Johnson, S. Muthukrishnan, and V. Shkapenyuk. Mining database struc- ture; or how to build a data quality browser. In Proc. 2002 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’02), pp. 240–251, Madison, WI, June 2002.
 + [DL97] M. Dash and H. Liu. Feature selection methods for classification. Intelligent Data Analysis, 1:131–156, 1997.
@@ -789,6 +778,7 @@ ing. In Proc. 2002 SIAM Int. Conf. Data Mining (SDM’02), pp. 457–473, Arling
 # Github Projects
 + https://github.com/topics/data-mining
 + Social Media Analytics,This repository contains code and bonus content which will be added from time to time for the book "Learning Social Media Analytics with R" by Packt, https://github.com/dipanjanS/learning-social-media-analytics-with-r
++ Stream Data Mining Library for Spark Streaming http://streamdm.noahlab.com.hk/, https://github.com/huawei-noah/streamDM
 
 # Tools
 
