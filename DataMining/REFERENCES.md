@@ -43,6 +43,8 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + Data Mining Research Group Meeting, Mondays @ Siebel Center (for DMG group member only)
 
 # Topics (Categories)
+
+## Long Tern Topics 
 + Patterns Mining
 + Classification
 + Clustering
@@ -50,6 +52,19 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + Text Mining
 + Graph Mining
 + Anomaly Detection
+
+## National Style
+
+## Biographical Style
+
+## Annalistic Style;
+
+### 2019
++ Reinforcement Learning
++ Zero Shot Learning
+
+### 2018
+
 
 # Papers
 
