@@ -796,7 +796,7 @@ ing. In Proc. 2002 SIAM Int. Conf. Data Mining (SDM’02), pp. 457–473, Arling
 
 # Conferences (AI)
 + IJCAI
-+ AAAI
++ AAAI, http://www.aaai.org
 + PRICAI
 
 # Conferences (Data Mining)
