@@ -14,6 +14,7 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + Languages
 + Patents
 + Books
++ Courses
 + Blog
 + Datasets
 + Whatever The Entrepreneur& Researcher Pleased
@@ -876,7 +877,10 @@ ing. In Proc. 2002 SIAM Int. Conf. Data Mining (SDM’02), pp. 457–473, Arling
 ***Data Mining  The Textbook***, Aggarwal, Charu C.
 ***Introduction to Data Mining*** (Second Edition), https://www-users.cs.umn.edu/~kumar001/dmbook/index.php
 
+# Courses
+
 # Blog
+https://www.datasciencecentral.com/
 
 # Datasets
 + https://github.com/batermj/data_sciences_campaign/tree/master/DataSets
