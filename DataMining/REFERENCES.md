@@ -44,6 +44,10 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 
 # Topics (Categories)
 
+## Overview
+
+## Trends Analysis
+
 ## Long Tern Topics 
 + Patterns Mining
 + Classification
