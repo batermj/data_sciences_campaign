@@ -888,6 +888,7 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 
 ## 1975
 + [Ega75] J. P. Egan. Signal Detection Theory and ROC Analysis. Academic Press, 1975.
++ [Har75] J. A. Hartigan. Clustering Algorithms. John Wiley & Sons, 1975.
 
 ## 1974
 + [FB74] R. A. Finkel and J. L. Bentley. Quad-trees: A data structure for retrieval on composite keys. ACTA Informatica, 4:1–9, 1974.
@@ -898,7 +899,7 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + [Fie73] M. Fiedler. Algebraic connectivity of graphs. Czechoslovak Mathematical J., 23:298–305, 1973.
 
 ## 1972
-+ [Har72] J. Hartigan. Direct clustering of a data matrix. J. American Stat. Assoc., 67:123–129, 1972. vJ. A. Hartigan. Clustering Algorithms. John Wiley & Sons, 1975.
++ [Har72] J. Hartigan. Direct clustering of a data matrix. J. American Stat. Assoc., 67:123–129, 1972. 
 + [Ste72] W. Stefansky. Rejecting outliers in factorial designs. Technometrics, 14:469–479, 1972. 
 
 ## 1971
