@@ -189,6 +189,7 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + [BMS97] S. Brin, R. Motwani, and C. Silverstein. Beyond market basket: Generalizing associa- tion rules to correlations. In Proc. 1997 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’97), pp. 265–276, Tucson, AZ, May 1997.
 + [BMUT97] S. Brin, R. Motwani, J. D. Ullman, and S. Tsur. Dynamic itemset counting and implication rules for market basket analysis. In Proc. 1997 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’97), pp. 255–264, Tucson, AZ, May 1997.
 + [BPT97] E. Baralis, S. Paraboschi, and E. Teniente. Materialized view selection in a multidimen- sional database. In Proc. 1997 Int. Conf. Very Large Data Bases (VLDB’97), pp. 98–12, Athens, Greece, Aug. 1997.
++ [CD97] S. Chaudhuri and U. Dayal. An overview of data warehousing and OLAP technology. SIGMOD Record, 26:65–74, 1997.
 
 
 ## 1996
@@ -217,6 +218,7 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + [AIS93] R. Agrawal, T. Imielinski, and A. Swami. Mining association rules between sets of items in large databases. In Proc. 1993 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’93), pp. 207–216, Washington, DC, May 1993.
 + [AK93] T. Anand and G. Kahn. Opportunity explorer: Navigating large databases using knowl- edge discovery templates. In Proc. AAAI-93 Workshop Knowledge Discovery in Databases, pp. 45–51, Washington, DC, July 1993.
 + [BCP93] D. E. Brown, V. Corruble, and C. L. Pittard. A comparison of decision tree classifiers with backpropagation neural networks for multimodal classification problems. Pattern Recognition, 26:953–961, 1993.
++ [CCS93] E. F. Codd, S. B. Codd, and C. T. Salley. Beyond decision support. Computer World, 27(30):5–12, July 1993.
 
 ## 1992
 + [Aha92] D. Aha. Tolerating noisy, irrelevant, and novel attributes in instance-based learning algorithms. Int. J. Man-Machine Studies, 36:267–287, 1992.
@@ -226,6 +228,11 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 
 ## 1991
 + [AD91] H. Almuallim and T. G. Dietterich. Learning with many irrelevant features. In Proc. 1991 Nat. Conf. Artificial Intelligence (AAAI’91), pp. 547–552, Anaheim, CA, July 1991.
++ [Cat91] J. Catlett. Megainduction: Machine Learning on Very large Databases. Ph.D. Thesis, University of Sydney, 1991.
++ [CCH91] Y. Cai, N. Cercone, and J. Han. Attribute-oriented induction in relational databases. In G. Piatetsky-Shapiro and W. J. Frawley (eds.), Knowledge Discovery in Databases, pp. 213–228. AAAI/MIT Press, 1991.
+
+## 1988
++ [BPW88] E. R. Bareiss, B. W. Porter, and C. C. Weir. Protos: An exemplar-based learning apprentice. Int. J. Man-Machine Studies, 29:549–561, 1988.
 
 ## 1984
 + [BFOS84] L. Breiman, J. Friedman, R. Olshen, and C. Stone. Classification and Regression Trees. Wadsworth International Group, 1984.
@@ -242,14 +249,9 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 
 ## 1960
 + [AG60] F. J.Anscombe,andI.Guttman.Rejectionofoutliers.Technometrics,2:123–147,1960. 
-+ [BPW88] E. R. Bareiss, B. W. Porter, and C. C. Weir. Protos: An exemplar-based learning apprentice. Int. J. Man-Machine Studies, 29:549–561, 1988.
-+ [Cat91] J. Catlett. Megainduction: Machine Learning on Very large Databases. Ph.D. Thesis, University of Sydney, 1991.
 + [CBK09] V. Chandola, A. Banerjee, and V. Kumar. Anomaly detection: A survey. ACM Computing Surveys, 41:1–58, 2009.
 + [CC00] Y. Cheng and G. Church. Biclustering of expression data. In Proc. 2000 Int. Conf. Intelligent Systems for Molecular Biology (ISMB’00), pp. 93–103, La Jolla, CA, Aug. 2000.
-+ [CCH91] Y. Cai, N. Cercone, and J. Han. Attribute-oriented induction in relational databases. In G. Piatetsky-Shapiro and W. J. Frawley (eds.), Knowledge Discovery in Databases, pp. 213–228. AAAI/MIT Press, 1991.
 + [CCLR05] B.-C. Chen, L. Chen, Y. Lin, and R. Ramakrishnan. Prediction cubes. In Proc. 2005 Int. Conf. Very Large Data Bases (VLDB’05), pp. 982–993, Trondheim, Norway, Aug. 2005.
-+ [CCS93] E. F. Codd, S. B. Codd, and C. T. Salley. Beyond decision support. Computer World, 27(30):5–12, July 1993.
-+ [CD97] S. Chaudhuri and U. Dayal. An overview of data warehousing and OLAP technology. SIGMOD Record, 26:65–74, 1997.
 + [CDH+ 02] Y. Chen, G. Dong, J. Han, B. W. Wah, and J. Wang. Multidimensional regression analysis of time-series data streams. In Proc. 2002 Int. Conf. Very Large Data Bases (VLDB’02), pp. 323–334, Hong Kong, China, Aug. 2002.
 + [CDH+ 06] Y. Chen, G. Dong, J. Han, J. Pei, B. W. Wah, and J. Wang. Regression cubes with lossless compression and aggregation. IEEE Trans. Knowledge and Data Engineering, 18:1585–1599, 2006.
 + [CDI98] S. Chakrabarti, B. E. Dom, and P. Indyk. Enhanced hypertext classification using hyper- links. In Proc. 1998 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’98), pp. 307–318, Seattle, WA, June 1998.
