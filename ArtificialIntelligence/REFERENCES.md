@@ -3,6 +3,10 @@
 ## Resources on Github
 + https://github.com/SerpentAI
 
+
+## Courses
++ CS 188 : Introduction to Artificial Intelligence  Pieter Abbeel & Dan Klein, University of California, Berkeley , https://inst.eecs.berkeley.edu/~cs188/fa18/
+
 ## OpenAI
 + OpenAI, https://github.com/openai
 
