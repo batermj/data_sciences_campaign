@@ -2,6 +2,9 @@
 
 ## Resources on Github
 
+## Glossary
++ Machine Learning Glossary by Google,https://developers.google.com/machine-learning/glossary/
+
 ## Gorgeous
 + https://github.com/apache
 + https://github.com/google
