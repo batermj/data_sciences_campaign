@@ -14,6 +14,27 @@ import itertools
 
 from datetime import datetime
 
+# Deal with bibliography file in the format same as
+# ./bibliography/KDD/2017/Research_Track_Papers_Full_List.txt
+def check_line_format_kdd(lines=None):
+    line_no = 1
+    for idx in range(len(lines)//2):
+        if( re.match('Authors: ', lines[2*idx:(2*idx+2)][1]) == None):
+            print(f"line_no = {line_no}")
+            print(lines[2 * idx:(2 * idx + 2)][1])
+            print(re.match('Authors: ', lines[2 * idx:(2 * idx + 2)][1]))
+            print(re.split('^Authors: ', lines[2 * idx:(2 * idx + 2)][1]))
+            break
+
+        line_no = line_no + 1
+
+    if line_no == len(lines):
+        print(f"line_no = {line_no} != the lines of input file!")
+        exit(0)
+
+    return(None)
+
+# Deal with bibliography file in the format same as ./bibliography/bibliography.py
 def check_line_format(line,line_no):
     if x is None:
         #print(x)
@@ -63,7 +84,38 @@ def sort_bibliography(input_file_path, output_file_path):
                 #print(book)
                 result_file.write(book)
 
-if __name__ == "__main__":
+def sort_bibliography_kdd(input_file_path, output_file_path, pub_year=None):
+    f = open(input_file_path)
+    lines = f.readlines()
+    f.close()
+
+    check_line_format_kdd(lines=lines)
+
+    with open(output_file_path, "a") as result_file:
+        line_no = 1
+        for idx in range(len(lines)//2):
+            print(f"line_no = {line_no}")
+            print(lines[2*idx:(2*idx+2)])
+            print(re.match('Authors: ', lines[2*idx:(2*idx+2)][1]))
+            print(re.split('^Authors: ', lines[2*idx:(2*idx+2)][1]))
+            merged_line = f"+ [{pub_year[2:]}], " + re.split('^Authors: ', lines[2*idx:(2*idx+2)][1])[1].replace("\n","") + ", " + lines[2*idx:(2*idx+2)][0].replace("\n",f", KDD{pub_year}\n")
+            result_file.write(merged_line)
+            line_no = line_no + 1
+
+
+def load_and_sort_bibliography():
     input_filename = "bibliography.txt"
     output_filename = "sorted_"+str(time.strftime('%Y%m%d%H%m%S', time.localtime())) + input_filename
     sort_bibliography(input_file_path=input_filename,output_file_path=output_filename)
+
+def load_and_sort_bibliography_from_kdd():
+    pub_year = "2019"
+    input_filenames = [f"bibliography/KDD/{pub_year}/Research_Track_Papers_Full_List",f"bibliography/KDD/{pub_year}/Applied_Data_Science_Track_Papers_Full_List"]
+
+    for input_filename in input_filenames:
+        output_filename = input_filename + str(time.strftime('%Y%m%d%H%m%S', time.localtime())) + ".txt"
+        input_filename = input_filename + ".txt"
+        sort_bibliography_kdd(input_file_path=input_filename,output_file_path=output_filename,pub_year=pub_year)
+
+if __name__ == "__main__":
+    load_and_sort_bibliography_from_kdd()
