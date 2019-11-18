@@ -80,6 +80,7 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + [ZKG18] Daniel Zügner, Amir Akbarnejad, Stephan Günnemann, Technical University of Munich, Adversarial Attacks on Neural Networks for Graph Data, Germany, 2018, https://arxiv.org/pdf/1805.07984.pdf
 
 ## 2017
++ [] Tom Hope, Joel Chan, Aniket Kittur, afna Shahaf, Accelerating Innovation Through Analogy Mining, https://arxiv.org/abs/1706.05585
 
 ## 2016
 
