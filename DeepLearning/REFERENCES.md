@@ -388,6 +388,9 @@ Source: https://github.com/CancerDataScience/SurvivalNet
 + Yet another Cycle GAN implementation in PyTorch, https://github.com/golbin/CycleGAN
 + A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.,https://github.com/bharathgs/Awesome-pytorch-list
 
+## Keras
++ Keras Tuner documentation, https://keras-team.github.io/keras-tuner/
+
 ## Theano
 + Deep Learning with Theano, published by Packt, https://github.com/PacktPublishing/Deep-Learning-with-Theano
 
