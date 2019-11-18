@@ -55,6 +55,7 @@
 + Linear Algebra Done Right (Undergraduate Texts in Mathematics) 3rd ed. 2015 Edition, by Sheldon Axler, http://linear.axler.net/, http://www.springer.com/cn/book/9783319110790
 + Linear Algebra and Its Applications, Sep 10, 2007, by Peter D. Lax, https://www.amazon.com/Linear-Algebra-Its-Applications-Peter/dp/0471751561/
 + 18.06 course at MIT,https://github.com/stevengj/1806
++ Linear AlgebraA Free text for a standard US undergraduate course, http://joshua.smcvt.edu/linearalgebra/
 
 
 ### 附录2: 特殊行列式
