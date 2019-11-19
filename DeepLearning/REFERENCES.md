@@ -391,6 +391,10 @@ Source: https://github.com/CancerDataScience/SurvivalNet
 ## Keras
 + Keras Tuner documentation, https://keras-team.github.io/keras-tuner/
 
+## MAX (Model Asset Exchange,MAE)
++ Model Asset eXchange: Path to Ubiquitous Deep Learning Deployment, https://arxiv.org/abs/1909.01606
+
+
 ## Theano
 + Deep Learning with Theano, published by Packt, https://github.com/PacktPublishing/Deep-Learning-with-Theano
 
