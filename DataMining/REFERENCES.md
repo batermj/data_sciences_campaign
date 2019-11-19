@@ -52,6 +52,7 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 
 ## Trends Analysis
 + Graph Neural Network (GNN)
++ Graph Convolutional Network (GCN)
 + Deep Learning as Tool
 
 ## Long Tern Topics 
