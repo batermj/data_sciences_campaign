@@ -8,6 +8,9 @@
 ## Courses
 + Stanford Machine Learning (CS229), http://cs229.stanford.edu, https://online.stanford.edu/courses/cs229-machine-learning
 
+## Machine Learning Group
++ Stanford Machine Learning Group, https://stanfordmlgroup.github.io
+
 ## Gorgeous
 + https://github.com/apache
 + https://github.com/google
