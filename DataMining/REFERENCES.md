@@ -51,6 +51,8 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 ## Overview
 
 ## Trends Analysis
++ Graph Neural Network (GNN)
++ Deep Learning as Tool
 
 ## Long Tern Topics 
 + Patterns Mining
