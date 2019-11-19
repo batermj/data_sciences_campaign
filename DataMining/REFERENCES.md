@@ -1595,6 +1595,9 @@ https://campus.acm.org/calendar/Index.cfm?confid=2020-46939
 + AAAI, http://www.aaai.org
 + PRICAI
 
+# Conferences (Information Retrieving and Data Mining)
++ ACM CIKM (ACM International Conference on Information and Knowledge Management)
+
 # Conferences (Data Mining)
 + KDD, ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 + ICDM, IEEE International Conference on Data Mining,  http://www.cs.uvm.edu/~icdm/
