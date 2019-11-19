@@ -5,6 +5,9 @@
 ## Glossary
 + Machine Learning Glossary by Google,https://developers.google.com/machine-learning/glossary/
 
+## Courses
++ Stanford Machine Learning (CS229), http://cs229.stanford.edu
+
 ## Gorgeous
 + https://github.com/apache
 + https://github.com/google
@@ -102,10 +105,6 @@
 ## MISC
 + Repository of teaching materials, code, and data for my data analysis and machine learning projects. https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects
 + https://github.com/AM207/2018spring
-
-## Udacity
-+ Our mission is to bring accessible, affordable, engaging, and highly effective higher education to the world, https://github.com/udacity
-
 
 ## Google Summer of Code
 + NumFOCUS Google Summer of Code Materials http://numfocus.org/programs/gsoc.html, https://github.com/numfocus/gsoc
