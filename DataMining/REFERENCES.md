@@ -30,6 +30,10 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + Vipin Kumar, University of Minnesota 
 + Mohammed J. Zaki
 + Wagner Meira Jr.
++ Philip S. Yu
++ Wang Ke
++ Xindong Wu
+
 
 # Research Groups
 + Data Mining, University of Houston
