@@ -731,29 +731,305 @@ https://campus.acm.org/calendar/Index.cfm?confid=2020-46939
 
 
 ## 2017
+
+### Best (Misc Sources)
 + [] Tom Hope, Joel Chan, Aniket Kittur, afna Shahaf, Accelerating Innovation Through Analogy Mining, https://arxiv.org/abs/1706.05585
+
+### KDD2017
+
+#### Best Award
+
+#### RESEARCH TRACK PAPERS - ORAL
++ [17],  Kai Zhang (Lawrence Berkeley National Laboratories);Chuanren Liu (Drexel University);Jie Zhang (Fudan University);Hui Xiong (Rutgers University);Eric Xing (Carneigie Mellon University);Jieping Ye (University of Michigan), Randomization or Condensation?: Linear-Cost Matrix Sketching Via Cascaded Compression Sampling, KDD2017
++ [17],  Ryan Spring (Rice University);Anshumali Shrivastava (Rice University), Scalable and Sustainable Deep Learning via Randomized Hashing, KDD2017
++ [17],  Chao Zhang (University of Illinois at Urbana-Champaign);Liyuan Liu (University of Illinois at Urbana-Champaign);Dongming Lei (University of Illinois at Urbana-Champaign);Quan Yuan (University of Illinois at Urbana-Champaign);Honglei Zhuang (University of Illinois at Urbana-Champaign);Tim Hanratty (U.S. Army Research Lab);Jiawei Han (University of Illinois at Urbana-Champaign), TrioVecEvent: Embedding-Based Online Local Event Detection in Geo-Tagged Tweet Streams, KDD2017
++ [17],  Riccardo Guidotti (University of Pisa);Anna Monreale (University of Pisa);Mirco Nanni (KDD-Lab ISTI-CNR Pisa);Fosca Giannotti (ISTI-CNR);Dino Pedreschi (University of Pisa), Clustering Individual Transactional Data for Masses of Users, KDD2017
++ [17],  Elaine Angelino (UC Berkeley);Nicholas Larus-Stone (Harvard);Daniel Alabi (Harvard);Margo Seltzer (Harvard University);Cynthia Rudin (Duke), Learning certifiably optimal rule lists for categorical data, KDD2017
++ [17],  Huan Zhao (HKUST);Quanming Yao (HKUST);Jianda Li (HKUST);Yangqiu Song (HKUST);Dik Lee (HKUST), Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks, KDD2017
++ [17],  Panagiotis Mandros (Max Planck Institute for Informatics);Mario Boley (Max Planck Institute for Informatics);Jilles Vreeken (Max Planck Institute for Informatics), Discovering Reliable Approximate Functional Dependencies, KDD2017
++ [17],  Junming Liu (Rutgers University);Yanjie Fu (Missouri University of Science and Technology);Jingci Ming (Rutgers University);Yong Ren (Futurewei Tech. Inc);Leilei Sun (Dalian University of Technology);Hui Xiong (Rutgers University), Effective and Real-time In-App Activity Analysis in Encrypted Internet Traffic Streams, KDD2017
++ [17],  Hao Yin (Stanford University);Austin R. Benson (Stanford University);Jure Leskovec (Stanford University);David F. Gleich (Purdue University), Local Higher-Order Graph Clustering, KDD2017
++ [17],  Tingjin Luo (National University of Defense Technology);Weizhong Zhang (Zhejiang University);Shuang Qiu (University of Michigan);Yang Yang (Beihang University);Dongyun Yi (National University of Defense Technology);Guangtao Wang (University of Michigan);Jieping Ye (University of Michigan);Jie Wang (University of Michigan), Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning, KDD2017
++ [17],  Sibo Wang (Nanyang Technological University);Renchi Yang (Nanyang Technological University);Xiaokui Xiao (Nanyang Technological University);Zhewei Wei (Renmin University of China);Yin Yang (Hamad Bin Khalifa University), FORA: Simple and Effective Approximate Single-Source Personalized PageRank, KDD2017
++ [17],  Reuven Cohen (Technion);Liran Katzir (Technion);Aviv Yehezkel (Technion), A Minimal Variance Estimator for the Cardinality of Big Data Set Intersection, KDD2017
++ [17],  Yu Chen (RPI);Mohammed Zaki (RPI), KATE: K-Competitive Autoencoder for Text, KDD2017
++ [17],  Parikshit Shah (Yahoo Research);Akshay Soni (Yahoo Research);Troy Chevalier (Yahoo Research), Online Ranking with Constraints: A Primal-Dual Algorithm and Applications to Web Traffic-Shaping, KDD2017
++ [17],  Defu Lian (University of Electronic Science and Technology of China);Rui Liu (University of Electronic Science and Technology of China);Yong Ge (University of Arizona);Kai Zheng (University of Queensland);Xing Xie (Microsoft Research);Longbing Cao (University of Technology Sydney), Discrete Content-aware Matrix Factorization, KDD2017
++ [17],  Si Si (UT austin);Cho-Jui Hsieh (UC Davis);Inderjit Dhillon (UT austin), Communication-Efficient Distributed Block Minimization for Nonlinear Kernel Machines, KDD2017
++ [17],  Tom Hope (Hebrew University of Jerusalem);Joel Chan (Carnegie Mellon University);Aniket Kittur (Carnegie Mellon University);Dafna Shahaf (Hebrew University of Jerusalem), Accelerating Innovation Through Analogy Mining, KDD2017
++ [17],  Guangxu Xun (State University of New York at Buffalo);Yaliang Li (State University of New York at Buffalo);Jing Gao (State University of New York at Buffalo);Aidong Zhang (State University of New York at Buffalo), Collaboratively Improving Topic Discovery and Word Embeddings by Coordinating Global and Local Conte, KDD2017
++ [17],  Yan Zheng (University of Utah);Jeff Phillips (University of Utah), Coresets for Kernel Regression, KDD2017
++ [17],  Dominik Mautz (Ludwig-Maximilians-Universität München);Wei Ye (Ludwig-Maximilians-Universität München);Claudia Plant (Universität Wien);Christian Böhm (Ludwig-Maximilians-Universität München), Towards an Optimal Subspace for K-Means, KDD2017
++ [17],  Zilong Bai (University of California, Davis);Peter Walker (Naval Medical Research Center);Anna Tschiffely (Naval Medical Research Center);Fei Wang (Cornell University);Ian Davidson (University of California, Davis), Unsupervised Network Discovery for Brain Imaging Data, KDD2017
++ [17],  Xiaojun Chang (Carnegie Mellon University);Yao-Liang Yu (University of Waterloo);Yi Yang (University of Technology Sydney), Robust Top-k Multi-class SVM for Visual Category Recognition, KDD2017
++ [17],  Inci Baytas (Michigan State University);Cao Xiao (IBM T. J. Watson Research Center);Xi Zhang (Cornell University);Fei Wang (Cornell University);Anil Jain (Michigan State University);Jiayu Zhou (Michigan State University), Patient Subtyping via Time-Aware LSTM Networks, KDD2017
++ [17],  Yukihiro Tagami (Yahoo Japan Corporation), AnnexML: Approximate Nearest Neighbor Search for Extreme Multi-label Classification, KDD2017
++ [17],  Chenzi Zhang (the University of Hong Kong);Fan Wei (Stanford University);Qin Liu (Huawei Noah’s Ark Lab);Zhihao Gavin Tang (the University of Hong Kong);Zhenguo Li (Huawei Noah’s Ark Lab), Graph Edge Partitioning via Neighborhood Heuristic, KDD2017
++ [17],  Yanjie Fu (Missouri University of Science and Technology);Guannan Liu (Beihang University);Mingfei Teng (Rutgers University);Charu Aggarwal (IBM T. J. Watson Research Center), Unsupervised P2P Rental Recommendations via Integer Programming, KDD2017
++ [17],  Kun Kuang (Tsinghua University);Peng Cui (Tainghua University);Bo Li (Tsinghua University);Meng Jiang (University of Illinois Urbana-Champaign);Shiqiang Yang (Tsinghua University), Estimating Treatment Effect in the Wild via Differentiated Confounder Balancing, KDD2017
++ [17],  Saket Sathe (IBM T. J. Watson Research Center);Charu Aggarwal (IBM T. J. Watson Research Center), Similarity Forests, KDD2017
++ [17],  Himabindu Lakkaraju (Stanford University);Jon Kleinberg (Cornell University);Jure Leskovec (Stanford University);Jens Ludwig (University of Chicago);Sendhil Mullainathan (Harvard University), The Selective Labels Problem: Evaluating Algorithmic Predictions in the Presence of Unobservables, KDD2017
++ [17],  Jingwei Xu (Nanjing University);Yuan Yao (Nanjing University);Hanghang Tong (City College, CUNY);Xianping Tao (Nanjing Univ.);Jian Lu (Nanjing University), HoORaYs: High-order Optimization of Rating Distance for Recommender Systems, KDD2017
++ [17],  Ari Kobren (University of Massachusetts Amherst);Nicholas Monath (University of Massachusetts Amherst);Akshay Krishnamurthy (University of Massachusetts Amherst);Andrew McCallum (University of Massachusetts Amherst), An Online Hierarchical Algorithm for Extreme Clustering, KDD2017
++ [17],  Liangyue Li (Arizona State University);Hanghang Tong (Arizona Stete University);Yong Wang (Hong Kong University of Science and Technology);Conglei Shi (IBM Research);Nan Cao (Tongji University);Norbou Buchler (US Army Research Laboratory), Is the Whole Greater Than the Sum of Its Parts?, KDD2017
++ [17],  Yuxiao Dong (University of Notre Dame);Nitesh V. Chawla (University of Notre Dame);Ananthram Swami (Army Research Laboratory), metapath2vec: Scalable Representation Learning for Heterogeneous Networks, KDD2017
++ [17],  Qingquan Song (Texas A&M University);Xiao Huang (Texas A&M University);Hancheng Ge (Texas A&M University);James Caverlee (Texas A&M University);Xia Hu (Texas A&M University), Multi-Aspect Streaming Tensor Completion, KDD2017
++ [17],  Bin Gu (University of Texas at Arlington);Guodong Liu (Univ. of Texas at Arlington);Heng Huang (University of Texas at Arlington), Groups-Keeping Solution Path Algorithm for Sparse Regression with Automatic Feature Grouping, KDD2017
++ [17],  Haoyu Zhang (Indiana University Bloomington);Qin Zhang (Indiana University Bloomington), EmbedJoin: Efficient Edit Similarity Joins via Embeddings, KDD2017
++ [17],  Xiaopeng Li (The Hong Kong University of Science and Technology);James She (The Hong Kong University of Science and Technology), Collaborative Variational Autoencoder for Recommender Systems, KDD2017
++ [17],  Hongke Zhao (USTC);Hefu Zhang (University of Science and Technology of China);Yong Ge (The University of Arizona);Qi Liu (USTC);Enhong Chen (University of Science & Technology of China);Huayu Li (UNCC);Le Wu (HeFei University of Technology), Tracking the Dynamics in Crowdfunding, KDD2017
++ [17],  Pengfei Wang (University of Chinese Academy of Science & Computer Network Information Center, Chinese Academy of Sciences);Guannan Liu (Beihang University);Yanjie Fu (Missouri University of Science and Technology);Wenqing Hu (Missouri University of Science and Technology);Charu Aggarwal (IBM T. J. Watson Research Center), Human Mobility Synchronization and Trip Purpose Detection with Mixture of Hawkes Processes, KDD2017
++ [17],  David Hallac (Stanford University);Sagar Vare (Stanford University);Stephen Boyd (Stanford University);Jure Leskovec (Stanford University), Toeplitz Inverse Covariance-Based Clustering of Multivariate Time Series Data, KDD2017
++ [17],  Ioakeim Perros (Georgia Institute of Technology);Evangelos E. Papalexakis (University of California, Riverside);Fei Wang (Weill Cornell Medicine);Richard Vuduc (Georgia Institute of Technology);Elizabeth Searles (Children's Healthcare of Atlanta);Michael Thompson (Children's Healthcare of Atlanta);Jimeng Sun (Georgia Institute of Technology), SPARTan: Scalable PARAFAC2 for Large & Sparse Data, KDD2017
++ [17],  Muhan Zhang (Washington University in St. Louis);Yixin Chen (Washington University in St. Louis), Weisfeiler-Lehman Neural Machine for Link Prediction, KDD2017
++ [17],  Dawei Zhou (Arizona State University);Si Zhang (Arizona State University);Mehmet Yigit Yildirim (Arizona State University);Scott Alcorn (Early Warnings LLC.);Hanghang Tong (Arizona State University);Hasan Davulcu (Arizona State University);Jingrui He (Arizona State University), A Local Algorithm for Structure-Preserving Graph Cut, KDD2017
++ [17],  Ping Li (Rutgers University), Linearized GMM Kernels and Normalized Random Fourier Features, KDD2017
++ [17],  Chong Zhou (Worcester Polytechnic Institute);Randy Paffenroth (Worcester Polytechnic Institute), Anomaly Detection with Robust Deep Auto-encoders, KDD2017
++ [17],  Liwei Wu (University of California, Davis);Cho-Jui Hsieh (University of California, Davis);James Sharpnack (University of California, Davis), Large-scale Collaborative Ranking in Near-Linear Time, KDD2017
++ [17],  Junxian He (Carnegie Mellon University);Zhiting Hu (carnegie mellon university);Taylor Berg-Kirkpatrick (carnegie mellon university);Ying Huang (Shanghai Jiaotong University);Eric Xing (carnegie mellon university), Efficient Correlated Topic Modeling with Topic Embedding, KDD2017
++ [17],  Chengxi Zang (Department of Computer Science, Tsinghua University);Peng Cui (Department of Computer Science, Tsinghua University);Christos Faloutsos (Computer Science Department, Carnegie Mellon University);Wenwu Zhu (Department of Computer Science, Tsinghua University), Long Short Memory Process: Modeling Growth Dynamics of Microscopic Social Connectivity, KDD2017
++ [17],  Alessandro Epasto (Google);Silvio Lattanzi (Google);Renato Paes Leme (Google), Ego-splitting Framework: from Non-Overlapping to Overlapping Clusters, KDD2017
++ [17],  Gabriele Tolomei (Yahoo);Fabrizio Silvestri (Facebook);Andrew Haines (Yahoo Inc);Mounia Lalmas (Yahoo), Interpretable Predictions of Tree-based Ensembles via Actionable Feature Tweaking, KDD2017
++ [17],  Ian Fox (CSE, University of Michigan);Lynn Ang (Department of Internal Medicine, Division of Metabolism, Endocrinology and Diabetes, University of Michigan);Mamta Jaiswal (Department of Internal Medicine, Division of Metabolism, Endocrinology and Diabetes, University of Michigan);Rodica Pop-Busui (Department of Internal Medicine, Division of Metabolism, Endocrinology and Diabetes, University of Michigan);Jenna Wiens (CSE, University of Michigan), Contextual Motifs: Increasing the Utility of Motifs using Contextual Data, KDD2017
++ [17],  Shen Wang (University of Illinois at Chicago);Lifang He (University of Illinois at Chicago);Bokai Cao (University of Illinois at Chicago);Chun-Ta Lu (University of Illinois at Chicago);Philip Yu (University of Illinois at Chicago);Ann Ragin (Northwestern University), Structural Deep Brain Network Mining, KDD2017
++ [17],  Suhang Wang (Arizona State University);Charu Aggarwal (IBM);Huan Liu (Professor, Arizona State University), Randomized Feature Engineering as a Fast and Accurate Alternative to Kernel Methods, KDD2017
++ [17],  Leonardo F. R. Ribeiro (Federal University of Rio de Janeiro), Pedro H. P. Saverese (Federal University of Rio de Janeiro), Daniel R. Figueiredo (Federal University of Rio de Janeiro), struc2vec: Learning Node Representations from Structural Identity, KDD2017
++ [17],  David Hallac (Stanford University);Youngsuk Park (Stanford University);Stephen Boyd (Stanford University);Jure Leskovec (Stanford University), Network Inference via the Time-Varying Graphical Lasso, KDD2017
++ [17],  Yu Shi (Dept. of Computer Science, University of Illinois at Urbana-Champaign);Po-Wei Chan (Dept. of Computer Science, University of Illinois at Urbana-Champaign);Honglei Zhuang (Dept. of Computer Science, University of Illinois at Urbana-Champaign);Huan Gui (Dept. of Computer Science, University of Illinois at Urbana-Champaign);Jiawei Han (Dept. of Computer Science, University of Illinois at Urbana-Champaign), PReP: Path-Based Relevance from a Probabilistic Perspective in Heteogeneous Information Networks, KDD2017
++ [17],  Yupeng Gu (University of California, Los Angeles);Yizhou Sun (University of California, Los Angeles);Jianxi Gao (Northeastern University), The Co-Evolution Model for Social Network Evolving and Opinion Migration, KDD2017
++ [17],  Chen Avin (Ben Gurion University of the Negev);Zvi Lotker (Ben Gurion University of the Negev);Yinon Nahum (Weizmann Institute of Science);David Peleg (Weizmann Institute of Science), Improved Degree Bounds and Full Spectrum Power Laws in Preferential Attachment Networks, KDD2017
++ [17],  Hoang Anh Dau (University of California, Riverside);Eamonn Keogh (University of California, Riverside), A Framework for Guided Time Series Motif Discovery, KDD2017
++ [17],  Xiaoli Li (University of Kansas);Jun Huan (University of Kansas), Constructivism Learning: A Learning Paradigm for Transparent Predictive Analytics, KDD2017
++ [17],  Edith Cohen (Google Research), HyperLogLog Hyper Extended: Sketches for Concave Sublinear   Frequency Statistics, KDD2017
++ [17],  Alessio Conte (University of Pisa);Donatella Firmani (Roma Tre University);Caterina Mordente (Be Think Solve Execute);Maurizio Patrignani (Roma Tre University);Riccardo Torlone (Roma Tre University), Fast Enumeration of Large k-Plexes, KDD2017
++ [17],  Chih-Ya Shen (National Tsing Hua University);Liang-Hao Huang (Academia Sinica);De-Nian Yang (Academia Sinica);Hong-Han Shuai (National Chiao Tung University);Wang-Chien Lee (The Pennsylvania State University);Ming-Syan Chen (National Taiwan University), On Finding Socially Tenuous Groups for Online Social Networks, KDD2017
++ [17],  Ian Yen (Carnegie Mellon University);Xiangru Huang (University of Texas at Austin);Wei Dai (Carnegie Mellon University);Pradeep Ravikumar (Carnegie Mellon University);Inderjit Dhillon (University of Texas at Austin);Eric Xing (Carnegie Mellon University), A Parallel and Primal-Dual Sparse Method for Extreme Classification, KDD2017
+
+#### RESEARCH TRACK PAPERS - POSTER
++ [17],  Xiaowei Jia (University of Minnesota);Ankush Khandelwal (University of Minnesota);Guruprasad Nayak (University of Minnesota);James Gerber (University of Minnesota);Kimberly Carlson (University of Hawaii Manoa);Paul West (University of Minnesota);Vipin Kumar (University of Minnesota), Incremental Dual-memory LSTM in Land Cover Prediction, KDD2017
++ [17],  Edward Raff (Laboratory for Physical Sciences);Charles Nicholas (University of Maryland Baltimore County), An Alternative to NCD for Large Sequences, Lempel-Ziv Jaccard Distance, KDD2017
++ [17],  Yizhou Yan (Worcester Polytechnic Institute);Lei Cao (Massachusetts Institute of Technology);Caitlin Kuhlman (Worcester Polytechnic Institute);Elke Rundensteiner (Worcester Polytechnic Institute), Distributed Local Outlier Detection in Big Data, KDD2017
++ [17],  Seyed Abbas Hosseini (Sharif University of Technology);Keivan Alizadeh (Sharif University of Technology);Ali Khodadadi (Sharif University of Technology);Ali Arabzadeh (Sharif University of Technology);Mehrdad Farajtabar (Georgia Institute of Technology);Hongyuan Zha (Georgia Institute of Technology);Hamid R. Rabiee (Sharif University of Technology), Recurrent Poisson Factorization for Temporal Recommendation, KDD2017
++ [17],  Martin Saveski (MIT);Jean Pouget-Abadie (Harvard University);Guillaume Saint-Jacques (MIT);Weitao Duan (LinkedIn);Souvik Ghosh (LinkedIn);Ya Xu (LinkedIn);Edo Airoldi (Harvard University), Detecting Network Effects: Randomizing Over Randomized Experiments, KDD2017
++ [17],  Fenglong Ma (SUNY Buffalo);Chuishi Meng (SUNY Buffalo);Houping Xiao (SUNY Buffalo);Qi Li (SUNY Buffalo);Jing Gao (SUNY Buffalo);Lu Su (SUNY Buffalo);Aidong Zhang (SUNY Buffalo), Unsupervised Discovery of Drug Side-Effects From Heterogeneous Data Sources, KDD2017
++ [17],  Yejin Kim (POSTECH);Jimeng Sun (Georgia Institute of Technology);Hwanjo Yu (POSTECH);Xiaoqian Jiang (University of California San Diego), Federated Tensor Factorization for Computational Phenotyping, KDD2017
++ [17],  Berk Ustun (Massachusetts Institute of Technology);Cynthia Rudin (Duke University), Optimized Risk Scores, KDD2017
++ [17],  Kijung Shin (Carnegie Mellon University);Bryan Hooi (Carnegie Mellon University);Jisu Kim (Carnegie Mellon University);Christos Faloutsos (Carnegie Mellon University), DenseAlert: Incremental Dense-Subtensor Detection in Tensor Streams, KDD2017
++ [17],  Bokai Cao (University of Illinois at Chicago);Lei Zheng (University of Illinois at Chicago);Chenwei Zhang (University of Illinois at Chicago);Philip S. Yu (University of Illinois at Chicago);Andrea Piscitello (University of Illinois at Chicago);John Zulueta (University of Illinois at Chicago);Olu Ajilore (University of Illinois at Chicago);Kelly Ryan (University of Michigan);Alex Leow (University of Illinois at Chicago), DeepMood: Modeling Mobile Phone Typing Dynamics for Mood Detection, KDD2017
++ [17],  Balint Tillman (University of California, Irvine);Athina Markopoulou (University of California, Irvine);Carter T. Butts (University of California, Irvine);Minas Gjoka (Google), Construction of Directed 2K Graphs, KDD2017
++ [17],  Huayu Li (UNC Charlotte);Yong Ge (University of Arizona);Hengshu Zhu (Baidu Talent Intelligence Center);Hui Xiong (Rutgers University);Hongke Zhao (University of Sci. & Tech. of China), Prospecting the Career Development of Talents: A Survival Analysis Perspective, KDD2017
++ [17],  Moshe Gabel (Technion);Daniel Keren (Haifa University);Assaf Schuster (Technion), Anarchists, Unite: Practical Entropy Approximation for Distributed Streams, KDD2017
++ [17],  Yang Zhang (The Ohio State University);Yusu Wang (The Ohio State University);Srinivasan Parthasarathy (The Ohio State University), Visualizing Attributed Graphs via Terrain Metaphor, KDD2017
++ [17],  Qiming Huang (Purdue University);Michael Zhu (Purdue Univeristy), SPOT: Sparse Optimal Transformations for High Dimensional Variable Selection and Exploratory Regress, KDD2017
++ [17],  Sam Corbett-Davies (Stanford University);Emma Pierson (Stanford University);Avi Feller (University of California, Berkeley);Sharad Goel (Stanford University);Aziz Huq (University of Chicago), Algorithmic decision making and the cost of fairness, KDD2017
++ [17],  Yutao Zhang (Tsinghua University);Robert Chen (Georgia Institute of Technology);Jie Tang (Tsinghua University);Jimeng Sun (Georgia Institute of Technology);Walter Stewart (Sutter Health), LEAP: Learning to Prescribe Effective and Safe Treatment Combinations for Multimorbidity, KDD2017
++ [17],  Zhengming Xing (Criteo Labs);Sunshine Hillygus (Duke University);Lawrence Carin (Duke University), Evaluating U.S. Electoral Representation with a Joint Statistical Model of Congressional Roll-Calls,, KDD2017
++ [17],  Sulin Liu (Nanyang Technological University, Singapore);Sinno Jialin Pan (Nanyang Technological University, Singapore);Qirong Ho (Petuum, Inc.), Distributed Multi-Task Relationship Learning, KDD2017
++ [17],  Polina Rozenshtein (Aalto University);Nikolaj Tatti (Aalto University);Aristides Gionis (Aalto University), Inferring the strength of social ties: a community-driven approach, KDD2017
++ [17],  Guo-Jun Qi (UCF);Jiliang Tang (MSU);Jingdong Wang (Microsoft);Jiebo Luo (University of Rochester), Mixture Factorized Ornstein-Uhlenbeck Processes for Time-Series Forecasting, KDD2017
++ [17],  Liyang Xie (michigan state university);Inci Baytas (michigan state university);Kaixiang Lin (michigan state university);Jiayu Zhou (michigan state university), Privacy-Preserving Distributed Multi-Task Learning with Asynchronous Updates, KDD2017
++ [17],  Nicole Eikmeier (Purdue University);David Gleich (Purdue University), Revisiting power-law distributions in spectra of real world networks, KDD2017
++ [17],  Yanchi Liu (Rutgers University);Chuanren Liu (Drexel University);Xinjiang Lu (Northwestern Polytechnical University, China);Mingfei Teng (Rutgers University);Hengshu Zhu (Baidu Talent Intelligence Center);Hui Xiong (Rutgers University), Point of Interest Demand Modeling with Human Mobility Patterns, KDD2017
++ [17],  Peifeng Yin (IBM Research Almaden);Ping Luo (Institute of Computing Technology, CAS);Taiga Nakamura (IBM Research Almaden), Small Batch or Large Batch: Gaussian Walk with Rebound Can Teach, KDD2017
++ [17],  Qinglong Wang (Pennsylvania State University);Wenbo Guo (Pennsylvania State University);Kaixuan Zhang (Pennsylvania State University);Alexander Ororbia (Pennsylvania State University);Xinyu Xing (Pennsylvania State University);Lee Giles (Pennsylvania State University);Xue Liu (McGill University), Adversary Resistant Deep Neural Networks with an Application to Malware Detection, KDD2017
++ [17],  Hwanjun Song (KAIST);Jae-Gil Lee (KAIST);Wook-Shin Han (POSTECH), PAMAE: Parallel k-Medoids Clustering with High Accuracy and Efficiency, KDD2017
++ [17],  Junpei Komiyama (The University of Tokyo);Masakazu Ishihata (Hokkaido University);Hiroki Arimura (Hokkaido University);Takashi Nishibayashi (VOYAGE GROUP, Inc.);Shin-Ichi Minato (Hokkaido University), Statistical Emerging Pattern Mining with Multiple Testing Correction, KDD2017
++ [17],  Konstantin Bauman (Stern School of Business, New York University);Bing Liu (University of Illinois at Chicago);Alexander Tuzhilin (Stern School of Business, New York University), Recommending Items with the Most Valuable Aspects Based on User Reviews, KDD2017
++ [17],  Junming Liu (Rutgers University);Leilei Sun (Dalian University of Technology);Qiao Li (Rutgers University);Jingci Ming (Rutgers University);Yanchi Liu (Rutgers University);Hui Xiong (Rutgers University), Functional Zone Based Hierarchical Demand Prediction For Bike System Expansion, KDD2017
++ [17],  Tianyi Wu (University of Tokyo);Shinya Sugawara (University of Tokyo);Kenji Yamanishi (University of Tokyo), Decomposed Normalized Maximum Likelihood Codelength Criterion for Selecting Hierarchical Latent Vari, KDD2017
++ [17],  Yuxiao Dong (University of Notre Dame);Reid Johnson (University of Notre Dame);Jian Xu (University of Notre Dame);Nitesh Chawla (University of Notre Dame), Structural Diversity and Homophily: A Study Across More Than One Hundred Big Networks, KDD2017
++ [17],  Meng Qu (University of Illinois at Urbana-Champaign);Xiang Ren (University of Illinois at Urbana-Champaign);Jiawei Han (University of Illinois at Urbana-Champaign), Automatic Synonym Discovery with Knowledge Bases, KDD2017
++ [17],  Huayu Li (UNC Charlotte);Martin Renqiang Min (NEC Laboratories America);Yong Ge (University of Arizona);Asim Kadav (NEC Laboratories America), A Context-aware Attention Network for Interactive Question Answering, KDD2017
++ [17],  Yanjie Fu (Missouri S&T);Charu Aggarwal (IBM TJ Watson Research);Srinivasan Parthasarathy (IBM TJ Watson Research);Deepak Turaga (IBM TJ Watson Research);Hui Xiong (Rutgers University), REMIX: Automated Exploration for Interactive Outlier Detection, KDD2017
++ [17],  Alban Siffer (IRISA);Pierre-Alain Fouque (IRISA);Alexandre Termier (IRISA);Christine Largouët (IRISA), Anomaly Detection in Streams with Extreme Value Theory, KDD2017
++ [17],  Fei Wu (penn state);Pranay Anchuri (NEC Labs America);Zhenhui Li (Penn State University), Structural Event Detection from Log Messages, KDD2017
++ [17],  Carl Yang (University of Illinois, Urbana Champaign);Lanxiao Bai (University of Illinois, Urbana Champaign);Chao Zhang (University of Illinois, Urbana Champaign);Quan Yuan (University of Illinois, Urbana Champaign);Jiawei Han (University of Illinois, Urbana Champaign), Bridging Collaborative Filtering and Semi-Supervised Learning: A Neural Approach for POI recommendat, KDD2017
++ [17],  Joseph St.Amand (University of Kansas);Jun Huan (University of Kansas), Sparse Compositional Local Metric Learning, KDD2017
++ [17],  Shan You (Peking University);Chang Xu (University of Technology Sydney);Chao Xu (Peking University);Dacheng Tao (University of Sydney), Learning from Multiple Teacher Networks, KDD2017
++ [17],  Samuel Maurus (Technical University of Munich);Claudia Plant (University of Vienna), Let’s See Your Digits: Anomalous-State Detection using Benford’s Law, KDD2017
++ [17],  Wang Zhan (Southeast University);Min-Ling Zhang (School of Computer Science and Engineering, Southeast University), Inductive Semi-supervised Multi-Label Learning with Co-Training, KDD2017
++ [17],  Aleksandar Bojchevski (Technical University of Munich);Yves Matkovic (Technical University of Munich);Stephan Günnemann (Technical University of Munich), Robust Spectral Clustering for Noisy Data, KDD2017
++ [17],  Pei Yang (South China University of Technology);Qi Tan (South China Normal University);Jingrui He (Arizona State University), Multi-task Function-on-function Regression with Co-grouping Structured Sparsity, KDD2017
++ [17],  Qi Wang (Michigan State University);Mengying Sun (Michigan State University);Liang Zhan (University of Wisconsin-Stout);Paul Thompson (University of Southern California);Shuiwang Ji (Washington State University);Jiayu Zhou (Michigan State University), Multi-Modality Disease Modeling via Collective Deep Matrix Factorization, KDD2017
++ [17],  Hao Wang (Institute of Software, Chinese Academy of Sciences);Yanmei Fu (Institute of Software, Chinese Academy of Sciences);Qinyong Wang (Institute of Software, Chinese Academy of Science);Changying Du (Institute of Software, Chinese Academy of Sciences);Hongzhi Yin (University of Queensland);Hui Xiong (Rutgers University), A Location-Sentiment-Aware Recommender System for Both Home-Town and Out-of-Town Mobile Users, KDD2017
++ [17],  Ting Chen (University of California, Los Angeles);Yizhou Sun (University of California, Los Angeles);Yue Shi (Yahoo! Research);Liangjie Hong (Etsy Inc.), On Sampling Strategies for Neural Network-based Collaborative Filtering, KDD2017
++ [17],  Edward Choi (Georgia Institute of Technology);Mohammad Taha Bahadori (Georgia Institute of Technology);Le Song (Georgia Institute of Technology);Walter Stewart (Sutter Health);Jimeng Sun (Georgia Institute of Technology), GRAM: Graph-based Attention Model for Healthcare Representation Learning, KDD2017
++ [17],  Davis Blalock (MIT);John Guttag (MIT), Bolt: Accelerated Data Mining with Fast Vector Compression, KDD2017
++ [17],  Ingo Scholtes (ETH Zurich), When is a Network a Network? Multi-Order Graphical Model Selection in Pathways and Temporal Networks, KDD2017
++ [17],  Linyun Yu (Tsinghua University);Peng Cui (Tsinghua University);Chaoming Song (University of Miami);Tianyang Zhang (Tsinghua University);Shiqiang Yang (Tsinghua University), A Temporally Heterogeneous Survival Framework with Application to Social Behavior Dynamics, KDD2017
++ [17],  Jian Tang (University of Michigan);Yue Wang (University of Michigan);Kai Zheng (University of California, Irvine);Qiaozhu Mei (University of Michigan), End-to-end Learning for Short Text Expansion, KDD2017
++ [17],  Igor Labutov (Carnegie Mellon University);Yun Huang (University of PIttsburgh);Peter Brusilovsky (University of PIttsburgh);Daqing He (University of PIttsburgh), Semi-Supervised Techniques for Mining Learning Outcomes and Prerequisites, KDD2017
++ [17],  Wei Ye (University of Munich);Linfei Zhou (University of Munich);Dominik Mautz (University of Munich);Claudia Plant (University of Vienna);Christian Böhm (University of Munich), Learning from Labeled and Unlabeled Vertices in Networks, KDD2017
++ [17],  Makoto Yamada (Kyoto University);Wenzhao Lian (Vicarius);Amit Goyal (Yahoo Research);Jianhui Chen (Yahoo Research);Kishan Wimalawarne (Kyoto University);Suleiman Kahn (University of Helsinki);Samuel Kaski (Aalto University);Hiroshi Mamitsuka (Kyoto University);Yi Chang (Huawei Research), Convex Factorization Machine for Toxicogenomics Prediction, KDD2017
++ [17],  Arda Antikacioglu (Carnegie Mellon University);R Ravi (Tepper School of Business, Carnegie Mellon University), Post Processing Recommender Systems for Diversity, KDD2017
++ [17],  Jinghui Chen (University of Virginia);Quanquan Gu (University of Virginia), Fast Newton Hard Thresholding Pursuit for Sparsity Constrained Nonconvex Optimization, KDD2017
++ [17],  Tao Wu (Purdue University);David Gleich (Purdue University), Retrospective Higher-Order Markov Processes for User Trails, KDD2017
++ [17],  Aman Agarwal (Cornell University);Soumya Basu (Cornell University);Tobias Schnabel (Cornell University);Thorsten Joachims (Cornell University), Effective Evaluation using Logged Bandit Feedback from Multiple Loggers, KDD2017
++ [17],  Yelong Shen (Microsoft Research);Po-Sen Huang (Microsoft Research);Jianfeng Gao (Microsoft Research);Weizhu Chen (Microsoft Research), ReasoNet: Learning to Stop Reading in Machine Comprehension, KDD2017
++ [17],  Mayank Singh (Indian Institute of Technology, Kharagpur);Rajdeep Sarkar (Indian Institute of Technology, Kharagpur);Pawan Goyal (Indian Institute of Technology, Kharagpur);Animesh Mukherjee (Indian Institute of Technology, Kharagpur);Soumen Chakrabarti (Indian Institute of Technology, Bombay), Relay-Linking Models for Prominence and Obsolescence in Evolving Networks, KDD2017
++ [17],  Lu Zhang (University of Arkansas);Yongkai Wu (University of Arkansas);Xintao Wu (University of Arkansas), Achieving Non-Discrimination in Data Release, KDD2017
++ [17],  Meng Jiang (University of Illinois at Urbana-Champaign);Jingbo Shang (University of Illinois at Urbana-Champaign);Taylor Cassidy (Army Research Lab);Xiang Ren (University of Illinois at Urbana-Champaign);Lance Kaplan (Army Research Lab);Timothy Hanratty (Army Research Lab);Jiawei Han (University of Illinois at Urbana-Champaign), MetaPAD: Meta Patten Discovery from Massive Text Corpora, KDD2017
++ [17],  Saurabh Agrawal (University of Minnesota);Gowtham Atluri (University of Cincinnati);Anuj Karpatne (University of Minnesota);William Haltom (University of Minnesota);Stefan Liess (University of Minnesota);Snigdhansu Chatterjee (University of Minnesota);Vipin Kumar (Univesity of Minnesota), Tripoles: A New Class of Relationships in Time Series Data, KDD2017
++ [17],  Kewei Cheng (arizona state university);Jundong Li (arizona state university);Huan Liu (arizona state university), Unsupervised Feature Selection in Signed Social Networks, KDD2017
++ [17],  Yizhou Yan (Worcester Polytechnic Institute);Lei Cao (Massachusetts Institute of Technology);Elke Rundensteiner (Worcester Polytechnic Institute), Scalable Top-n Local Outlier Detection, KDD2017
+
+
+#### APPLIED DATA SCIENCE TRACK PAPERS - ORAL
++ [17],  Fedor Borisyuk (LinkedIn Corporation);Liang Zhang (LinkedIn Corporation);Krishnaram Kenthapadi (LinkedIn Corporation), LiJAR: A System for Job Application Redistribution towards Efficient Career Marketplace, KDD2017
++ [17],  Shichen Liu (Alibaba Group);Fei Xiao (Alibaba Group);Wenwu Ou (Alibaba Group);Luo Si (Alibaba Group), Cascade Ranking for Operational E-commerce Search, KDD2017
++ [17],  Yuxiao Dong (University of Notre Dame);Hao Ma (Microsoft Research);Zhihong Shen (MSR);Kuansan Wang (MSR), A Century of Science: Globalization of Scientific Collaborations, Citations, and Innovations, KDD2017
++ [17],  Paul Power (STATS LLC);Héctor Ruiz (STATS);Patrick Lucey (STATS);Xinyu Wei (STATS), “Not All Passes Are Created Equal:” Objectively Measuring the Risk and Reward of Passes in Socce, KDD2017
++ [17],  Jingyuan Wang (Beihang University);Chao Chen (Beihang University);Junjie Wu (Beihang University);Zhang Xiong (Beihang University), No Longer Sleeping with a Bomb: A Duet System for Protecting Urban Safety from Dangerous Goods, KDD2017
++ [17],  Xiao Qin (Worcester Polytechnic Institute & Oak Ridge Institute of Science);Tabassum Kakar (Worcester Polytechnic Institute & Oak Ridge Institute of Science);Susmitha Wunnava (Worcester Polytechnic Institute);Elke Rundensteiner (Worcester Polytechnic Institute);Cao Lei (Massachusetts Institute of Technology), MARAS: Signaling Multi-Drug Adverse Reactions., KDD2017
++ [17],  Justin Sybrandt (Clemson University);Michael Shtutman (University of South Carolina);Ilya Safro (Clemson University), MOLIERE: Automatic Biomedical Hypothesis Generation System, KDD2017
++ [17],  Jacob Abernethy (University of Michigan, Ann Arbor);Alex Chojnaki (Michigan Data Science Team);Chengyu Dai (Michigan Data Science Team);Arya Farahi (Michigan Data Science Team);Eric Schwartz (Ross School of Business);Jared Webb (Brigham Young University);Guangsha Shi (University of Michigan);Daniel T. Zhang (Michigan Data Science Team), A Data Science Approach to Understanding Residential Water Contamination in Flint, KDD2017
++ [17],  David Walsh (Stanford University);Ramesh Johari (Stanford University);Leonid Pekelis (Stanford University), Peeking at A/B Tests: Why it matters, and what to do about it, KDD2017
++ [17],  Zhaobin Kuang (University of Wisconsin, Madison);Peggy Peissig (Biomedical Informatics Research Center, Marshfield Clinic Research Foundation, Marshfield, WI);Vitor Santos Costa (Universidade do Porto);Richard Maclin (University of Minnesota, Duluth);David Page (Department of Computer Sciences and Department of Biostatistics, University of Wisconsin, Madison, WI), Pharmacovigilance via Baseline Regularization with Large-Scale Longitudinal Observational Data, KDD2017
++ [17],  Yongxin Tong (Beihang University);Yuqiang Chen (4Paradigm Inc.);Zimu Zhou (ETH Zurich);Lei Chen (Hong Kong University of Science and Technology);Jie Wang (Didi Research);Qiang Yang (Hong Kong University of Science and Technology);Jieping Ye (Didi Research), The Simpler The Better: A Unified Approach to Predicting Original Taxi Demands on Large-Scale Online, KDD2017
++ [17],  Alejandro Mottini (Amadeus SAS);Rodrigo Acuna-Agost (Amadeus SAS), Deep Choice Model Using Pointer Networks for Airline Itinerary Prediction, KDD2017
++ [17],  Thomas Vandal (Northeastern University);Evan Kodra (risQ Inc.);Sangram Ganguly (Bay Area Environmental Research Institute / NASA Ames Research Center);Andrew Michaelis (University Corporation, Monterey Bay);Ramakrishna Nemani (NASA Ames Research Center);Auroop Ganguly (Northeastern University), DeepSD: Generating High Resolution Climate Change Projections through Single Image Super-Resolution, KDD2017
++ [17],  Tao Li (Florida International University);Bin Xia (Nanjing University of Science and technology), An End-to-End Event Log Analysis Platform for System Management, KDD2017
++ [17],  Raquel Aoki (Universidade Federal de Minas Gerais);Renato Assunção (Universidade Federal de Minas Gerais);Pedro Vaz de Melo (Universidade Federal de Minas Gerais), Luck is hard to beat: The Difficulty of Sports Prediction, KDD2017
++ [17],  Daniel Golovin (Google, Inc.);Benjamin Solnik (Google, Inc.);Subhodeep Moitra (Google, Inc.);Greg Kochanski (Google, Inc.);John Karro (Google, Inc.);D. Sculley (Google, Inc.), Google Vizier: A Service for Black-Box Optimization, KDD2017
++ [17],  Danai Koutra (University of Michigan);Abhilash Dighe (University of Michigan);Smriti Bhagat (Facebook);Udi Weinsberg (Facebook);Stratis Ioannidis (Northeastern University);Christos Faloutsos (Carnegie Mellon University);Jean Bolot (Technicolor), PNP: Fast Path Ensemble Method for Movie Design, KDD2017
++ [17],  Sandeep Tata (Google Inc.);Alexandrin Popescul (Google Inc.);Marc Najork (Google Inc.);Mike Colagrosso (Google Inc.);Julian Gibbons (Google Inc.);Alan Green (Google Inc.);Alexandre Mah (Google Inc.);Michael Smith (Google Inc.);Divanshu Garg (Google Inc.);Cayden Meyer (Google Inc.);Reuben Kan (Google Inc.), Quick Access: Building a Smart Experience for Google Drive, KDD2017
++ [17],  Jie Zhu (Microsoft Corporation);Ying Shan (Microsoft Corporation);Jc Mao (Microsoft Corporation);Dong Yu (Microsoft Corporation);Holakou Rahmanian (University of California Santa Cruz);Yi Zhang (Microsoft Corporation), Deep Embedding Forest: Forest-based Serving with Deep Embedding Features, KDD2017
++ [17],  Jun Zhou (Ant Financial Group);Xiaolong Li (Ant Financial Group);Peilin Zhao (Ant Financial Group);Chaochao Chen (Ant Financial Group);Longfei Li (Ant Financial Group);Xinxing Yang (Ant Financial Group);Qing Cui (Alibaba Cloud);Jin Yu (Alibaba Cloud);Xu Chen (Alibaba Cloud);Yi Ding (Alibaba Cloud);Yuan Qi (Ant Financial Group), KunPeng: Parameter Server based Distributed Learning Systems and Its Applications in Alibaba and Ant, KDD2017
++ [17],  Yanfang Ye (West Virginia University);Shifu Hou (West Virginia University);Yangqiu Song (West Virginia University), HinDroid: An Intelligent Android Malware Detection System Based on Structured Heterogeneous Informat, KDD2017
++ [17],  Debjyoti Paul (University of Utah);Feifei Li (University of Utah);Murali Krishna Teja Kilari (University of Utah);Xin Yu (University of Utah);Richie Frost (University of Utah), Compass: Spatio Temporal Sentiment Analysis of US Election, KDD2017
++ [17],  Saurav Ghosh (Virginia Tech);Prithwish Chakraborty (Virginia Tech);Bryan Lewis (Virginia Tech);Maia Majumder (Massachusetts Institute of Technology);Emily Cohn (Boston Children's Hospital);John Brownstein (Harvard Medical School);Madhav Marathe (Virginia Tech);Naren Ramakrishnan (Virginia Tech), Guided Deep List: Automating the Generation of Epidemiological Line Lists from Open Sources, KDD2017
++ [17],  Jen Gong (MIT);Tristan Naumann (MIT);Peter Szolovits (MIT);John Guttag (MIT), Predicting Clinical Outcomes Across Changing Electronic Health Record Systems, KDD2017
++ [17],  Saba Emrani (SAS Institute Inc);Anya McGuirk (SAS Institute Inc.);Wei Xiao (SAS Institute Inc.), Prognosis and Diagnosis of Parkinson’s Disease Using Multi-Task Learning, KDD2017
++ [17],  Adrian Albert (MIT & SLAC);Marta Gonzalez (MIT), Using convolutional networks and satellite imagery to identify patterns in urban environments at a l, KDD2017
++ [17],  Boxin Du (Arizona State University);Si Zhang (Arizona State University);Nan Cao (Tongji University);Hanghang Tong (Arizona State University), FIRST: Fast Interactive Attributed Subgraph Matching, KDD2017
++ [17],  Somit Gupta (Microsoft);Pavel Dmitriev (Microsoft);Garnet Vaz (Microsoft);Dong Woo Kim (Microsoft), A Dirty Dozen: Twelve Common Metric Interpretation Pitfalls in Online Controlled Experiments, KDD2017
++ [17],  Guojun Gan (Department of Mathematics, University of Connecticut);Jimmy Huang (York University), A Data Mining Framework for Valuing Large Portfolios of Variable Annuities, KDD2017
++ [17],  Quinten McNamara (University of Texas at Austin);Alejandro de La Vega (University of Texas at Austin);Tal Yarkoni (University of Texas at Austin), Developing a comprehensive framework for multimodal feature extraction, KDD2017
++ [17],  Denis Baylor (Google Inc.);Eric Breck (Google Inc.);Heng-Tze Cheng (Google Inc.);Noah Fiedel (Google Inc.);Chuan Yu Foo (Google Inc.);Zakaria Haque (Google Inc.);Salem Haykal (Google Inc.);Mustafa Ispir (Google Inc.);Vihan Jain (Google Inc.);Levent Koc (Google Inc.);Chiu Yuen Koo (Google Inc.);Lukasz Lew (Google Inc.);Clemens Mewald (Google Inc.);Akshay Modi (Google Inc.);Neoklis Polyzotis (Google Inc.);Sukriti Ramesh (Google Inc.);Sudip Roy (Google Inc.);Steven Whang (Google Inc.);Martin Wicke (Google Inc.);Jarek Wilkiewicz (Google Inc.);Xin Zhang (Google Inc.);Martin Zinkevich (Google Inc.), TFX: A TensorFlow-Based Production-Scale Machine Learning Platform, KDD2017
++ [17],  Rebecca S. Portnoff (UC Berkeley);Danny Yuxing Huang (UC San Diego);Periwinkle Doerfler (NYU);Sadia Afroz (ICSI);Damon McCoy (NYU), Backpage and Bitcoin: Uncovering Human Traffickers, KDD2017
++ [17],  Ross E Curtis (AncestryDNA);Ahna R Girshick (AncestryDNA), Estimation of recent ancestral origins of individuals on a large scale, KDD2017
++ [17],  Parikshit Shah (Yahoo Research);Ming Yang (Yahoo);Sachidanand Alle (Yahoo);Adwait Ratnaparkhi (Yahoo Research);Ben Shahshahani (Yahoo Research);Rohit Chandra (Yahoo), A Practical Exploration System for Search Advertising, KDD2017
++ [17],  Zhe Zhang (Carnegie Mellon University);Beibei Li (Carnegie Mellon University), A Quasi-experimental Estimate of the Impact of P2P Transportation Platforms on Urban Consumer Patter, KDD2017
++ [17],  Jie Bao (Microsoft Research);Tianfu He (Harbin Institution of Technology);Sijie Ruan (Xidian University);Yanhua Li (Worcester Polytechnic Institute (WPI));Yu Zheng (Microsoft Research), Planning Bike Lanes based on Sharing-Bikes’ Trajectories, KDD2017
+
+
+#### APPLIED DATA SCIENCE TRACK PAPERS - POSTER
++ [17],  Shalini Ghosh (SRI);Ariyam Das (UCLA);Phillip Porras (SRI);Vinod Yegneswaran (SRI International);Ashish Gehani (SRI International), Automated Categorization of Onion Sites for Analyzing the Darkweb Ecosystem, KDD2017
++ [17],  Hesam Salehian (Under Armour);Chul Lee (Under Armour);Patrick Howell (Under Armour), Matching Restaurant Menus to Crowdsourced Food Data, A Scalable Machine Learning Approach, KDD2017
++ [17],  Kosta Ristovski (Hitachi America Ltd.);Chetan Gupta (Hitachi America Ltd.);Kunihiko Harada (Hitachi America Ltd.);Hsiu-Khuern Tang (Hitachi America Ltd.), Dispatch with Confidence: Integration of machine learning, Optimization and Simulation for Open Pit, KDD2017
++ [17],  Bin Tong (Research and Development Group, Hitachi, Ltd.);Martin Klinkigt (Research and Development Group, Hitachi, Ltd.);Makoto Iwayama (Research and Development Group, Hitachi, Ltd.);Toshihiko Yanase (Research and Development Group, Hitachi, Ltd.);Yoshiyuki Kobayashi (Research and Development Group, Hitachi, Ltd.);Anshuman Sahu (Big Data Laboratory, Hitachi America, Ltd.);Ravigopal Vennelakanti (Big Data Laboratory, Hitachi America, Ltd.), Learning to Generate Rock Descriptions from Multivariate Well Logs with Hierarchical Attention, KDD2017
++ [17],  Liheng Zhang (University of Central Florida);Charu Aggarwal (IBM T. J. Watson Research Center);Guo-Jun Qi (University of Central Florida), Stock Price Prediction via Discovering Multi-Frequency Trading Patterns, KDD2017
++ [17],  Héctor Ruiz (STATS);Paul Power (STATS);Xinyu Wei (STATS);Patrick Lucey (STATS), “The Leicester City Fairytale?”: Utilizing New Soccer Analytics Tools to Compare Performance in, KDD2017
++ [17],  Daniel Hill (Amazon.com);Houssam Nassif (Amazon.com);Yi Liu (Amazon.com);Anand Iyer (Amazon.com);S. V. N. Vishwanathan (vishy@amazon.com), An efficient bandit algorithm for realtime multivariate optimization, KDD2017
++ [17],  Blake Anderson (Cisco Systems, Inc.);David McGrew (Cisco Systems, Inc.), Machine Learning for Encrypted Malware Traffic Classification: Accounting for Noisy Labels and Non-S, KDD2017
++ [17],  Fenglong Ma (SUNY Buffalo);Radha Chitta (Conduent);Jing Zhou (Conduent);Quanzeng You (University of Rochester);Tong Sun (United Technologies Research Center);Jing Gao (SUNY Buffalo), Dipole: Diagnosis Prediction in Healthcare via Attention-based Bidirectional Recurrent Neural Networ, KDD2017
++ [17],  Sen Yang (Rutgers University);Xin Dong (Rutgers University);Leilei Sun (Dalian University of Technology);Yichen Zhou (Rutgers University);Richard A. Farneth (Children's National Medical Center);Hui Xiong (Rutgers University);Randall S. Burd (Children's National Medical Center);Ivan Marsic (Rutgers University), A Data-driven Process Recommender Framework, KDD2017
++ [17],  Ashlesh Sharma (Entrupy Inc);Vidyuth Srinivasan (Entrupy Inc);Vishal Kanchan (Entrupy Inc);Lakshminarayanan Subramanian (Entrupy Inc), The Fake vs Real Goods Problem: Microscopy and Machine Learning to the Rescue, KDD2017
++ [17],  Vasileios Iosifidis (Leibniz University of Hanover);Eirini Ntoutsi (Leibniz University of Hanover), Large scale sentiment learning with limited labels, KDD2017
++ [17],  Houping Xiao (SUNY Buffalo);Jing Gao (SUNY Buffalo);Long Vu (IBM TJ Watson);Deepak Turaga (IBM TJ Watson), Learning Temporal State of Diabetes Patients via Combining Behavioral and Demographic Data, KDD2017
++ [17],  Emre Yilmaz (Bilkent University);Sanem Elbasi (Bilkent University);Hakan Ferhatosmanoglu (Bilkent University), Predicting Optimal Facility Location Without Customer Locations, KDD2017
++ [17],  Qiaoling Liu (CareerBuilder LLC);Faizan Javed (Careerbuilder);Vachik Dave (Indiana University - Purdue University, Indianapolis);Ankita Joshi (University of Georgia), Supporting Employer Name Normalization at both Entity and Cluster Level, KDD2017
++ [17],  Brendan Kitts (Lucid Commerce), Increasing Yield by Dropping Constraints in Ad Serving, KDD2017
++ [17],  Naeemul Hassan (University of Mississippi);Fatma Arslan (University of Texas at Arlington);Chengkai Li (University of Texas at Arlington);Mark Tremayne (University of Texas at Arlington), Toward Automated Fact-Checking: Detecting Check-worthy Factual Claims by ClaimBuster, KDD2017
++ [17],  Yun Cheng (Air Scientific);Xiucheng Li (Nanyang Technological University);Gao Cong (Nanyang Technological University);Lisi Chen (Department of Computer Science, Hong Kong Baptist University), Discovering Fine Grained Pollution Sources and Propagation Patterns in Urban Area, KDD2017
++ [17],  Pedro Chahuara (XRCE);Jean-Michel Renders (Xerox Research Centre Europe);Nicolas Grislain (AlephD);Gregoire Jauvion (AlephD), Real-Time Optimization Of Web Publisher RTB Revenues, KDD2017
++ [17],  Amr Ahmed (google);James Long (google);Dan Silva (google);Yuan Wang (google), A Practical Algorithm for Solving the Incoherence Problem of Topic Models In Industrial Applications, KDD2017
++ [17],  Thomas Quisel (Evidation Health);Luca Foschini (Evidation Health);Alessio Signorini (Evidation Health);David Kale (USC Information Sciences Institute), Collecting and Analyzing Millions of mHealth Data Streams, KDD2017
++ [17],  Xuejian Wang (Shanghai Jiao Tong University);Lantao Yu (Shanghai Jiao Tong University);Kan Ren (Shanghai Jiao Tong University);Guanyu Tao (ULU Technologies Inc.);Weinan Zhang (Shanghai Jiao Tong University);Jun Wang (University College London);Yong Yu (Shanghai Jiao Tong University), Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors Demonstration, KDD2017
++ [17],  Lingyu Zhang (Didi Chuxing);Tao Hu (Didi Chuxing);Yue Min (Didi Chuxing);Guobin Wu (Didi Chuxing);Junying Zhang (Didi Chuxing);Pengcheng Feng (Didi Chuxing);Pinghua Gong (Didi Chuxing);Jieping Ye (Didi Chuxing), A Taxi Order Dispatch Model based On Combinatorial Optimization, KDD2017
++ [17],  Supratim Deb (AT&T Labs);Zihui Ge (AT&T Labs);Sastry Isukapalli (AT&T Labs);Sarat Puthenpura (AT&T Labs);Shobha Venkataraman (AT&T Labs);He Yan (AT&T Labs);Jennifer Yates (AT&T Labs), AESOP: Automatic Policy Learning for Predicting and Mitigating Network Service Impairments, KDD2017
++ [17],  Vijay Manikandan Janakiraman (USRA/ NASA AMES Research Center);Bryan Matthews (SGT/ NASA AMES Research Center);Nikunj Oza (NASA AMES Research Center), Finding Precursors to Anomalous Drop in Airspeed During a Flight’s Take-off, KDD2017
++ [17],  Ben Chamberlain (Imperial College London);Angelo Cardoso (ASOS);Bryan Liu (ASOS);Marc Deisenroth (Imperial College London);Roberto Paglieri (ASOS), Customer Life Time Value (CLTV) Prediction Using Embeddings, KDD2017
++ [17],  Fan Yang (eBay Inc.);Ajinkya Kale (eBay Inc.);Yury Bubnov (eBay Inc.);Leon Stein (eBay Inc.);Qiaosong Wang (eBay Inc.);Hadi Kiapour (eBay Inc.);Robinson Piramuthu (eBay Inc.), Visual Search at eBay, KDD2017
++ [17],  Hamid Dadkhahi (UMass Amherst);Benjamin Marlin (UMass Amherst), Learning Tree-Structured Detection Cascades for Heterogeneous Networks of Embedded Devices, KDD2017
++ [17],  Zi Yin (Stanford University);Keng-Hao Chang (Microsoft);Ruofei Zhang (Microsoft), DeepProbe: Information Directed Sequence Understanding and Chatbot Design via Recurrent Neural Netwo, KDD2017
++ [17],  Lujia Pan (Noah Ark's Lab, Huawei Technologies);Jianfeng Zhang (Noah Ark's Lab, Huawei Technologies);Patrick P. C. Lee (The Chinese University of Hong Kong);Hong Cheng (The Chinese University of Hong Kong);Cheng He (Noah Ark's Lab, Huawei Technologies);Caifeng He (Noah Ark's Lab, Huawei Technologies);Keli Zhang (Noah Ark's Lab, Huawei Technologies), An Intelligent Customer Care Assistant System for Large-Scale Cellular Network Diagnosis, KDD2017
++ [17],  Heng-Tze Cheng (Google);Lichan Hong (Google);Mustafa Ispir (Google);Clemens Mewald (Google);Zakaria Haque (Google);Illia Polosukhin (Google);Georgios Roumpos (Google);D Sculley (Google);Jamie Smith (Google);David Soergel (Google);Yuan Tang (Uptake Technologies);Philipp Tucker (Google);Martin Wicke (Google);Cassandra Xia (Google);Jianwei Xie (Google), Train and Distribute: Managing Simplicity vs. Flexibility in High-Level Machine Learning Frameworks, KDD2017
++ [17],  Keqian Li (University of California, Santa Barbara);Yeye He (Microsoft Research);Kris Ganjam (Microsoft Research), Discovering Concepts Using Large Table Corpus, KDD2017
++ [17],  Guanjie Zheng (College of Information Sciences and Technology, Pennsylvania State University);Susan L. Brantley (Department of Geosciences, Pennsylvania State University);Zhenhui Li (College of Information Sciences and Technology, Pennsylvania State University), Contextual Spatial Outlier Detection with Metric Learning, KDD2017
++ [17],  Han Zhu (Alibaba Inc.);Junqi Jin (Alibaba Inc.);Chang Tan (Alibaba Inc.);Fei Pan (Alibaba Inc.);Yifan Zeng (Alibaba Inc.);Han Li (Alibaba Inc.);Kun Gai (Alibaba Inc.), Optimized Cost per Click in Taobao Display Advertising, KDD2017
++ [17],  Yin Lou (Airbnb);Mikhail Obukhov (LinkedIn), BDT: Boosting Decision Tables for High Accuracy and Scoring Efficiency, KDD2017
++ [17],  Emaad Manzoor (Carnegie Mellon University);Leman Akoglu (Carnegie Mellon University), RUSH! Targeted Time-limited Coupons via Purchase Forecasts, KDD2017
++ [17],  Bronwyn Woods (Turnitin);David Adamson (Turnitin);Shayne Miel (Turnitin);Elijah Mayfield (Turnitin), Formative essay feedback using predictive scoring models, KDD2017
++ [17],  Kaiping Zheng (National University of Singapore);Jinyang Gao (National University of Singapore);Kee Yuan Ngiam (National University Health System);Beng Chin Ooi (National University of Singapore);Wei Luen James Yip (National University Health System), Resolving the Bias in Electronic Medical Records, KDD2017
++ [17],  Shinji Ito (NEC coorporation);Ryohei Fujimaki (NEC), Optimization Beyond Prediction: Prescriptive Price Optimization, KDD2017
++ [17],  Yaniv Ovadia (Google);Yoni Halpern (Google);Dilip Krishnan (Google);Josh Livni (Verily);Daniel Newburger (Verily);Ryan Poplin (Google, Inc.);Tiantian Zha (Verily (Google Life Sciences));D. Sculley (Google, Inc.), Learning to Count Mosquitoes for the Sterile Insect Technique, KDD2017
++ [17],  Shumpei Okura (Yahoo! JAPAN);Yukihiro Tagami (Yahoo Japan Corporation);Shingo Ono (Yahoo Japan Corporation);Akira Tajima (Yahoo! Japan), Embedding-based News Recommendation for Millions of Users, KDD2017
++ [17],  Albert Bifet (Telecom ParisTech);Jiajin Zhang (Noah's Ark Lab, Huawei);Wei Fan (Huawei Noah’s Ark Lab);Cheng He (Noah's Ark Lab, Huawei);Jianfeng Zhang (Noah's Ark Lab, Huawei);Jianfeng Qian (Huawei Noah's Ark Lab);Geoffrey Holmes (University of Waikato);Bernhard Pfahringer (University of Waikato), Extremely Fast Decision Tree Mining for Evolving Data Streams, KDD2017
++ [17],  Hongxia Yang (Alibaba Group);Yada Zhu (IBM);Jingrui He (Arizona State University), Local Algorithm for User Action Prediction Towards Display Ads, KDD2017
++ [17],  Chenglong Wang (Alibaba Group);Feijun Jiang (Alibaba Group);Hongxia Yang (Alibaba Group), A Hybrid Framework for Text Modeling with Convolutional RNN, KDD2017
++ [17],  Toshimitsu Uesaka (The University of Tokyo);Kai Morino (The University of Tokyo);Hiroki Sugiura (The University of Tokyo);Taichi Kiwaki (The University of Tokyo);Hiroshi Murata (The University of Tokyo);Ryo Asaoka (The University of Tokyo);Kenji Yamanishi (The University of Tokyo), Multi-view Learning over Retinal Thickness and Visual Sensitivity on Glaucomatous Eyes, KDD2017
++ [17],  Matthew Malloy (comScore);Paul Barford (comScore, University of Wisconsin);Enis Ceyhun Alp (University of Wisconsin);Jonathan Koller (comScore);Adria Jewel (comScore), Internet Device Graphs, KDD2017
++ [17],  Wubai Zhou (Florida International University);Wei Xue (Florida International University);Tao Li (Florida International University);Chunqiu Zeng (Florida International University);Wang Qing (Florida International University);Larisa Shwartz (IBM Research);Genady Ya. Grabarnik (St. John's University), STAR: A System for Ticket Analysis and Resolution, KDD2017
++ [17],  Yanxin Pan (University of Michigan);Alexander Burnap (University of Michigan);Jeffrey Hartley (General Motors);Richard Gonzalez (University of Michigan);Panos Papalambros (University of Michigan), Deep Design: Product Aesthetics for Heterogeneous Markets, KDD2017
++ [17],  Karen Lavi (Friedrich Miescher Institute, Part of Novartis Research Foundation);Ritvik Kharkar (UCLA);Mathew Kiang (Harvard Public Health Schoool);Christoph Hartmann (Boston Consulting Group);Paul Van Der Boor (McKinsey & Company);Adolfo De Unanue (Instituto Tecnologico Autonomo de Mexico);Leigh Tami (Office of Performance & Data Analytics, City of Cincinnati);Anson Turley (Cincinnati Fire Department);Cedric Robinson (Cincinnati Fire Department);Brandon Crowley (Office of Performance & Data Analytics, City of Cincinnati);Eric Potash (Center for Data Science & Public Policy, University of Chicago);Rayid Ghani (Center for Data Science & Public Policy, University of Chicago), Using Machine Learning to Improve Emergency Medical Dispatch Decisions, KDD2017
++ [17],  Kyle Soska (CMU);Christopher Gates (Symantec);Kevin Roundy (Symantec);Nicolas Christin (CMU), Automatic Application Identification from Billions of Files, KDD2017
+
 
 ## 2016
 
+### Best (Misc Sources)
+
+### KDD2016
+
+#### Best Award
+
 ## 2015
+
+### Best (Misc Sources)
 + [CEK15] Flavio Chierichetti,Alessandro Epasto,Ravi Kumar .etc, Efficient Algorithms for Public-Private Social Networks, 2015
 
+### KDD2015
+
+#### Best Award
+
+
 ## 2014
+
+### Best (Misc Sources)
 + [QARJ14] Aaron Q. Li,Amr Ahmed,Sujith Rav,Alexander J. Smola, Reducing the Sampling Complexity of Topic Models, 2014
 
+### KDD2014
+
+#### Best Award
+
+
 ## 2013
+
+### Best (Misc Sources)
 + [Edo13] Edo Liberty, Simple and Deterministic Matrix Sketching,2013
 
+### KDD2013
+
+#### Best Award
+
+
 ## 2012
+
+### Best (Misc Sources)
 + [RCM12] Thanawin Rakthanmanon, Bilson Campana, Abdullah Mueen .etc, Searching and Mining Trillions of Time Series Subsequences under Dynamic Time Warping, 2012
 
+### KDD2012
+
+#### Best Award
+
+
 ## 2011
+
+### Best (Misc Sources)
 + [KRP11] Shachar Kaufman,Saharon Rosset,Claudia Perlich, Leakage in Data Mining: Formulation, Detection, and Avoidance, 2011
 + [Alp11] E. Alpaydin. Introduction to Machine Learning (2nd ed.). Cambridge, MA: MIT Press, 2011.
 + [BYRN11] R. A. Baeza-Yates and B. A. Ribeiro-Neto. Modern Information Retrieval (2nd ed.). Boston: Addison-Wesley, 2011.
 + [WFH11] I. H. Witten, E. Frank, and M. A. Hall. Data Mining: Practical Machine Learning Tools and Techniques with Java Implementations (3rd ed.). Boston: Morgan Kaufmann, 2011. 
 
+### KDD2011
+
+#### Best Award
+
+
 ## 2010
+
+### Best (Misc Sources)
 + [FJWJ10] Hsiang-Fu Yu,Cho-Jui Hsieh,Kai-Wei Chang,Chih-Jen Lin, Large Linear Classification When Data Cannot Fit In Memory, 2010
 + [SG10] Dafna Shahaf;Carlos Guestrin,Carnegie Mellon University, Connecting the Dots Between News Articles,2010
 + [BCC10] S. Buettcher, C. L. A. Clarke, and G. V. Cormack. Information Retrieval: Implementing and Evaluating Search Engines. Cambridge, MA: MIT Press, 2010.
@@ -780,6 +1056,11 @@ https://campus.acm.org/calendar/Index.cfm?confid=2020-46939
 + [WHJ+ 10] C. Wang, J. Han, Y. Jia, J. Tang, D. Zhang, Y. Yu, and J. Guo. Mining advisor-advisee relationships from research publication networks. In Proc. 2010 ACM SIGKDD Conf. Knowledge Discovery and Data Mining (KDD’10), Washington, DC, July 2010.
 + [XPK10] Z. Xing, J. Pei, and E. Keogh. A brief survey on sequence classification. SIGKDD Explorations, 12:40–48, 2010.
 + [YHF10] P. S. Yu, J. Han, and C. Faloutsos. Link Mining: Models, Algorithms and Applications. New York: Springer, 2010.
+
+### KDD2010
+
+#### Best Award
+
 
 ## 2009
 + [Kor09] Yehuda Koren,Yahoo! Research, Collaborative Filtering with Temporal Dynamics, 2009
