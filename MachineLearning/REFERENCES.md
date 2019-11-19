@@ -6,7 +6,7 @@
 + Machine Learning Glossary by Google,https://developers.google.com/machine-learning/glossary/
 
 ## Courses
-+ Stanford Machine Learning (CS229), http://cs229.stanford.edu
++ Stanford Machine Learning (CS229), http://cs229.stanford.edu, https://online.stanford.edu/courses/cs229-machine-learning
 
 ## Gorgeous
 + https://github.com/apache
