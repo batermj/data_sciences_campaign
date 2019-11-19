@@ -1233,6 +1233,170 @@ https://campus.acm.org/calendar/Index.cfm?confid=2020-46939
 
 #### Best Award
 
+#### Research Track
++ [12],  Ninh Pham*, IT University of Copenhagen; Rasmus Pagh,,  A Near-linear Time Approximation Algorithm for Angle-based Outlier Detection in High-dimensional Data, KDD2012
++ [12],  Yi Zhen*, HKUST; Dit-Yan Yeung, HKUST,  A Probabilistic Model for Multimodal Hash Function Learning, KDD2012
++ [12],  Jason Lines*, University of East Anglia; Luke Davis, University of East Anglia; Jon Hills, University of East Anglia; Anthony Bagnall, University of East Anglia,  A Shapelet Transform for Time Series Classification, KDD2012
++ [12],  Te-Kang Jan, Institute of Information Science, Academia Sinica; Da-Wei Wang, Institute of Information Science, Academia Sinica, Taipei, Taiwan; Chi-Hung Lin, Institute of Microbiology and Immunology, National Yang-Ming University; Hsuan-Tien Lin*, Department of Computer Science, National Taiwan University,  A Simple Methodology for Soft Cost-sensitive Classification, KDD2012
++ [12],  Shuiwang Ji*, Old Dominion Univ; Wenlu Zhang, Old Dominion University; Jun Liu, Siemens Corporate Research at Princeton,  A Sparsity-Inducing Formulation for Evolutionary Co-Clustering, KDD2012
++ [12],  Madeleine Seeland*, Technical University Munich; Andreas Karwath, Johannes Gutenberg-Universitaet Mainz; Stefan Kramer,,  A Structural Cluster Kernel for Learning on Graphs, KDD2012
++ [12],  Yao Hu*, Zhejiang university; Debing Zhang, Zhejiang university; Jun Liu, Siemens Corporate Research at Princeton; Jieping Ye, Arizona State University; Xiaofei He,,  Accelerated Singular Value Thresholding for Matrix Completion, KDD2012
++ [12],  Jorge Silva*, Duke University; Lawrence Carin, Duke University,  Active Learning for Online Bayesian Matrix Factorization, KDD2012
++ [12],  Kedar Bellare, Yahoo! Research; Suresh Iyengar; Aditya Parameswaran*, Stanford University; Vibhor Rastogi, Yahoo! Research,  Active Sampling for Entity Matching, KDD2012
++ [12],  Fabian Wauthier*, UC, Berkeley; Nebojsa Jojic, Microsoft; Michael Jordan, UC Berkeley,  Active Spectral Clustering via Iterative Uncertainty Reduction, KDD2012
++ [12],  Yan Zhou*, University of Texas at Dallas; Murat Kantarcioglu, University of Texas at Dallas; Bhavani Thuraisingham, University of Texas at Dallas; Bowei Xi, Purdue University,  Adversarial Support Vector Machine Learning, KDD2012
++ [12],  Samuel Ieong*, Microsoft Research; Rakesh Agrawal, Microsoft Research,  Aggregating Web Offers to Determine Product Prices, KDD2012
++ [12],  Henrik Grosskreutz*, Fraunhofer IAIS; Daniel Paurat, Uni Bonn; Stefan Rüping, Fraunhofer IAIS,  An Enhanced Relevance Criterion For More Concise Supervised Pattern Discovery, KDD2012
++ [12],  Mingqiang Xue, National University of Singapore; Panagiotis Karras*, Rutgers University; Chedy Raissi, INRIA; Jaideep Vaidya, Rutgers Univ.; Kian-Lee Tan, National University of Singapore,  Anonymizing Set-Valued Data by Nonreciprocal Recoding, KDD2012
++ [12],  Xueqing Liu, Microsoft Research Asia; Yangqiu Song*, Microsoft Research Asia; Shixia Liu, Microsoft Research Asia; Haixun Wang, Microsoft Asia,  Automatic Taxonomy Construction from Keywords, KDD2012
++ [12],  Rita Chattopadhyay*, Arizona State University; Zheng Wang, Arizona State University; Wei Fan, IBM T.J.Watson Research; Ian Davidson, University of California - Davis; Sethuraman Panchanathan, Arizona State University; Jieping Ye, Arizona State University,  Batch Mode Active Sampling based on Marginal Probability Distribution Matching, KDD2012
++ [12],  A Majumder*, Bell Labs; Samik Datta, Bell Labs; Naidu KVM, Yahoo Labs, Bangalore,  Capacitated Team Formation Problem on Social Networks, KDD2012
++ [12],  Francesco Bonchi, Yahoo! Research; Aristides Gionis*, Yahoo Research; Francesco Gullo, Yahoo! Research, Barcelona; Antti Ukkonen, Yahoo!,  Chromatic Correlation Clustering, KDD2012
++ [12],  Xiwang Yang*, ECE department, Polytechnic In; Harald Steck, Bell Labs, Alcatel-Lucent Murray Hill, NJ; yong Liu, ECE department, Polytechnic Institute of New York University,  Circle-based Recommendation in Online Social Networks, KDD2012
++ [12],  Erheng Zhong*, HKUST; Wei Fan, IBM Research; Junwei Wang; Lei Xiao; Yong Li,  ComSoc: Adaptive Transfer of User Behaviors across Composite Social Networks, KDD2012
++ [12],  Liangda Li*, Georgia Tech; Guy Lebanon, Georgia Institute of Technology; Haesun Park, Georgia Tech,  Coordinate Descent Algorithm for Non-Negative Matrix Factorization with Bregman Divergences, KDD2012
++ [12],  Jie Tang*, Tsinghua University; Sen Wu, Tsinghua University; Jimeng Sun, IBM; Hang Su, Beihang University,  Cross-domain Collaboration Recommendation, KDD2012
++ [12],  Michele Coscia*, Harvard Kennedy School; Giulio Rossetti, ISTI CNR; Fosca Giannotti, ISTI-CNR; Dino Pedreschi, KDD Lab, Univ. Pisa, Italy,  DEMON: a Local-First Discovery Method for Overlapping Communities, KDD2012
++ [12],  Claudia Plant*, Florida State University,  Dependency Clustering Across Measurement Scales, KDD2012
++ [12],  So Hirai*, Univ. of Tokyo; Kenji Yamanishi, University of Tokyo,  Detecting Changes of Clustering Structures Using Normalized Maximum Likelihood Coding, KDD2012
++ [12],  Wouter Duivesteijn*, LIACS, Leiden University; Ad Feelders, ICS, Utrecht University; Arno Knobbe, LIACS, Leiden University,  Different Slopes for Different Folks - Mining for Exceptional Regression Models with Cook's Distance, KDD2012
++ [12],  Jaewoo Lee*, Purdue University; Chris Clifton, Purdue University,  Differential Identifiability, KDD2012
++ [12],  Liang Tang*, Florida International Univ; Tao Li, Florida International University; Larisa Shwartz, IBM Watson Research Center,  Discovering Lag Intervals for Temporal Dependencies, KDD2012
++ [12],  Ashton Anderson*, Stanford; Dan Huttenlocher, Cornell University; Jon Kleinberg, Cornell University; Jure Leskovec, Stanford University,  Discovering Value from Community Activity on Focused Question-Answering Sites: A Case Study of Stack Overflow, KDD2012
++ [12],  Peter Haider*, University of Potsdam; Luca Chiarandini; Ulf Brefeld,,  Discriminative Clustering for Market Segmentation, KDD2012
++ [12],  Theodoros Lappas*, Boston University; George Valkanas; Dimitrios Gunopulos, University of Athens,  Efficient and Domain-Invariant Competitor Mining, KDD2012
++ [12],  Pavel Kuksa*, NEC Laboratories America, Inc; Vladimir Pavlovic, Rutgers University,  Efficient evaluation of large sequence kernels, KDD2012
++ [12],  Bruno Cadonna*, Free University of Bolzano; Johann Gamper, Free University of Bolzano; Michael Boehlen, University of Zurich,  Efficient Event Pattern Matching with Match Windows, KDD2012
++ [12],  Pratanu Roy*, ETHZ Zurich; Jens Teubner, ETH Zurich; Gustavo Alonso, ETH Zurich,  Efficient Frequent Item Counting in Multi-Core Hardware, KDD2012
++ [12],  Yasuhiro Fujiwara*, NTT Cyber Space Lab; Makoto Nakatsuji, NTT Cyber Solutions La; Takeshi Yamamuro, NTT Cyber Space Lab; Hiroaki Shiokawa, NTT Cyber Space Lab; Makoto Onizuka, NTT Cyber Space Lab,  Efficient Personalized PageRank with Accuracy Assurance, KDD2012
++ [12],  Aristides Gionis, Yahoo Research; Theodoros Lappas*, Boston University; Evimaria Terzi, Boston University,  Estimating Entity Importance via Counting Set Covers, KDD2012
++ [12],  Jiliang Tang*, ARIZONA STATE UNIVERISTY; Huiji Gao, ARIZONA STATE UNIVERISTY; Huan Liu, ARIZONA STATE UNIVERISTY; Atish Das Sarma, eBay Research Labs,  eTrust: Understanding Trust Evolution in an Online World, KDD2012
++ [12],  Xingjie Liu*, The Pennsalvania State Univ; QI HE, IBM Almaden Research Center; Yuanyuan Tian, IBM Almaden Research; Wang-Chien Lee, Pennsylvania State University; John McPherson, IBM Almaden Research Center; Jiawei Han, University of Illinois at Urbana-Champaign,  Event-based Social Networks: Linking the Online and Offline Social Worlds, KDD2012
++ [12],  abhimanyu Das*, Yahoo! Research; Sandeep Pandey, Twitter; Vijay Narayanan, Yahoo; Neha Gupta, University of Maryland, College Park,  Factoring Past Exposure in Display Advertising Targeting, KDD2012
++ [12],  William March*, Georgia Tech; Andrew Connolly, University of Washington; Alexander Gray, Georgia Tech,  Fast Algorithms for Comprehensive N-point Correlation Estimates, KDD2012
++ [12],  James Cheng*, NTU, Singapore; Linhong Zhu, A*Star, Singapore; Yiping Ke, Institute of High Performance Computing, Singapore; Shumo Chu, NTU, Singapore,  Fast Algorithms for Maximal Clique Enumeration with Limited Memory, KDD2012
++ [12],  Yasuko Matsubara*, Kyoto University; Yasushi Sakurai, NTT; Christos Faloutsos; Tomoharu Iwata, NTT; Masatoshi Yoshikawa, kyoto university,  Fast Mining and Forecasting of Complex Time-Stamped Events, KDD2012
++ [12],  Sen Yang*, Arizona State University; Lei Yuan, Arizona State University; Peter Wonka, Arizona State University; Jieping Ye, Arizona State University,  Feature Grouping and Selection Over an Undirected Graph, KDD2012
++ [12],  Guimei Liu *, NUS; Haojun Zhang, NUS; Limsoon Wong, NUS,  Finding Minimum Representative Pattern Sets, KDD2012
++ [12],  Diego Saez-Trumper*, Universitat Pompeu Fabra; Giovanni Comarela, UFMG; Virgilio Almeida, ufmg; Ricardo Baeza-Yates, Yahoo! Reserach; Fabricio Benevenuto , Universidade Federal de Ouro Preto,  Finding Trendsetters in Information Networks, KDD2012
++ [12],  Chunyan Wang*, Stanford University; Mao Ye, Social Computing Group, HP Labs, California, USA; bernardo Huberman, Social Computing Group, HP Labs, California, USA,  From User Comments to On-line Conversations, KDD2012
++ [12],  U Kang*, Carnegie Mellon University; Evangelos Papalexakis, Carnegie Mellon University; Abhay Harpale, Carnegie Mellon University; Christos Faloutsos,,  GigaTensor: Scaling Tensor Analysis Up By 100 Times - Algorithms and Discoveries, KDD2012
++ [12],  Wei Feng*, Tsinghua University; Jianyong Wang, Tsinghua University,  Incorporating Heterogenous Information for Personalized Tag Recommendation in Social Tagging Systems, KDD2012
++ [12],  Jintao Zhang*, University of Kansas; Jun Huan, University of Kansas,  Inductive Multi-task Learning with Multiple View Data, KDD2012
++ [12],  Seth Myers*, Stanford University; Jure Leskovec, Stanford University; Chenguang Zhu, Stanford University,  Information Diffusion and External Influence in Networks, KDD2012
++ [12],  Manish Gupta*, UIUC; Jing Gao, Univ. of Buffalo; Yizhou Sun, UIUC; Jiawei Han, University of Illinois at Urbana-Champaign,  Integrating Community Matching and Outlier Detection for Mining Evolutionary Community Outliers, KDD2012
++ [12],  Yizhou Sun*, UIUC; Brandon Norick; Jiawei Han, University of Illinois at Urbana-Champaign; Xifeng Yan, University of California Santa Barbara; Philip Yu, University of Illinois at Chicago; Xiao Yu, UIUC,  Integrating Meta-Path Selection with User Guided Object Clustering in Heterogeneous Information Networks, KDD2012
++ [12],  Yin Lou*, Cornell University; Rich Caruana, Microsoft Research; Johannes Gehrke, Cornell University,  Intelligible Models for Classification and Regression, KDD2012
++ [12],  Alex Beutel*, Carnegie Mellon University; B. Aditya Prakash, Carnegie Mellon University; Roni Rosenfeld, CMU; Christos Faloutsos,,  Interacting Viruses in Networks: Can Both Survive?, KDD2012
++ [12],  Qi Ding, Boston University; Natallia Katenka, Boston University; Paul Barford*, University of Wisconsin; Eric Kolaczyk, Boston University; Mark Crovella, Boston University,  Intrusion as (Anti)social Communication: Characterization and Detection, KDD2012
++ [12],  Weinan Zhang, Shanghai Jiao Tong University; Ying Zhang, Nankai University; Bin Gao*, Microsoft Research Asia; Yong Yu, Shanghai Jiao Tong University; Xiaojie Yuan, Nankai University; Tie-Yan Liu, Microsoft Research,  Joint Optimization of Bid and Budget Allocation in Sponsored Search, KDD2012
++ [12],  Vikas Sindhwani*, IBM Research; Amol Ghoting, IBM TJ Watson Research Center,  Large-scale Distributed Non-negative Sparse Coding and Sparse Dictionary Learning, KDD2012
++ [12],  Guy Halawi, Tel Aviv University; Gideon Dror, Yahoo! Research; Evgeniy Gabrilovich*, Yahoo! Research; Yehuda Koren, Google,  Large-Scale Learning of Word Relatedness with Constraints, KDD2012
++ [12],  Gengxin Miao*, UCSB; Ziyu Guan, UC Santa Barbara; Louise Moser, UC Santa Barbara; Xifeng Yan, University of California Santa Barbara; Shu Tao, IBM Research; Nikos Anerousis, IBM Research; Jimeng Sun, IBM Research,  Latent Association Analysis of Document Pairs, KDD2012
++ [12],  Ke Zhou*, Georgia Tech; Hongyuan Zha, Georgia Tech,  Learning Binary Codes for Collaborative Filtering, KDD2012
++ [12],  Yuandong Tian*, Carnegie Mellon University; Jun Zhu, Tsinghua University,  Learning from Crowds in the Presence of Schools of Thought, KDD2012
++ [12],  Thomas Hoens*, University of Notre Dame; Nitesh Chawla, University of Notre Dame,  Learning in Non-stationary Environments with Class Imbalance, KDD2012
++ [12],  Yelong Sheng*, Kent State University; Ruoming Jin, Kent State University,  Learning Personal+Social Latent Factor Model for Social Recommendation, KDD2012
++ [12],  Wei Shen*, Tsinghua University; Jianyong Wang, Tsinghua University; Ping Luo, HP Lab; Min Wang, HP labs, China,  LIEGE: Link Entities in Web Lists with Knowledge Base, KDD2012
++ [12],  Mario Boley*, Fraunhofer IAIS; Sandy Moens, University of Antwerp; Thomas Gaertner, Fraunhofer IAIS & University of Bonn,  Linear Space Direct Pattern Sampling using Coupling From The Past, KDD2012
++ [12],  Shin Matsushima*, The University of Tokyo; S. V. N. Vishwanathan, Purdue University; Alex Smola, Yahoo! Research,  Linear Support Vector Machines via Dual Cached Loops, KDD2012
++ [12],  Carlos Correa*, LLNL; Peter Lindstrom, LLNL,  Locally-Scaled Spectral Clustering using Empty Region Graphs, KDD2012
++ [12],  Cho-Jui Hsieh, UT Austin; Kai-Yang Chiang*, University of Texas at Austin; Inderjit Dhillon, University of Texas, Austin,  Low Rank Modeling for Signed Networks, KDD2012
++ [12],  Guan Wang*, UIC; Yuchen Zhao; Xiaoxiao Shi, UIC; Philip S Yu, UIC,  Magnet Community Identification on Social Networks, KDD2012
++ [12],  Parikshit Ram*, Geogia Institute of Technology; Alexander Gray, Georgia Tech,  Maximum Inner-Product Search using Cone Trees, KDD2012
++ [12],  Dafna Shahaf*, Carnegie Mellon University; Carlos Guestrin, Carnegie Mellon University,  Metro Maps of Science, KDD2012
++ [12],  Brigitte Boden*, RWTH Aachen University; Stephan Günnemann, RWTH Aachen University; Holger Hoffmann, RWTH Aachen University; Thomas Seidl, RWTH Aachen,  Mining Coherent Subgraphs in Multi-Layer Graphs with Edge Labels, KDD2012
++ [12],  Arjun Mukherjee*, University of Illinois Chicago; Bing Liu, University of Illinois at Chicago,  Mining Contentions from Discussions and Debates, KDD2012
++ [12],  Qiang Zhang, Arizona State University; Baoxin Li*, Arizona State Univerisity,  Mining Discriminative Components With Low-Rank And Sparsity Constraints for Face Recognition, KDD2012
++ [12],  Kui Yu*, Hefei University of Technology; Wei Ding, University of Massachusetts Boston; Dan Simovici; Xindong Wu, University of Vermont,  Mining Emerging Patterns by Streaming Feature Selection, KDD2012
++ [12],  Xuemei Liu, Shanghai Jiao Tong University; James Biagioni, Dept. of CS, Univ. of Illinois at Chicago; Yin Wang, HP Labs; Jakob Eriksson, Dept. of CS, Univ. of Illinois at Chicago; George Forman*, HP Labs; Yanmin Zhu, Shanghai Jiao Tong University,  Mining Large-Scale, Sparse GPS Traces for Map Inference: Comparison of Approaches, KDD2012
++ [12],  Iyad Batal*, University of Pittsburgh; Dmitriy Fradkin, Siemens Corporate Research; James Harrison, University of Virginia; Fabian Moerchen, Siemens Corporate Research; Milos Hauskrecht, University of Pittsburgh,  Mining Recent Temporal Patterns for Event Detection in Multivariate Time Series Data, KDD2012
++ [12],  Cheng-Wei Wu, National Cheng Kung University; Bai-En Shie, National Cheng Kung University; Philip Yu, University of Illinois at Chicago; Vincent Tseng*, National Cheng Kung Univ,  Mining Top-K High Utility Itemsets, KDD2012
++ [12],  Adam Woznica*, University of Geneva; Phong Nguyen, University of Geneva; Alexandros Kalousis, University Of Applied Sciences, Western Switzerland,  Model Mining for Robust Feature Selection, KDD2012
++ [12],  Jiayu Zhou; Jun Liu, Arizona State University; Vaibhav Narayan, Johnson & Johnson Pharmaceutical Research & Development; Jieping Ye*, Arizona State University,  Modeling Disease Progression via Fused Sparse Group Lasso, KDD2012
++ [12],  Lianghao Li*, Tsinghua University; Xiaoming Jin, Tsinghua University; Sinno Pan, Institute for Infocomm Research; Jian-Tao Sun, Microsoft Research,  Multi-Domain Active Learning for Text Classification, KDD2012
++ [12],  Sheng-Jun Huang, Nanjing University; Yang Yu, Nanjing University; Zhi-Hua Zhou*, Nanjing University,  Multi-Label Hypothesis Reuse, KDD2012
++ [12],  Stephan Günnemann*, RWTH Aachen University; Ines Faerber, RWTH Aachen University; Thomas Seidl, RWTH Aachen,  Multi-View Clustering Using Mixture Models in Subspace Projections, KDD2012
++ [12],  Hua Ouyang*, Georgia Tech; Alexander Gray, Georgia Tech,  NASA: Achieving Lower Regrets and Faster Rates via Adaptive Stepsizes, KDD2012
++ [12],  You Wu*, Duke University; Pankaj Agarwal, Duke University; Chengkai Li, Univ. of Texas at Arlington; Jun Yang, Duke University; Cong Yu, Google Research,  On One of the Few Objects, KDD2012
++ [12],  Michel Speiser*, IBM Research; Gianluca Antonini, IBM Research; Abderrahim Labbi, IBM Research,  On Nested Palindromes in Clickstream Data, KDD2012
++ [12],  De-Nian Yang, Academia Sinica; Chih-Ya Shen*, National Taiwan University; Wang-Chien Lee, Pennsylvania State University; Ming-Syan Chen, NTU,  On Socio-Spatial Group Query for Location-Based Social Networks, KDD2012
++ [12],  Bruno Abrahao*, Cornell University; Sucheta Soundarajan, Cornell University; John Hopcroft, Cornell University; Robert Kleinberg, Cornell University,  On the Separability of Structural Classes of Communities, KDD2012
++ [12],  Anand Bhalgat*, University of Pennsylvania; Jon Feldman, Google Inc; Vahab Mirrokni, Google Research,  Online Allocation of Display Ads with Smooth Delivery, KDD2012
++ [12],  Karthik Raman*, Cornell University; Pannaga Shivaswamy, Cornell University; Thorsten Joachims, Cornell University,  Online Learning to Diversify from Implicit Feedback, KDD2012
++ [12],  Alan Ritter*, University of Washington; Mausam Mausam, University of Washington; Oren Etzioni, University of Washington; Sam Clark, University of Washington,  Open Domain Event Extraction from Twitter, KDD2012
++ [12],  Shuo Xiang*, Arizona State University; Yunzhang Zhu; Xiaotong Shen; Jieping Ye, Arizona State University,  Optimal Exact Least Squares Rank Minimization, KDD2012
++ [12],  Yu Zhang*, HKUST; Dit-Yan Yeung, HKUST,  Overlapping Community Detection via Bounded Non-Negative Matrix Tri-Factorization, KDD2012
++ [12],  Han Lei*, Peking University; Song Guojie, Peking University; Gao Cong, Nanyang Technological University; Xie Kunqing, Peking University,  Overlapping Decomposition for Causal Graphical Modeling, KDD2012
++ [12],  Bahman Bahmani, Stanford; Ravi Kumar*, Yahoo! Research; Mohammad Mahdian, Google; Eli Upfal, Brown U,  PageRank on an Evolving Graph, KDD2012
++ [12],  Ming Ji*, UIUC; Binbin Lin, Zhejiang University; Xiaofei He, Zhejiang University; Deng Cai, Zhejiang University; Jiawei Han, University of Illinois at Urbana-Champaign,  Parallel Field Ranking, KDD2012
++ [12],  Zhenhui Li*, UIUC; Jingjing Wang, UIUC; Jiawei Han, University of Illinois at Urbana-Champaign,  Period Detection for Sparse and Incomplete Event Data, KDD2012
++ [12],  Shuo Chen, Cornell University; Joshua Moore*, Cornell University; Douglas Turnbull, Ithaca College; Thorsten Joachims, Cornell University,  Playlist Prediction via Metric Embedding, KDD2012
++ [12],  Issei Sato*, University of Tokyo; Kenichi Kurihara, Google; Hiroshi Nakagawa, University of Tokyo,  Practical Collapsed Variational Bayes Inference for Hierarchical Dirichlet Process, KDD2012
++ [12],  Caiming Xiong*, SUNY at Buffalo; David Johnson, SUNY at Buffalo; Ran Xu, SUNY at Buffalo; Jason Corso, SUNY at Buffalo,  Random Forests for Metric Learning with Implicit Pairwise Position Dependence, KDD2012
++ [12],  Forrest Briggs*, Oregon State University; Xiaoli Fern, Oregon State University; Raviv Raich, Oregon State University,  Rank-Loss Support Instance Machines for MIML Instance Annotation, KDD2012
++ [12],  Laks Lakshmanan, The University of British Columbia; Amit Goyal*, University of British Columbia,  RecMax: Exploiting Recommender Systems for Fun and Profit, KDD2012
++ [12],  Sihong Xie*, UIC; Guan Wang, UIC; Shuyang Lin, UIC; Philip S Yu, UIC,  Review Spam Detection via Temporal Pattern Discovery, KDD2012
++ [12],  Yasuko Matsubara*, Kyoto University; Yasushi Sakurai, NTT; B. Aditya Prakash, Carnegie Mellon University; Lei Li, University of California - Berkeley; Christos Faloutsos,,  Rise and Fall Patterns of Information Diffusion: Model and Implications, KDD2012
++ [12],  Pinghua Gong*, Tsinghua University; Jieping Ye, Arizona State University; Changshui Zhang, Tsinghua University,  Robust Multi-Task Feature Learning, KDD2012
++ [12],  Keith Henderson, Lawrence Livermore National Laboratory; Brian Gallagher, Lawrence Livermore National Laboratory; Tina Eliassi-Rad*, Rutgers University; Hanghang Tong, IBM Research; Sugato Basu, Google Research; Leman Akoglu, Carnegie Mellon University; Danai Koutra, Carnegie Mellon University; Lei Li, Carnegie Mellon University; Christos Faloutsos,,  RolX: Structural Role Extraction & Mining in Large Graphs, KDD2012
++ [12],  Geng Li, Rensselaer Polytechnic Inst.; Mohammed Zaki*, Rensselaer Polytechnic Institute,  Sampling Minimal Frequent Boolean (DNF) Patterns, KDD2012
++ [12],  Thanawin Rakthanmanon*, UC Riverside; Bilson Campana, UC Riverside; Abdullah Mueen, Microsoft Research; Gustavo Batista, University of Sao Paulo; Brandon Westover; Qiang Zhu, UC Riverside; Jesin Zakaria, UC Riverside; Eamonn Keogh, University of California - Riverside,  Searching and Mining Trillions of Time Series Subsequences under Dynamic Time Warping, KDD2012
++ [12],  Theodoros Lappas*, Boston University; Mark Crovella, Boston University; Evimaria Terzi, Boston University,  Selecting a Set of Characteristic Reviews, KDD2012
++ [12],  Fanhua Shang*, Xidian University ; L.C. Jiao; Fei Wang, IBM Research,  Semi-supervised Learning with Mixed Knowledge Information, KDD2012
++ [12],  Jeffrey Chan*, The University of Melbourne, Australia; Wei Liu, University of Melbourne; Christopher Leckie, The University of Melbourne, Australia; James Bailey, The University of Melbourne; Kotagiri Ramamohanarao, The University of Melbourne, Australia,  SeqiBloc: Mining Multi-time Spanning Blockmodels in Dynamic Graphs, KDD2012
++ [12],  Vijay Bharadwaj, NetFlix; Peiji Chen, Yahoo! Labs; Wenjing Ma, Yahoo! Labs; Chandrashekar Nagarajan, Yahoo! Labs; John Tomlin, opTomax Solutions; Sergei Vassilvitskii, Yahoo! Research; Erik Vee*, Yahoo! Research; Jian Yang, Yahoo! Labs,  SHALE: An Efficient Algorithm for Allocation of Guaranteed Display Advertising, KDD2012
++ [12],  Anirban Dasgupta*, Yahoo Research; Ravi Kumar, Yahoo! Research; D Sivakumar, Yahoo Research,  Social Sampling, KDD2012
++ [12],  Ashesh Jain*, IIT Delhi; S. V. N. Vishwanathan, Purdue University; Manik Varma, Microsoft Research India,  Spectral Projected Gradient Descent for Efficient and Large Scale Generalized Multiple Kernel Learning, KDD2012
++ [12],  Tantan Liu, The Ohio State University; Gagan Agrawal*, The Ohio State University,  Stratified K-means Clustering Over A Deep Web Data Source, KDD2012
++ [12],  Isabelle Stanton*, UC Berkeley; Gabriel Kliot, Microsoft Research,  Streaming Graph Partitioning for Distributing Graphs, KDD2012
++ [12],  Stephan Günnemann*, RWTH Aachen University; Ines Faerber, RWTH Aachen University; Kittipat Virochsiri, RWTH Aachen University; Thomas Seidl, RWTH Aachen,  Subspace Correlation Clustering: Finding Locally Correlated Dimensions in Subspace Projections of the Data, KDD2012
++ [12],  Jing Feng; Xiao He; Bettina Konte; Christian Boehm; Claudia Plant*, Florida State University,  Summarization-based Mining Bipartite Graphs, KDD2012
++ [12],  Jaya Kawale*, University of Minnesota; Snigdhansu Chatterjee; Dominick Ormsby; Karsten Steinhaueser, University of Minnesota; Stefan Liess; Vipin Kumar, University of Minnisota,  Testing the Significance of Spatio-temporal Teleconnection Patterns, KDD2012
++ [12],  Xu Chen*, Duke Univeristy; Mingyuan Zhou, Duke University; Lawrence Carin, Duke University,  The Contextual Focused Topic Model, KDD2012
++ [12],  Nikolaj Tatti*, University of Antwerp; Jilles Vreeken, University of Antwerp, Belgium,  The Long and the Short of It: Summarizing Event Sequences with Serial Episodes, KDD2012
++ [12],  Rob Patro, University of Maryland; Geet Duggal, University of Maryland; Emre Sefer, University of Maryland; Hao Wang, University of Maryland; Darya Filippova, University of Maryland; Carl Kingsford*, University of Maryland,  The Missing Models: A Data-Driven Approach for Learning How Networks Grow, KDD2012
++ [12],  Youmna Borghol, NICTA; Sebastien Ardon, NICTA; Niklas Carlsson*, Linkoping University; Derek Eager, University of Saskatchewan; Anirban Mahanti, National ICT Australia (NICTA),  The Untold Story of the Clones: Content-agnostic Factors that Impact YouTube Video Popularity, KDD2012
++ [12],  Yu Wang*, Emory University; Eugene Agichtein, Emory University; Michele Benzi, Emory University,  TM-LDA: Efficient Online Modeling of the Latent Topic Transitions in Social Media, KDD2012
++ [12],  Fei Wang*, IBM Research; Noah Lee; Jianying Hu, IBM T.J. Watson Research Center; Jimeng Sun, IBM; Shahram Ebadollahi, IBM,  Towards Heterogeneous Temporal Clinical Event Pattern Discovery: A Convolutional Approach, KDD2012
++ [12],  Rui Li*, University of Illinois; Shengjie Wang; Hongbo Deng; Kevin Chang,,  Towards Social User Profiling: Unified and Discriminative Influence Model for Inferring Home Locations, KDD2012
++ [12],  Guoxian Yu*, South China Univ of Technology; Carlotta Domeniconi, George Mason University ; Huzefa Rangwala, George Mason University; Guoji Zhang, South China University of Technology; Zhiwen Yu,,  Transductive Multi-label Ensemble Classification for Protein Function Prediction, KDD2012
++ [12],  Khalid El-Arini*, Carnegie Mellon University; Ulrich Paquet, Microsoft Research; Ralf Herbrich, Facebook, Inc.; Jurgen Van Gael, Rangespan Ltd.; Blaise Aguera y Arcas, Microsoft Corp.,  Transparent User Models for Personalization, KDD2012
++ [12],  Ian Davidson*, U.C. Davis,  Two Approaches To Understanding When Constraints Help Clustering, KDD2012
++ [12],  Jiliang Tang*, ARIZONA STATE UNIVERISTY; Huan Liu, ARIZONA STATE UNIVERISTY,  Unsupervised Feature Selection for Linked Social Media Data, KDD2012
++ [12],  Junfu Yin*, AAI, UTS, Australia; Zhigang Zheng; Longbing Cao, UTS,  USpan: An Efficient Algorithm for Mining High Utility Sequential Patterns, KDD2012
++ [12],  David Gleich*, Purdue University; C Seshadhri, Sandia National Laboratories,  Vertex neighborhoods, low conductance cuts, and good seeds for local community methods, KDD2012
+
+#### Industrial and Government Track
++ [12],  Rui Chen; Benjamin C. M. Fung; Bipin C. Desai; Nériah M. Sossou,  Differentially Private Transit Data Publication: A Case Study on the Montreal Transportation System, KDD2012
++ [12],  Xintian Yang; Amol Ghoting; Yiye Ruan; Srinivasan Parthasarathy,  A Framework for Summarizing and Analyzing Twitter Feeds, KDD2012
++ [12],  Zhiang Wu; Junjie Wu; Jie Cao; Dacheng Tao,  HySAD: A Semi-Supervised Hybrid Shilling Attack Detector for Trustworthy Product Recommendation, KDD2012
++ [12],  Lei Zhang ; Linpeng Tang ; Luo Ping ; Enhong Chen; Limei Jiao; Min Wang; Guiquan Liu,  Harnessing the Wisdom of the Crowds for Accurate Web Page Clipping, KDD2012
++ [12],  Jun Zhang; Xiaoming Fan; Jianyong Wang; Lizhu Zhou,  Keyword-Propagation-Based Information Enriching and Noise Removal for Web News Videos, KDD2012
++ [12],  Parikshit Sondhiy; Jimeng Sun; Hanghang Tong; ChengXiang Zhai,  SympGraph: A Framework for Mining Clinical Notes through Symptom Relation Graphs, KDD2012
++ [12],  Yin Song; Longbing Cao; Xindong Wu; Gang Wei; Wu Ye; Wei Ding,  Coupled Behavior Analysis for Capturing Coupling Relationships in Group-based Market Manipulations, KDD2012
++ [12],  Jie Tang; Bo Wang; Yang Yang; Po Hu; Yanting Zhao; Xinyu Yan; Bo Gao; Minlie Huang; Peng Xu; Weichang Li; and Adam K. Usadi,  PatentMiner: A Topic-driven Patent Analysis and Mining System, KDD2012
++ [12],  Lei Yuan; Yalin Wang; Paul M. Thompson; Vaibhav A. Narayan; Jieping Ye,  Multi-Source Learning for Joint Analysis of Incomplete Multi-Modality Neuroimaging Data, KDD2012
++ [12],  Rakesh Agrawal; Sunandan Chakraborty; Sreenivas Gollapudi; Anitha Kannan; Krishnaram Kenthapadi,  Empowering Authors to Diagnose Comprehension Burden in Textbooks, KDD2012
++ [12],  Xinfan Meng; Furu Wei; Xiaohua Liu; Ming Zhou; Houfeng Wang,  Entity-Centric Topic-Oriented Opinion Summarization in Twitter, KDD2012
++ [12],  Ziad Al Bawab; George Mills; Jean-Francois Crespo,  Finding Trending Local Topics in Search Queries for Personalization of a Recommendation System, KDD2012
++ [12],  Ilari Shafer; Kai Ren; Vishnu Naresh Boddeti; Yoshihisa Abe; Christos Faloutsos,  RainMon: An Integrated Approach to Mining Bursty Timeseries Monitoring Data, KDD2012
++ [12],  Ling-Yin Wei; Yu Zheng; Wen-Chih Peng,  Constructing Popular Routes from Uncertain Trajectories, KDD2012
++ [12],  Ye Chen; Tak Yan,  Position-Normalized Click Prediction in Search Advertising, KDD2012
++ [12],  Jing Yuan; Yu Zheng; Xing Xie,  Discovering Regions of Different Functions in a City Using Human Mobility and POIs, KDD2012
++ [12],  Wenjun Zhou ; Hongxia Jin; Yan Liu,  Community Discovery and Profiling with Social Messages, KDD2012
++ [12],  Shivali Agarwal; Renuka Sindhgatta; Bikram Sengupta,  SmartDispatch: Enabling Efficient Ticket Dispatch in an IT Service Environment, KDD2012
++ [12],  Uwe Mayer,  Bootstrapped Language Identification For Multi-Site Internet Domains, KDD2012
++ [12],  Ron Kohavi; Alex Deng; Brian Frasca; Roger Longbotham; Toby Walker; Ya Xu,  Trustworthy Online Controlled Experiments: Six Puzzling Outcomes Explained, KDD2012
++ [12],  Troy Raeder; Ori Stitelman; Brian Dalessandro; Claudia Perlich; Foster Provost,  "Design Principles of Massive, Robust Prediction Systems", KDD2012
++ [12],  Claudia Perlich; Brian Dalessandro; Ori Stitelman; Troy Raeder; Foster Provost,  Bid Optimizing and Inventory Scoring in Targeted Online Advertising, KDD2012
++ [12],  Mahmud Hossain; Patrick Butler; Naren Ramakrishnan; arnold Boedihardjo,  Storytelling in Entity Networks to Support Intelligence Analysts, KDD2012
++ [12],  Kent Shi ; Kamal Ali,  GetJar Mobile Application Recommendations with Very Sparse Datasets, KDD2012
++ [12],  Gowtham Bellala; Manish Marwah; Martin Arlitt; Geoff Lyon; Cullen Bash,  Following the Electrons: Methods for Power Management in Commercial Buildings, KDD2012
++ [12],  Haibin Cheng; Roelof van Zwol; Javad Azimi; Eren Manavoglu; Ruofei Zhang; Yang Zhou; Vidhya Navalpakkam,  Multimedia Features for Click Prediction of New Ads in Display Advertising, KDD2012
++ [12],  Kaushik Chakrabarti; Surajit Chaudhuri; Tao Cheng; Dong Xin,  A Framework for Robust Discovery of Entity Synonyms, KDD2012
++ [12],  Xinyu Xing; Yu-li Liang; Sui Huang; Hanqiang Cheng; Richard Han; Qin Lv; Xue Liu; Shivakant Mishra; Yi Zhu,  Scalable Misbehavior Detection in Online Video Chat Services, KDD2012
++ [12],  Yi Mao; Wenlin Chen; Yixin Chen; Chenyang Lu; Marin Kollef; Thomas Bailey,  An Integrated Data Mining Approach to Real-time Clinical Monitoring and Deterioration Warning, KDD2012
 
 ## 2011
 
