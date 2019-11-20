@@ -1203,6 +1203,25 @@ https://campus.acm.org/calendar/Index.cfm?confid=2020-46939
 
 #### Best Award
 
+#### SESSION: Keynote Talks
+
+#### SESSION: Research Paper Presentations (Part 1)
+
+
+#### SESSION: Research Paper Presentations (Part 2)
+
+
+#### SESSION: Industry & Government Track Invited Talks
+
+
+#### SESSION: Industry & Government Track Papers
+
+
+#### TUTORIAL SESSION: Tutorials
+
+
+#### PANEL SESSION: Panel
++ [15], Katharina Morik Hugh Durrant-Whyte Gary Hill Dietmar Müller Tanya Berger-Wolf, Data Driven Science: SIGKDD Panel, KDD2015
 
 ## 2014
 
