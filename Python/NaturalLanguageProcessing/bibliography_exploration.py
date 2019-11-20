@@ -101,7 +101,7 @@ def sort_bibliography(input_file_path, output_file_path):
         #print(x)
         #print(re.findall('\d+', str(x[0])))
         check_format = False
-        if check_format:      
+        if check_format:
             check_line_format(line=x,line_no=line_no)
 
         line_no = line_no + 1
@@ -205,21 +205,44 @@ def sort_bibliography_kdd_2012(input_file_path, output_file_path, pub_year=None)
             result_file.write(merged_line)
             line_no = line_no + 1
 
+# uses for 2015
+def sort_bibliography_kdd_2015(input_file_path, output_file_path, pub_year=None):
+    f = open(input_file_path)
+    lines = f.readlines()
+    f.close()
+
+    with open(output_file_path, "a") as result_file:
+        line_no = 1
+        for idx in range(len(lines)//2):
+            print(f"line_no = {line_no}")
+            print(lines[2*idx:(2*idx+2)])
+
+            merged_line = f"+ [{pub_year[2:]}], " + lines[2*idx:(2*idx+2)][1].replace("\n","") + ", " + lines[2*idx:(2*idx+2)][0].replace("\n",f", KDD{pub_year}\n")
+            result_file.write(merged_line)
+            line_no = line_no + 1
+
 def load_and_sort_bibliography():
     input_filename = "bibliography.txt"
     output_filename = "sorted_"+str(time.strftime('%Y%m%d%H%m%S', time.localtime())) + input_filename
     sort_bibliography(input_file_path=input_filename,output_file_path=output_filename)
 
 def load_and_sort_bibliography_from_kdd():
-    pub_year = "2012"
-    # for 2016~2019
-    #input_filenames = [f"bibliography/KDD/{pub_year}/Research_Track_Papers_Oral_Full_List", f"bibliography/KDD/{pub_year}/Research_Track_Papers_Poster_Full_List",f"bibliography/KDD/{pub_year}/Applied_Data_Science_Track_Papers_Oral_Full_List",f"bibliography/KDD/{pub_year}/Applied_Data_Science_Track_Papers_Poster_Full_List"]
-    input_filenames_2012 = [f"bibliography/KDD/{pub_year}/Research_Track_Full_lisit", f"bibliography/KDD/{pub_year}/Industrial_and_Government_Track_Full_List"]
+    pub_year = "2015"
+    input_filenames = []
+    root_dir = f"bibliography/KDD/{pub_year}/"
+    for root, dirs, files in os.walk(root_dir):
+        print(root)
+        print(dirs)
+        print(files)
+        input_filenames = files
 
-    for input_filename in input_filenames_2012:
-        output_filename = input_filename + str(time.strftime('%Y%m%d%H%m%S', time.localtime())) + ".txt"
-        input_filename = input_filename + ".txt"
-        sort_bibliography_kdd_2012(input_file_path=input_filename,output_file_path=output_filename,pub_year=pub_year)
+    for input_filename in input_filenames:
+        output_filename = input_filename.split(".")[0] + str(time.strftime('%Y%m%d%H%m%S', time.localtime())) + "." + input_filename.split(".")[1]
+        print(input_filename)
+        print(output_filename)
+        input_filename = root_dir + input_filename
+        output_filename = root_dir + output_filename
+        sort_bibliography_kdd_2015(input_file_path=input_filename,output_file_path=output_filename,pub_year=pub_year)
 
 if __name__ == "__main__":
     load_and_sort_bibliography_from_kdd()
