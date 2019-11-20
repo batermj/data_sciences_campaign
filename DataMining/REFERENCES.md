@@ -1204,20 +1204,272 @@ https://campus.acm.org/calendar/Index.cfm?confid=2020-46939
 #### Best Award
 
 #### SESSION: Keynote Talks
++ [15], Ron Kohavi, Online Controlled Experiments: Lessons from Running A/B/n Tests for 12 Years, KDD2015
++ [15], Daphne Koller, MOOCS: What Have We Learned?, KDD2015
++ [15], Susan Athey, Machine Learning and Causal Inference for Policy Evaluation, KDD2015
++ [15], Hugh Durrant-Whyte, Data, Knowledge and Discovery: Machine Learning meets Natural Science, KDD2015
 
 #### SESSION: Research Paper Presentations (Part 1)
++ [15], Sungjin Ahn Anoop Korattikara Nathan Liu Suju Rajan Max Welling, Large-Scale Distributed Bayesian Matrix Factorization using Stochastic Gradient MCMC, KDD2015
++ [15], Tim Althoff Xin Luna Dong Kevin Murphy Safa Alai Van Dang Wei Zhang, TimeMachine: Timeline Generation for Knowledge-Base Entities, KDD2015
++ [15], Laurent Amsaleg Oussama Chelly Teddy Furon Stéphane Girard Michael E. Houle Ken-ichi Kawarabayashi Michael Nett, Estimating Local Intrinsic Dimensionality, KDD2015
++ [15], Émilien Antoine Adam Jatowt Shoko Wakamiya Yukiko Kawai Toyokazu Akiyama, Portraying Collective Spatial Attention in Twitter, KDD2015
++ [15], Nurjahan Begum Liudmila Ulanova Jun Wang Eamonn Keogh, Accelerating Dynamic Time Warping Clustering with a Novel Admissible Pruning Strategy, KDD2015
++ [15], Albert Bifet Gianmarco de Francisci Morales Jesse Read Geoff Holmes Bernhard Pfahringer, Efficient Online Evaluation of Big Data Stream Classifiers, KDD2015
++ [15], Karla L. Caballero Barajas Ram Akella, Dynamically Modeling Patient's Health State from Electronic Medical Records: A Time Series Approach, KDD2015
++ [15], Yongjie Cai Hanghang Tong Wei Fan Ping Ji Qing He, Facets: Fast Comprehensive Mining of Coevolving High-order Time Series, KDD2015
++ [15], Lei Cao Mingrui Wei Di Yang Elke A. Rundensteiner, Online Outlier Exploration Over Large Datasets, KDD2015
++ [15], Shayok Chakraborty Vineeth Balasubramanian Adepu Ravi Sankar Sethuraman Panchanathan Jieping Ye, BatchRank: A Novel Batch Mode Active Learning Framework for Hierarchical Classification, KDD2015
++ [15], Tanmoy Chakraborty Sikhar Patranabis Pawan Goyal Animesh Mukherjee, On the Formation of Circles in Co-authorship Networks, KDD2015
++ [15], Shiyu Chang Wei Han Jiliang Tang Guo-Jun Qi Charu C. Aggarwal Thomas S. Huang, Heterogeneous Network Embedding via Deep Architectures, KDD2015
++ [15], Rui Chen Qian Xiao Yu Zhang Jianliang Xu, Differentially Private High-Dimensional Data Publication via Sampling-Based Inference, KDD2015
++ [15], Flavio Chierichetti Alessandro Epasto Ravi Kumar Silvio Lattanzi Vahab Mirrokni, Efficient Algorithms for Public-Private Social Networks, KDD2015
++ [15], Bo-Yu Chu Chia-Hua Ho Cheng-Hao Tsai Chieh-Yen Lin Chih-Jen Lin, Warm Start for Parameter Selection of Linear Classifiers, KDD2015
++ [15], Edith Cohen, Stream Sampling for Frequency Cap Statistics, KDD2015
++ [15], Corinna Cortes Mehryar Mohri Andrés Muñoz Medina, Adaptation Algorithm and Theory Based on Generalized Discrepancy, KDD2015
++ [15], Zhicheng Cui Wenlin Chen Yujie He Yixin Chen, Optimal Action Extraction for Random Forests and Boosted Trees, KDD2015
++ [15], Robin Devooght Nicolas Kourtellis Amin Mantrach, Dynamic Matrix Factorization with Priors on Unknown Values, KDD2015
++ [15], Yuxiao Dong Jing Zhang Jie Tang Nitesh V. Chawla Bai Wang, CoupledLP: Link Prediction in Coupled Networks, KDD2015
++ [15], Liang Du Yi-Dong Shen, Unsupervised Feature Selection with Adaptive Structure Learning, KDD2015
++ [15], Nan Du Mehrdad Farajtabar Amr Ahmed Alexander J. Smola Le Song, Dirichlet-Hawkes Processes with Applications to Clustering Continuous-Time Document Streams, KDD2015
++ [15], Ethan R. Elenberg Karthikeyan Shanmugam Michael Borokhovich Alexandros G. Dimakis, Beyond Triangles: A Distributed Framework for Estimating 3-profiles of Large Graphs, KDD2015
++ [15], Kai Fan Marisa Eisenberg Alison Walsh Allison Aiello Katherine Heller, Hierarchical Graph-Coupled HMMs for Heterogeneous Personalized Health Data, KDD2015
++ [15], Dan Feldman Tamir Tassa, More Constraints, Smaller Coresets: Constrained Matrix Approximation of Sparse Big Data, KDD2015
++ [15], Michael Feldman Sorelle A. Friedler John Moeller Carlos Scheidegger Suresh Venkatasubramanian, Certifying and Removing Disparate Impact, KDD2015
++ [15], Alceu Ferraz Costa Yuto Yamaguchi Agma Juci Machado Traina Caetano Traina, Jr. Christos Faloutsos, RSC: Mining and Modeling Temporal Activity in Social Media, KDD2015
++ [15], Jeffrey Fisher Peter Christen Qing Wang Erhard Rahm, A Clustering-Based Framework to Control Block Sizes for Entity Resolution, KDD2015
++ [15], Seth R. Flaxman Yu-Xiang Wang Alexander J. Smola, Who Supported Obama in 2012?: Ecological Inference through Distribution Regression, KDD2015
++ [15], Yanjie Fu Guannan Liu Spiros Papadimitriou Hui Xiong Yong Ge Hengshu Zhu Chen Zhu, Real Estate Ranking via Mixed Land-use Latent Models, KDD2015
++ [15], Yasuhiro Fujiwara Makoto Nakatsuji Hiroaki Shiokawa Yasutoshi Ida Machiko Toyoda, Adaptive Message Update for Fast Affinity Propagation, KDD2015
++ [15], Moshe Gabel Daniel Keren Assaf Schuster, Monitoring Least Squares Models of Distributed Streams, KDD2015
++ [15], Matthias Gallé Matías Tealdi, Reconstructing Textual Documents from n-grams, KDD2015
++ [15], Hongchang Gao Lin Yan Weidong Cai Heng Huang, Anatomical Annotations for Drosophila Gene Expression Patterns via Multi-Dimensional Visual Descriptors Integration: Multi-Dimensional Feature Learning, KDD2015
++ [15], Jinyang Gao H.V. Jagadish Beng Chin Ooi Sheng Wang, Selective Hashing: Closing the Gap between Radius Search and k-NN Search, KDD2015
++ [15], David F. Gleich Michael W. Mahoney, Using Local Spectral Methods to Robustify Graph-Based Learning Algorithms, KDD2015
++ [15], Jen J. Gong Thoralf M. Sundt James D. Rawn John V. Guttag, Instance Weighting for Patient-Specific Risk Stratification Models, KDD2015
++ [15], Aditya Grover Ashish Kapoor Eric Horvitz, A Deep Hybrid Model for Weather Forecasting, KDD2015
++ [15], David Hallac Jure Leskovec Stephen Boyd, Network Lasso: Clustering and Optimization in Large Graphs, KDD2015
++ [15], Lei Han Yu Zhang, Learning Tree Structure in Multi-Task Learning, KDD2015
++ [15], Yu Han Jie Tang, Probabilistic Community and Role Model for Social Networks, KDD2015
++ [15], Kohei Hayashi Takanori Maehara Masashi Toyoda Ken-ichi Kawarabayashi, Real-Time Top-R Topic Detection on Twitter with Topic Hijack Filtering, KDD2015
++ [15], Yangyang Hou Joyce Jiyoung Whang David F. Gleich Inderjit S. Dhillon, Non-exhaustive, Overlapping Clustering via Low-Rank Semidefinite Programming, KDD2015
++ [15], Hsun-Ping Hsieh Shou-De Lin Yu Zheng, Inferring Air Quality for Station Location Recommendation Based on Urban Big Data, KDD2015
++ [15], Shuhei Iitsuka Yutaka Matsuo, Website Optimization Problem and Its Solutions, KDD2015
++ [15], Bo Jiang Zhi-Li Zhang Don Towsley, Reciprocity in Social Networks with Capacity Constraints, KDD2015
++ [15], Fredrik D. Johansson Devdatt Dubhashi, Learning with Similarity Functions on Graphs using Matchings of Geometric Embeddings, KDD2015
++ [15], Nicholas Johnson Arindam Banerjee, Structured Hedging for Resource Allocations with Leverage, KDD2015
++ [15], Ata Kaban, Improved Bounds on the Dot Product under Random Projection and Random Sign Projection, KDD2015
++ [15], Mojtaba Kadkhodaie Konstantina Christakopoulou Maziar Sanjabi Arindam Banerjee, Accelerated Alternating Direction Method of Multipliers, KDD2015
++ [15], Zhengping Che David Kale Wenzhe Li Mohammad Taha Bahadori Yan Liu, Deep Computational Phenotyping, KDD2015
++ [15], Janani Kalyanam Amin Mantrach Diego Saez-Trumper Hossein Vahabi Gert Lanckriet, Leveraging Social Context for Modeling Topic Evolution, KDD2015
++ [15], Alexandros Karakasidis Georgia Koloniari Vassilios S. Verykios, Scalable Blocking for Privacy Preserving Record Linkage, KDD2015
++ [15], Noriaki Kawamae, Real Time Recommendations from Connoisseurs, KDD2015
++ [15], Emre KıcKıman Matthew Richardson, Towards Decision Support and Goal Achievement: Identifying Action-Outcome Relationships From Social Media, KDD2015
++ [15], Daniel Kifer, On Estimating the Swapping Rate for Categorical Data, KDD2015
++ [15], Hannah Kim Jaegul Choo Jingu Kim Chandan K. Reddy Haesun Park, Simultaneous Discovery of Common and Discriminative Topics via Joint Nonnegative Matrix Factorization, KDD2015
++ [15], Taehwan Kim Yisong Yue Sarah Taylor Iain Matthews, A Decision Tree Framework for Spatiotemporal Sequence Prediction, KDD2015
++ [15], Younghoon Kim Jiawei Han Cangzhou Yuan, TOPTRAC: Topical Trajectory Pattern Mining, KDD2015
++ [15], Dimitrios Kotzias Misha Denil Nando de Freitas Padhraic Smyth, From Group to Individual Labels Using Deep Features, KDD2015
++ [15], Srijan Kumar Francesca Spezzano V.S. Subrahmanian, VEWS: A Wikipedia Vandal Early Warning System, KDD2015
++ [15], Chia-Tung Kuo Xiang Wang Peter Walker Owen Carmichael Jieping Ye Ian Davidson, Unified and Contrasting Cuts in Multiple Graphs: Application to Medical Imaging Segmentation, KDD2015
++ [15], Chao Lan Jun Huan, Reducing the Unlabeled Sample Complexity of Semi-Supervised Multi-View Learning, KDD2015
++ [15], Jaewoo Lee Yue Wang Daniel Kifer, Maximum Likelihood Postprocessing for Differential Privacy under Consistency Constraints, KDD2015
++ [15], Siyu Lei Silviu Maniu Luyi Mo Reynold Cheng Pierre Senellart, Online Influence Maximization, KDD2015
++ [15], Liangyue Li Hanghang Tong, The Child is Father of the Man: Foresee the Success at the Early Stage, KDD2015
++ [15], Ping Li, 0-Bit Consistent Weighted Sampling, KDD2015
++ [15], Yaliang Li Qi Li Jing Gao Lu Su Bo Zhao Wei Fan Jiawei Han, On the Discovery of Evolving Truth, KDD2015
++ [15], Yongsub Lim U Kang, MASCOT: Memory-efficient and Accurate Sampling for Counting Local Triangles in Graph Streams, KDD2015
++ [15], Su-Chen Lin Shou-De Lin Ming-Syan Chen, A Learning-based Framework to Handle Multi-round Multi-party Influence Maximization on Social Networks, KDD2015
++ [15], Chuanren Liu Fei Wang Jianying Hu Hui Xiong, Temporal Phenotyping from Longitudinal Electronic Health Records: A Graph Based Framework, KDD2015
++ [15], Hongfu Liu Tongliang Liu Junjie Wu Dacheng Tao Yun Fu, Spectral Ensemble Clustering, KDD2015
++ [15], Felipe Llinares-López Mahito Sugiyama Laetitia Papaxanthos Karsten Borgwardt, Fast and Memory-Efficient Significant Pattern Mining via Permutation Testing, KDD2015
++ [15], Brendan Lucier Joel Oren Yaron Singer, Influence at Scale: Distributed Computation of Complex Contagion in Networks, KDD2015
++ [15], Fenglong Ma Yaliang Li Qi Li Minghui Qiu Jing Gao Shi Zhi Lu Su Bo Zhao Heng Ji Jiawei Han, FaitCrowd: Fine Grained Truth Discovery for Crowdsourced Data Aggregation, KDD2015
++ [15], Mohammad Mahdian Okke Schrijvers Sergei Vassilvitskii, Algorithmic Cartography: Placing Points of Interest and Ads on Maps, KDD2015
++ [15], Qi Mao Li Wang Steve Goodison Yijun Sun, Dimensionality Reduction Via Graph Structure Learning, KDD2015
++ [15], William B. March Bo Xiao Sameer Tharakan Chenhan D. Yu George Biros, Robust Treecode Approximation for Kernel Machines, KDD2015
++ [15], Julian McAuley Rahul Pandey Jure Leskovec, Inferring Networks of Substitutable and Complementary Products, KDD2015
 
 
 #### SESSION: Research Paper Presentations (Part 2)
++ [15], Bryan Minor Janardhan Rao Doppa Diane J. Cook, Data-Driven Activity Prediction: Algorithms, Evaluation Methodology, and Applications, KDD2015
++ [15], Michael Mitzenmacher Jakub Pachocki Richard Peng Charalampos Tsourakakis Shen Chen Xu, Scalable Large Near-Clique Detection in Large-Scale Networks via Sampling, KDD2015
++ [15], Davide Mottin Francesco Bonchi Francesco Gullo, Graph Query Reformulation with Diversity, KDD2015
++ [15], Jingchao Ni Hanghang Tong Wei Fan Xiang Zhang, Flexible and Robust Multi-Network Clustering, KDD2015
++ [15], Kirill Nikolaev Alexey Drutsa Ekaterina Gladkikh Alexander Ulianov Gleb Gusev Pavel Serdyukov, Extreme States Distribution Decomposition Method for Search Engine Online Evaluation, KDD2015
++ [15], Nozomi Nori Hisashi Kashima Kazuto Yamashita Hiroshi Ikai Yuichi Imanaka, Simultaneous Modeling of Multiple Diseases for Mortality Prediction in Acute Hospital Care, KDD2015
++ [15], Jinoh Oh Wook-Shin Han Hwanjo Yu Xiaoqian Jiang, Fast and Robust Parallel SGD Matrix Factorization, KDD2015
++ [15], Naoto Ohsaka Takanori Maehara Ken-ichi Kawarabayashi, Efficient PageRank Tracking in Evolving Networks, KDD2015
++ [15], Shota Okumura Yoshiki Suzuki Ichiro Takeuchi, Quick Sensitivity Analysis for Incremental Data Modification and Its Application to Leave-one-out CV in Linear Classification Problems, KDD2015
++ [15], Mingdong Ou Peng Cui Fei Wang Jun Wang Wenwu Zhu, Non-transitive Hashing with Latent Similarity Components, KDD2015
++ [15], Pan Chao Qiming Huang Michael Zhu, Optimal Kernel Group Transformation for Exploratory Regression Analysis and Graphics, KDD2015
++ [15], Christina Papagiannopoulou Grigorios Tsoumakas Ioannis Tsamardinos, Discovering and Exploiting Deterministic Label Relationships in Multi-Label Learning, KDD2015
++ [15], Chong Peng Zhao Kang Huiqing Li Qiang Cheng, Subspace Clustering Using Log-determinant Rank Approximation, KDD2015
++ [15], Abdulhakim A. Qahtan Basma Alharbi Suojin Wang Xiangliang Zhang, A PCA-Based Change Detection Framework for Multidimensional Data Streams: Change Detection in Multidimensional Data Streams, KDD2015
++ [15], Guo-Jun Qi Charu Aggarwal Deepak Turaga Daby Sow Phil Anno, State-Driven Dynamic Sensor Selection and Prediction with State-Stacked Sparseness, KDD2015
++ [15], Shiyou Qian Jian Cao Frédéric Le Mouël Issam Sahel Minglu Li, SCRAM: A Sharing Considered Route Assignment Mechanism for Fair Taxi Route Recommendations, KDD2015
++ [15], Lu Qin Rong-Hua Li Lijun Chang Chengqi Zhang, Locally Densest Subgraph Discovery, KDD2015
++ [15], Angeliki Rapti Spyros Sioutas Kostas Tsichlas Giannis Tzimas, Virus Propagation in Multiple Profile Networks, KDD2015
++ [15], Shebuti Rayana Leman Akoglu, Collective Opinion Spam Detection: Bridging Review Networks and Metadata, KDD2015
++ [15], Xiang Ren Ahmed El-Kishky Chi Wang Fangbo Tao Clare R. Voss Jiawei Han, ClusType: Effective Entity Recognition and Typing by Relation Phrase-Based Clustering, KDD2015
++ [15], Matteo Riondato Eli Upfal, Mining Frequent Itemsets through Progressive Sampling with Rademacher Averages, KDD2015
++ [15], Yu Rong Hong Cheng Zhiyu Mo, Why It Happened: Identifying and Modeling the Reasons of the Happening of Social Events, KDD2015
++ [15], Natali Ruchansky Mark Crovella Evimaria Terzi, Matrix Completion with Queries, KDD2015
++ [15], Issei Sato Hiroshi Nakagawa, Stochastic Divergence Minimization for Online Collapsed Variational Bayes Zero Inference of Latent Dirichlet Allocation, KDD2015
++ [15], Aaron Schein John Paisley David M. Blei Hanna Wallach, Bayesian Poisson Tensor Factorization for Inferring Multilateral Relations from Sparse Dyadic Event Counts, KDD2015
++ [15], Neil Shah Danai Koutra Tianmin Zou Brian Gallagher Christos Faloutsos, TimeCrunch: Interpretable Dynamic Graph Summarization, KDD2015
++ [15], Dafna Shahaf Eric Horvitz Robert Mankoff, Inside Jokes: Identifying Humorous Cartoon Captions, KDD2015
++ [15], Junming Shao Zhichao Han Qinli Yang Tao Zhou, Community Detection based on Distance Dynamics, KDD2015
++ [15], Mohammad Shokoohi-Yekta Yanping Chen Bilson Campana Bing Hu Jesin Zakaria Eamonn Keogh, Discovery of Meaningful Rules in Time Series, KDD2015
++ [15], Julian Shun, An Evaluation of Parallel Eccentricity Estimation Algorithms on Undirected Real-World Graphs, KDD2015
++ [15], Dongjin Song David A. Meyer Dacheng Tao, Efficient Latent Link Recommendation in Signed Networks, KDD2015
++ [15], Shaoxu Song Chunping Li Xiaoquan Zhang, Turn Waste into Wealth: On Simultaneous Clustering and Cleaning over Dirty Data, KDD2015
++ [15], Stergios Stergiou Kostas Tsioutsiouliklis, Set Cover at Web Scale, KDD2015
++ [15], Yu Su Shengqi Yang Huan Sun Mudhakar Srivatsa Sue Kase Michelle Vanni Xifeng Yan, Exploiting Relevance Feedback in Knowledge Graph Search, KDD2015
++ [15], Zhaonan Sun Fei Wang Jianying Hu, LINKAGE: An Approach for Comprehensive Risk Prediction for Care Management, KDD2015
++ [15], Ben Tan Yangqiu Song Erheng Zhong Qiang Yang, Transitive Transfer Learning, KDD2015
++ [15], Jian Tang Meng Qu Qiaozhu Mei, PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks, KDD2015
++ [15], Ya-Wen Teng Chih-Hua Tai Philip S. Yu Ming-Syan Chen, An Effective Marketing Strategy for Revenue Maximization with a Quantity Constraint, KDD2015
++ [15], Kenneth Tran Saghar Hosseini Lin Xiao Thomas Finley Mikhail Bilenko, Scaling Up Stochastic Dual Coordinate Ascent, KDD2015
++ [15], Hastagiri P. Vanchinathan Andreas Marfurt Charles-Antoine Robelin Donald Kossmann Andreas Krause, Discovering Valuable items from Massive Data, KDD2015
++ [15], Vivek Veeriah Rohit Durvasula Guo-Jun Qi, Deep Learning Architecture with Dynamically Programmed Layers for Brain Connectome Prediction, KDD2015
++ [15], Chenguang Wang Yangqiu Song Ahmed El-Kishky Dan Roth Ming Zhang Jiawei Han, Incorporating World Knowledge to Document Clustering via Heterogeneous Information Networks, KDD2015
++ [15], Chi Wang Xueqing Liu Yanglei Song Jiawei Han, Towards Interactive Construction of Topical Hierarchy: A Recursive Tensor Decomposition Approach, KDD2015
++ [15], Hao Wang Naiyan Wang Dit-Yan Yeung, Collaborative Deep Learning for Recommender Systems, KDD2015
++ [15], Jialei Wang Ryohei Fujimaki Yosuke Motohashi, Trading Interpretability for Accuracy: Oblique Treed Sparse Additive Models, KDD2015
++ [15], Weiqing Wang Hongzhi Yin Ling Chen Yizhou Sun Shazia Sadiq Xiaofang Zhou, Geo-SAGE: A Geographical Sparse Additive Generative Model for Spatial Item Recommendation, KDD2015
++ [15], Yichen Wang Robert Chen Joydeep Ghosh Joshua C. Denny Abel Kho You Chen Bradley A. Malin Jimeng Sun, Rubik: Knowledge Guided Tensor Factorization and Completion for Health Data Analytics, KDD2015
++ [15], Yingzi Wang Nicholas Jing Yuan Defu Lian Linli Xu Xing Xie Enhong Chen Yong Rui, Regularity and Conformity: Location Prediction Using Heterogeneous Mobility Data, KDD2015
++ [15], Zheng Wang Prithwish Chakraborty Sumiko R. Mekaru John S. Brownstein Jieping Ye Naren Ramakrishnan, Dynamic Poisson Autoregression for Influenza-Like-Illness Case Count Prediction, KDD2015
++ [15], Jörg Wicker Nicolas Krauter Bettina Derstorff Christof Stönner Efstratios Bourtsoukidis Thomas Klüpfel Jonathan Williams Stefan Kramer, Cinema Data Mining: The Smell of Fear, KDD2015
++ [15], Wush Chi-Hsuan Wu Mi-Yen Yeh Ming-Syan Chen, Predicting Winning Price in Real Time Bidding with Censored Data, KDD2015
++ [15], Pengtao Xie Yuntian Deng Eric Xing, Diversifying Restricted Boltzmann Machine for Document Modeling, KDD2015
++ [15], Wenlei Xie David Bindel Alan Demers Johannes Gehrke, Edge-Weighted Personalized PageRank: Breaking A Decade-Old Performance Barrier, KDD2015
++ [15], Eric P. Xing Qirong Ho Wei Dai Jin-Kyu Kim Jinliang Wei Seunghak Lee Xun Zheng Pengtao Xie Abhimanu Kumar Yaoliang Yu, Petuum: A New Platform for Distributed Machine Learning on Big Data, KDD2015
++ [15], Tingyang Xu Jiangwen Sun Jinbo Bi, Longitudinal LASSO: Jointly Learning Features and Temporal Contingency for Outcome Prediction, KDD2015
++ [15], Feng Yan Olatunji Ruwase Yuxiong He Trishul Chilimbi, Performance Modeling and Scalability Optimization of Distributed Deep Learning Systems, KDD2015
++ [15], Pinar Yanardag S.V.N. Vishwanathan, Deep Graph Kernels, KDD2015
++ [15], Pei Yang Jingrui He, Model Multiple Heterogeneity via Hierarchical Multi-Latent Space Learning, KDD2015
++ [15], Sen Yang Qian Sun Shuiwang Ji Peter Wonka Ian Davidson Jieping Ye, Structural Graphical Lasso for Learning Mouse Brain Connectivity, KDD2015
++ [15], Yang Yang Yizhou Sun Jie Tang Bo Ma Juanzi Li, Entity Matching across Heterogeneous Sources, KDD2015
++ [15], Jinfeng Yi Lijun Zhang Tianbao Yang Wei Liu Jun Wang, An Efficient Semi-Supervised Clustering Algorithm with Sequential Constraints, KDD2015
++ [15], Chao Zhang Yu Zheng Xiuli Ma Jiawei Han, Assembler: Efficient Discovery of Spatial Co-evolving Patterns in Massive Geo-sensory Data, KDD2015
++ [15], Hao Zhang Gunhee Kim Eric P. Xing, Dynamic Topic Modeling for Monitoring Market Competition from Online Text and Image Data, KDD2015
++ [15], Jiawei Zhang Philip S. Yu Yuanhua Lv, Organizational Chart Inference, KDD2015
++ [15], Jing Zhang Jie Tang Cong Ma Hanghang Tong Yu Jing Juanzi Li, Panther: Fast Top-k Similarity Search on Large Networks, KDD2015
++ [15], Wei Zhang Jianyong Wang, A Collective Bayesian Poisson Factorization Model for Cold-start Local Event Recommendation, KDD2015
++ [15], Weinan Zhang Jun Wang, Statistical Arbitrage Mining for Display Advertising, KDD2015
++ [15], Wenlu Zhang Rongjian Li Tao Zeng Qian Sun Sudhir Kumar Jieping Ye Shuiwang Ji, Deep Model Based Transfer and Multi-Task Learning for Biological Image Analysis, KDD2015
++ [15], Yutao Zhang Jie Tang Zhilin Yang Jian Pei Philip S. Yu, COSNET: Connecting Heterogeneous Social Networks with Local and Global Consistency, KDD2015
++ [15], Huasha Zhao Biye Jiang John F. Canny Bobby Jaros, SAME but Different: Fast and High Quality Gibbs Parameter Estimation, KDD2015
++ [15], Liang Zhao Qian Sun Jieping Ye Feng Chen Chang-Tien Lu Naren Ramakrishnan, Multi-Task Learning for Spatio-Temporal Event Forecasting, KDD2015
++ [15], Qingyuan Zhao Murat A. Erdogdu Hera Y. He Anand Rajaraman Jure Leskovec, SEISMIC: A Self-Exciting Point Process Model for Predicting Tweet Popularity, KDD2015
++ [15], Xun Zheng Yaoliang Yu Eric P. Xing, Linear Time Samplers for Supervised Topic Models using Compositional Proposals, KDD2015
++ [15], Yan Zheng Jeff M. Phillips, L∞ Error and Bandwidth Selection for Kernel Density Estimates of Large Data, KDD2015
++ [15], Shi Zhi Bo Zhao Wenzhu Tong Jing Gao Dian Yu Heng Ji Jiawei Han, Modeling Truth Existence in Truth Discovery, KDD2015
++ [15], Li Zhou David G. Andersen Mu Li Alexander J. Smola, Cuckoo Linear Algebra, KDD2015
++ [15], Yang Zhou Ling Liu David Buttler, Integrating Vertex-centric Clustering with Edge-centric Clustering for Meta Path Graph Analysis, KDD2015
++ [15], Wen-Yuan Zhu Wen-Chih Peng Ling-Jyh Chen Kai Zheng Xiaofang Zhou, Modeling User Mobility for Location Promotion in Location-based Social Networks, KDD2015
++ [15], Yada Zhu Hongxia Yang Jingrui He, Co-Clustering based Dual Prediction for Cargo Pricing Optimization, KDD2015
++ [15], Honglei Zhuang Aditya Parameswaran Dan Roth Jiawei Han, Debiasing Crowdsourced Batches, KDD2015
++ [15], Kostas Zoumpatianos Yin Lou Themis Palpanas Johannes Gehrke, Query Workloads for Data Series Indexes, KDD2015
 
 
 #### SESSION: Industry & Government Track Invited Talks
++ [15], Deepak Agarwal, Scaling Machine Learning and Statistics for Web Applications, KDD2015
++ [15], Amr Awadallah, Hadoop's Impact on the Future of Data Management, KDD2015
++ [15], Vasant Dhar, Should You Trust Your Money to a Robot?, KDD2015
++ [15], Waqar Hasan Min Wang, Data Science at Visa, KDD2015
++ [15], George John, How Artificial Intelligence and Big Data Created Rocket Fuel: A Case Study, KDD2015
++ [15], Anil Kamath, Optimizing Marketing Impact through Data Driven Decisioning, KDD2015
++ [15], Bassel Ojjeh, Powering Real-time Decision Engines in Finance and Healthcare using Open Source Software, KDD2015
++ [15], Joseph Sirosh, Clouded Intelligence, KDD2015
++ [15], Christopher White, Data Science from the Lab to the Field to the Enterprise, KDD2015
++ [15], Qiang Yang, User Modeling in Telecommunications and Internet Industry, KDD2015
 
 
 #### SESSION: Industry & Government Track Papers
++ [15], Panagiotis Adamopoulos Vilma Todri, The Effectiveness of Marketing Strategies in Social Media: Evidence from Promotional Events, KDD2015
++ [15], Deepak Agarwal Bee-Chung Chen Qi He Zhenhao Hua Guy Lebanon Yiming Ma Pannagadatta Shivaswamy Hsiao-Ping Tseng Jaewon Yang Liang Zhang, Personalizing LinkedIn Feed, KDD2015
++ [15], Rakesh Agrawal Behzad Golshan Evangelos Papalexakis, Whither Social Networks for Web Search?, KDD2015
++ [15], Marco Arlorio Jean Daniel Coisson Giorgio Leonardi Monica Locatelli Luigi Portinale, Exploiting Data Mining for Authenticity Assessment and Protection of High-Quality Italian Wines from Piedmont, KDD2015
++ [15], Yukino Baba Hisashi Kashima Yasunobu Nohara Eiko Kai Partha Ghosh Rafiqul Islam Ashir Ahmed Masahiro Kuroda Sozo Inoue Tatsuo Hiramatsu Michio Kimura Shuji Shimizu Kunihisa Kobayashi Koji Tsuda Masashi Sugiyama Mathieu Blondel Naonori Ueda Masaru Kitsuregawa Naoki Nakashima, Predictive Approaches for Low-Cost Preventive Medicine Program in Developing Countries, KDD2015
++ [15], Senjuti Basu Roy Ankur Teredesai Kiyana Zolfaghar Rui Liu David Hazel Stacey Newman Albert Marinez, Dynamic Hierarchical Classification for Patient Risk-of-Readmission, KDD2015
++ [15], Josep Lluís Berral Nicolas Poggi David Carrera Aaron Call Rob Reinauer Daron Green, ALOJA-ML: A Framework for Automating Characterization and Knowledge Discovery in Hadoop Deployments, KDD2015
++ [15], Mirela Madalina Botezatu Jasmina Bogojeska Ioana Giurgiu Hagen Voelzer Dorothea Wiesmann, Multi-View Incident Ticket Clustering for Optimal Ticket Dispatching, KDD2015
++ [15], Rich Caruana Yin Lou Johannes Gehrke Paul Koch Marc Sturm Noemie Elhadad, Intelligible Models for HealthCare: Predicting Pneumonia Risk and Hospital 30-day Readmission, KDD2015
++ [15], Emily Denton Jason Weston Manohar Paluri Lubomir Bourdev Rob Fergus, User Conditional Hashtag Prediction for Images, KDD2015
++ [15], Amit Dhurandhar Bruce Graves Rajesh Ravi Gopikrishanan Maniachari Markus Ettl, Big Data System for Analyzing Risky Procurement Entities, KDD2015
++ [15], Brendan Andrew Duncan Charles Peter Elkan, Probabilistic Modeling of a Sales Funnel to Prioritize Leads, KDD2015
++ [15], Varun R. Embar Indrajit Bhattacharya Vinayaka Pandit Roman Vaculin, Online Topic-based Social Influence Analysis for the Wimbledon Championships, KDD2015
++ [15], Shobeir Fakhraei James Foulds Madhusudana Shashanka Lise Getoor, Collective Spammer Detection in Evolving Multi-Relational Social Networks, KDD2015
++ [15], Ronen Feldman Oded Netzer Aviv Peretz Binyamin Rosenfeld, Utilizing Text Mining on Online Medical Forums to Predict Label Change due to Adverse Drug Reactions, KDD2015
++ [15], Antonino Freno Martin Saveski Rodolphe Jenatton Cédric Archambeau, One-Pass Ranking Models for Low-Latency Product Recommendations, KDD2015
++ [15], Oana Goga Patrick Loiseau Robin Sommer Renata Teixeira Krishna P. Gummadi, On the Reliability of Profile Matching Across Large Online Social Networks, KDD2015
++ [15], Mihajlo Grbovic Vladan Radosavljevic Nemanja Djuric Narayan Bhamidipati Jaikit Savla Varun Bhagwan Doug Sharp, E-commerce in Your Inbox: Product Recommendations at Scale, KDD2015
++ [15], Mihajlo Grbovic Vladan Radosavljevic Nemanja Djuric Narayan Bhamidipati Ananth Nagarajan, Gender and Interest Targeting for Sponsored Post Advertising at Tumblr, KDD2015
++ [15], Ben Green Alejandra Caro Matthew Conway Robert Manduca Tom Plagge Abby Miller, Mining Administrative Data to Spur Urban Revitalization, KDD2015
++ [15], Daniel N. Hill Robert Moakler Alan E. Hubbard Vadim Tsemekhman Foster Provost Kiril Tsemekhman, Measuring Causal Impact of Online Actions via Natural Experiments: Application to Display Advertising, KDD2015
++ [15], Henning Hohnhold Deirdre O'Brien Diane Tang, Focusing on the Long-term: It's Good for Users and Business, KDD2015
++ [15], Thomas Holleczek Dang The Anh Shanyang Yin Yunye Jin Spiros Antonatos Han Leong Goh Samantha Low Amy Shi-Nash, Traffic Measurement and Route Recommendation System for Mass Rapid Transit (MRT), KDD2015
++ [15], Elena Ikonomovska Sina Jafarpour Ali Dasdan, Real-Time Bid Prediction using Thompson Sampling-Based Expert Selection, KDD2015
++ [15], Peng Jiang Yadong Zhu Yi Zhang Quan Yuan, Life-stage Prediction for Product Recommendation in E-commerce, KDD2015
++ [15], Yushi Jing David Liu Dmitry Kislyuk Andrew Zhai Jiajing Xu Jeff Donahue Sarah Tavel, Visual Search at Pinterest, KDD2015
++ [15], Gunhee Kim Leonid Sigal, Discovering Collective Narratives of Theme Parks from Large Collections of Visitors' Photo Streams, KDD2015
++ [15], Himabindu Lakkaraju Everaldo Aguiar Carl Shan David Miller Nasir Bhanpuri Rayid Ghani Kecia L. Addison, A Machine Learning Framework to Identify Students at Risk of Adverse Academic Outcomes, KDD2015
++ [15], Yair Lakretz Gal Chechik Naama Friedmann Michal Rosen-Zvi, Probabilistic Graphical Models of Dyslexia, KDD2015
++ [15], Mounia Lalmas Janette Lehmann Guy Shaked Fabrizio Silvestri Gabriele Tolomei, Promoting Positive Post-Click Experience for In-Stream Yahoo Gemini Users, KDD2015
++ [15], Nikolay Laptev Saeed Amizadeh Ian Flint, Generic and Scalable Framework for Automated Time-series Anomaly Detection, KDD2015
++ [15], Joonseok Lee Ariel Fuxman Bo Zhao Yuanhua Lv, Leveraging Knowledge Bases for Contextual Entity Exploration, KDD2015
++ [15], Cheng Li Yue Lu Qiaozhu Mei Dong Wang Sandeep Pandey, Click-through Prediction for Advertising in Twitter Timeline, KDD2015
++ [15], Ying Li Jose D. Contreras Luis J. Salazar, Predicting Voice Elicited Emotions, KDD2015
++ [15], Shigeru Maya Kai Morino Hiroshi Murata Ryo Asaoka Kenji Yamanishi, Discovery of Glaucoma Progressive Patterns Using Hierarchical MDL-Based Clustering, KDD2015
++ [15], Xu Miao Chun-Te Chu Lijun Tang Yitong Zhou Joel Young Anmol Bhasin, Distributed Personalization, KDD2015
++ [15], Rajendu Mitra Ramachandra Kota Sambaran Bandyopadhyay Vijay Arya Brian Sullivan Richard Mueller Heather Storey Gerard Labut, Voltage Correlations in Smart Meter Data, KDD2015
++ [15], Marjan Momtazpour Jinghe Zhang Saifur Rahman Ratnesh Sharma Naren Ramakrishnan, Analyzing Invariants in Cyber-Physical Systems using Latent Factor Regression, KDD2015
++ [15], Meenakshi Nagarajan Angela D. Wilkins Benjamin J. Bachman Ilya B. Novikov Shenghua Bao Peter J. Haas María E. Terrón-Díaz Sumit Bhatia Anbu K. Adikesavan Jacques J. Labrie Sam Regenbogen Christie M. Buchovecky Curtis R. Pickering Linda Kato Andreas M. Lisewski Ana Lelescu Houyin Zhang Stephen Boyer Griff Weber Ying Chen Lawrence Donehower Scott Spangler Olivier Lichtarge, Predicting Future Scientific Discoveries Based on a Networked Analysis of the Past Literature, KDD2015
++ [15], Vinod Nair Ameya Raul Shwetabh Khanduja Vikas Bahirwani Sundararajan Sellamanickam Sathiya Keerthi Steve Herbert Sudheer Dhulipalla, Learning a Hierarchical Monitoring System for Detecting and Diagnosing Service Issues, KDD2015
++ [15], Eric Potash Joe Brew Alexander Loewi Subhabrata Majumdar Andrew Reece Joe Walsh Eric Rozier Emile Jorgenson Raed Mansour Rayid Ghani, Predictive Modeling for Public Health: Preventing Childhood Lead Poisoning, KDD2015
++ [15], Kevin B. Pratt, Proof Protocol for a Machine Learning Technique Making Longitudinal Predictions in Dynamic Contexts, KDD2015
++ [15], Johann Schleier-Smith, An Architecture for Agile Machine Learning in Real-Time Applications, KDD2015
++ [15], Manu Sethi Yupeng Yan Anand Rangarajan Ranga Raju Vatsavai Sanjay Ranka, Scalable Machine Learning Approaches for Neighborhood Classification Using Very High Resolution Remote Sensing Imagery, KDD2015
++ [15], Elham Shaabani Ashkan Aleali Paulo Shakarian John Bertetto, Early Identification of Violent Criminal Gang Members, KDD2015
++ [15], Vinay Shashidhar Nishant Pandey Varun Aggarwal, Spoken English Grading: Machine Learning with Crowd Intelligence, KDD2015
++ [15], Jianqiang Shen Sahin Cem Geyik Ali Dasdan, Effective Audience Extension in Online Advertising, KDD2015
++ [15], Virginia Smith Miriam Connor Isabelle Stanton, Going In-Depth: Finding Longform on the Web, KDD2015
++ [15], Sriram Somanchi Samrachana Adhikari Allen Lin Elena Eneva Rayid Ghani, Early Prediction of Cardiac Arrest (Code Blue) using Electronic Medical Records, KDD2015
++ [15], Nemanja Spasojevic Zhisheng Li Adithya Rao Prantik Bhattacharyya, When-To-Post on Social Networks, KDD2015
++ [15], Andrew Stanton Amanda Thart Ashish Jain Priyank Vyas Arpan Chatterjee Paulo Shakarian, Mining for Causal Relationships: A Data-Driven Study of the Islamic State, KDD2015
++ [15], Qian Sun Mohammad Amin Baoshi Yan Craig Martell Vita Markman Anmol Bhasin Jieping Ye, Transfer Learning for Bilingual Content Classification, KDD2015
++ [15], Vincent S. Tseng Jia-Ching Ying Che-Wei Huang Yimin Kao Kuan-Ta Chen, FrauDetector: A Graph-Mining-based Framework for Fraudulent Phone Call Detection, KDD2015
++ [15], Liudmila Ulanova Tan Yan Haifeng Chen Guofei Jiang Eamonn Keogh Kai Zhang, Efficient Long-Term Degradation Profiling in Time Series for Complex Physical Systems, KDD2015
++ [15], Bhanu C. Vattikonda Santhosh Kodipaka Hongyan Zhou Vacha Dave Saikat Guha Alex C. Snoeren, Interpreting Advertiser Intent in Sponsored Search, KDD2015
++ [15], Vasilis Verroios Panagiotis Papadimitriou Ramesh Johari Hector Garcia-Molina, Client Clustering for Hiring Modeling in Work Marketplaces, KDD2015
++ [15], Qing Wang Hengshu Zhu Wei Hu Zhiyong Shen Yuan Yao, Discerning Tactical Patterns for Professional Soccer Teams: An Enhanced Topic Model with Applications, KDD2015
++ [15], Xinyu Wei Patrick Lucey Stuart Morgan Peter Carr Machar Reid Sridha Sridharan, Predicting Serves in Tennis using Style Priors, KDD2015
++ [15], Jian Xu Kuang-chih Lee Wentong Li Hang Qi Quan Lu, Smart Pacing for Effective Online Ad Campaign Optimization, KDD2015
++ [15], Ya Xu Nanyu Chen Addrian Fernandez Omar Sinno Anmol Bhasin, From Infrastructure to Culture: A/B Testing Challenges in Large Scale Social Networks, KDD2015
++ [15], Kui Yu Dawei Wang Wei Ding Jian Pei David L. Small Shafiqul Islam Xindong Wu, Tornado Forecasting with Multiple Markov Boundaries, KDD2015
++ [15], Chao Yuan Matthias Behmann Bernhard Meerbeck, Gas Concentration Reconstruction for Coal-Fired Boilers Using Gaussian Process, KDD2015
++ [15], Weinan Zhang Amr Ahmed Jie Yang Vanja Josifovski Alex J. Smola, Annotating Needles in the Haystack without Looking: Product Information Extraction from Emails, KDD2015
++ [15], Yu Zheng Xiuwen Yi Ming Li Ruiyuan Li Zhangqing Shan Eric Chang Tianrui Li, Forecasting Fine-Grained Air Quality Based on Big Data, KDD2015
++ [15], Erheng Zhong Nathan Liu Yue Shi Suju Rajan, Building Discriminative User Profiles for Large-scale Content Recommendation, KDD2015
++ [15], Wenliang Zhong Rong Jin Cheng Yang Xiaowei Yan Qi Zhang Qiang Li, Stock Constrained Recommendation in Tmall, KDD2015
++ [15], Zhengyi Zhou David S. Matteson, Predicting Ambulance Demand: a Spatio-Temporal Kernel Approach, KDD2015
 
 
 #### TUTORIAL SESSION: Tutorials
++ [15], Shlomo Berkovsky Jill Freyne, Web Personalization and Recommender Systems, KDD2015
++ [15], Alex Beutel Leman Akoglu Christos Faloutsos, Graph-Based User Behavior Modeling: From Prediction to Fraud Detection, KDD2015
++ [15], Xin Fu Hernán Asorey, Data-Driven Product Innovation, KDD2015
++ [15], Aristides Gionis Charalampos E. Tsourakakis, Dense Subgraph Discovery: KDD 2015 tutorial, KDD2015
++ [15], Manuel Gomez Rodriguez Le Song, Diffusion in Social and Information Networks: Research Problems, Probabilistic Models and Machine Learning Methods, KDD2015
++ [15], Yan Liu Sanjay Chawla, Social Media Anomaly Detection: Challenges and Solutions, KDD2015
++ [15], Xiang Ren Ahmed El-Kishky Chi Wang Jiawei Han, Automatic Entity Recognition and Typing from Massive Text Corpora: A Phrase and Network Mining Approach, KDD2015
++ [15], Matteo Riondato Eli Upfal, VC-Dimension and Rademacher Averages: From Statistical Learning Theory to Sampling Algorithms, KDD2015
++ [15], James G. Shanahan Laing Dai, Large Scale Distributed Data Science using Apache Spark, KDD2015
++ [15], Myra Spiliopoulou Pedro Pereira Rodrigues Ernestina Menasalvas, Medical Mining: KDD 2015 Tutorial, KDD2015
++ [15], Tianbao Yang Qihang Lin Rong Jin, Big Data Analytics: Optimization and Randomization, KDD2015
 
 
 #### PANEL SESSION: Panel
