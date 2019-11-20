@@ -1199,7 +1199,7 @@ https://campus.acm.org/calendar/Index.cfm?confid=2020-46939
 ### Best (Misc Sources)
 + [CEK15] Flavio Chierichetti,Alessandro Epasto,Ravi Kumar .etc, Efficient Algorithms for Public-Private Social Networks, 2015
 
-### KDD2015
+### KDD2015 (Reference https://dl.acm.org/citation.cfm?id=2783258)
 
 #### Best Award
 
