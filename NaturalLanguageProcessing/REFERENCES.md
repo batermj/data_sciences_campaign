@@ -16,6 +16,9 @@
 ## LSTM and QRNN Language Model Toolkit for PyTorch
 + LSTM and QRNN Language Model Toolkit for PyTorch, https://github.com/salesforce/awd-lstm-lm
  
+## Bert
++ Natural Language Processing Best Practices & Examples, https://github.com/microsoft/nlp-recipes
+
 ## Topic Modelling
 + Topic Modelling for Humans, https://github.com/RaRe-Technologies/gensim
 
