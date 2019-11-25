@@ -86,6 +86,15 @@ https://campus.acm.org/calendar/Index.cfm?confid=2020-46939
 
 ### Best (Misc Sources)
 
+### CIKM 2019 (http://www.cikm2019.net/posters.html)
+
+#### Best Award
++ [19], Qingqing Long, Yiming Wang, Lun Du, Guojie Song, Yilun Jin, Wei Lin, Peking University, Microsoft Research, Alibaba, Hierarchical Community Structure Preserving Network Embedding: A Subspace Approach
++ [19], Ao Li, Zhou Qin, Runshi Liu, Yiqun Yang, Dong Li, Alibaba, Spam Review Detection with Graph Convolutional Networks
++ [19], Alex Bozarth, Brendan Dwyer, Fei Hu, Daniel Jalova, Karthik Muthuraman, Nick Pentreath, Simon Plovyt, Gabriela de Queiroz, Saishruthi Swaminathan, Patrick Titzler, Xin Wu, Hong Xu, Frederick R. Reiss,Vijay Bommireddipalli, IBM, Model Asset eXchange: Path to Ubiquitous Deep Learning Deployment
+
+#### Poster
+
 ### KDD2019
 
 #### Best Award
