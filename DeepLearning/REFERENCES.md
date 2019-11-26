@@ -371,6 +371,8 @@ Source: https://github.com/CancerDataScience/SurvivalNet
 + Accompanying notebook for the Entailment with Tensorflow article, https://github.com/Steven-Hewitt/Entailment-with-Tensorflow
 + A collection of deep learning tutorials using Tensorflow and Python, https://github.com/awjuliani/TF-Tutorials
 + Convolutional Neural Network for Text Classification in Tensorflow, https://github.com/dennybritz/cnn-text-classification-tf
++ A TensorFlow implementation of Baidu's DeepSpeech architecture, https://github.com/mozilla/DeepSpeech
++ Code for the book Deep Learning with PyTorch by Eli Stevens and Luca Antiga, https://github.com/deep-learning-with-pytorch/dlwpt-code, https://www.manning.com/books/deep-learning-with-pytorch
 
 ## MXNET
 + Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more https://mxnet.apache.org,https://github.com/apache/incubator-mxnet
