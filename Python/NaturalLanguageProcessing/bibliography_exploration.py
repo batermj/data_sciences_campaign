@@ -221,12 +221,29 @@ def sort_bibliography_kdd_2015(input_file_path, output_file_path, pub_year=None)
             result_file.write(merged_line)
             line_no = line_no + 1
 
+# uses for 2019
+def sort_bibliography_cikm_2019(input_file_path, output_file_path, pub_year=None):
+    f = open(input_file_path)
+    lines = f.readlines()
+    f.close()
+
+    with open(output_file_path, "a") as result_file:
+        line_no = 1
+        for idx in range(len(lines)//2):
+            print(f"line_no = {line_no}")
+            print(lines[2*idx:(2*idx+2)])
+
+            merged_line = f"+ [{pub_year[2:]}], " + lines[2*idx:(2*idx+2)][1].replace("\n","") + ", " + lines[2*idx:(2*idx+2)][0].replace("\n",f", CIKM{pub_year}\n")
+            result_file.write(merged_line)
+            line_no = line_no + 1
+
+
 def load_and_sort_bibliography():
     input_filename = "bibliography.txt"
     output_filename = "sorted_"+str(time.strftime('%Y%m%d%H%m%S', time.localtime())) + input_filename
     sort_bibliography(input_file_path=input_filename,output_file_path=output_filename)
 
-def load_and_sort_bibliography_from_kdd():
+def load_and_sort_bibliography_from_kdd_local():
     pub_year = "2015"
     input_filenames = []
     root_dir = f"bibliography/KDD/{pub_year}/"
@@ -244,5 +261,41 @@ def load_and_sort_bibliography_from_kdd():
         output_filename = root_dir + output_filename
         sort_bibliography_kdd_2015(input_file_path=input_filename,output_file_path=output_filename,pub_year=pub_year)
 
+def load_and_sort_bibliography_from_kdd_with_scrapy():
+    pub_year = "2015"
+    input_filenames = []
+    root_dir = f"bibliography/KDD/{pub_year}/"
+    for root, dirs, files in os.walk(root_dir):
+        print(root)
+        print(dirs)
+        print(files)
+        input_filenames = files
+
+    for input_filename in input_filenames:
+        output_filename = input_filename.split(".")[0] + str(time.strftime('%Y%m%d%H%m%S', time.localtime())) + "." + input_filename.split(".")[1]
+        print(input_filename)
+        print(output_filename)
+        input_filename = root_dir + input_filename
+        output_filename = root_dir + output_filename
+        sort_bibliography_kdd_2015(input_file_path=input_filename,output_file_path=output_filename,pub_year=pub_year)
+
+def load_and_sort_bibliography_from_cikm_local():
+    pub_year = "2019"
+    input_filenames = []
+    root_dir = f"bibliography/CIKM/{pub_year}/"
+    for root, dirs, files in os.walk(root_dir):
+        print(root)
+        print(dirs)
+        print(files)
+        input_filenames = files
+
+    for input_filename in input_filenames:
+        output_filename = input_filename.split(".")[0] + str(time.strftime('%Y%m%d%H%m%S', time.localtime())) + "." + input_filename.split(".")[1]
+        print(input_filename)
+        print(output_filename)
+        input_filename = root_dir + input_filename
+        output_filename = root_dir + output_filename
+        sort_bibliography_cikm_2019(input_file_path=input_filename,output_file_path=output_filename,pub_year=pub_year)
+
 if __name__ == "__main__":
-    load_and_sort_bibliography_from_kdd()
+    load_and_sort_bibliography_from_cikm_local()
