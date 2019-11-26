@@ -776,6 +776,25 @@ https://campus.acm.org/calendar/Index.cfm?confid=2020-46939
 ### Best (Misc Sources)
 + [ZKG18] Daniel Zügner, Amir Akbarnejad, Stephan Günnemann, Technical University of Munich, Adversarial Attacks on Neural Networks for Graph Data, Germany, 2018, https://arxiv.org/pdf/1805.07984.pdf
 
+### CIKM 2018 
+
+#### Best Award
+
+##### Test of Time Award
++ [18], David N. Milne, Ian H. Witten, Learning to Link with Wikipedia. ACM CIKM 2008
++ [18], Timothy W. Finin, Richard Fritzson, Donald P. McKay, Robin McEntire, KQML as An Agent Communication Language. ACM CIKM 1994
+
+##### Best Overall Paper
++ [18], Junqi Zhang, Yiqun Liu, Shaoping Ma, Qi Tian, Relevance Estimation with Multiple Information Sources on Search Engine Result Pages
+
+##### Best Short Paper
++ [18], Alfan Farizki Wicaksono, Alistair Moffat, Empirical Evidence for Search Effectiveness Models
+
+##### Best Demo Paper
++ [18], Edward Abel, John Keane, Norman Paton, Alvaro Fernandes, Martin Koehler, Nikolaos Konstantinou, Nurzety Azuan, Suzanne Embury, SOURCERY: User Driven Multi-Criteria Source Selection
+
+##### 
+
 ### KDD2018
 
 #### Best Award
