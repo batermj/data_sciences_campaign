@@ -21,7 +21,7 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 
 # Researchers
 + Deepak Agarwal 
-+ Jiawei Han, , Data and Information Systems Research Laboratory, Computer Science, University of Illinois at Urbana-Champaign
++ Jiawei Han, , Data and Information Systems Research Laboratory, Computer Science, University of Illinois at Urbana-Champaign, [Papers on ARXIV](https://arxiv.org/search/cs?searchtype=author&query=Han%2C+J)
 + Micheline Kamber
 + Jian Pei,
 + Pang-Ning Tan, Michigan State University, 
