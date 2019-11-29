@@ -181,7 +181,7 @@ Stefan Webb| 2016 <br>
 
 ## Natural Language Processing
 + Semantic Segmentation using Fully Convolutional Neural Network. https://github.com/upul/Semantic_Segmentation
-+ hwalsuklee/awesome-deep-text-detection-recognition, https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail
++ A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods., https://github.com/hwalsuklee/awesome-deep-text-detection-recognition
 
 ## Deep-Learning-for-Recommendation-Systems
 Deep Learning based Articles , Papers and Repositories for Recommendation Systems.
