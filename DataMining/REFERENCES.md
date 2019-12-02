@@ -793,7 +793,319 @@ https://campus.acm.org/calendar/Index.cfm?confid=2020-46939
 ##### Best Demo Paper
 + [18], Edward Abel, John Keane, Norman Paton, Alvaro Fernandes, Martin Koehler, Nikolaos Konstantinou, Nurzety Azuan, Suzanne Embury, SOURCERY: User Driven Multi-Criteria Source Selection
 
-##### 
+##### Accepted Papers for Various Sessions
++ [18], Yoelle Maarek, Alexa and Her Shopping Journey, CIKM2018
++ [18], Maarten de Rijke, Shifting Information Interactions, CIKM2018
++ [18], Edward Grefenstette, Teaching Artificial Agents to Understand Language by Modelling Reward, CIKM2018
++ [18], Fei Sun, Peng Jiang, Hanxiao Sun, Changhua Pei, Wenwu Ou, Xiaobo Wang, Multi-Source Pointer Network for Product Title Summarization, CIKM2018
++ [18], Hongzuo Xu, Yongjun Wang, Li Cheng, Yijie Wang, Xingkong Ma, Exploring a High-quality Outlying Feature Value Set for Noise-Resilient Outlier Detection in Categorical Data, CIKM2018
++ [18], Haoli Bai, Zhuangbin Chen, Michael R. Lyu, Irwin King, Zenglin Xu, UNeural Relational Topic Models for Scientific Article Analysis, CIKM2018
++ [18], Zhuoren Jiang, Liangcai Gao, Ke Yuan, Zheng Gao, Zhi Tang, Xiaozhong Liu, Mathematics Content Understanding for Cyberlearning via Formula Evolution Map, CIKM2018
++ [18], Theodoros Tzouramanis, Eleftherios Tiakas, Apostolos N. Papadopoulos, Yannis Manolopoulos, The Range Skyline Query, CIKM2018
++ [18], Paolo Ciaccia, Davide Martinenghi, FA + TA <FSA: Flexible Score Aggregation, CIKM2018
++ [18], Shuai Yang, Xipeng Shen, FALCON: A Fast Drop-In Replacement of Citation KNN for Multiple Instance Learning, CIKM2018
++ [18], Zhilin Zhang, Ke Wang, Chen Lin, Weipeng Lin, Secure Top-k Inner Product Retrieval, CIKM2018
++ [18], Xuan Wu, Lingxiao Zhao, Leman Akoglu, A Quest for Structure: Jointly Learning the Graph Structure and Semi-Supervised Classification, CIKM2018
++ [18], Qi Song, Bo Zong, Yinghui Wu, Lu-An Tang, Hui Zhang, Guofei Jiang, Haifeng Chen, TGNet: Learning to Rank Nodes in Temporal Graphs, CIKM2018
++ [18], Edoardo Galimberti, Alain Barrat, Francesco Bonchi, Ciro Cattuto, Francesco Gullo, Mining (maximal) Span-cores from Temporal Networks, CIKM2018
++ [18], Mark Heimann, Haoming Shen, Tara Safavi, Danai Koutra, REGAL: Representation Learning-based Graph Alignment, CIKM2018
++ [18], Shaoyun Shi, Min Zhang, Yiqun Liu, Shaoping Ma, Attention-based Adaptive Model to Unify Warm and Cold Starts Recommendation, CIKM2018
++ [18], Dong-Kyu Chae, Jin-Soo Kang, Sang-Wook Kim, Jung-Tae Lee, CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks, CIKM2018
++ [18], Jin Yao Chin, Kaiqi Zhao, Shafiq Joty, Gao Cong, ANR: Aspect-based Neural Recommender, CIKM2018
++ [18], Lei Mei, Pengjie Ren, Zhumin Chen, Liqiang Nie, Jun Ma, Jian-Yun Nie, An Attentive Interaction Network for Context-aware Recommendations, CIKM2018
++ [18], Felipe Moraes, Sindunuraga Rikarno Putra, Claudia Hauff, Contrasting Search as a Learning Activity with Instructor-designed Learning, CIKM2018
++ [18], Yongfeng Zhang, Xu Chen, Qingyao Ai, Liu Yang, W. Bruce Croft, Towards Conversational Search and Recommendation: System Ask, User Respond, CIKM2018
++ [18], Haotian Zhang, Mustafa Abualsaud, Nimesh Ghelani, Mark D. Smucker, Gordon V. Cormack, Maura R. Grossman, Effective User Interaction for High-Recall Retrieval: Less is More, CIKM2018
++ [18], Jyun-Yu Jiang, Wei Wang, RIN: Reformulation Inference Network for Context-Aware Query Suggestion, CIKM2018
++ [18], Nuhad Shaabani, Christoph Meinel, Improving the Efficiency of Inclusion Dependency Detection, CIKM2018
++ [18], San Kim, Guoliang Li, Jianhua Feng, Kaiyu Li, Web Table Understanding by Collective Inference, CIKM2018
++ [18], Ioannis Giannakopoulos, Dimitrios Tsoumakos, Nectarios Koziris, A Content-Based Approach for Modeling Analytics Operators, CIKM2018
++ [18], Yadan Luo, Ziwei Wang, Zi Huang, Yang Yang, Cong Zhao, Coarse-to-Fine Annotation Enrichment for Semantic Segmentation Learning, CIKM2018
++ [18], Saiping Guan, Xiaolong Jin, Yuanzhuo Wang, Xueqi Cheng, Shared Embedding Based Neural Networks for Knowledge Graph Completion, CIKM2018
++ [18], Byungkook Oh, Seungmin Seo, Kyong-Ho Lee, Knowledge Graph Completion by Context-Aware Convolutional Learning with Multi-Hop Neighborhoods, CIKM2018
++ [18], Haoyu Zhang, Qin Zhang, Haixu Tang, Smooth q-Gram, and Its Applications to Detection of Overlaps among Long, Error-Prone Sequencing Reads, CIKM2018
++ [18], Hongtao Wang, Pan Su, Miao Zhao, Hongmei Wang, Gang Li, Multi-View Group Anomaly Detection, CIKM2018
++ [18], Yu-Hsuan Kuo, Zhenhui Li, Daniel Kifer, Detecting Outliers in Data with Correlated Measures, CIKM2018
++ [18], Adit Krishnan, Ashish Sharma, Hari Sundaram, Insights from the Long-Tail: Learning Latent Representations of Online User Behavior in the Presence of Skew and Sparsity, CIKM2018
++ [18], Madhav Nimishakavi, Bamdev Mishra, Manish Gupta, Partha Talukdar, Inductive Framework for Multi-Aspect Streaming Tensor Completion with Side Information, CIKM2018
++ [18], Andrés Muñoz Medina, Sergei Vassilvitskii, Dong Yin, Online Learning for Non-Stationary A/B Tests, CIKM2018
++ [18], Jing Zhang, Bo Chen, Xianming Wang, Hong Chen, Cuiping Li, Fengmei Jin, Guojie Song, Yutao Zhang, MEgo2Vec: Embedding Matched Ego Networks for User Alignment Across Social Networks, CIKM2018
++ [18], Donghyeon Kim, Jinhyuk Lee, Donghee Choi, Jaehoon Choi, Jaewoo Kang, Learning User Preferences and Understanding Calendar Contexts for Event Scheduling, CIKM2018
++ [18], Songwei Ge, Zhicheng Dou, Zhengbao Jiang, Jian-Yun Nie, Ji-Rong Wen, Personalizing Search Results Using Hierarchical RNN with Query-aware Attention, CIKM2018
++ [18], Junliang Yu, Min Gao, Jundong Li, Hongzhi Yin, Huan Liu, Adaptive Implicit Friends Identification over Heterogeneous Network for Social Recommendation, CIKM2018
++ [18], Adam Tsakalidis, Nikolaos Aletras, Alexandra I. Cristea, Maria Liakata, Nowcasting the Stance of Social Media Users in a Sudden Vote: The Case of the Greek Referendum, CIKM2018
++ [18], Abhijin Adiga, Vanessa Cedeno-Mieles, Chris J. Kuhlman, Madhav V. Marathe, S. S. Ravi, Daniel J. Rosenkrantz, Richard E. Stearns, Inferring Probabilistic Contagion Models Over Networks Using Active Queries, CIKM2018
++ [18], Jayant Gupchup, Yasaman Hosseinkashi, Pavel Dmitriev, Daniel Schneider, Ross Cutler, Andrei Jefremov, Martin Ellis, Trustworthy Experimentation Under Telemetry Loss, CIKM2018
++ [18], Mucahid Kutlu, Tamer Elsayed, Maram Hasanain, Matthew Lease, When Rank Order Isn't Enough: New Statistical-Significance-Aware Correlation Measures, CIKM2018
++ [18], Ellen M. Voorhees, On Building Fair and Reusable Test Collections using Bandit Techniques, CIKM2018
++ [18], Hongwei Wang, Fuzheng Zhang, Jialin Wang, Miao Zhao, Wenjie Li, Xing Xie, Minyi Guo, RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems, CIKM2018
++ [18], Huiyuan Chen, Jing Li, Exploiting Structural and Temporal Evolution in Dynamic Link Prediction, CIKM2018
++ [18], Rana Hussein, Dingqi Yang, Philippe Cudré-Mauroux, Are Meta-Paths Necessary?: Revisiting Heterogeneous Graph Embeddings, CIKM2018
++ [18], Chaozhuo Li, Senzhang Wang, Philip S. Yu, Lei Zheng, Xiaoming Zhang, Zhoujun Li, Yanbo Liang, Distribution Distance Minimization for Unsupervised User Identity Linkage, CIKM2018
++ [18], Lihan Chen, Jiaqing Liang, Chenhao Xie, Yanghua Xiao, Short Text Entity Linking with Fine-grained Topics, CIKM2018
++ [18], Radityo Eko Prasojo, Mouna Kacimi, Werner Nutt, StuffIE: Semantic Tagging of Unlabeled Facets Using Fine-Grained Information Extraction, CIKM2018
++ [18], Parth Nagarkar, K. Selçuk Candan, PSLSH: An Index Structure for Efficient Execution of Set Queries in High-Dimensional Spaces, CIKM2018
++ [18], Dhruv Gupta, Klaus Berberich, GYANI: An Indexing Infrastructure for Knowledge-Centric Tasks, CIKM2018
++ [18], Hamed Zamani, Mostafa Dehghani, W. Bruce Croft, Erik Learned-Miller, Jaap Kamps, From Neural Re-Ranking to Neural Ranking: Learning a Sparse Representation for Inverted Indexing, CIKM2018
++ [18], Bryan Hooi, Leman Akoglu, Dhivya Eswaran, Amritanshu Pandey, Marko Jereminov, Larry Pileggi, Christos Faloutsos, ChangeDAR: Online Localized Change Detection for Sensor Data on a Graph, CIKM2018
++ [18], Qitian Wu, Chaoqi Yang, Hengrui Zhang, Xiaofeng Gao, Paul Weng, Guihai Chen, Adversarial Training Model Unifying Feature Driven and Point Process Perspectives for Event Popularity Prediction, CIKM2018
++ [18], Damianos P. Melidis, Myra Spiliopoulou, Eirini Ntoutsi, Learning under Feature Drifts in Textual Streams, CIKM2018
++ [18], Avirup Saha, Bidisha Samanta, Niloy Ganguly, Abir De, CRPP: Competing Recurrent Point Process for Modeling Visibility Dynamics in Information Diffusion, CIKM2018
++ [18], Atsushi Miyauchi, Naonori Kakimura, Finding a Dense Subgraph with Sparse Cut, CIKM2018
++ [18], Tyler Derr, Charu Aggarwal, Jiliang Tang, Signed Network Modeling Based on Structural Balance Theory, CIKM2018
++ [18], Soumya Sarkar, Sanjukta Bhowmick, Animesh Mukherjee, On Rich Clubs of Path-Based Centralities in Networks, CIKM2018
++ [18], Yan Li, Tingjian Ge, Cindy Chen, VTeller: Telling the Values Somewhere, Sometime in a Dynamic Network of Urban Systems, CIKM2018
++ [18], Pages: 587-596, Quan Yuan, Xiang Ren, Wenqi He, Chao Zhang, Xinhe Geng, Lifu Huang, Heng Ji, Chin-Yew Lin, Jiawei Han, CIKM2018
++ [18], Hong-Han Shuai, Yen-Chieh Lien, De-Nian Yang, Yi-Feng Lan, Wang-Chien Lee, Philip S. Yu, Newsfeed Filtering and Dissemination for Behavioral Therapy on Social Network Addictions, CIKM2018
++ [18], Antoine Dedieu, Rahul Mazumder, Zhen Zhu, Hossein Vahabi, Hierarchical Modeling and Shrinkage for User Session LengthPrediction in Media Streaming, CIKM2018
++ [18], Ruqing Zhang, Jiafeng Guo, Yixing Fan, Yanyan Lan, Jun Xu, Huanhuan Cao, Xueqi Cheng, Question Headline Generation for News Articles, CIKM2018
++ [18], Junqi Zhang, Yiqun Liu, Shaoping Ma, Qi Tian, Relevance Estimation with Multiple Information Sources on Search Engine Result Pages, CIKM2018
++ [18], Shubhra Kanti Karmaker Santu, Liangda Li, Yi Chang, ChengXiang Zhai, JIM: Joint Influence Modeling for Collective Search Behavior, CIKM2018
++ [18], Kyosuke Nishida, Itsumi Saito, Atsushi Otsuka, Hisako Asano, Junji Tomita, Retrieve-and-Read: Multi-task Learning of Information Retrieval and Reading Comprehension, CIKM2018
++ [18], Pablo Loyola, Kugamoorthy Gajananan, Fumiko Satoh, Bug Localization by Learning to Rank and Represent Bug Inducing Changes, CIKM2018
++ [18], Guangneng Hu, Yu Zhang, Qiang Yang, CoNet: Collaborative Cross Networks for Cross-Domain Recommendation, CIKM2018
++ [18], Libing Wu, Cong Quan, Chenliang Li, Donghong Ji, PARL: Let Strangers Speak Out What You Like, CIKM2018
++ [18], Thanh Tran, Kyumin Lee, Yiming Liao, Dongwon Lee, Regularizing Matrix Factorization with User and Item Embeddings for Recommendation, CIKM2018
++ [18], Chen Ma, Yingxue Zhang, Qinglong Wang, Xue Liu, Point-of-Interest Recommendation: Exploiting Self-Attentive Autoencoders with Neighbor-Aware Influence, CIKM2018
++ [18], Ian Soboroff, Meta-Analysis for Retrieval Experiments Involving Multiple Test Collections, CIKM2018
++ [18], Tadele T. Damessie, J. Shane Culpepper, Jaewon Kim, Falk Scholer, Presentation Ordering Effects On Assessor Agreement, CIKM2018
++ [18], Xiangsheng Li, Yiqun Liu, Jiaxin Mao, Zexue He, Min Zhang, Shaoping Ma, Understanding Reading Attention Distribution during Relevance Judgement, CIKM2018
++ [18], Fenglong Ma, Quanzeng You, Houping Xiao, Radha Chitta, Jing Zhou, Jing Gao, KAME: Knowledge-based Attention Model for Diagnosis Prediction in Healthcare, CIKM2018
++ [18], Manas Gaur, Ugur Kursuncu, Amanuel Alambo, Amit Sheth, Raminta Daniulaityte, Krishnaprasad Thirunarayan, Jyotishman Pathak, "Let Me Tell You About Your Mental Health!": Contextualized Classification of Reddit Posts to DSM-5 for Web-based Intervention, CIKM2018
++ [18], Anahita Hosseini, Ting Chen, Wenjun Wu, Yizhou Sun, Majid Sarrafzadeh, HeteroMed: Heterogeneous Information Network for Medical Diagnosis, CIKM2018
++ [18], Yiqi Chen, Tieyun Qian, Huan Liu, Ke Sun, "Bridge": Enhanced Signed Directed Network Embedding, CIKM2018
++ [18], Yuanyuan Xu, Jun Wang, Shuai An, Jinmao Wei, Jianhua Ruan, Semi-Supervised Multi-Label Feature Selection by Preserving Feature-Label Space Consistency, CIKM2018
++ [18], Ardavan Afshar, Ioakeim Perros, Evangelos E. Papalexakis, Elizabeth Searles, Joyce Ho, Jimeng Sun, COPA: Constrained PARAFAC2 for Sparse & Large Datasets, CIKM2018
++ [18], Tobias Backes, The Impact of Name-Matching and Blocking on Author Disambiguation, CIKM2018
++ [18], Chaomin Shen, Mixue Yu, Chenxiao Zhao, Yaxin Peng, Guixu Zhang, Parallel Hashing Using Representative Points in Hyperoctants, CIKM2018
++ [18], Sheng Zhou, Hongxia Yang, Xin Wang, Jiajun Bu, Martin Ester, Pinggang Yu, Jianwei Zhang, Can Wang, PRRE: Personalized Relation Ranking Embedding for Attributed Networks, CIKM2018
++ [18], Liang Chen, Yang Liu, Zibin Zheng, Philip Yu, Heterogeneous Neural Attentive Factorization Machine for Rating Prediction, CIKM2018
++ [18], Balázs Hidasi, Alexandros Karatzoglou, Recurrent Neural Networks with Top-k Gains for Session-based Recommendations, CIKM2018
++ [18], Xiaoli Li, Jun Huan, Interactions Modeling in Multi-Task Multi-View Learning with Consistent Task Diversity, CIKM2018
++ [18], Pages: 863-872, Tung Kieu, Bin Yang, Chenjuan Guo, Christian S. Jensen, CIKM2018
++ [18], Renqin Cai, Xueying Bai, Zhenrui Wang, Yuling Shi, Parikshit Sondhi, Hongning Wang, Modeling Sequential Online Interactive Behaviors with Temporal Point Process, CIKM2018
++ [18], Tien-Hsuan Wu, Zhiyong Wu, Ben Kao, Pengcheng Yin, Towards Practical Open Knowledge Base Canonicalization, CIKM2018
++ [18], Felipe Viegas, Washington Luiz, Christian Gomes, Amir Khatibi, Sérgio Canuto, Fernando Mourão, Thiago Salles, Leonardo Rocha, Marcos André Gonçalves, Semantically-Enhanced Topic Modeling, CIKM2018
++ [18], Bo Xu, Zheng Luo, Luyang Huang, Bin Liang, Yanghua Xiao, Deqing Yang, Wei Wang, METIC: Multi-Instance Entity Typing from Corpus, CIKM2018
++ [18], Ming Ding, Jie Tang, Jie Zhang, Semi-supervised Learning on Graphs with Generative Adversarial Nets, CIKM2018
++ [18], Cigdem Aslay, Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, Aristides Gionis, Mining Frequent Patterns in Evolving Graphs, CIKM2018
++ [18], Ting Zhang, Bang Liu, Di Niu, Kunfeng Lai, Yu Xu, Multiresolution Graph Attention Networks for Relevance Matching, CIKM2018
++ [18], Han Guo, Juan Cao, Yazi Zhang, Junbo Guo, Jintao Li, Rumor Detection with Hierarchical Social Attention Network, CIKM2018
++ [18], Jiawei Chen, Yan Feng, Martin Ester, Sheng Zhou, Chun Chen, Can Wang, Modeling Users' Exposure with Social Knowledge Influence and Consumption Influence for Recommendation, CIKM2018
++ [18], Takehiro Yamamoto, Yusuke Yamamoto, Sumio Fujita, Exploring People's Attitudes and Behaviors Toward Careful Information Seeking in Web Search, CIKM2018
++ [18], Ximing Li, Changchun Li, Jinjin Chi, Jihong Ouyang, Chenliang Li, Dataless Text Classification: A Topic Modeling Approach with Document Manifold, CIKM2018
++ [18], Yu Meng, Jiaming Shen, Chao Zhang, Jiawei Han, Weakly-Supervised Neural Text Classification, CIKM2018
++ [18], Smit Marvaniya, Swarnadeep Saha, Tejas I. Dhamecha, Peter Foltz, Renuka Sindhgatta, Bikram Sengupta, Creating Scoring Rubric from Representative Student Answers for Improved Short Answer Grading, CIKM2018
++ [18], Francesco Bonchi, Francesco Gullo, Bud Mishra, Daniele Ramazzotti, Probabilistic Causal Analysis of Social Influence, CIKM2018
++ [18], Yun Liu, Xiaoming Zhang, Feiran Huang, Zhoujun Li, Adversarial Learning of Answer-Related Representation for Visual Question Answering, CIKM2018
++ [18], Shaojie Tang, Stochastic Coupon Probing in Social Networks, CIKM2018
++ [18], Yaroslav Nechaev, Francesco Corcoglioniti, Claudio Giuliano, Type Prediction Combining Linked Open Data and Social Media, CIKM2018
++ [18], Mirela T. Cazzolato, Agma J. M. Traina, Klemens Böhm, Efficient and Reliable Estimation of Cell Positions, CIKM2018
++ [18], Bo Tang, Hongyin Tang, Xinzhou Dong, Beihong Jin, Tingjian Ge, On Real-time Detecting Passenger Flow Anomalies, CIKM2018
++ [18], Alican Büyükçakir, Hamed Bonab, Fazli Can, A Novel Online Stacked Ensemble for Multi-Label Stream Classification, CIKM2018
++ [18], Xian Wu, Baoxu Shi, Yuxiao Dong, Chao Huang, Louis Faust, Nitesh V. Chawla, RESTFul: Resolution-Aware Forecasting of Behavioral Time Series Data, CIKM2018
++ [18], Jun-Gi Jang, Dongjin Choi, Jinhong Jung, U Kang, Zoom-SVD: Fast and Memory Efficient Method for Extracting Key Patterns in an Arbitrary Time Range, CIKM2018
++ [18], Dongha Lee, Jinoh Oh, Christos Faloutsos, Byungju Kim, Hwanjo Yu, Disk-based Matrix Completion for Memory Limited Devices, CIKM2018
++ [18], Yong Zhuang, Yuchin Juan, Guo-Xun Yuan, Chih-Jen Lin, Naive Parallelization of Coordinate Descent Methods and an Application on Multi-core L1-regularized Classification, CIKM2018
++ [18], Hao Li, Kenli Li, Jiyao An, Keqin Li, CUSNTF: A Scalable Sparse Non-negative Tensor Factorization Model for Large-scale Industrial Applications on Multi-GPU, CIKM2018
++ [18], Rischan Mafrur, Mohamed A. Sharaf, Hina A. Khan, DiVE: Diversifying View Recommendation for Visual Data Exploration, CIKM2018
++ [18], Mengting Wan, Di Wang, Jie Liu, Paul Bennett, Julian McAuley, Representing and Recommending Shopping Baskets with Complementarity, Compatibility and Loyalty, CIKM2018
++ [18], Wang-Cheng Kang, Mengting Wan, Julian McAuley, Recommendation Through Mixtures of Heterogeneous Item Relationships, CIKM2018
++ [18], Ziwei Zhu, Xia Hu, James Caverlee, Fairness-Aware Tensor-Based Recommendation, CIKM2018
++ [18], Xiaoyu Liu, Shunda Pan, Qi Zhang, Yu-Gang Jiang, Xuanjing Huang, Generating Keyword Queries for Natural Language Queries to Alleviate Lexical Chasm Problem, CIKM2018
++ [18], Saeid Balaneshinkordan, Alexander Kotov, Fedor Nikolaev, Attentive Neural Architecture for Ad-hoc Structured Document Retrieval, CIKM2018
++ [18], Seyyed Hadi Hashemi, Kyle Williams, Ahmed El Kholy, Imed Zitouni, Paul A. Crook, Measuring User Satisfaction on Smart Speaker Intelligent Assistants Using Intent Sensitive Query Embeddings, CIKM2018
++ [18], Seyyed Hadi Hashemi, Kyle Williams, Ahmed El Kholy, Imed Zitouni, Paul A. Crook, Impact of Domain and User's Learning Phase on Task and Session Identification in Smart Speaker Intelligent Assistants, CIKM2018
++ [18], Edward Raff, Jared Sylvester, Charles Nicholas, Engineering a Simplified 0-Bit Consistent Weighted Sampling, CIKM2018
++ [18], Pooja A, Naveen Nair, Rajeev Rastogi, A Scalable Algorithm for Higher-order Features Generation using MinHash, CIKM2018
++ [18], Dung D. Le, Hady W. Lauw, Multiperspective Graph-Theoretic Similarity Measure, CIKM2018
++ [18], Mohammadreza Esfandiari, Senjuti Basu Roy, Sihem Amer-Yahia, Explicit Preference Elicitation for Task Completion Time, CIKM2018
++ [18], Yongshun Gong, Zhibin Li, Jian Zhang, Wei Liu, Yu Zheng, Christina Kirsch, Network-wide Crowd Flow Prediction of Sydney Trains via Customized Online Non-negative Matrix Factorization, CIKM2018
++ [18], Oana Inel, Giannis Haralabopoulos, Dan Li, Christophe Van Gysel, Zoltán Szlávik, Elena Simperl, Evangelos Kanoulas, Lora Aroyo, Studying Topical Relevance with Evidence-based Crowdsourcing, CIKM2018
++ [18], Lin Sun, Lan Zhang, Xiaojun Ye, Randomized Bit Vector: Privacy-Preserving Encoding Mechanism, CIKM2018
++ [18], Thông T. Nguyễn, Siu Cheung Hui, Privacy Protection for Flexible Parametric Survival Models, CIKM2018
++ [18], Xiaofeng Ding, Xiaodong Zhang, Zhifeng Bao, Hai Jin, Privacy-Preserving Triangle Counting in Large Graphs, CIKM2018
++ [18], Harrie Oosterhuis, Maarten de Rijke, Differentiable Unbiased Online Learning to Rank, CIKM2018
++ [18], Peng Zhang, Zhan Su, Lipeng Zhang, Benyou Wang, Dawei Song, A Quantum Many-body Wave Function Inspired Language Modeling Approach, CIKM2018
++ [18], Xuanhui Wang, Cheng Li, Nadav Golbandi, Michael Bendersky, Marc Najork, The LambdaLoss Framework for Ranking Metric Optimization, CIKM2018
++ [18], Omar Khattab, Mohammad Hammoud, Omar Shekfeh, PolyHJ: A Polymorphic Main-Memory Hash Join Paradigm for Multi-Core Machines, CIKM2018
++ [18], Lijian Wan, Tingjian Ge, When Optimizer Chooses Table Scans: How to Make Them More Responsive, CIKM2018
++ [18], Igor Kuralenok, Natalia Starikova, Aleksandr Khvorov, Julian Serdyuk, Construction of Efficient V-Gram Dictionary for Sequential Data Analysis, CIKM2018
++ [18], Bo Song, Xin Yang, Yi Cao, Congfu Xu, Neural Collaborative Ranking, CIKM2018
++ [18], Jun Hu, Ping Li, Collaborative Multi-objective Ranking, CIKM2018
++ [18], Christophe Van Gysel, Maarten de Rijke, Evangelos Kanoulas, Mix 'n Match: Integrating Text Matching and Product Substitutability within Product Search, CIKM2018
++ [18], Mohammad Aliannejadi, Hamed Zamani, Fabio Crestani, W. Bruce Croft, In Situ and Context-Aware Target Apps Selection for Unified Mobile Search, CIKM2018
++ [18], Fanghua Ye, Chuan Chen, Zibin Zheng, Deep Autoencoder-like Nonnegative Matrix Factorization for Community Detection, CIKM2018
++ [18], Xisen Jin, Wenqiang Lei, Zhaochun Ren, Hongshen Chen, Shangsong Liang, Yihong Zhao, Dawei Yin, Explicit State Tracking with Semi-Supervisionfor Neural Dialogue Generation, CIKM2018
++ [18], Jing Zhao, Jiajie Xu, Rui Zhou, Pengpeng Zhao, Chengfei Liu, Feng Zhu, On Prediction of User Destination by Sub-Trajectory Understanding: A Deep Learning based Approach, CIKM2018
++ [18], Chao Huang, Junbo Zhang, Yu Zheng, Nitesh V. Chawla, DeepCrime: Attentive Hierarchical Recurrent Networks for Crime Prediction, CIKM2018
++ [18], Kan Ren, Yuchen Fang, Weinan Zhang, Shuhao Liu, Jiajun Li, Ya Zhang, Yong Yu, Jun Wang, Learning Multi-touch Conversion Attribution with Dual-attention Mechanisms for Online Advertising, CIKM2018
++ [18], Di Wu, Xiujun Chen, Xun Yang, Hao Wang, Qing Tan, Xiaoxun Zhang, Jian Xu, Kun Gai, Budget Constrained Bidding by Model-free Reinforcement Learning in Display Advertising, CIKM2018
++ [18], Bingning Wang, Kang Liu, Jun Zhao, Deep Semantic Hashing with Multi-Adversarial Training, CIKM2018
++ [18], Yuxin Su, Michael Lyu, Irwin King, Communication-Efficient Distributed Deep Metric Learning with Hybrid Synchronization, CIKM2018
++ [18], Kishore Papineni, Pratik Worah, A Dynamical System on Bipartite Graphs, CIKM2018
++ [18], Shaohua Fan, Chuan Shi, Xiao Wang, Abnormal Event Detection via Heterogeneous Information Network Embedding, CIKM2018
++ [18], Ruijie Wang, Yuchen Yan, Jialu Wang, Yuting Jia, Ye Zhang, Weinan Zhang, Xinbing Wang, AceKG: A Large-scale Knowledge Graph for Academic Data Mining, CIKM2018
++ [18], Adit Krishnan, Ashish Sharma, Aravind Sankar, Hari Sundaram, An Adversarial Approach to Improve Long-Tail Performance in Neural Collaborative Filtering, CIKM2018
++ [18], Parth Pathak, Mithun Das Gupta, Niranjan Nayak, Harsh Kohli, AQuPR: Attention based Query Passage Retrieval, CIKM2018
++ [18], Chong Feng, Fei Cai, Honghui Chen, Maarten de Rijke, Attentive Encoder-based Extractive Text Summarization, CIKM2018
++ [18], Alexey Borisov, Julia Kiseleva, Ilya Markov, Maarten de Rijke, Calibration: A Simple Way to Improve Click Models, CIKM2018
++ [18], Mengdie Zhuang, Elaine G. Toms, Gianluca Demartini, Can User Behaviour Sequences Reflect Perceived Novelty?, CIKM2018
++ [18], Negar Arabzadeh, Hossein Fani, Fattane Zarrinkalam, Ahmed Navivala, Ebrahim Bagheri, Causal Dependencies for Future Interest Prediction on Twitter, CIKM2018
++ [18], Makoto P. Kato, Tomohiro Manabe, Sumio Fujita, Akiomi Nishida, Takehiro Yamamoto, Challenges of Multileaved Comparison in Practice: Lessons from NTCIR-13 OpenLiveQ Task, CIKM2018
++ [18], Cristina Menghini, Jessica Dehler Zufferey, Robert West, Compiling Questions into Balanced Quizzes about Documents, CIKM2018
++ [18], Nicola Ferro, Claudio Lucchese, Maria Maistro, Raffaele Perego, Continuation Methods and Curriculum Learning for Learning to Rank, CIKM2018
++ [18], Razvan-Gabriel Cirstea, Darius-Valer Micu, Gabriel-Marcel Muresan, Chenjuan Guo, Bin Yang, Correlated Time Series Forecasting using Multi-Task Deep Neural Networks, CIKM2018
++ [18], Min Yang, Qiang Qu, Jia Zhu, Ying Shen, Zhou Zhao, Cross-domain Aspect/Sentiment-aware Abstractive Review Summarization, CIKM2018
++ [18], Swapnil Gaikwad, Melody Moh, David C. Anastasiu, Data Structure for Efficient Line of Sight Queries, CIKM2018
++ [18], Liron Allerhand, Brit Youngmann, Elad Yom-Tov, David Arkadir, Detecting Parkinson's Disease from Interactions with a Search Engine: Is Expert Knowledge Sufficient?, CIKM2018
++ [18], Weihong Wang, Jie Xu, Yang Wang, Chen Cai, Fang Chen, DualBoost: Handling Missing Values with Feature Weights and Weak Classifiers that Abstain, CIKM2018
++ [18], Anjie Fang, Iadh Ounis, Craig MacDonald, Philip Habel, Xiaoyu Xiong, Hai-Tao Yu, An Effective Approach for Modelling Time Features for Classifying Bursty Topics on Twitter, CIKM2018
++ [18], Claudio Lucchese, Franco Maria Nardini, Raffaele Perego, Roberto Trani, Rossano Venturini, Efficient and Effective Query Expansion for Web Search, CIKM2018
++ [18], Matteo Catena, Ophir Frieder, Nicola Tonellotto, Efficient Energy Management in Distributed Web Search, CIKM2018
++ [18], Ken Mizusawa, Keishi Tajima, Masaki Matsubara, Toshiyuki Amagasa, Atsuyuki Morishima, Efficient Pipeline Processing of Crowdsourcing Workflows, CIKM2018
++ [18], Pengfei Xu, Jiaheng Lu, Efficient Taxonomic Similarity Joins with Adaptive Overlap Constraint, CIKM2018
++ [18], Muhan Guo, Rui Zhang, Feiping Nie, Xuelong Li, Embedding Fuzzy K-Means with Nonnegative Spectral Clustering via Incorporating Side Information, CIKM2018
++ [18], Alfan Farizki Wicaksono, Alistair Moffat, Empirical Evidence for Search Effectiveness Models, CIKM2018
++ [18], Guandan Chen, Nan Xu, Weiji Mao, An Encoder-Memory-Decoder Framework for Sub-Event Detection in Social Media, CIKM2018
++ [18], Haochen Chen, Xiaofei Sun, Yingtao Tian, Bryan Perozzi, Muhao Chen, Steven Skiena, Enhanced Network Embeddings via Exploiting Edge Labels, CIKM2018
++ [18], Giannis Nikolentzos, Michalis Vazirgiannis, Enhancing Graph Kernels via Successive Embeddings, CIKM2018
++ [18], Praveen Chandar, Ben Carterette, Estimating Clickthrough Bias in the Cascade Model, CIKM2018
++ [18], Kazuhiro Seki, Exploring Neural Translation Models for Cross-Lingual Text Similarity, CIKM2018
++ [18], Pengyuan Li, Xiangying Jiang, Hagit Shatkay, Extracting Figures and Captions from Scientific Publications, CIKM2018
++ [18], Zafar Habeeb Syed, Michael Röder, Axel-Cyrille Ngonga Ngomo, FactCheck: Validating RDF Triples Using Textual Evidence, CIKM2018
++ [18], Qikai Liu, Xiang Cheng, Sen Su, Shuguang Zhu, Hierarchical Complementary Attention Network for Predicting Stock Price Movements with News, CIKM2018
++ [18], Shreya Rajpal, Aditya Parameswaran, Holistic Crowd-Powered Sorting via AID: Optimizing for Accuracies, Inconsistencies, and Difficulties, CIKM2018
++ [18], Jianming Lv, Jiajie Zhong, Weihang Chen, Qinzhe Xiao, Zhenguo Yang, Qing Li, Homepage Augmentation by Predicting Links in Heterogenous Networks, CIKM2018
++ [18], Pages: 1615-1618, Alan Medlar, Dorota Glowacka, CIKM2018
++ [18], Dhruv Khattar, Vaibhav Kumar, Vasudeva Varma, Manish Gupta, HRAM: A Hybrid Recurrent Attention Machine for News Recommendation, CIKM2018
++ [18], Roman Vainshtein, Asnat Greenstein-Messica, Gilad Katz, Bracha Shapira, Lior Rokach, A Hybrid Approach for Automatic Model Recommendation, CIKM2018
++ [18], Huizhe Wu, Wei Zhang, Weiwei Shen, Jun Wang, Hybrid Deep Sequential Modeling for Social Text-Driven Stock Prediction, CIKM2018
++ [18], Fangzhao Wu, Chuhan Wu, Junxin Liu, Imbalanced Sentiment Classification with Multi-Task Learning, CIKM2018
++ [18], Ebrahim Bagheri, Faezeh Ensan, Feras Al-Obeidat, Impact of Document Representation on Neural Ad hoc Retrieval, CIKM2018
++ [18], Vít Novotný, Implementation Notes for the Soft Cosine Measure, CIKM2018
++ [18], Yi Zhang, Jianguo Lu, Ofer Shai, Improve Network Embeddings with Regularization, CIKM2018
++ [18], Jasper Linmans, Bob van de Velde, Evangelos Kanoulas, Improved and Robust Controversy Detection in General Web Pages Using Semantic Approaches under Large Scale Conditions, CIKM2018
++ [18], Minsu Kwon, Han-Gyu Kim, Ho-Jin Choi, Improving Low-Rank Matrix Completion with Self-Expressiveness, CIKM2018
++ [18], Yingmei Chen, Zhongyu Wei, Xuanjing Huang, Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction, CIKM2018
++ [18], Darío Garigliotti, Krisztian Balog, IntentsKB: A Knowledge Base of Entity-Oriented Search Intents, CIKM2018
++ [18], Jianlong Wu, Zhouchen Lin, Hongbin Zha, Joint Dictionary Learning and Semantic Constrained Latent Subspace Projection for Cross-Modal Retrieval, CIKM2018
++ [18], Weijie Zhu, Chen Chen, Xiaoyang Wang, Xuemin Lin, K-core Minimization: An Edge Manipulation Approach, CIKM2018
++ [18], Aditya Pal, Deepayan Chakrabarti, Label Propagation with Neural Networks, CIKM2018
++ [18], Jorge David Gonzalez Paule, Yashar Moshfeghi, Craig Macdonald, Iadh Ounis, Learning to Geolocalise Tweets at a Fine-Grained Level, CIKM2018
++ [18], Vineeth Rakesh, Ruocheng Guo, Raha Moraffah, Nitin Agarwal, Huan Liu, Linked Causal Variational Autoencoder for Inferring Paired Spillover Effects, CIKM2018
++ [18], Binbin Hu, Chuan Shi, Wayne Xin Zhao, Tianchi Yang, ocal and Global Information Fusion for Top-N Recommendation in Heterogeneous Information Network, CIKM2018
++ [18], Bin Liang, Zhidong Li, Yang Wang, Fang Chen, Long-Term RNN: Predicting Hazard Function for Proactive Maintenance of Water Mains, CIKM2018
++ [18], André Mourão, João Magalhães, Low-Complexity Supervised Rank Fusion Models, CIKM2018
++ [18], Shreshtha Mundra, Sachin Kumar, Manjira Sinha, Sandya Mannarswamy, Mining & Summarizing E-petitions for Enhanced Understanding of Public Opinion, CIKM2018
++ [18], Joao Palotti, Guido Zuccon, Allan Hanbury, MM: A new Framework for Multidimensional Evaluation of Search Engines, CIKM2018
++ [18], Qiaolin Xia, Peng Jiang, Fei Sun, Yi Zhang, Xiaobo Wang, Zhifang Sui, Modeling Consumer Buying Decision for Recommendation Based on Multi-Task Deep Learning, CIKM2018
++ [18], Chia-An Yu, Ching-Lun Tai, Tak-Shing Chan, Yi-Hsuan Yang, Modeling Multi-way Relations with Hypergraph Embedding, CIKM2018
++ [18], Noa Avigdor-Elgrabli, Roei Gelbhart, Irena Grabovitch-Zuyev, Ariel Raviv, More than Threads: Identifying Related Email Messages, CIKM2018
++ [18], Zhao Zhang, Fuzhen Zhuang, Zheng-Yu Niu, Deqing Wang, Qing He, MultiE: Multi-Task Embedding for Knowledge Base Completion, CIKM2018
++ [18], Shuo Wang, Xiaofeng Meng, Multi-Emotion Category Improving Embedding for Sentiment Classification, CIKM2018
++ [18], Xiaofei Zhu, Khoi Duy Vo, Jiafeng Guo, Jiangwu Long, Multiple Manifold Regularized Sparse Coding for Multi-View Image Clustering, CIKM2018
++ [18], Runlong Yu, Yunzhou Zhang, Yuyang Ye, Le Wu, Chao Wang, Qi Liu, Enhong Chen, Multiple Pairwise Ranking with Implicit Feedback, CIKM2018
++ [18], Yan Xiao, Jiafeng Guo, Yanyan Lan, Jun Xu, Xueqi Cheng, Neighborhood Voting: A Novel Search Scheme for Hashing, CIKM2018
++ [18], Jun Xu, Siqi Shen, Dongsheng Li, Yongquan Fu, A Network-embedding Based Method for Author Disambiguation, CIKM2018
++ [18], Bo Li, Le Jia, Neural Retrieval with Partially Shared Embedding Spaces, CIKM2018
++ [18], Xuming Lin, Ruifang Liu, Yiwei Li, An Option Gate Module for Sentence Inference on Machine Reading Comprehension, CIKM2018
++ [18], Jose G. Moreno, Point Symmetry-based Deep Clustering, CIKM2018
++ [18], Maryam Khodabakhsh, Hossein Fani, Fattane Zarrinkalam, Ebrahim Bagheri, Predicting Personal Life Events from Streaming Social Content, CIKM2018
++ [18], Yunlun Yang, Yu Gong, Xi Chen, Query Tracking for E-commerce Conversational Search: A Machine Comprehension Perspective, CIKM2018
++ [18], Arash Dargahi Nobari, Arian Askari, Faegheh Hasibi, Mahmood Neshati, Query Understanding via Entity Attribute Identification, CIKM2018
++ [18], Dalin Zhang, Lina Yao, Kaixuan Chen, Sen Wang, Ready for Use: Subject-Independent Movement Intention Recognition via a Convolutional Attention Model, CIKM2018
++ [18], Tzu-Heng Lin, Chen Gao, Yong Li, Recommender Systems with Characterized Social Regularization, CIKM2018
++ [18], Gaurav Pandey, Denis Kotkov, Alexander Semenov, Recommending Serendipitous Items using Transfer Learning, CIKM2018
++ [18], Andrea Esuli, Alejandro Moreo Fernández, Fabrizio Sebastiani, A Recurrent Neural Network for Sentiment Quantification, CIKM2018
++ [18], Farahnaz Akrami, Lingbing Guo, Wei Hu, Chengkai Li, Re-evaluating Embedding-Based Knowledge Graph Completion Methods, CIKM2018
++ [18], Khaled Yasser, Mucahid Kutlu, Tamer Elsayed, Re-ranking Web Search Results for Better Fact-Checking: A Preliminary Study, CIKM2018
++ [18], Raghuram Vadapalli, Bakhtiyar Syed, Nishant Prabhu, Balaji Vasan Srinivasan, Vasudeva Varma, Sci-Blogger: A Step Towards Automated Science Journalism, CIKM2018
++ [18], Fangzhao Wu, Chuhan Wu, Junxin Liu, Semi-Supervised Collaborative Learning for Social Spammer and Spam Message Detection in Microblogging, CIKM2018
++ [18], Zhitao Wang, Chengyao Chen, Wenjie LI, A Sequential Neural Information Diffusion Model with Structure Attention, CIKM2018
++ [18], Jiajing Zhu, Yongguo Liu, Shangming Yang, Shuangqing Zhai, Yi Zhang, Chuanbiao Wen, A Supervised Learning Framework for Prediction of Incompatible Herb Pair in Traditional Chinese Medicine, CIKM2018
++ [18], Fan Fang, Bo-Wen Zhang, Xu-Cheng Yin, Hai-Xia Man, Fang Zhou, TED-KISS: A Known-Item Speech Video Search Benchmark, CIKM2018
++ [18], Zhen Jia, Abdalghani Abujabal, Rishiraj Saha Roy, Jannik Strötgen, Gerhard Weikum, TEQUILA: Temporal Question Answering over Knowledge Bases, CIKM2018
++ [18], Haoti Zhong, Anna Squicciarini, David Miller, Toward Automated Multiparty Privacy Conflict Detection, CIKM2018
++ [18], Prayag Tiwari, Massimo Melucci, Towards a Quantum-Inspired Framework for Binary Classification, CIKM2018
++ [18], Liangyue Li, Hanghang Tong, Huan Liu, Towards Explainable Networked Prediction, CIKM2018
++ [18], Melisachew Wudage Chekol, Heiner Stuckenschmidt, Towards Partition-Aware Lifted Inference, CIKM2018
++ [18], François Role, Stanislas Morbieu, Mohamed Nadif, Unsupervised Evaluation of Text Co-clustering Algorithms Using Neural Word Embeddings, CIKM2018
++ [18], Xing Gao, Wenli Ji, Yongjun Li, Yao Deng, Wei Dong, User Identification with Spatio-Temporal Awareness across Social Networks, CIKM2018
++ [18], Dwaipayan Roy, Debasis Ganguly, Sumit Bhatia, Srikanta Bedathur, Mandar Mitra, Using Word Embeddings for Information Retrieval: How Collection and Term Normalization Choices Affect Performance, CIKM2018
++ [18], Zhitao Wang, Chengyao Chen, Ke Zhang, Yu Lei, Wenjie LI, Variational Recurrent Model for Session-based Recommendation, CIKM2018
++ [18], Fan Zhou, Bangying Wu, Yi Yang, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, vec2Link: Unifying Heterogeneous Data for Social Link Prediction, CIKM2018
++ [18], Tuan-Anh Hoang, Khoi Duy Vo, Wolfgang Nejdl, W2E: A Worldwide-Event Benchmark Dataset for Topic Detection and Tracking, CIKM2018
++ [18], Zhuo Li, Hongwei Wang, Miao Zhao, Weakly-Supervised Generative Adversarial Nets with Auxiliary Information for Wireless Coverage Estimation, CIKM2018
++ [18], Dhruv Khattar, Vaibhav Kumar, Vasudeva Varma, Manish Gupta, Weave&Rec: A Word Embedding based 3-D Convolutional Network for News Recommendation, CIKM2018
++ [18], Qianqian Wang, Si Li, Guang Chen, Word-Driven and Context-Aware Review Modeling for Recommendation, CIKM2018
++ [18], Ariyam Das, Sahil M. Gandhi, Carlo Zaniolo, ASTRO: A Datalog System for Advanced Stream Reasoning, CIKM2018
++ [18], Jan Kristof Nidzwetzki, Ralf Hartmut Güting, BBoxDB - A Scalable Data Store for Multi-Dimensional Big Data, CIKM2018
++ [18], Tim Repke, Ralf Krestel, Jakob Edding, Moritz Hartmann, Jonas Hering, Dennis Kipping, Hendrik Schmidt, Nico Scordialo, Alexander Zenner, Beacon in the Dark: A System for Interactive Exploration of Large Email Corpora, CIKM2018
++ [18], Po-Ruey Lei, Li-Pin Xiao, Yu-Ting Wen, Wen-Chih Peng, CAPatternMiner: Mining Ship Collision Avoidance Behavior from AIS Trajectory Data, CIKM2018
++ [18], Daniel Deutch, Nave Frost, CEC: Constraints based Explanation for Classifications, CIKM2018
++ [18], Michael Loster, Felix Naumann, Jan Ehmueller, Benjamin Feldmann, CurEx: A System for Extracting, Curating, and Exploring Domain-Specific Knowledge Graphs from Text, CIKM2018
++ [18], Stefano Ceri, Arif Canakoglu, Andrea Gulino, Abdulrahman Kaitoua, Marco Masseroli, Luca Nanni, Pietro Pinoli, Demonstration of GenoMetric Query Language, CIKM2018
++ [18], Tabassum Kakar, Xiao Qin, Andrew Schade, Brian McCarthy, Huy Quoc Tran, Brian Zylich, Elke Rundensteiner, Lane Harrison, Sanjay K. Sahoo, Suranjan De, DEVES: Interactive Signal Analytics for Drug Safety, CIKM2018
++ [18], Ziyuan Wang, Dain Yap Liffman, Dileban Karunamoorthy, Ermyas Abebe, Distributed Ledger Technology for Document and Workflow Management in Trade and Logistics, CIKM2018
++ [18], Adam Jatowt, Ricardo Campos, Sourav S. Bhowmick, Nina Tahmasebi, Antoine Doucet, Every Word has its History: Interactive Exploration and Visualization of Word Sense Evolution, CIKM2018
++ [18], Lucio F. D. Santos, Gustavo Blanco, Daniel de Oliveira, Agma J. M. Traina, Caetano Traina Jr., Marcos V. N. Bedo, Exploring Diversified Similarity with Kundaha, CIKM2018
++ [18], Tanguy Raynaud, Julien Subercaze, Frédérique Laforest, Fouilla: Navigating DBpedia by Topic, CIKM2018
++ [18], Konstantina Bereta, Hervé Caumont, Erwin Goor, Manolis Koubarakis, Despina-Athanasia Pantazi, George Stamoulis, Sam Ubels, Valentijn Venus, Firman Wahyudi, From Copernicus Big Data to Big Information and Big Knowledge: A Demo from the Copernicus App Lab Project, CIKM2018
++ [18], Kevin Villalobos, Borja Diez, Arantza Illarramendi, Alfredo Goñi, José Miguel Blanco, I4TSRS: A System to Assist a Data Engineer in Time-Series Dimensionality Reduction in Industry 4.0 Scenarios, CIKM2018
++ [18], Shay Gershtein, Tova Milo, Brit Youngmann, Gal Zeevi, IM Balanced: Influence Maximization Under Balance Constraints, CIKM2018
++ [18], Petr Sojka, Michal Růžička, Vít Novotný, MIaS: Math-Aware Retrieval in Digital Mathematical Libraries, CIKM2018
++ [18], Elem Güzel Kalayci, Guohui Xiao, Vladislav Ryzhikov, Tahir Emre Kalayci, Diego Calvanese, Ontop-temporal: A Tool for Ontology-based Query Answering over Temporal Data, CIKM2018
++ [18], Caitlin Kuhlman, MaryAnn VanValkenburg, Diana Doherty, Malika Nurbekova, Goutham Deva, Zarni Phyo, Elke Rundensteiner, Lane Harrison, Preference-driven Interactive Ranking System for Personalized Decision Support, CIKM2018
++ [18], Daniel Deutch, Yehonatan Ginzberg, Tova Milo, Preserving Privacy of Fraud Detection Rule Sharing Using Intel's SGX, CIKM2018
++ [18], Harrisen Scells, Guido Zuccon, earchrefiner: A Query Visualisation and Understanding Tool for Systematic Reviews, CIKM2018
++ [18], Issac Buenrostro, Abhishek Tiwari, Vasanth Rajamani, Erman Pattuk, Zhixiong Chen, Single-Setup Privacy Enforcement for Heterogeneous Data Ecosystems, CIKM2018
++ [18], Edward Abel, John A. Keane, Norman W. Paton, Alvaro A.A. Fernandes, Martin Koehler, Nikolaos Konstantinou, Nurzety A. Azuan, Suzanne M. Embury, SOURCERY: User Driven Multi-Criteria Source Selection, CIKM2018
++ [18], Oleksandra Levchenko, Djamel-Edine Yagoubi, Reza Akbarinia, Florent Masseglia, Boyan Kolev, Dennis Shasha, park-parSketch: A Massively Distributed Indexing of Time Series Datasets, CIKM2018
++ [18], Agus Trisnajaya Kwee, Meng-Fen Chiang, Philips Kokoh Prasetyo, Ee-Peng Lim, Traffic-Cascade: Mining and Visualizing Lifecycles of Traffic Congestion Events Using Public Bus Trajectories, CIKM2018
++ [18], Jian Kang, Scott Freitas, Haichao Yu, Yinglong Xia, Nan Cao, Hanghang Tong, X-Rank: Explainable Ranking in Complex Multi-Layered Networks, CIKM2018
++ [18], Varvara Kalokyri, Alexander Borgida, Amélie Marian, YourDigitalSelf: A Personal Digital Trace Integration Tool, CIKM2018
++ [18], Mayur Patidar, Puneet Agarwal, Lovekesh Vig, Gautam Shroff, Automatic Conversational Helpdesk Solution using Seq2Seq and Slot-filling Models, CIKM2018
++ [18], Cheng Cao, Zhengzhang Chen, James Caverlee, Lu-An Tang, Chen Luo, Zhichun Li, Behavior-based Community Detection: Application to Host Assessment In Enterprise Information Networks, CIKM2018
++ [18], Ying Lin, Zhengzhang Chen, Cheng Cao, Lu-An Tang, Kai Zhang, Wei Cheng, Zhichun Li, Collaborative Alert Ranking for Anomaly Detection, CIKM2018
++ [18], Vachik S. Dave, Baichuan Zhang, Mohammad Al Hasan, Khalifeh AlJadda, Mohammed Korayem, A Combined Representation Learning Approach for Better Job and Skill Recommendation, CIKM2018
++ [18], Chen Chu, Zhao Li, Beibei Xin, Fengchao Peng, Chuanren Liu, Remo Rohs, Qiong Luo, Jingren Zhou, Deep Graph Embedding for Ranking Optimization in E-commerce, CIKM2018
++ [18], Felix Biessmann, David Salinas, Sebastian Schelter, Philipp Schmidt, Dustin Lange, "Deep" Learning for Missing Value Imputationin Tables with Non-Numerical Data, CIKM2018
++ [18], Sara Amini, Vahid Noroozi, Amit Pande, Satyajit Gupte, Philip S. Yu, Chris Kanich, DeepAuth: A Framework for Continuous User Re-authentication in Mobile Apps, CIKM2018
++ [18], Beidou Wang, Xin Guo, Martin Ester, Ziyu Guan, Bandeep Singh, Yu Zhu, Jiajun Bu, Deng Cai, Device-Aware Rule Recommendation for the Internet of Things, CIKM2018
++ [18], Yaochen Hu, Di Niu, Jianming Yang, A Fast Linear Computational Framework for User Action Prediction in Tencent MyApp, CIKM2018
++ [18], Jingyuan Zhang, Xin Wang, Yue Feng, Mingming Sun, Ping Li, FastInput: Improving Input Efficiency on Mobile Devices, CIKM2018
++ [18], Miao Fan, Wutao Lin, Yue Feng, Mingming Sun, Ping Li, A Globalization-Semantic Matching Neural Network for Paraphrase Identification, CIKM2018
++ [18], Ziqi Liu, Chaochao Chen, Xinxing Yang, Jun Zhou, Xiaolong Li, Le Song, Heterogeneous Graph Neural Networks for Malicious Account Detection, CIKM2018
++ [18], Tiezheng Ge, Liqin Zhao, Guorui Zhou, Keyu Chen, Shuying Liu, Huimin Yi, Zelin Hu, Bochao Liu, Peng Sun, Haoyu Liu, Pengtao Yi, Sui Huang, Zhiqiang Zhang, Xiaoqiang Zhu, Yu Zhang, Kun Gai, Image Matters: Visually Modeling User Behaviors Using Advanced Model Server, CIKM2018
++ [18], Meng-Fen Chiang, Ee-Peng Lim, Wang-Chien Lee, Tuan-Anh Hoang, Inferring Trip Occupancies in the Rise of Ride-Hailing Services, CIKM2018
++ [18], Sahin Cem Geyik, Vijay Dialani, Meng Meng, Ryan Smith, In-Session Personalization for Talent Search, CIKM2018
++ [18], Jingbo Shang, Jiaming Shen, Tianhang Sun, Xingbang Liu, Anja Gruenheid, Flip Korn, Adam D. Lelkes, Cong Yu, Jiawei Han, Investigating Rumor News Using Agreement-Aware Search, CIKM2018
++ [18], Jiaming Shen, Maryam Karimzadehgan, Michael Bendersky, Zhen Qin, Donald Metzler, Multi-Task Learning for Email Search Ranking with Auxiliary Query Clustering, CIKM2018
++ [18], Ilaria Bordino, Francesco Gullo, Network-based Receivable Financing, CIKM2018
++ [18], Yukun Ding, Jinglan Liu, Jinjun Xiong, Meng Jiang, Yiyu Shi, Optimizing Boiler Control in Real-Time with Machine Learning for Sustainability, CIKM2018
++ [18], Yanbo Liang, Yongyang Yu, Mingjie Tang, Chaozhuo Li, Weiqing Yang, Weichen Xu, Ruifeng Zheng, Optimizing Generalized Linear Models with Billions of Variables, CIKM2018
++ [18], Mark Wilhelm, Ajith Ramanathan, Alexander Bonomo, Sagar Jain, Ed H. Chi, Jennifer Gillenwater, Practical Diversified Recommendations on YouTube with Determinantal Point Processes, CIKM2018
++ [18], Charles Chen, Sungchul Kim, Hung Bui, Ryan Rossi, Eunyee Koh, Branislav Kveton, Razvan Bunescu, Predictive Analysis by Leveraging Temporal User Behavior and User Embeddings, CIKM2018
++ [18], Krishnaram Kenthapadi, Thanh T. L. Tran, PriPeARL: A Framework for Privacy-Preserving Analytics and Reporting at LinkedIn, CIKM2018
++ [18], Junqi Jin, Chengru Song, Han Li, Kun Gai, Jun Wang, Weinan Zhang, Real-Time Bidding with Multi-Agent Reinforcement Learning in Display Advertising, CIKM2018
++ [18], Guolei Yang, Ying Cai, Chandan K. Reddy, Recurrent Spatio-Temporal Point Process for Check-in Time Prediction, CIKM2018
++ [18], Yuhang Zhang, Kee Siong Ng, Tania Churchill, Peter Christen, Scalable Entity Resolution Using Probabilistic Signatures on Parallel Databases, CIKM2018
++ [18], Evangelos Papalexakis, Konstantinos Pelechrinis, tHoops: A Multi-Aspect Analytical Framework for Spatio-Temporal Basketball Data, CIKM2018
++ [18], Anthony Bell, Prathyusha Senthil Kumar, Daniel Miranda, The Title Says It All: A Title Term Weighting Strategy For eCommerce Ranking, CIKM2018
++ [18], Rishabh Mehrotra, James McInerney, Hugues Bouchard, Mounia Lalmas, Fernando Diaz, Towards a Fair Marketplace: Counterfactual Evaluation of the trade-off between Relevance, Fairness & Satisfaction in Recommendation Systems, CIKM2018
++ [18], Rohan Ramanath, Hakan Inan, Gungor Polatkan, Bo Hu, Qi Guo, Cagri Ozcaglar, Xianren Wu, Krishnaram Kenthapadi, Sahin Cem Geyik, Towards Deep and Representation Learning for Talent Search at LinkedIn, CIKM2018
++ [18], Jianglei Han, Ka Hian Goh, Aixin Sun, Mohammad Akbari, Towards Effective Extraction and Linking of Software Mentions from User-Generated Support Tickets, CIKM2018
++ [18], Xijun Li, Jianguo Yao, Mingxuan Yuan, Jia Zeng, A Two-Layer Algorithmic Framework for Service Provider Configuration and Planning with Optimal Spatial Matching, CIKM2018
++ [18], Boris Sharchilev, Michael Roizner, Andrey Rumyantsev, Denis Ozornin, Pavel Serdyukov, Maarten de Rijke, Web-based Startup Success Prediction, CIKM2018
++ [18], Konstantina Bereta, Manolis Koubarakis, Stefan Manegold, George Stamoulis, Begüm Demir, From Big Data to Big Information and Big Knowledge: the Case of Earth Observation Data, CIKM2018
++ [18], Michalis Vazirgiannis, Fragkiskos D. Malliaros, Giannis Nikolentzos, GraphRep: Boosting Text Mining, NLP and Information Retrieval with Graphs, CIKM2018
++ [18], Iman Elghandour, Ahmet Kara, Dan Olteanu, Stijn Vansummeren, Incremental Techniques for Large-Scale Dynamic Query Processing, CIKM2018
++ [18], Joachim Van Herwegen, Pieter Heyvaert, Ruben Taelman, Ben De Meester, Anastasia Dimou, Knowledge Representation as Linked Data: Tutorial, CIKM2018
++ [18], Jiaheng Lu, Irena Holubová, Bogdan Cautis, Multi-model Databases and Tightly Integrated Polystores: Current Practices, Comparisons, and Open Challenges, CIKM2018
++ [18], Diego Calvanese, Guohui Xiao, Semantic Technologies for Data Access and Integration, CIKM2018
++ [18], Qingyao Ai, Jiaxin Mao, Yiqun Liu, W. Bruce Croft, Unbiased Learning to Rank: Theory and Practice, CIKM2018
+
 
 ### KDD2018
 
