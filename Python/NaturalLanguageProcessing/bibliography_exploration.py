@@ -237,6 +237,22 @@ def sort_bibliography_cikm_2019(input_file_path, output_file_path, pub_year=None
             result_file.write(merged_line)
             line_no = line_no + 1
 
+# uses for 2018
+def sort_bibliography_cikm_2018(input_file_path, output_file_path, pub_year=None):
+    f = open(input_file_path)
+    lines = f.readlines()
+    f.close()
+
+    with open(output_file_path, "a") as result_file:
+        line_no = 1
+        for idx in range(len(lines)//3):
+            print(f"line_no = {line_no}")
+            print(lines[3*idx:(3*idx+3)])
+
+            merged_line = f"+ [{pub_year[2:]}], " + lines[3*idx:(3*idx+3)][1].replace("\n","") + ", " + lines[3*idx:(3*idx+3)][0].replace("\n",f", CIKM{pub_year}\n")
+            result_file.write(merged_line)
+            line_no = line_no + 1
+
 
 def load_and_sort_bibliography():
     input_filename = "bibliography.txt"
@@ -280,7 +296,7 @@ def load_and_sort_bibliography_from_kdd_with_scrapy():
         sort_bibliography_kdd_2015(input_file_path=input_filename,output_file_path=output_filename,pub_year=pub_year)
 
 def load_and_sort_bibliography_from_cikm_local():
-    pub_year = "2019"
+    pub_year = "2018"
     input_filenames = []
     root_dir = f"bibliography/CIKM/{pub_year}/"
     for root, dirs, files in os.walk(root_dir):
@@ -295,7 +311,7 @@ def load_and_sort_bibliography_from_cikm_local():
         print(output_filename)
         input_filename = root_dir + input_filename
         output_filename = root_dir + output_filename
-        sort_bibliography_cikm_2019(input_file_path=input_filename,output_file_path=output_filename,pub_year=pub_year)
+        sort_bibliography_cikm_2018(input_file_path=input_filename,output_file_path=output_filename,pub_year=pub_year)
 
 if __name__ == "__main__":
     load_and_sort_bibliography_from_cikm_local()
