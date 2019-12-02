@@ -776,7 +776,7 @@ https://campus.acm.org/calendar/Index.cfm?confid=2020-46939
 ### Best (Misc Sources)
 + [ZKG18] Daniel Zügner, Amir Akbarnejad, Stephan Günnemann, Technical University of Munich, Adversarial Attacks on Neural Networks for Graph Data, Germany, 2018, https://arxiv.org/pdf/1805.07984.pdf
 
-### CIKM 2018 
+### CIKM 2018 (https://dl.acm.org/citation.cfm?id=3269206&preflayout=flat)
 
 #### Best Award
 
