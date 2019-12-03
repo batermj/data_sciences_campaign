@@ -1420,6 +1420,9 @@ https://campus.acm.org/calendar/Index.cfm?confid=2020-46939
 ### Best (Misc Sources)
 + [] Tom Hope, Joel Chan, Aniket Kittur, afna Shahaf, Accelerating Innovation Through Analogy Mining, https://arxiv.org/abs/1706.05585
 
+### [CIKM '17 Proceedings of the 2017 ACM on Conference on Information and Knowledge Management] (https://dl.acm.org/citation.cfm?id=3132918)
+
+
 ### KDD2017
 
 #### Best Award
