@@ -3227,7 +3227,7 @@ https://campus.acm.org/calendar/Index.cfm?confid=2020-46939
 + PRICAI
 
 # Conferences (Information Retrieving and Data Mining)
-+ ACM CIKM (ACM International Conference on Information and Knowledge Management)
++ ACM CIKM (ACM International Conference on Information and Knowledge Management),[cikmconference](http://www.cikmconference.org), [acm](https://dl.acm.org/citation.cfm?id=3132918)
 
 # Conferences (Data Mining)
 + KDD, ACM SIGKDD Conference on Knowledge Discovery and Data Mining
