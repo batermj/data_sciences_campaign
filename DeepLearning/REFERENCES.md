@@ -406,6 +406,7 @@ Source: https://github.com/CancerDataScience/SurvivalNet
 + MXNet port of SSD: Single Shot MultiBox Object Detector. Reimplementation of https://github.com/weiliu89/caffe/tree/ssd, MXNet port of SSD: Single Shot MultiBox Object Detector. Reimplementation of https://github.com/weiliu89/caffe/tree/ssd
 
 ## PyTorch
++ PyTorch: An Imperative Style, High-Performance Deep Learning Library, https://arxiv.org/abs/1912.01703
 + https://github.com/topics/pytorch
 + Simple PyTorch Tutorials Zero to ALL! , https://github.com/hunkim/PyTorchZeroToAll
 + PyTorch Tutorial for Deep Learning Researchers,https://github.com/yunjey/pytorch-tutorial
