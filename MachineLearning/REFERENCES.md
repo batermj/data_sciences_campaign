@@ -55,7 +55,7 @@ Top 100 Awesome Machine Learning Papers & Books & Blog & Whatever The Entreprene
 
 
 # Books
-+ The "Python Machine Learning (3nd edition)" book code repository, https://github.com/rasbt/python-machine-learning-book-3rd-edition
++ The "Python Machine Learning (3nd edition)" book code [repository](https://github.com/rasbt/python-machine-learning-book-3rd-edition), 
 
 
 # Courses
