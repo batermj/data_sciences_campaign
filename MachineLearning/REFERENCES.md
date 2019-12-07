@@ -18,7 +18,53 @@ Top 100 Awesome Machine Learning Papers & Books & Blog & Whatever The Entreprene
 + Blog
 + Datasets
 + Whatever The Entrepreneur& Researcher Pleased
++ References 
 
+# Researchers
+
+
+# Research Groups
+
+
+# Group Meetings
+
+
+# Topics (Categories)
+
+
+# Papers
+
+
+# Journals
+
+
+# Conferences
+
+
+# Github Projects
+
+
+# Tools
+
+
+
+# Languages
+
+
+# Patents
+
+
+# Books
++ The "Python Machine Learning (3nd edition)" book code repository, https://github.com/rasbt/python-machine-learning-book-3rd-edition
+
+
+# Courses
+
+# Blog
+
+# Datasets
+
+# Whatever The Entrepreneur& Researcher Pleased
 
 # References 
 
