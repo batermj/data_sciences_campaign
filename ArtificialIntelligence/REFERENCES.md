@@ -18,6 +18,41 @@ Top 100 Awesome Artificial Intelligence Papers & Books & Blog & Whatever The Ent
 + Blog
 + Datasets
 + Whatever The Entrepreneur& Researcher Pleased
++ References
+
+# Papers
+## 2020（Upcoming Conferences）
++ [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)
+
+## 2019
+
+### Best (Misc Sources)
+
+### [AAAI 2020](https://aaai.org/Conferences/AAAI-19/)
+
+# Journals
+
+# Conferences
+
+# Github Projects
+
+# Tools
+
+# Languages
+
+# Patents
+
+# Books
+
+# Courses
+
+# Blog
+
+# Datasets
+
+# Whatever The Entrepreneur& Researcher Pleased
+
+## 2020（Upcoming Conferences）
 
 
 # References 
