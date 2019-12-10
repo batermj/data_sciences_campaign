@@ -28,7 +28,32 @@ Top 100 Awesome Artificial Intelligence Papers & Books & Blog & Whatever The Ent
 
 ### Best (Misc Sources)
 
-### [AAAI 2020](https://aaai.org/Conferences/AAAI-19/)
+### [AAAI 2019](https://aaai.org/Conferences/AAAI-19/)
+
+## 2018
+
+### Best (Misc Sources)
+
+### [AAAI 2018](https://aaai.org/Conferences/AAAI-18/)
+
+## 2017
+
+### Best (Misc Sources)
+
+### [AAAI 2017](https://aaai.org/Conferences/AAAI-17/)
+
+## 2016
+
+### Best (Misc Sources)
+
+### [AAAI 2016](https://aaai.org/Conferences/AAAI-16/)
+
+## 2015
+
+### Best (Misc Sources)
+
+### [AAAI 2015](https://aaai.org/Conferences/AAAI-15/)
+
 
 # Journals
 
