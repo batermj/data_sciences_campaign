@@ -89,3 +89,12 @@ Here is a portal fo Daily Data Sciences Notes
 + [ML in Python](https://github.com/amueller/introduction_to_ml_with_python) – This repository consists of coding exercises from the book Introduction to Machine Learning in Python written by Andreas C Mueller and Sarah Guido. This is good for people who want to start with ML in python as the coding exercises are quite easy.
 + [Python Projects](https://github.com/ipython-books/cookbook-code) – Keen to do interesting python projects but don’t know where to start ? Check out some interesting projects done in python, understand them and may be they could inspire you to start one on your own. In other words, these projects are nothing but recipes taken from the IPython Cookbook written by Dr. Cyrille Rossant.
 
+
+## Top 10 More Useful Repositories
++ [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) – TensorFlow ( library made for numerical computation) has rapidly gained popularity among machine learning practitioners in Python. This repository will help you get started with tensorflow and its features. This repository is best suited for beginners keen to learn tensorflow and looking for practical examples with concise explanation.
+
++ [useR 2016 Machine Learning](https://github.com/ledell/useR-machine-learning-tutorial) – This repository consists of machine learning tutorials delivered at The R User Conference 2016. Mainly, it explains 6 popular supervised machine learning methods in R. Along with, several best practices which one should follow while model building.
+
++ [Machine Learning University Courses](https://github.com/prakhar1989/awesome-courses#machine-learning) – This repository enlists all the ML programs undertaken at top universities around the world. Some of these universities also share course content online, which will also find here. It consists of the top courses undertaken at various universities. This repository should help you understand their course curriculum and depth of topics covered.
+
++ [Notebooks on Statistics & ML](https://github.com/leonvanbokhorst/NoteBooks-Statistics-and-MachineLearning) – This notebook demonstrates statistical concepts in python. The notebook shared above are focused on only machine learning methods. But, this repository contains notebooks which shows how statistical analysis can be done in python. For best results, you must have prior knowledge of statistics and related concepts.
