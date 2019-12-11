@@ -81,3 +81,11 @@ Here is a portal fo Daily Data Sciences Notes
 9. Energy
 10. Utilities
 
+## Top 10 Free Books for Data Science
++ [Free Data Science Books](https://github.com/chaconnewu/free-data-science-books) – This repository comprises of downloadable books on subjects like statistics, machine learning, data mining etc. If you like reading books, and prefer to gain knowledge from books than any other method, you have a lot to take home from this repository.
++ [Exercises from ML for Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) – This book is written by John Myles White. If you have read this book, wonderful! In case you haven’t. nothing to worry. These exercises are simple and effective enough to make you understand the implementation of a particular method. It’s good for people who learn better by doing than reading.
++ [Exercises from Probabilistic Programming](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) – This book is written by  Cam Davidson Pilon. This repository consists of exercises from described in his book Probabilistic Programming and Bayesian Method for Hackers. If you understand probability in depths, you must do these exercises and see how is it being used by machine learning.
++ [Machine Learning Books](https://github.com/datalad/mlbooks) – This repository has 10 books on machine learning available for download.
++ [ML in Python](https://github.com/amueller/introduction_to_ml_with_python) – This repository consists of coding exercises from the book Introduction to Machine Learning in Python written by Andreas C Mueller and Sarah Guido. This is good for people who want to start with ML in python as the coding exercises are quite easy.
++ [Python Projects](https://github.com/ipython-books/cookbook-code) – Keen to do interesting python projects but don’t know where to start ? Check out some interesting projects done in python, understand them and may be they could inspire you to start one on your own. In other words, these projects are nothing but recipes taken from the IPython Cookbook written by Dr. Cyrille Rossant.
+
