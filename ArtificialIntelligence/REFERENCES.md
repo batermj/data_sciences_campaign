@@ -20,6 +20,12 @@ Top 100 Awesome Artificial Intelligence Papers & Books & Blog & Whatever The Ent
 + Whatever The Entrepreneur& Researcher Pleased
 + References
 
+# Researchers
+
+
+# Research Groups
++ European Laboratory for Learning and Intelligent Systems, https://ellis.eu/en
+
 # Papers
 ## 2020（Upcoming Conferences）
 + [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)
