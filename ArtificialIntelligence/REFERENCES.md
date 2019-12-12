@@ -24,6 +24,7 @@ Top 100 Awesome Artificial Intelligence Papers & Books & Blog & Whatever The Ent
 + Judea Pearl
 
 # Research Groups
++ Human-Centered Artificial Institute (HAI), Stanford University, 
 + European Laboratory for Learning and Intelligent Systems, https://ellis.eu/en
 
 # Group Meetings
