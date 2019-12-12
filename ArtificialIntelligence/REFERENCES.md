@@ -22,6 +22,10 @@ Top 100 Awesome Artificial Intelligence Papers & Books & Blog & Whatever The Ent
 
 # Researchers
 + Judea Pearl
++ Yoshua Bengio
++ Geoffrey Hinton
++ Yann LeCun
++ Jürgen Schmidhuber
 
 # Research Groups
 + Human-Centered Artificial Institute (HAI), Stanford University, 
