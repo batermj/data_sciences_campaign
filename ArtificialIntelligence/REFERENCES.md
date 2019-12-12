@@ -21,10 +21,15 @@ Top 100 Awesome Artificial Intelligence Papers & Books & Blog & Whatever The Ent
 + References
 
 # Researchers
-
++ Judea Pearl
 
 # Research Groups
 + European Laboratory for Learning and Intelligent Systems, https://ellis.eu/en
+
+# Group Meetings
+
+
+# Topics (Categories)
 
 # Papers
 ## 2020（Upcoming Conferences）
