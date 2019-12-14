@@ -24,7 +24,7 @@ Top 100 Awesome Machine Learning Papers & Books & Blog & Whatever The Entreprene
 
 
 # Research Groups
-
++ Machine Learning Blog from CMU,https://blog.ml.cmu.edu/
 
 # Group Meetings
 
