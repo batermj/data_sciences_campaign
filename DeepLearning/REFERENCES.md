@@ -18,7 +18,45 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 + Blog
 + Datasets
 + Whatever The Entrepreneur& Researcher Pleased
++ References
 
+# Researchers
+
+# Research Groups
+
+# Group Meetings
+
+# Topics (Categories)
+
+# Papers
+
+# Journals
+
+# Conferences
+
+## 2019
+
+### NeurIPS 2019
++ NeurIPS 2019 Notes Vancouver, BC, Canada, https://david-abel.github.io/notes/neurips_2019.pdf
+
+
+# Github Projects
+
+# Tools
+
+# Languages
+
+# Patents
+
+# Books
+
+# Courses
+
+# Blog
+
+# Datasets
+
+# Whatever The Entrepreneur& Researcher Pleased
 
 # References 
 
