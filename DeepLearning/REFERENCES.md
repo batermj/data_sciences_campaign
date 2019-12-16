@@ -37,7 +37,7 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 ## 2019
 
 ### NeurIPS 2019
-+ NeurIPS 2019 Notes Vancouver, BC, Canada, https://david-abel.github.io/notes/neurips_2019.pdf
++ [NeurIPS 2019 Notes Vancouver, BC, Canada](https://david-abel.github.io/notes/neurips_2019.pdf)
 
 
 # Github Projects
