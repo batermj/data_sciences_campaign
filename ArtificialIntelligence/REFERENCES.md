@@ -104,6 +104,7 @@ Top 100 Awesome Artificial Intelligence Papers & Books & Blog & Whatever The Ent
 
 ## Courses
 + CS 188 : Introduction to Artificial Intelligence  Pieter Abbeel & Dan Klein, University of California, Berkeley , https://inst.eecs.berkeley.edu/~cs188/fa18/
++ [Introduction to Artificial Intelligence  Fall 2019, Prof. Gilles Louppe](https://glouppe.github.io/info8006-introduction-to-ai/pdf/lec-all.pdf)
 
 ## OpenAI
 + OpenAI, https://github.com/openai
