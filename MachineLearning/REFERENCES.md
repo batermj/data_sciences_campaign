@@ -61,6 +61,7 @@ Top 100 Awesome Machine Learning Papers & Books & Blog & Whatever The Entreprene
 
 # Courses
 + [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
++ [Stanford Machine Learning (CS229)](http://cs229.stanford.edu), https://online.stanford.edu/courses/cs229-machine-learning
 
 # Blog
 
@@ -74,9 +75,6 @@ Top 100 Awesome Machine Learning Papers & Books & Blog & Whatever The Entreprene
 
 ## Glossary
 + Machine Learning Glossary by Google,https://developers.google.com/machine-learning/glossary/
-
-## Courses
-+ Stanford Machine Learning (CS229), http://cs229.stanford.edu, https://online.stanford.edu/courses/cs229-machine-learning
 
 ## Machine Learning Group
 + Stanford Machine Learning Group, https://stanfordmlgroup.github.io
