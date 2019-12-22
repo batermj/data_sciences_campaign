@@ -60,6 +60,7 @@ Top 100 Awesome Machine Learning Papers & Books & Blog & Whatever The Entreprene
 
 
 # Courses
++ [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 
 # Blog
 
