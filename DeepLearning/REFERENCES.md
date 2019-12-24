@@ -29,6 +29,7 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 
 # Topics (Categories)
 
+
 # Papers
 
 # Journals
@@ -480,6 +481,10 @@ Source: https://github.com/CancerDataScience/SurvivalNet
 
 ## Object Recognition
 + mean Average Precision - This code evaluates the performance of your neural net for object recognition., https://github.com/Cartucho/mAP
+
+
+## Stock forecasting
+Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations, https://github.com/huseinzol05/Stock-Prediction-Models
 
 ## MISC
 + dlsys-course,https://github.com/dlsys-course
