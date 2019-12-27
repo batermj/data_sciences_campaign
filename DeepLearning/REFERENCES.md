@@ -56,6 +56,8 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 # Books
 
 # Courses
++ MIT Deep Learning, https://deeplearning.mit.edu
++ Deep Learning Projects from Stanford's 230 class, https://web.stanford.edu/class/cs230/, http://cs230.stanford.edu/proj-spring-2018.html
 
 # Blog
 
@@ -503,10 +505,6 @@ Gathers machine learning and deep learning models for Stock forecasting includin
 ## Benchmark
 + THE Deep Learning Benchmarks, https://github.com/DeepMark/deepmark
 + Easy benchmarking of all publicly accessible implementations of convnets, https://github.com/soumith/convnet-benchmarks
-
-
-## Online Courses
-+ Deep Learning Projects from Stanford's 230 class, https://web.stanford.edu/class/cs230/, http://cs230.stanford.edu/proj-spring-2018.html
 
 
 ## Sumer School
