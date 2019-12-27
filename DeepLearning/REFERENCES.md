@@ -56,8 +56,8 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 # Books
 
 # Courses
-+ MIT Deep Learning, https://deeplearning.mit.edu
-+ Deep Learning Projects from Stanford's 230 class, https://web.stanford.edu/class/cs230/, http://cs230.stanford.edu/proj-spring-2018.html
++ [MIT Deep Learning](https://deeplearning.mit.edu)
++ [Deep Learning Projects from Stanford's 230 class](https://web.stanford.edu/class/cs230/, http://cs230.stanford.edu/proj-spring-2018.html)
 
 # Blog
 
