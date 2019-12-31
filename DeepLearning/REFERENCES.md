@@ -28,7 +28,7 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 # Group Meetings
 
 # Topics (Categories)
-
++ Neural-Symbolic Cognitive Reasoning
 
 # Papers
 
@@ -54,6 +54,7 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 # Patents
 
 # Books
++ [Neural-Symbolic Cognitive Reasoning](https://www.springer.com/gp/book/9783540732457)  Authors: D'Avila Garcez, Artur S., Lamb, Luís C., Gabbay, Dov M
 
 # Courses
 + [MIT Deep Learning](https://deeplearning.mit.edu)
