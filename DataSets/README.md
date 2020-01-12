@@ -5,6 +5,9 @@
 
 -- _Definition by the [Open Knowledge Foundation](https://okfn.org/opendata/)_
 
+## Datasets Search Tools
++ [Google’s Dataset Search](https://toolbox.google.com/datasetsearch)
+
 ## Open Data
 
 * [List of Public Datasets](https://github.com/caesar0301/awesome-public-datasets) - user-curated
