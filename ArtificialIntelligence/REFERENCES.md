@@ -29,8 +29,10 @@ Top 100 Awesome Artificial Intelligence Papers & Books & Blog & Whatever The Ent
 
 # Research Groups
 + Human-Centered Artificial Institute (HAI), Stanford University, 
++ [Google AI Research](https://github.com/google-research/google-research)
 + [European Laboratory for Learning and Intelligent Systems](https://ellis.eu/en)
 + [Microsoft AI](https://www.microsoft.com/en-us/ai/ai-lab)
+
 # Group Meetings
 
 
