@@ -21,7 +21,7 @@ Top 100 Awesome Machine Learning Papers & Books & Blog & Whatever The Entreprene
 + References 
 
 # Researchers
-
++ [Been Kim](https://www.quantamagazine.org/been-kim-is-building-a-translator-for-artificial-intelligence-20190110/)
 
 # Research Groups
 + [Machine Learning Blog from CMU](https://blog.ml.cmu.edu/)
