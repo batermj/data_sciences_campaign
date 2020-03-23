@@ -24,8 +24,9 @@ Top 100 Awesome Machine Learning Papers & Books & Blog & Whatever The Entreprene
 
 
 # Research Groups
-+ Machine Learning Blog from CMU,https://blog.ml.cmu.edu/
-+ Uber Engineering,https://eng.uber.com/
++ [Machine Learning Blog from CMU](https://blog.ml.cmu.edu/)
++ [Uber Engineering](https://eng.uber.com/)
++ [Oxford Applied and Theoretical Machine Learning Group](https://github.com/OATML)
 
 # Group Meetings
 
