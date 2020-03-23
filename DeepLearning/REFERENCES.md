@@ -124,6 +124,9 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 
 ## Bayesian Deep Learning
 
+### Benchmarks
++ [Bayesian Deep Learning Benchmarks](https://github.com/OATML/bdl-benchmarks)
+
 ### Papers / Thesis
 #### 2013: 
  1. Deep gaussian processes|Andreas C. Damianou,Neil D. Lawrence|2013 <br>
@@ -140,7 +143,7 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
     Source: http://www.approximateinference.org/accepted/GalGhahramani2015.pdf
  2. Rapid Prototyping of Probabilistic Models: Emerging Challenges in Variational Inference   |Yarin Gal, |2015<br>
     Source: http://www.approximateinference.org/accepted/Gal2015.pdf 
- 3. Bayesian Convolutional Neural Networks with Bernoulli Approximate Variational Inference |Yarin Gal, Zoubin Ghahramani|2015<br>
+ 3. Convolutional Neural Networks with Bernoulli Approximate Variational Inference |Yarin Gal, Zoubin Ghahramani|2015<br>
     Source: http://arxiv.org/abs/1506.02158
  4. Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning  |Yarin Gal, Zoubin Ghahramani|2015<br>
     Source: http://arxiv.org/abs/1506.02142
