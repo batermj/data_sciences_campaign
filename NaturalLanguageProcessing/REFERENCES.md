@@ -35,6 +35,7 @@ Top 100 Awesome Natural Language Processing Papers & Books & Blog & Whatever The
 
 ## Papers
 + [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
++ [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 + Peng Qi, Yuhao Zhang, Yuhui Zhang, Jason Bolton and Christopher D. Manning. 2020. [Stanza: A Python Natural Language Processing Toolkit for Many Human Languages](https://arxiv.org/abs/2003.07082).
 
 ## Journals
@@ -78,10 +79,13 @@ Top 100 Awesome Natural Language Processing Papers & Books & Blog & Whatever The
 + https://github.com/RaRe-Technologies
 
 ### LSTM and QRNN Language Model Toolkit for PyTorch
-+ LSTM and QRNN Language Model Toolkit for PyTorch, https://github.com/salesforce/awd-lstm-lm
++ [LSTM and QRNN Language Model Toolkit for PyTorch](https://github.com/salesforce/awd-lstm-lm)
  
-### Bert
-+ Natural Language Processing Best Practices & Examples, https://github.com/microsoft/nlp-recipes
+### BERT
++ [GitHub](https://github.com/google-research/bert)
++ [Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html)
++ [Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes)
+
 
 ### Topic Modelling
 + Topic Modelling for Humans, https://github.com/RaRe-Technologies/gensim
