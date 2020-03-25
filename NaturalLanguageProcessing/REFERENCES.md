@@ -29,8 +29,12 @@ Top 100 Awesome Natural Language Processing Papers & Books & Blog & Whatever The
 ## Group Meetings
 
 ## Topics (Categories)
++ Attension 
++ Transformer
++ BERT
 
 ## Papers
++ [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 + Peng Qi, Yuhao Zhang, Yuhui Zhang, Jason Bolton and Christopher D. Manning. 2020. [Stanza: A Python Natural Language Processing Toolkit for Many Human Languages](https://arxiv.org/abs/2003.07082).
 
 ## Journals
