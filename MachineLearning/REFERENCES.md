@@ -32,6 +32,7 @@ Top 100 Awesome Machine Learning Papers & Books & Blog & Whatever The Entreprene
 
 
 # Topics (Categories)
++ [What Machine Learning Trends You Should Watch In 2020](https://www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/#72fb4fcf39fc)
 
 
 # Papers
