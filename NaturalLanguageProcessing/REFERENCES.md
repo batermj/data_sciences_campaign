@@ -34,6 +34,7 @@ Top 100 Awesome Natural Language Processing Papers & Books & Blog & Whatever The
 + BERT
 
 ## Papers
++ [nlp_paper_summaries](https://github.com/dair-ai/nlp_paper_summaries)
 + [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 + [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 + Peng Qi, Yuhao Zhang, Yuhui Zhang, Jason Bolton and Christopher D. Manning. 2020. [Stanza: A Python Natural Language Processing Toolkit for Many Human Languages](https://arxiv.org/abs/2003.07082).
