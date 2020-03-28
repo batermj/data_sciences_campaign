@@ -36,6 +36,7 @@ Top 100 Awesome Machine Learning Papers & Books & Blog & Whatever The Entreprene
 
 
 # Papers
++ [Representation Learning Through Latent Canonicalizations](https://arxiv.org/abs/2002.11829)
 
 
 # Journals
@@ -170,6 +171,9 @@ Top 100 Awesome Machine Learning Papers & Books & Blog & Whatever The Entreprene
 
 ## Statistical Learning
 + An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013): Python code, An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013): Python code
+
+## Representation Learning
++ [Representation Learning Through Latent Canonicalizations](https://arxiv.org/abs/2002.11829)
 
 ## Machine Learning Problem
 + Machine Learning Problem Bible | Problem , https://github.com/ben519/MLPB
