@@ -55,7 +55,7 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 + Graph Convolutional Network (GCN)
 + Deep Learning as Tool
 
-## Long Tern Topics 
+## Long Term Topics 
 + Patterns Mining
 + Classification
 + Clustering
@@ -3237,8 +3237,9 @@ https://campus.acm.org/calendar/Index.cfm?confid=2020-46939
 
 # Github Projects
 + https://github.com/topics/data-mining
-+ Social Media Analytics,This repository contains code and bonus content which will be added from time to time for the book "Learning Social Media Analytics with R" by Packt, https://github.com/dipanjanS/learning-social-media-analytics-with-r
-+ Stream Data Mining Library for Spark Streaming http://streamdm.noahlab.com.hk/, https://github.com/huawei-noah/streamDM
++ [Social Media Analytics,This repository contains code and bonus content which will be added from time to time for the book "Learning Social Media Analytics with R" by Packt](https://github.com/dipanjanS/learning-social-media-analytics-with-r)
++ [Stream Data Mining Library for Spark Streaming](http://streamdm.noahlab.com.hk/, https://github.com/huawei-noah/streamDM)
++ [Process Mining for Python](https://github.com/pm4py/pm4py-source)
 
 # Tools
 
