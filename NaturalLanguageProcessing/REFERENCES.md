@@ -83,6 +83,7 @@ Top 100 Awesome Natural Language Processing Papers & Books & Blog & Whatever The
 + [LSTM and QRNN Language Model Toolkit for PyTorch](https://github.com/salesforce/awd-lstm-lm)
  
 ### BERT
++ [HOW BERT WORKS](https://arxiv.org/pdf/2002.12327.pdf)
 + [GitHub](https://github.com/google-research/bert)
 + [Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html)
 + [Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes)
