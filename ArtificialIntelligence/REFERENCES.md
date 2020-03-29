@@ -39,6 +39,10 @@ Top 100 Awesome Artificial Intelligence Papers & Books & Blog & Whatever The Ent
 # Topics (Categories)
 
 # Papers
+
+## MISX
++ [The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence "absolutely brilliant" —Nobel Laureate Danny Kahneman Gary Marcus](https://arxiv.org/abs/2002.06177)
+
 ## 2020（Upcoming Conferences）
 + [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)
 
