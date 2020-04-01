@@ -61,7 +61,7 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 + [Tutorials, assignments, and competitions for MIT Deep Learning related courses](https://github.com/lexfridman/mit-deep-learning)
 + [Deep Learning Projects from Stanford's 230 class](https://web.stanford.edu/class/cs230/](http://cs230.stanford.edu/proj-spring-2018.html)
 + [Deep Learning An MIT Press book Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
-
++ [Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley](https://github.com/Machine-Learning-Tokyo/AI_Curriculum)
 
 # Blog
 
