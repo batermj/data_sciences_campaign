@@ -53,7 +53,7 @@ Top 100 Awesome Natural Language Processing Papers & Books & Blog & Whatever The
 ## Patents
 
 ## Books
-+ [Deep Learning for NLP and Speech Recognition]((https://www.springer.com/us/book/9783030145958))
++ [Deep Learning for NLP and Speech Recognition](https://www.springer.com/us/book/9783030145958)
 
 ## Courses
 + [Case Studies for "Deep Learning for NLP and Speech Recognition" published by Springer](https://github.com/SpringerNLP)
