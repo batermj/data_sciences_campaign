@@ -22,6 +22,7 @@ Top 100 Awesome Robotics Papers & Books & Blog & Whatever The Entrepreneur& Rese
 ## Researchers
 
 ## Research Groups
++ [Robotics and Perception Group](https://github.com/uzh-rpg)
 
 ## Group Meetings
 
