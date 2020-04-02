@@ -55,6 +55,7 @@ Top 100 Awesome Natural Language Processing Papers & Books & Blog & Whatever The
 ## Books
 
 ## Courses
++ [Case Studies for "Deep Learning for NLP and Speech Recognition" published by Springer](https://www.springer.com/us/book/9783030145958)(https://github.com/SpringerNLP)
 
 ## Blog
 
