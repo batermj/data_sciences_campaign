@@ -69,6 +69,7 @@ Top 100 Awesome Machine Learning Papers & Books & Blog & Whatever The Entreprene
 + [Stanford Machine Learning (CS229)](http://cs229.stanford.edu), https://online.stanford.edu/courses/cs229-machine-learning
 
 # Blog
++ [Data Science Central](https://www.datasciencecentral.com/)
 
 # Datasets
 
