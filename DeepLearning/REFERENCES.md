@@ -448,7 +448,8 @@ Source: https://github.com/CancerDataScience/SurvivalNet
 + [A collection of deep learning tutorials using Tensorflow and Python](https://github.com/awjuliani/TF-Tutorials)
 + [Convolutional Neural Network for Text Classification in Tensorflow](https://github.com/dennybritz/cnn-text-classification-tf)
 + [A TensorFlow implementation of Baidu's DeepSpeech architecture](https://github.com/mozilla/DeepSpeech)
-+ [Code for the book Deep Learning with PyTorch by Eli Stevens and Luca Antiga](https://github.com/deep-learning-with-pytorch/dlwpt-code, https://www.manning.com/books/deep-learning-with-pytorch)
++ [Code for the book Deep Learning with PyTorch by Eli Stevens and Luca Antiga](https://github.com/deep-learning-with-pytorch/dlwpt-code)
++ [Code for the book Deep Learning with PyTorch by Eli Stevens and Luca Antiga](https://www.manning.com/books/deep-learning-with-pytorch)
 + [TensorFlow 1.x and 2.x tutorials and best practices.](https://github.com/vahidk/EffectiveTensorflow)
 
 ## MXNET
