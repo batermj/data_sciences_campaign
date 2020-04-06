@@ -28,7 +28,10 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 # Group Meetings
 
 # Topics (Categories)
++ Graph Neural Networks
++ Neural-Symbolic Computing
 + Neural-Symbolic Cognitive Reasoning
++
 
 # Papers
 
@@ -73,7 +76,8 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 # References 
 
 ## Papers
-+ Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!  https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
++ [Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
++ [Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective](https://arxiv.org/abs/2003.00330)
 
 ## Resources on Github
 + https://github.com/topics/deep-learning
