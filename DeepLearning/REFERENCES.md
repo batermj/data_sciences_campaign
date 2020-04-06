@@ -31,7 +31,9 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 + Graph Neural Networks
 + Neural-Symbolic Computing
 + Neural-Symbolic Cognitive Reasoning
-+
++ Graph-based Genetic Algorithm
++ Generative Model
++ Monte Carlo Tree Search 
 
 # Papers
 
