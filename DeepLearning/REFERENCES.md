@@ -467,6 +467,7 @@ Source: https://github.com/CancerDataScience/SurvivalNet
 + [Yet another Cycle GAN implementation in PyTorch](https://github.com/golbin/CycleGAN)
 + [A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.](https://github.com/bharathgs/Awesome-pytorch-list)
 + [Pytorch implementations of various Deep NLP models in cs-224n(Stanford Univ)](https://github.com/DSKSD/DeepNLP-models-Pytorch)
++ [PyTorch tutorials and best practices](https://github.com/vahidk/EffectivePyTorch)
 
 ## Keras
 + [Keras Tuner documentation](https://keras-team.github.io/keras-tuner/)
