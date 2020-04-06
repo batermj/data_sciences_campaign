@@ -433,22 +433,23 @@ Source: https://github.com/CancerDataScience/SurvivalNet
 + Minimal Deep Learning library is written in Python/Cython/C++ and Numpy/CUDA/cuDNN. https://github.com/upul/Aurora
 
 ## Tensorflow
-+ This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research. http://cs20.stanford.edu, https://github.com/chiphuyen/stanford-tensorflow-tutorials
-+ TensorFlow - A curated list of dedicated resources http://tensorflow.org, https://github.com/jtoy/awesome-tensorflow
-+ This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research. http://cs20.stanford.edu, https://github.com/chiphuyen/stanford-tensorflow-tutorials
-+ Code for O'Reilly's "A Short Course on TensorFlow", https://github.com/chiphuyen/tf-oreilly
-+ Repository for "Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python",https://github.com/rasbt/deep-learning-book
-+ TensorFlow Basic Tutorial Labs, https://github.com/hunkim/DeepLearningZeroToAll
-+ Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow,https://github.com/hunkim/word-rnn-tensorflow
-+ Learning Machine Learning with TensorFlow, https://github.com/golbin/TensorFlow-ML-Exercises
-+ TensorFlow tutorials and best practices. https://twitter.com/VahidK, https://github.com/vahidk/EffectiveTensorflow
-+ MNIST with TensorFlow, https://github.com/golbin/TensorFlow-MNIST
-+ A set of Deep Reinforcement Learning Agents implemented in Tensorflow, https://github.com/awjuliani/DeepRL-Agents
-+ Accompanying notebook for the Entailment with Tensorflow article, https://github.com/Steven-Hewitt/Entailment-with-Tensorflow
-+ A collection of deep learning tutorials using Tensorflow and Python, https://github.com/awjuliani/TF-Tutorials
-+ Convolutional Neural Network for Text Classification in Tensorflow, https://github.com/dennybritz/cnn-text-classification-tf
-+ A TensorFlow implementation of Baidu's DeepSpeech architecture, https://github.com/mozilla/DeepSpeech
-+ Code for the book Deep Learning with PyTorch by Eli Stevens and Luca Antiga, https://github.com/deep-learning-with-pytorch/dlwpt-code, https://www.manning.com/books/deep-learning-with-pytorch
++ [This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research. http://cs20.stanford.edu](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
++ [TensorFlow - A curated list of dedicated resources](https://github.com/jtoy/awesome-tensorflow)
++ [This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research. http://cs20.stanford.edu](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
++ [Code for O'Reilly's "A Short Course on TensorFlow"](https://github.com/chiphuyen/tf-oreilly)
++ [Repository for "Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python"](https://github.com/rasbt/deep-learning-book)
++ [TensorFlow Basic Tutorial Labs](https://github.com/hunkim/DeepLearningZeroToAll)
++ [Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow](https://github.com/hunkim/word-rnn-tensorflow)
++ [Learning Machine Learning with TensorFlow](https://github.com/golbin/TensorFlow-ML-Exercises)
++ [TensorFlow tutorials and best practices](https://twitter.com/VahidK, https://github.com/vahidk/EffectiveTensorflow)
++ [MNIST with TensorFlow](https://github.com/golbin/TensorFlow-MNIST)
++ [A set of Deep Reinforcement Learning Agents implemented in Tensorflow](https://github.com/awjuliani/DeepRL-Agents)
++ [Accompanying notebook for the Entailment with Tensorflow article](https://github.com/Steven-Hewitt/Entailment-with-Tensorflow)
++ [A collection of deep learning tutorials using Tensorflow and Python](https://github.com/awjuliani/TF-Tutorials)
++ [Convolutional Neural Network for Text Classification in Tensorflow](https://github.com/dennybritz/cnn-text-classification-tf)
++ [A TensorFlow implementation of Baidu's DeepSpeech architecture](https://github.com/mozilla/DeepSpeech)
++ [Code for the book Deep Learning with PyTorch by Eli Stevens and Luca Antiga](https://github.com/deep-learning-with-pytorch/dlwpt-code, https://www.manning.com/books/deep-learning-with-pytorch)
++ [TensorFlow 1.x and 2.x tutorials and best practices.](https://github.com/vahidk/EffectiveTensorflow)
 
 ## MXNET
 + Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more https://mxnet.apache.org,https://github.com/apache/incubator-mxnet
