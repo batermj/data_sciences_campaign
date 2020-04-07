@@ -132,28 +132,29 @@ Top 100 Awesome Machine Learning Papers & Books & Blog & Whatever The Entreprene
 + Pythonic Bayesian Belief Network Package, supporting creation of and exact inference on Bayesian Belief Networks specified as pure python functions., https://github.com/eBay/bayesian-belief-networks
 
 ## Bayesian Analysis
-+ aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;) http://camdavidsonpilon.github.io/Pro…, https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
-+ Think Bayes,https://github.com/AllenDowney/ThinkBayes
-+ A domain-general, Bayesian method for analyzing high-dimensional data tables http://probcomp.csail.mit.edu/crosscat/, https://github.com/probcomp/crosscat
-+ Bayesian Analysis with Python by Packt, https://github.com/PacktPublishing/Bayesian-Analysis-with-Python
-+ Python/PyMC3 versions of the programs described in Doing bayesian data analysis by John K. Kruschke, https://github.com/aloctavodia/Doing_bayesian_data_analysis
-+ Bayesian Analysis with Python, https://github.com/aloctavodia/BAP
-+ Bayesian Data Analysis demos for Python http://www.stat.columbia.edu/~gelman/…, https://github.com/avehtari/BDA_py_demos
-+ ka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;), https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
-+ Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano http://pymc-devs.github.io/pymc3/,https://github.com/pymc-devs/pymc3
++ [Bayesian Data Analysis](https://statmodeling.stat.columbia.edu/2020/04/06/bda-free-bayesian-data-analysis-now-available-online-as-pdf/)
++ [aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
++ [Think Bayes](https://github.com/AllenDowney/ThinkBayes)
++ [A domain-general, Bayesian method for analyzing high-dimensional data tables http://probcomp.csail.mit.edu/crosscat/] https://github.com/probcomp/crosscat)
++ [Bayesian Analysis with Python by Packt](https://github.com/PacktPublishing/Bayesian-Analysis-with-Python)
++ [Python/PyMC3 versions of the programs described in Doing bayesian data analysis by John K. Kruschke](https://github.com/aloctavodia/Doing_bayesian_data_analysis)
++ [Bayesian Analysis with Python](https://github.com/aloctavodia/BAP)
++ [Bayesian Data Analysis demos for Python,http://www.stat.columbia.edu/~gelman](https://github.com/avehtari/BDA_py_demos)
++ [aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;),]( https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
++ [Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano](http://pymc-devs.github.io/pymc3/,https://github.com/pymc-devs/pymc3)
 
 ## Bayesian Cognitive Modeling
-+ PyMC3 codes of Lee and Wagenmakers' Bayesian Cognitive Modeling - A Pratical Course, https://github.com/junpenglao/Bayesian-Cognitive-Modeling-in-Pymc3
-+ A python tutorial on bayesian modeling techniques (PyMC3), https://github.com/markdregan/Bayesian-Modelling-in-Python
++ [PyMC3 codes of Lee and Wagenmakers' Bayesian Cognitive Modeling - A Pratical Course](https://github.com/junpenglao/Bayesian-Cognitive-Modeling-in-Pymc3)
++ [A python tutorial on bayesian modeling techniques (PyMC3)](https://github.com/markdregan/Bayesian-Modelling-in-Python)
 
 ## Monte Carlo Search
-+ Monte Carlo Tree Search – beginners guide, https://int8.io/monte-carlo-tree-search-beginners-guide/
++ [Monte Carlo Tree Search – beginners guide](https://int8.io/monte-carlo-tree-search-beginners-guide/)
 
 ## Hidden Markov Model
-+ Yet Another Hidden Markov Model repository, https://github.com/jmschrei/yahmm
++ [Yet Another Hidden Markov Model repository](https://github.com/jmschrei/yahmm)
 
 ## Probabilistic Progrmming
-+ Deep universal probabilistic programming with Python and PyTorch http://pyro.ai, https://github.com/uber/pyro
++ [Deep universal probabilistic programming with Python and PyTorch http://pyro.ai](https://github.com/uber/pyro)
 
 ## Probabilistic Modelling
 + https://github.com/pymc-devs
