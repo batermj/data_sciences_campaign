@@ -34,6 +34,7 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 + Graph-based Genetic Algorithm
 + Generative Model
 + Monte Carlo Tree Search 
++ Time Series
 
 # Papers
 
@@ -523,6 +524,7 @@ Gathers machine learning and deep learning models for Stock forecasting includin
 ## Benchmark
 + THE Deep Learning Benchmarks, https://github.com/DeepMark/deepmark
 + Easy benchmarking of all publicly accessible implementations of convnets, https://github.com/soumith/convnet-benchmarks
+
 
 
 ## Sumer School
