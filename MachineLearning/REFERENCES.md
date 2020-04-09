@@ -32,6 +32,7 @@ Top 100 Awesome Machine Learning Papers & Books & Blog & Whatever The Entreprene
 
 
 # Topics (Categories)
++ Time Series
 + [What Machine Learning Trends You Should Watch In 2020](https://www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/#72fb4fcf39fc)
 
 
@@ -176,6 +177,10 @@ Top 100 Awesome Machine Learning Papers & Books & Blog & Whatever The Entreprene
 
 ## Representation Learning
 + [Representation Learning Through Latent Canonicalizations](https://arxiv.org/abs/2002.11829)
+
+## Time Series
++ [Time Series Forecasting Best Practices & Examples](https://github.com/microsoft/forecasting?utm_campaign=Data_Elixir&utm_source=Data_Elixir_280)
+
 
 ## Machine Learning Problem
 + Machine Learning Problem Bible | Problem , https://github.com/ben519/MLPB
