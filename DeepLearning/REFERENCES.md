@@ -53,6 +53,10 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 
 # Github Projects
 
+## Time Series
++ [Time Series Forecasting Best Practices & Examples](https://github.com/microsoft/forecasting?utm_campaign=Data_Elixir&utm_source=Data_Elixir_280)
+
+
 # Tools
 
 # Languages
