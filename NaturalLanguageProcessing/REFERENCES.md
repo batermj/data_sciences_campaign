@@ -44,6 +44,7 @@ Top 100 Awesome Natural Language Processing Papers & Books & Blog & Whatever The
 ## Conferences
 
 ## Github Projects
++ [Microsoft Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes)
 
 ## Tools
 + [Stanza - A Python NLP Library for Many Human Languages](https://stanfordnlp.github.io/stanza/)
