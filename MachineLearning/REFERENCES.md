@@ -71,6 +71,7 @@ Top 100 Awesome Machine Learning Papers & Books & Blog & Whatever The Entreprene
 
 # Blog
 + [Data Science Central](https://www.datasciencecentral.com/)
++ [R-Bloggers](https://www.r-bloggers.com)
 
 # Datasets
 
