@@ -90,22 +90,23 @@ Top 100 Awesome Python Papers & Books & Blog & Whatever The Entrepreneur& Resear
 + A curated list of data science blogs ,https://github.com/rushter/data-science-blogs
 
 ## NumPy
-+ 100 numpy exercises (100% complete), https://github.com/rougier/numpy-100
++ [100 numpy exercises (100% complete)](https://github.com/rougier/numpy-100)
++ [Python Numpy Tutorial with Colab, CS231n Python Tutorial With Google Colab]()
 
 ## Pandas
-+ Recipes for using Python's pandas library, https://github.com/jvns/pandas-cookbook
++ [Recipes for using Python's pandas library](https://github.com/jvns/pandas-cookbook)
 
 ## Scikit-learn
-+ Some sample IPython notebooks for scikit-learn,https://github.com/ogrisel/notebooks
-+ Jupyter notebooks from the scikit-learn video series http://bit.ly/scikit-learn-videos, https://github.com/justmarkham/scikit-learn-videos
-+ Tutorial on scikit-learn and IPython for parallel machine learning, https://github.com/ogrisel/parallel_ml_tutorial
-+ Dive into Machine Learning with Python Jupyter notebook and scikit-learn! http://hangtwenty.github.io/dive-into…, https://github.com/hangtwenty/dive-into-machine-learning
++ [Some sample IPython notebooks for scikit-learn](https://github.com/ogrisel/notebooks)
++ [Jupyter notebooks from the scikit-learn video series](https://github.com/justmarkham/scikit-learn-videos)
++ [Tutorial on scikit-learn and IPython for parallel machine learning](https://github.com/ogrisel/parallel_ml_tutorial)
++ [Dive into Machine Learning with Python Jupyter notebook and scikit-learn!](https://github.com/hangtwenty/dive-into-machine-learning)
 
 ## Statistics
 + https://github.com/CamDavidsonPilon/tdigest
 
 ## Statsmodels
-+ Statsmodels,https://github.com/statsmodels
++ [Statsmodel](https://github.com/statsmodels)
 
 ## Machine Learning
 + common data analysis and machine learning tasks using python, https://github.com/ujjwalkarn/DataSciencePython
