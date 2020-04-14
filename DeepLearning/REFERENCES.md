@@ -347,14 +347,11 @@ Source: http://dlrs-workshop.org
 4. Collaborative Filtering using a RBM by Big Data University. [Link](https://github.com/santipuch590/deeplearning-tf/blob/master/dl_tf_BDU/4.RBM/ML0120EN-4.2-Review-CollaborativeFilteringwithRBM.ipynb)
 
 ### Software
-1. Spotlight: deep learning recommender systems in PyTorch <br>
-Source: https://github.com/maciejkula/spotlight
+1. [Spotlight: deep learning recommender systems in PyTorch[(https://github.com/maciejkula/spotlight)
 
-2. Amazon DSSTNE: deep learning library by amazon (specially for recommended systems i.e. sparse data) <br>
-Source: https://github.com/amzn/amazon-dsstne
+2. [Amazon DSSTNE: deep learning library by amazon (specially for recommended systems i.e. sparse data)](https://github.com/amzn/amazon-dsstne)
 
-3. Recoder: Large scale training of factorization models for Collaborative Filtering with PyTorch <br>
-Source: https://github.com/amoussawi/recoder
+3. [Recoder: Large scale training of factorization models for Collaborative Filtering with PyTorch](https://github.com/amoussawi/recoder)
 
 ## Survial Analysis using Deep Learning
 Bayesian Deep Learning based Articles , Papers and Repositories for Survival Analysis.
