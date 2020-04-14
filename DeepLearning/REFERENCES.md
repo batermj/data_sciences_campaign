@@ -347,7 +347,7 @@ Source: http://dlrs-workshop.org
 4. Collaborative Filtering using a RBM by Big Data University. [Link](https://github.com/santipuch590/deeplearning-tf/blob/master/dl_tf_BDU/4.RBM/ML0120EN-4.2-Review-CollaborativeFilteringwithRBM.ipynb)
 
 ### Software
-1. [Spotlight: deep learning recommender systems in PyTorch[(https://github.com/maciejkula/spotlight)
+1. [Spotlight: deep learning recommender systems in PyTorch](https://github.com/maciejkula/spotlight)
 
 2. [Amazon DSSTNE: deep learning library by amazon (specially for recommended systems i.e. sparse data)](https://github.com/amzn/amazon-dsstne)
 
@@ -456,8 +456,6 @@ Source: https://github.com/CancerDataScience/SurvivalNet
 + [A collection of deep learning tutorials using Tensorflow and Python](https://github.com/awjuliani/TF-Tutorials)
 + [Convolutional Neural Network for Text Classification in Tensorflow](https://github.com/dennybritz/cnn-text-classification-tf)
 + [A TensorFlow implementation of Baidu's DeepSpeech architecture](https://github.com/mozilla/DeepSpeech)
-+ [Code for the book Deep Learning with PyTorch by Eli Stevens and Luca Antiga](https://github.com/deep-learning-with-pytorch/dlwpt-code)
-+ [Code for the book Deep Learning with PyTorch by Eli Stevens and Luca Antiga](https://www.manning.com/books/deep-learning-with-pytorch)
 + [TensorFlow 1.x and 2.x tutorials and best practices.](https://github.com/vahidk/EffectiveTensorflow)
 
 ## MXNET
@@ -478,6 +476,10 @@ Source: https://github.com/CancerDataScience/SurvivalNet
 + [A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.](https://github.com/bharathgs/Awesome-pytorch-list)
 + [Pytorch implementations of various Deep NLP models in cs-224n(Stanford Univ)](https://github.com/DSKSD/DeepNLP-models-Pytorch)
 + [PyTorch tutorials and best practices](https://github.com/vahidk/EffectivePyTorch)
++ [PyTorch 模型训练实用教程, 作者:余霆嵩](https://github.com/tensor-yu/PyTorch_Tutorial)
++ [Code for the book Deep Learning with PyTorch by Eli Stevens and Luca Antiga](https://github.com/deep-learning-with-pytorch/dlwpt-code)
++ [Code for the book Deep Learning with PyTorch by Eli Stevens and Luca Antiga](https://www.manning.com/books/deep-learning-with-pytorch)
+
 
 ## Keras
 + [Keras Tuner documentation](https://keras-team.github.io/keras-tuner/)
