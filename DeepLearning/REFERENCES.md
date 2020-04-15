@@ -35,6 +35,7 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 + Generative Model
 + Monte Carlo Tree Search 
 + Time Series
++ Visualization
 
 # Papers
 
@@ -75,6 +76,7 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 + [Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)](https://github.com/Machine-Learning-Tokyo/DL-workshop-series)
 
 # Blog
++ [OpenAI](https://openai.com/blog/microscope/)
 
 # Datasets
 
