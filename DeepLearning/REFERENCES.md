@@ -335,12 +335,10 @@ Systems by Xiaopeng Li and James She <br> Source: http://eelxpeng.github.io/asse
  Source: https://arxiv.org/abs/1708.05031
  
 ### Blogs
-1. Deep Learning Meets Recommendation Systems by Wann-Jiun. <br>
-Source: https://blog.nycdatascience.com/student-works/deep-learning-meets-recommendation-systems/
+1. [Deep Learning Meets Recommendation Systems by Wann-Jiun](https://blog.nycdatascience.com/student-works/deep-learning-meets-recommendation-systems/)
 
 ### Workshops 
-1. 2nd Workshop on Deep Learning for Recommender Systems , 27 August 2017. Como, Italy.<br> 
-Source: http://dlrs-workshop.org
+1. [2nd Workshop on Deep Learning for Recommender Systems , 27 August 2017. Como, Italy](http://dlrs-workshop.org)
 
 ### Tutorials
 1. Deep Learning for Recommender Systems by Balázs Hidasi. [RecSys Summer School](http://pro.unibz.it/projects/schoolrecsys17/program.html), 21-25 August, 2017, Bozen-Bolzano. [Slides](https://www.slideshare.net/balazshidasi/deep-learning-in-recommender-systems-recsys-summer-school-2017)
