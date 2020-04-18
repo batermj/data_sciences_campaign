@@ -90,15 +90,15 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 
 ## Resources on Github
 + https://github.com/topics/deep-learning
-+ Deep neural networks without the learning cliff! Classifiers and regressors compatible with scikit-learn., https://github.com/aigamedev/scikit-neuralnetwork
-+ Distributed (Deep) Machine Learning Community, https://github.com/dmlc
-+ Content consists of Jupyter Notebook tutorials walking through deep learning Frameworks (MXNet, Gluon) to Platforms (SageMaker, DeepLens) for common CV use-cases,https://github.com/aws-samples/aws-ml-vision-end2end
-+ A curated list of awesome Deep Learning tutorials, projects and communities, https://github.com/ChristosChristofidis/awesome-deep-learning
-+ A list of popular github projects related to deep learning, https://github.com/aymericdamien/TopDeepLearning
-+ Top Deep Learning Projects based on their Stars!, https://github.com/hunkim/DeepLearningStars
-+ Deep Learning Architecture Genealogy Project,https://github.com/hunkim/deep_architecture_genealogy
++ [Deep neural networks without the learning cliff! Classifiers and regressors compatible with scikit-learn](https://github.com/aigamedev/scikit-neuralnetwork)
++ [Distributed (Deep) Machine Learning Community](https://github.com/dmlc)
++ [Content consists of Jupyter Notebook tutorials walking through deep learning Frameworks (MXNet, Gluon) to Platforms (SageMaker, DeepLens) for common CV use-cases](https://github.com/aws-samples/aws-ml-vision-end2end)
++ [A curated list of awesome Deep Learning tutorials, projects and communities](https://github.com/ChristosChristofidis/awesome-deep-learning)
++ [A list of popular github projects related to deep learning](https://github.com/aymericdamien/TopDeepLearning)
++ [Top Deep Learning Projects based on their Stars!](https://github.com/hunkim/DeepLearningStars)
++ [Deep Learning Architecture Genealogy Project](https://github.com/hunkim/deep_architecture_genealogy)
 + https://github.com/dennybritz?tab=repositories
-+ Summaries and notes on Deep Learning research papers,https://github.com/dennybritz/deeplearning-papernotes
++ [Summaries and notes on Deep Learning research papers](https://github.com/dennybritz/deeplearning-papernotes)
 + https://github.com/lisa-lab
 + https://github.com/ChristosChristofidis
 + https://github.com/zackchase
@@ -106,20 +106,20 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 + https://github.com/aws-samples
 
 ## CNN
-+ A convolutional neural network that classifies sounds, https://github.com/awjuliani/sound-cnn
-+ Deformable Convolutional Networks, https://github.com/msracver/Deformable-ConvNets
-+ An mxnet implementation of Deconvolutional SSD, https://github.com/MTCloudVision/mxnet-dssd
-+ CNN and LSTM model for text recognition, https://github.com/oyxhust/CNN-LSTM-CTC-text-recognition
-+ The Places365-CNNs for Scene Classification http://places2.csail.mit.edu/, https://github.com/CSAILVision/places365
++ [A convolutional neural network that classifies sounds](https://github.com/awjuliani/sound-cnn)
++ [Deformable Convolutional Networks](https://github.com/msracver/Deformable-ConvNets)
++ [An mxnet implementation of Deconvolutional SSD](https://github.com/MTCloudVision/mxnet-dssd)
++ [CNN and LSTM model for text recognition](https://github.com/oyxhust/CNN-LSTM-CTC-text-recognition)
++ [The Places365-CNNs for Scene Classification http://places2.csail.mit.edu/](https://github.com/CSAILVision/places365)
 
 ## Residual Neural Network
-+ Reproduce ResNet-v2(Identity Mappings in Deep Residual Networks) with MXNet, https://github.com/tornadomeet/ResNet
++ [Reproduce ResNet-v2(Identity Mappings in Deep Residual Networks) with MXNet](https://github.com/tornadomeet/ResNet)
 
 
 ## Recurrent Neural Network
-+ Recurrent Neural Network - A curated list of resources dedicated to RNN, https://github.com/kjw0612/awesome-rnn
-+ Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow, https://github.com/hunkim/word-rnn-tensorflow
-+ A little library for text analysis with RNNs, https://github.com/IndicoDataSolutions/Passage
++ [Recurrent Neural Network - A curated list of resources dedicated to RNN](https://github.com/kjw0612/awesome-rnn)
++ [Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow](https://github.com/hunkim/word-rnn-tensorflow)
++ [A little library for text analysis with RNNs](https://github.com/IndicoDataSolutions/Passage)
 
 ## Reinforcement Learning
 + [Minimal Deep Q Learning (DQN & DDQN) implementations in Keras](https://keon.io/deep-q-learning, https://github.com/keon/deep-q-learning)
@@ -132,7 +132,7 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 
 
 ## GAN
-+ This tutorial of GAN is Chinese translation of its English version which is created by MXNet group., https://github.com/wangx404/GAN_gluon_tutorials
++ [This tutorial of GAN is Chinese translation of its English version which is created by MXNet group](https://github.com/wangx404/GAN_gluon_tutorials)
 
 
 ## Meta Learning
@@ -145,14 +145,11 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 
 ### Papers / Thesis
 #### 2013: 
- 1. Deep gaussian processes|Andreas C. Damianou,Neil D. Lawrence|2013 <br>
-    Source: http://www.jmlr.org/proceedings/papers/v31/damianou13a.pdf
+ 1. [Deep gaussian processes|Andreas C. Damianou,Neil D. Lawrence|2013](http://www.jmlr.org/proceedings/papers/v31/damianou13a.pdf)
 
 #### 2014: 
- 1. Avoiding pathologies in very deep networks|D Duvenaud, O Rippel, R Adams|2014 <br>
-    Source: http://www.jmlr.org/proceedings/papers/v33/duvenaud14.pdf
- 2. Nested variational compression in deep Gaussian processes|J Hensman, ND Lawrence|2014
-    Source: https://arxiv.org/abs/1412.1370
+ 1. [Avoiding pathologies in very deep networks|D Duvenaud, O Rippel, R Adams|2014](http://www.jmlr.org/proceedings/papers/v33/duvenaud14.pdf)
+ 2. [Nested variational compression in deep Gaussian processes|J Hensman, ND Lawrence|2014](https://arxiv.org/abs/1412.1370)
 
 #### 2015: 
  1. On Modern Deep Learning and Variational Inference  |Yarin Gal, Zoubin Ghahramani|2015 <br>
