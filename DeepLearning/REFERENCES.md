@@ -36,6 +36,7 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 + Monte Carlo Tree Search 
 + Time Series
 + Visualization
++ Capsule Networks
 
 # Papers
 
@@ -134,6 +135,8 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 ## GAN
 + [This tutorial of GAN is Chinese translation of its English version which is created by MXNet group](https://github.com/wangx404/GAN_gluon_tutorials)
 
+## Capsule Networks 
++ [Capsule Networks -- A Probabilistic Perspective Smith et al](https://arxiv.org/abs/2004.03553)
 
 ## Meta Learning
 + Implementation of Meta-RL A3C algorithm, Implementation of Meta-RL A3C algorithm
