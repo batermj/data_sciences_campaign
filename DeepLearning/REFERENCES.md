@@ -134,6 +134,7 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 
 ## GAN
 + [This tutorial of GAN is Chinese translation of its English version which is created by MXNet group](https://github.com/wangx404/GAN_gluon_tutorials)
++ [GAN in Keras By François Chollet :](https://arxiv.org/abs/2004.03805)
 
 ## Capsule Networks 
 + [Capsule Networks -- A Probabilistic Perspective Smith et al](https://arxiv.org/abs/2004.03553)
