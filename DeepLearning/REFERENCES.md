@@ -130,7 +130,7 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 + [Accompanying repository for Let's make a DQN / A3C series](https://github.com/jaara/AI-blog)
 + [Code for experiments with our RNN regularizer, which stochastically forces units to maintain previous values](https://github.com/teganmaharaj/zoneout)
 + [Reinforcement Learning Coach by Intel® AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms https://nervanasystems.github.io/coach/](https://github.com/NervanaSystems/coach)
-
++ [Building a Powerful DQN in TensorFlow 2.0 (explanation & tutorial) Sebastian Theiler:](https://medium.com/analytics-vidhya/building-a-powerful-dqn-in-tensorflow-2-0-explanation-tutorial-d48ea8f3177a)
 
 ## GAN
 + [This tutorial of GAN is Chinese translation of its English version which is created by MXNet group](https://github.com/wangx404/GAN_gluon_tutorials)
