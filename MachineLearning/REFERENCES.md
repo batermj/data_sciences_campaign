@@ -67,7 +67,7 @@ Top 100 Awesome Machine Learning Papers & Books & Blog & Whatever The Entreprene
 
 # Courses
 + [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-+ [Stanford Machine Learning (CS229)](http://cs229.stanford.edu), https://online.stanford.edu/courses/cs229-machine-learning
++ [Stanford Machine Learning (CS229), http://cs229.stanford.edu](https://online.stanford.edu/courses/cs229-machine-learning)
 + [Machine Learning for Physicists Florian Marquardt](https://machine-learning-for-physicists.org)
 
 # Blog
