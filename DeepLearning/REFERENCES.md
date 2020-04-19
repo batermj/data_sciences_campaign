@@ -486,11 +486,11 @@ Source: https://github.com/CancerDataScience/SurvivalNet
 + [Keras Tuner documentation](https://keras-team.github.io/keras-tuner/)
 
 ## MAX (Model Asset Exchange,MAE)
-+ Model Asset eXchange: Path to Ubiquitous Deep Learning Deployment, https://arxiv.org/abs/1909.01606
++ [Model Asset eXchange: Path to Ubiquitous Deep Learning Deployment](https://arxiv.org/abs/1909.01606)
 
 
 ## Theano
-+ Deep Learning with Theano, published by Packt, https://github.com/PacktPublishing/Deep-Learning-with-Theano
++ [Deep Learning with Theano, published by Packt](https://github.com/PacktPublishing/Deep-Learning-with-Theano)
 
 ## Deeplearning4J
 + https://github.com/deeplearning4j/dl4j-examples
@@ -499,43 +499,43 @@ Source: https://github.com/CancerDataScience/SurvivalNet
 + https://software.intel.com/en-us/articles/building-large-scale-image-feature-extraction-with-bigdl-at-jdcom
 
 ## Face Detection and Recognition 
-+ AIND-CV-FacialKeypoints, https://github.com/udacity/AIND-CV-FacialKeypoints
-+ Detect and align faces in images using dlib and opencv, https://github.com/nlhkh/face-alignment-dlib
-+ Face Recognition Project on MXNet, https://github.com/deepinsight/insightface
-+ Using mxnet for face-related algorithm, https://github.com/tornadomeet/mxnet-face
++ [AIND-CV-FacialKeypoints](https://github.com/udacity/AIND-CV-FacialKeypoints)
++ [Detect and align faces in images using dlib and opencv](https://github.com/nlhkh/face-alignment-dlib)
++ [Face Recognition Project on MXNet](https://github.com/deepinsight/insightface)
++ [Using mxnet for face-related algorithm](https://github.com/tornadomeet/mxnet-face)
 
 ## Object Recognition
-+ mean Average Precision - This code evaluates the performance of your neural net for object recognition., https://github.com/Cartucho/mAP
++ [mean Average Precision - This code evaluates the performance of your neural net for object recognition](https://github.com/Cartucho/mAP)
 
 
 ## Stock forecasting
-Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations, https://github.com/huseinzol05/Stock-Prediction-Models
++ [Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations,](https://github.com/huseinzol05/Stock-Prediction-Models)
 
 ## MISC
-+ dlsys-course,https://github.com/dlsys-course
-+ This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research. http://cs20.stanford.edu,, https://github.com/chiphuyen/stanford-tensorflow-tutorials
-+ Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.), https://github.com/alexjc/neural-doodle
++ [dlsys-course](https://github.com/dlsys-course)
++ [This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research. http://cs20.stanford.edu](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
++ [Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)](https://github.com/alexjc/neural-doodle)
 
 ## GPU
-+ Acceleration package for neural networks on multi-core CPUs, https://github.com/Maratyszcza/NNPACK
++ [Acceleration package for neural networks on multi-core CPUs](https://github.com/Maratyszcza/NNPACK)
 
 ## Neural Net Visualization
-+ Neural network visualizer http://ethereon.github.io/netscope, https://github.com/ethereon/netscope
++ [Neural network visualizer http://ethereon.github.io/netscope](https://github.com/ethereon/netscope)
 
 ## Neural Network
 + ,https://github.com/topics/neural-network
 
 ## Benchmark
-+ THE Deep Learning Benchmarks, https://github.com/DeepMark/deepmark
-+ Easy benchmarking of all publicly accessible implementations of convnets, https://github.com/soumith/convnet-benchmarks
++ [THE Deep Learning Benchmarks](https://github.com/DeepMark/deepmark)
++ [Easy benchmarking of all publicly accessible implementations of convnets](https://github.com/soumith/convnet-benchmarks)
 
 
 
 ## Sumer School
-+ Summer School, https://github.com/mila-udem/summerschool2015
++ [Summer School](https://github.com/mila-udem/summerschool2015)
 
 ## NIPS Proceedings
 + https://papers.nips.cc/
 
 ## Deep Learning Problem
-+ A living collection of deep learning problems https://openai.com/requests-for-research, https://github.com/openai/requests-for-research
++ [A living collection of deep learning problems https://openai.com/requests-for-research](https://github.com/openai/requests-for-research)
