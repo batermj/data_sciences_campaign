@@ -417,29 +417,24 @@ Code: https://github.com/rk2900/drsa
 
 
 ### Thesis 
-1. Gaussian Process Based
-Approaches for Survival Analysis , Alan D. Saul, University of Sheffield, UK. 2017<br> 
-Source: http://etheses.whiterose.ac.uk/17946/1/thesis.pdf
+1. [Gaussian Process Based Approaches for Survival Analysis , Alan D. Saul, University of Sheffield, UK. 2017](http://etheses.whiterose.ac.uk/17946/1/thesis.pdf)
 
 
 ### Software
-1. DeepSurv: DeepSurv is a deep learning approach to survival analysis <br>
-Source: https://github.com/jaredleekatzman/DeepSurv
-Blogs
-2. SurvivalNet: Deep learning survival models <br>
-Source: https://github.com/CancerDataScience/SurvivalNet
+1. [DeepSurv: DeepSurv is a deep learning approach to survival analysis](https://github.com/jaredleekatzman/DeepSurv)
+2. [SurvivalNet: Deep learning survival models](https://github.com/CancerDataScience/SurvivalNet)
 
 ## Auto Driving
-+ Vehicle Detection Project, https://github.com/udacity/CarND-Vehicle-Detection
-+ CarND-Advanced-Lane-Lines, https://github.com/udacity/CarND-Advanced-Lane-Lines
-+ First Project Udacity's Self-Driving NanoDegree, https://github.com/upul/CarND-LaneLines-P1c
-+ Third Project of the Udacity Self-Driving Car Nanodegree Program, https://github.com/upul/Behavioral-Cloning
++ [Vehicle Detection Project](https://github.com/udacity/CarND-Vehicle-Detection)
++ [CarND-Advanced-Lane-Lines](https://github.com/udacity/CarND-Advanced-Lane-Lines)
++ [First Project Udacity's Self-Driving NanoDegree](https://github.com/upul/CarND-LaneLines-P1c)
++ [Third Project of the Udacity Self-Driving Car Nanodegree Program](https://github.com/upul/Behavioral-Cloning)
 
 ## Deep Learning Projects
-+ A list of popular github projects related to deep learning,https://github.com/aymericdamien/TopDeepLearning
++ [A list of popular github projects related to deep learning](https://github.com/aymericdamien/TopDeepLearning)
 
 ## Frameworks, Library
-+ Minimal Deep Learning library is written in Python/Cython/C++ and Numpy/CUDA/cuDNN. https://github.com/upul/Aurora
++ [Minimal Deep Learning library is written in Python/Cython/C++ and Numpy/CUDA/cuDNN](https://github.com/upul/Aurora)
 
 ## Tensorflow
 + [This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research. http://cs20.stanford.edu](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
