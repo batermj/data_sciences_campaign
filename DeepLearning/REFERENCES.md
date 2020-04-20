@@ -455,12 +455,12 @@ Code: https://github.com/rk2900/drsa
 + [TensorFlow 1.x and 2.x tutorials and best practices.](https://github.com/vahidk/EffectiveTensorflow)
 
 ## MXNET
-+ Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more https://mxnet.apache.org,https://github.com/apache/incubator-mxnet
-+ An interactive book on deep learning. Much easy, so MXNet. Wow. http://gluon.mxnet.io, https://github.com/zackchase/mxnet-the-straight-dope
-+ A curated list of MXNet examples, tutorials and blogs, https://github.com/chinakook/Awesome-MXNet
-+ mobilenet-mxnet, https://github.com/KeyKy/mobilenet-mxnet
-+ the implementation of MTCNN in MXnet, https://github.com/Seanlinx/mtcnn
-+ MXNet port of SSD: Single Shot MultiBox Object Detector. Reimplementation of https://github.com/weiliu89/caffe/tree/ssd, MXNet port of SSD: Single Shot MultiBox Object Detector. Reimplementation of https://github.com/weiliu89/caffe/tree/ssd
++ [Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more](https://mxnet.apache.org,https://github.com/apache/incubator-mxnet)
++ [An interactive book on deep learning. Much easy, so MXNet. Wow. ](http://gluon.mxnet.io, https://github.com/zackchase/mxnet-the-straight-dope)
++ [A curated list of MXNet examples, tutorials and blogs](https://github.com/chinakook/Awesome-MXNet
++ [mobilenet-mxnet](https://github.com/KeyKy/mobilenet-mxnet)
++ [the implementation of MTCNN in MXnet](https://github.com/Seanlinx/mtcnn)
++ [MXNet port of SSD: Single Shot MultiBox Object Detector. Reimplementation of](https://github.com/weiliu89/caffe/tree/ssd)
 
 ## PyTorch
 + [PyTorch: An Imperative Style, High-Performance Deep Learning Library](https://arxiv.org/abs/1912.01703)
