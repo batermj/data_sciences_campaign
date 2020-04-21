@@ -268,6 +268,11 @@ Stefan Webb| 2016 <br>
 ## Computer Vision
 + A curated list of deep learning resources for computer vision, https://github.com/kjw0612/awesome-deep-vision
 
+## Graph Neural Networks
++ [Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective Luis Lamb et al.:](https://arxiv.org/abs/2003.00330)
+
+## Neural-Symbolic Computing
+
 ## Natural Language Processing
 + Semantic Segmentation using Fully Convolutional Neural Network. https://github.com/upul/Semantic_Segmentation
 + A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods., https://github.com/hwalsuklee/awesome-deep-text-detection-recognition
