@@ -347,10 +347,10 @@ Systems by Xiaopeng Li and James She <br> Source: http://eelxpeng.github.io/asse
 1. [2nd Workshop on Deep Learning for Recommender Systems , 27 August 2017. Como, Italy](http://dlrs-workshop.org)
 
 ### Tutorials
-1. Deep Learning for Recommender Systems by Balázs Hidasi. [RecSys Summer School](http://pro.unibz.it/projects/schoolrecsys17/program.html), 21-25 August, 2017, Bozen-Bolzano. [Slides](https://www.slideshare.net/balazshidasi/deep-learning-in-recommender-systems-recsys-summer-school-2017)
-2. Deep Learning for Recommender Systems by Alexandros	Karatzoglou and Balázs	Hidasi. RecSys2017 Tutorial. [Slides](https://www.slideshare.net/kerveros99/deep-learning-for-recommender-systems-recsys2017-tutorial)
-3. Introduction to recommender Systems by Miguel González-Fierro. [Link](https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_Recommendation_Systems/Intro_Recommender.ipynb)
-4. Collaborative Filtering using a RBM by Big Data University. [Link](https://github.com/santipuch590/deeplearning-tf/blob/master/dl_tf_BDU/4.RBM/ML0120EN-4.2-Review-CollaborativeFilteringwithRBM.ipynb)
+1. [Deep Learning for Recommender Systems by Balázs Hidasi. RecSys Summer School,http://pro.unibz.it/projects/schoolrecsys17/program.html), 21-25 August, 2017, Bozen-Bolzano](https://www.slideshare.net/balazshidasi/deep-learning-in-recommender-systems-recsys-summer-school-2017)
+2. [Deep Learning for Recommender Systems by Alexandros	Karatzoglou and Balázs	Hidasi. RecSys2017 Tutorial](https://www.slideshare.net/kerveros99/deep-learning-for-recommender-systems-recsys2017-tutorial)
+3. [Introduction to recommender Systems by Miguel González-Fierro](https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_Recommendation_Systems/Intro_Recommender.ipynb)
+4. [Collaborative Filtering using a RBM by Big Data University](https://github.com/santipuch590/deeplearning-tf/blob/master/dl_tf_BDU/4.RBM/ML0120EN-4.2-Review-CollaborativeFilteringwithRBM.ipynb)
 
 ### Software
 1. [Spotlight: deep learning recommender systems in PyTorch](https://github.com/maciejkula/spotlight)
