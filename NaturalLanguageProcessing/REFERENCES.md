@@ -58,6 +58,7 @@ Top 100 Awesome Natural Language Processing Papers & Books & Blog & Whatever The
 
 ## Courses
 + [Case Studies for "Deep Learning for NLP and Speech Recognition" published by Springer](https://github.com/SpringerNLP)
++ [The Super Duper NLP Repo](https://notebooks.quantumstat.com)
 
 ## Blog
 
