@@ -156,20 +156,13 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
  2. [Nested variational compression in deep Gaussian processes|J Hensman, ND Lawrence|2014](https://arxiv.org/abs/1412.1370)
 
 #### 2015: 
- 1. On Modern Deep Learning and Variational Inference  |Yarin Gal, Zoubin Ghahramani|2015 <br>
-    Source: http://www.approximateinference.org/accepted/GalGhahramani2015.pdf
- 2. Rapid Prototyping of Probabilistic Models: Emerging Challenges in Variational Inference   |Yarin Gal, |2015<br>
-    Source: http://www.approximateinference.org/accepted/Gal2015.pdf 
- 3. Convolutional Neural Networks with Bernoulli Approximate Variational Inference |Yarin Gal, Zoubin Ghahramani|2015<br>
-    Source: http://arxiv.org/abs/1506.02158
- 4. Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning  |Yarin Gal, Zoubin Ghahramani|2015<br>
-    Source: http://arxiv.org/abs/1506.02142
- 5. Dropout as a Bayesian Approximation: Insights and Applications     |Yarin Gal, |2015
-    Source: https://sites.google.com/site/deeplearning2015/33.pdf?attredirects=0
- 6. Bayesian Convolutional Neural Networks with Bernoulli Approximate Variational Inference |Yarin Gal, Zoubin Ghahramani|2015<br>
-    Source: http://arxiv.org/abs/1506.02158
- 7. Scalable Variational Gaussian Process Classification|J Hensman, AGG Matthews, Z Ghahramani|2015
-    Source: http://www.jmlr.org/proceedings/papers/v38/hensman15.pdf
+ 1. [On Modern Deep Learning and Variational Inference  |Yarin Gal, Zoubin Ghahramani|2015](http://www.approximateinference.org/accepted/GalGhahramani2015.pdf)
+ 2. [Rapid Prototyping of Probabilistic Models: Emerging Challenges in Variational Inference   |Yarin Gal, |2015](http://www.approximateinference.org/accepted/Gal2015.pdf)
+ 3. [Convolutional Neural Networks with Bernoulli Approximate Variational Inference |Yarin Gal, Zoubin Ghahramani|2015](http://arxiv.org/abs/1506.02158)
+ 4. [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning  |Yarin Gal, Zoubin Ghahramani|2015](http://arxiv.org/abs/1506.02142)
+ 5. [Dropout as a Bayesian Approximation: Insights and Applications     |Yarin Gal, |2015](https://sites.google.com/site/deeplearning2015/33.pdf?attredirects=0)
+ 6. [Bayesian Convolutional Neural Networks with Bernoulli Approximate Variational Inference |Yarin Gal, Zoubin Ghahramani|2015](http://arxiv.org/abs/1506.02158)
+ 7. [Scalable Variational Gaussian Process Classification|J Hensman, AGG Matthews, Z Ghahramani|2015](http://www.jmlr.org/proceedings/papers/v38/hensman15.pdf)
  
 #### 2016:
  1. Relativistic Monte Carlo | Xiaoyu Lu| 2016 <br>
