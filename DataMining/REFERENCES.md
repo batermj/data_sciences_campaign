@@ -37,8 +37,8 @@ Top 100 Awesome Data Mining Papers & Books & Blog & Whatever The Entrepreneur& R
 
 # Research Groups
 + Data Mining, University of Houston
-+ Data Mining Program, University of Central Florida, http://dms.stat.ucf.edu/
-+ Data Mining Group, University of Dortmund, http://www-ai.cs.uni-dortmund.de/index.html
++ [Data Mining Program, University of Central Florida](http://dms.stat.ucf.edu/)
++ [Data Mining Group, University of Dortmund](http://www-ai.cs.uni-dortmund.de/index.html)
 + Data Mining, MIT OCW
 + Data Mining Group, Tsinghua
 + KDD oral presentations video
