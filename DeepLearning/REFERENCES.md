@@ -356,15 +356,11 @@ Systems by Xiaopeng Li and James She <br> Source: http://eelxpeng.github.io/asse
 Bayesian Deep Learning based Articles , Papers and Repositories for Survival Analysis.
 
 ### Papers
-1. Deep Survival Analysis by Rajesh Ranganath,Adler Perotte,David Blei et all. JMLR 2016<br>
-Source: http://proceedings.mlr.press/v56/Ranganath16.pdf 
-2. The Survival Filter: Joint Survival Analysis with a Latent Time Series by Rajesh Ranganath,Adler Perotte,David Blei et all. UAI, 2015<br>
-Source: https://www.cs.princeton.edu/~rajeshr/papers/15uai.pdf
-3. DeepSurv: Personalized Treatment Recommender System Using A Cox Proportional Hazards Deep Neural Network by Jared Katzman, Uri Shaham, Jonathan Bates, Alexander Cloninger, Tingting Jiang, Yuval Kluger . ACML 2016 <br>
-Source: https://arxiv.org/abs/1606.00931
-4. Deep Multi-task Gaussian Processes for
-Survival Analysis with Competing Risks by Ahmed M. Alaa, Mihaela van der Schaar. NIPS 2017 <br>
-Source: http://papers.nips.cc/paper/6827-deep-multi-task-gaussian-processes-for-survival-analysis-with-competing-risks.pdf
+1. [Deep Survival Analysis by Rajesh Ranganath,Adler Perotte,David Blei et all. JMLR 2016](http://proceedings.mlr.press/v56/Ranganath16.pdf)
+2. [The Survival Filter: Joint Survival Analysis with a Latent Time Series by Rajesh Ranganath,Adler Perotte,David Blei et all. UAI, 2015](https://www.cs.princeton.edu/~rajeshr/papers/15uai.pdf)
+3. [DeepSurv: Personalized Treatment Recommender System Using A Cox Proportional Hazards Deep Neural Network by Jared Katzman, Uri Shaham, Jonathan Bates, Alexander Cloninger, Tingting Jiang, Yuval Kluger . ACML 2016](https://arxiv.org/abs/1606.00931)
+4. [Deep Multi-task Gaussian Processes for
+Survival Analysis with Competing Risks by Ahmed M. Alaa, Mihaela van der Schaar. NIPS 2017](http://papers.nips.cc/paper/6827-deep-multi-task-gaussian-processes-for-survival-analysis-with-competing-risks.pdf)
 5. DeepHit: A Deep Learning Approach to Survival Analysis with Competing Risks by Changhee Lee, William R. Zame, Jinsung Yoon, Mihaela van der Schaar. 2018 <br>
 Source: http://medianetlab.ee.ucla.edu/papers/AAAI_2018_DeepHit.pdf 
 6.  Deep Learning for Patient-Specific Kidney Graft Survival Analysis by Margaux Luck, Tristan Sylvain, Héloïse Cardinal, Andrea Lodi, Yoshua Bengio. 2017 <br>
@@ -489,7 +485,7 @@ Code: https://github.com/rk2900/drsa
 + https://github.com/deeplearning4j/dl4j-examples
 
 ## BigDL
-+ https://software.intel.com/en-us/articles/building-large-scale-image-feature-extraction-with-bigdl-at-jdcom
++ [BigDL](https://software.intel.com/en-us/articles/building-large-scale-image-feature-extraction-with-bigdl-at-jdcom)
 
 ## Face Detection and Recognition 
 + [AIND-CV-FacialKeypoints](https://github.com/udacity/AIND-CV-FacialKeypoints)
