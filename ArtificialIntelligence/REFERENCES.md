@@ -109,20 +109,20 @@ Top 100 Awesome Artificial Intelligence Papers & Books & Blog & Whatever The Ent
 
 
 ## Courses
-+ CS 188 : Introduction to Artificial Intelligence  Pieter Abbeel & Dan Klein, University of California, Berkeley , https://inst.eecs.berkeley.edu/~cs188/fa18/
++ [CS 188 : Introduction to Artificial Intelligence  Pieter Abbeel & Dan Klein, University of California, Berkeley](https://inst.eecs.berkeley.edu/~cs188/fa18/)
 + [Introduction to Artificial Intelligence  Fall 2019, Prof. Gilles Louppe](https://glouppe.github.io/info8006-introduction-to-ai/pdf/lec-all.pdf)
 
 ## OpenAI
-+ OpenAI, https://github.com/openai
++ [OpenAI](https://github.com/openai)
 
 ## DeepMind
 + https://github.com/deepmind
 
 ## Reinforcement Learning
-+ OpenAI Baselines: high-quality implementations of reinforcement learning algorithms, https://github.com/openai/baselines
++ [OpenAI Baselines: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines)
 
 ## Meta Learning
 
 ### Papers
-+ Meta Learning / Learning to Learn / One Shot Learning / Few Shot Learning, https://github.com/floodsung/Meta-Learning-Papers
++ [Meta Learning / Learning to Learn / One Shot Learning / Few Shot Learning](https://github.com/floodsung/Meta-Learning-Papers)
 
