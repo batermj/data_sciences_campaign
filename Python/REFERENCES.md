@@ -22,7 +22,7 @@ Top 100 Awesome Python Papers & Books & Blog & Whatever The Entrepreneur& Resear
 # References 
 
 ## Resources on Github
-+ A curated list of awesome Python frameworks, libraries, software and resources https://awesome-python.com/,https://github.com/vinta/awesome-python
++ [A curated list of awesome Python frameworks, libraries, software and resources https://awesome-python.com/](https://github.com/vinta/awesome-python)
 + https://github.com/CamDavidsonPilon
 + https://github.com/rougier
 + https://github.com/fonnesbeck
@@ -39,18 +39,18 @@ Top 100 Awesome Python Papers & Books & Blog & Whatever The Entrepreneur& Resear
 + https://github.com/stitchfix
 
 ## A curated list of awesome Python frameworks, libraries, software and resources
-+ A curated list of awesome Python frameworks, libraries, software and resources https://awesome-python.com/, https://github.com/vinta/awesome-python
-+ A curated list of awesome Python frameworks, libraries and software, https://github.com/uhub/awesome-python
++ [A curated list of awesome Python frameworks, libraries, software and resources https://awesome-python.com/](https://github.com/vinta/awesome-python)
++ [A curated list of awesome Python frameworks, libraries and software](https://github.com/uhub/awesome-python)
 + https://github.com/fbkarsdorp
-+ A curated list of analytics frameworks, software and other tools. https://github.com/onurakpolat/awesom…, https://github.com/onurakpolat/awesome-analytics
++ [A curated list of analytics frameworks, software and other tools. https://github.com/onurakpolat/awesom…](https://github.com/onurakpolat/awesome-analytics)
 
 ## Jupyter
-+ This repo contains Jupyter notebooks, along with related code and example data, for a tutorial on the use of D3 in Jupyter., https://github.com/stitchfix/d3-jupyter-tutorial
-+ Ready-to-run Docker images containing Jupyter applications https://jupyter-docker-stacks.readthe…, https://github.com/jupyter/docker-stacks, https://github.com/jupyter/docker-stacks
++ [This repo contains Jupyter notebooks, along with related code and example data, for a tutorial on the use of D3 in Jupyter.](https://github.com/stitchfix/d3-jupyter-tutorial)
++ [Ready-to-run Docker images containing Jupyter applications https://jupyter-docker-stacks.readthe…, https://github.com/jupyter/docker-stacks](https://github.com/jupyter/docker-stacks)
 
 ## Fundamental
 + http://docs.python-guide.org
-+ Python best practices guidebook, written for Humans.  https://github.com/kennethreitz/python-guide,
++ [Python best practices guidebook, written for Humans](https://github.com/kennethreitz/python-guide)
 + Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python, https://github.com/amontalenti/elements-of-python-style
 + Tutorial and introduction into programming with Python for the humanities and social sciences http://www.karsdorp.io/python-course/, https://github.com/fbkarsdorp/python-course
 + My coworkers often ask me for Python learning resources. Here are some picks. Many skill levels, emphasis on beginner and intermediate., https://github.com/hangtwenty/python-is-for-lovers
