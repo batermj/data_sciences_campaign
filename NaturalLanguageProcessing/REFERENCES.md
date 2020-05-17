@@ -23,6 +23,7 @@ Top 100 Awesome Natural Language Processing Papers & Books & Blog & Whatever The
 
 
 ## Researchers
++ Tomas Mikolov
 
 ## Research Groups
 
