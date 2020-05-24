@@ -165,8 +165,7 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
  7. [Scalable Variational Gaussian Process Classification|J Hensman, AGG Matthews, Z Ghahramani|2015](http://www.jmlr.org/proceedings/papers/v38/hensman15.pdf)
  
 #### 2016:
- 1. Relativistic Monte Carlo | Xiaoyu Lu| 2016 <br>
-    Source: https://arxiv.org/abs/1609.04388
+ 1. [Relativistic Monte Carlo | Xiaoyu Lu| 2016](https://arxiv.org/abs/1609.04388)
  2. Risk versus Uncertainty in Deep Learning: Bayes, Bootstrap and the Dangers of Dropout | Ian Osband| 2016 <br>
     Source: http://bayesiandeeplearning.org/papers/BDL_4.pdf
  3. Semi-supervised deep kernel learning|Neal Jean, Michael Xie, Stefano Ermon|2016 <br>
