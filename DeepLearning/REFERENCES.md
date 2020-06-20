@@ -360,8 +360,7 @@ Bayesian Deep Learning based Articles , Papers and Repositories for Survival Ana
 3. [DeepSurv: Personalized Treatment Recommender System Using A Cox Proportional Hazards Deep Neural Network by Jared Katzman, Uri Shaham, Jonathan Bates, Alexander Cloninger, Tingting Jiang, Yuval Kluger . ACML 2016](https://arxiv.org/abs/1606.00931)
 4. [Deep Multi-task Gaussian Processes for
 Survival Analysis with Competing Risks by Ahmed M. Alaa, Mihaela van der Schaar. NIPS 2017](http://papers.nips.cc/paper/6827-deep-multi-task-gaussian-processes-for-survival-analysis-with-competing-risks.pdf)
-5. DeepHit: A Deep Learning Approach to Survival Analysis with Competing Risks by Changhee Lee, William R. Zame, Jinsung Yoon, Mihaela van der Schaar. 2018 <br>
-Source: http://medianetlab.ee.ucla.edu/papers/AAAI_2018_DeepHit.pdf 
+5. [DeepHit: A Deep Learning Approach to Survival Analysis with Competing Risks by Changhee Lee, William R. Zame, Jinsung Yoon, Mihaela van der Schaar. 2018](http://medianetlab.ee.ucla.edu/papers/AAAI_2018_DeepHit.pdf)
 6.  Deep Learning for Patient-Specific Kidney Graft Survival Analysis by Margaux Luck, Tristan Sylvain, Héloïse Cardinal, Andrea Lodi, Yoshua Bengio. 2017 <br>
 Source: https://arxiv.org/abs/1705.10245
 7.  WSISA: Making Survival Prediction from Whole Slide Histopathological Images by  Xinliang Zhu, Jiawen Yao, Feiyun Zhu, and Junzhou Huang. CVPR 2017<br>
