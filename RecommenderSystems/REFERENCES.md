@@ -19,6 +19,10 @@ Top 100 Awesome Recommender Systems Papers & Books & Blog & Whatever The Entrepr
 + Datasets
 + Whatever The Entrepreneur& Researcher Pleased
 
+## Researchers
++ Maya Hristakeva
++ Kris Jack
+
 # References 
 
 
@@ -29,3 +33,4 @@ Top 100 Awesome Recommender Systems Papers & Books & Blog & Whatever The Entrepr
 
 ## Algorithms
 
+## Papers
