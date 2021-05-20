@@ -10,4 +10,7 @@ It is used for Embedding related papers/codes snippets/frameworks/blogs.
 + 推荐系统中的embedding技术, https://zhuanlan.zhihu.com/p/166016979
 + 如何解决深度推荐系统中的Embedding冷启动问题？https://zhuanlan.zhihu.com/p/351390011
 + 矩阵分解可能比你想的强, https://zhuanlan.zhihu.com/p/144740834
++ 浅梦的学习笔记 公众号文章汇总, https://github.com/shenweichen/AlgoNotes
 + 
+
+
