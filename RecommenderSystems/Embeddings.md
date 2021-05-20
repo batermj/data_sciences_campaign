@@ -7,4 +7,7 @@ It is used for Embedding related papers/codes snippets/frameworks/blogs.
 + 稀疏特征Embedding的优化, https://zhuanlan.zhihu.com/p/269023909
 + 理解Embedding, https://zhuanlan.zhihu.com/p/60617645
 + Embedding在深度推荐系统中的3大应用方向, https://zhuanlan.zhihu.com/p/67218758
++ 推荐系统中的embedding技术, https://zhuanlan.zhihu.com/p/166016979
++ 如何解决深度推荐系统中的Embedding冷启动问题？https://zhuanlan.zhihu.com/p/351390011
++ 矩阵分解可能比你想的强, https://zhuanlan.zhihu.com/p/144740834
 + 
