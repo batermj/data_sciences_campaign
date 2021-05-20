@@ -28,6 +28,8 @@ Top 100 Awesome Recommender Systems Papers & Books & Blog & Whatever The Entrepr
 
 ## Resources on Github
 + A List of Recommender Systems and Resources, frameworks and software. https://github.com/grahamjenson/list_of_recommender_systems
++ [王喆] 推荐系统论文、学习资料、业界分享, https://github.com/wzhe06/Reco-papers
++ 
 
 ## Fundamental
 
