@@ -1,7 +1,7 @@
 It is used for Embedding related papers/codes snippets/frameworks/blogs.
 
 
-[Blogs]
+# [Blogs]
 + 推荐系统中稀疏特征Embedding的优化表示方法, https://zhuanlan.zhihu.com/p/203424787
 + 推荐系统中稀疏特征Embedding的优化表示方法, https://zhuanlan.zhihu.com/p/141517705
 + 稀疏特征Embedding的优化, https://zhuanlan.zhihu.com/p/269023909
@@ -16,3 +16,6 @@ It is used for Embedding related papers/codes snippets/frameworks/blogs.
 + 
 
 
+# [Papers]
++ [Airbnb] Real-time Personalization using Embeddings for Search Ranking at Airbnb, https://www.kdd.org/kdd2018/accepted-papers/view/real-time-personalization-using-embeddings-for-search-ranking-at-airbnb
++ 
