@@ -4,6 +4,8 @@
 + 矩阵分解可能比你想的强, https://zhuanlan.zhihu.com/p/144740834
 + 如何看待Google推荐系统大佬Steffen Rendle发文讨论何向南的NCF方法中的问题？https://www.zhihu.com/question/396722911
 + 点积 vs. MLP：推荐模型到底用哪个更好？https://zhuanlan.zhihu.com/p/143161957
++ 协同过滤NMF算法--原理与应用, https://zhuanlan.zhihu.com/p/33187914
++ 
 
 
 # [Papers]
