@@ -12,3 +12,5 @@
 + 
 
 # [Codes]
++ Neural Collaborative Filtering vs. Matrix Factorization Revisited, https://github.com/google-research/google-research/tree/master/dot_vs_learned_similarity
++ 
