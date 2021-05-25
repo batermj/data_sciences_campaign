@@ -7,6 +7,10 @@ Apache Spark
 + 
 + 
 
+# [SWOT Analysis]
++ Introduction to Apache Flink for Spark Developers : Flink vs Spark, http://blog.madhukaraphatak.com/introduction-to-flink-for-spark-developers-flink-vs-spark/
++ 
+
 ## [Memory Management]
 + 【spark】[转]Project Tungsten, https://zhuanlan.zhihu.com/p/354773520
 
