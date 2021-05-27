@@ -71,10 +71,12 @@ Top 100 Awesome Machine Learning Papers & Books & Blog & Whatever The Entreprene
 + [Stanford Machine Learning (CS229), http://cs229.stanford.edu](https://online.stanford.edu/courses/cs229-machine-learning)
 + [Machine Learning for Physicists Florian Marquardt](https://machine-learning-for-physicists.org)
 
-# Blog
+# [Blog]
 + [Data Science Central](https://www.datasciencecentral.com/)
 + [machinelearning mastery](https://machinelearningmastery.com/)
 + [R-Bloggers](https://www.r-bloggers.com)
++ 10 Must Read ML Blog Posts, https://elvissaravia.substack.com/p/10-must-read-ml-blog-posts
++ 
 
 # Datasets
 
