@@ -7,5 +7,6 @@ Information Extraction
 # [Codes]
 
 # [Resources]
-+ A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)
++ A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP), https://github.com/caufieldjh/awesome-bioie
++ 
 
