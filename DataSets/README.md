@@ -466,6 +466,7 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 ## References of Awesome Networks and Graphs
 *   [Amazon Co-Purchasing](http://snap.stanford.edu/data/#amazon): Amazon Reviews crawled data from “the users who bought this also bought…” section of Amazon, as well as Amazon review data for related products. Good for experimenting with recommendation systems in networks.
 *   [Friendster Social Network Dataset](https://archive.org/details/friendster-dataset-201107): Before their pivot as a gaming website, Friendster released anonymized data in the form of friends lists for 103,750,348 users.
+*   [Stanford Large Network Dataset Collection] (http://snap.stanford.edu/data/index.html): Stanford Large Network Dataset Collection
 
 ## References of Awesome Speech Datasets
 *   [2000 HUB5 English](https://catalog.ldc.upenn.edu/LDC2002T43): English-only speech data used most recently in the Deep Speech paper from Baidu.
