@@ -5,6 +5,8 @@ https://paperswithcode.com/sota
 
 # [Blogs]
 + 如何将深度学习研究论文实现为代码的几个要点, https://zhuanlan.zhihu.com/p/273622903
++ 如何将深度学习研究论文实现为代码的几个要点, https://zhuanlan.zhihu.com/p/273622903
++ 
 + 
 
 # [Papers]
