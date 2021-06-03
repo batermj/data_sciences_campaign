@@ -1,6 +1,8 @@
 Engineering
 
 # [Youtube]
++ 重读Youtube深度学习推荐系统论文，字字珠玑，惊为神文, https://zhuanlan.zhihu.com/p/52169807
++ 
 
 # [Blogs]
 + YouTube深度学习推荐系统的十大工程问题, https://zhuanlan.zhihu.com/p/52504407
