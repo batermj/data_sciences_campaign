@@ -2,8 +2,8 @@ Causal Inference
 
 # [Books]
 + The Book of Why: The New Science of Cause and Effect, Reprint Edition, Publication date August 25, 2020
++ Elements of Causal Inference: Foundations and Learning Algorithms (Adaptive Computation and Machine Learning series), Publication date November 29, 2017, https://mitpress.mit.edu/books/elements-causal-inference
 + Causal Inference: The Mixtape, Publication date January 26, 2021
-+ Elements of Causal Inference: Foundations and Learning Algorithms (Adaptive Computation and Machine Learning series), Publication date November 29, 2017
 + Causal Inference in Statistics - A Primer Paperback – March 7, 2016
 + Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction 1st Edition, Publication date April 1, 2015
 + Counterfactuals and Causal Inference: Methods and Principles for Social Research (Analytical Methods for Social Research) 2nd Edition, Publication date November 17, 2014
