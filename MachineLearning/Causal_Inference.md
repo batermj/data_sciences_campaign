@@ -36,7 +36,8 @@ Causal Inference
 + 
 
 # [Papers]
-
++ Split-door criterion: Identification of causal effects through auxiliary outcomes, https://arxiv.org/abs/1611.09414
++ 
 
 # [Codes]
 + EconML: A Python Package for ML-Based Heterogeneous Treatment Effects Estimation, https://github.com/microsoft/EconML
