@@ -3,10 +3,22 @@ Causal Inference
 # [Books]
 + The Book of Why: The New Science of Cause and Effect, Reprint Edition, Publication date August 25, 2020
 + Elements of Causal Inference: Foundations and Learning Algorithms (Adaptive Computation and Machine Learning series), Publication date November 29, 2017, https://mitpress.mit.edu/books/elements-causal-inference
-+ Causal Inference: The Mixtape, Publication date January 26, 2021
 + Causal Inference in Statistics - A Primer Paperback – March 7, 2016
-+ Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction 1st Edition, Publication date April 1, 2015
++ Causal Inference: What If
++ Causal Inference in Statistics: A Primer
++ Causality
 + Counterfactuals and Causal Inference: Methods and Principles for Social Research (Analytical Methods for Social Research) 2nd Edition, Publication date November 17, 2014
++ Mostly Harmless Econometrics
++ Explanation in Causal Inference: Methods for Mediation and Interaction(VanderWeele, 2015)
++ Observation and Experiment: An Introduction to Causal Inference (Rosenbaum, 2017)
++ Causation, Prediction, and Search (Spirtes et al., 2001)
++ Actual Causality (Halpern, 2016)
++ Advanced Data Analysis from an Elementary Point of View book一书
++ Targeted Learning， van der Laan, Rose, 2011
+
++ 
++ Causal Inference: The Mixtape, Publication date January 26, 2021
++ Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction 1st Edition, Publication date April 1, 2015
 + Causality: Models, Reasoning and Inference Hardcover – Illustrated, September 1, 2009
 + 
 
