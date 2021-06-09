@@ -6,7 +6,9 @@ Some are in Jupyter (IPython) notebooks, some in `.py` files.
 # Index of Jupyter (IPython) Notebooks
 
 |Fundamental Algorithms|
+|---|
 |All algorithms implemented in Python (for education), (https://github.com/TheAlgorithms/Python)|
+|---|
 
 
 |Logic and Number Puzzles|
