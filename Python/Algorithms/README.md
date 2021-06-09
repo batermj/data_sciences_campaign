@@ -5,6 +5,10 @@ Some are in Jupyter (IPython) notebooks, some in `.py` files.
  
 # Index of Jupyter (IPython) Notebooks
 
+|Fundamental Algorithms|
+|All algorithms implemented in Python (for education), (https://github.com/TheAlgorithms/Python)|
+
+
 |Logic and Number Puzzles|
 |---|
 |[Advent of Code 2017](https://github.com/batermj/data_sciences_campaign/tree/master/Python/Algorithms/ipynb/ds00100001_algorithms_python_ex00000002.ipynb)<br>*Puzzle site with a coding puzzle each day for Advent 2017.*|
