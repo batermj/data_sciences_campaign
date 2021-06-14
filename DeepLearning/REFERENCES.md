@@ -75,6 +75,8 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 + [Deep Learning An MIT Press book Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
 + [Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley](https://github.com/Machine-Learning-Tokyo/AI_Curriculum)
 + [Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)](https://github.com/Machine-Learning-Tokyo/DL-workshop-series)
++ [PyTorch 中文教程](https://www.w3cschool.cn/pytorch/)
++ 
 
 # Blog
 + [OpenAI](https://openai.com/blog/microscope/)
