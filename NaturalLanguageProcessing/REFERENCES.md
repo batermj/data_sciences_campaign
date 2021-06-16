@@ -46,6 +46,7 @@ Top 100 Awesome Natural Language Processing Papers & Books & Blog & Whatever The
 
 ## Github Projects
 + [Microsoft Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes)
++ [Chinese NLP, Shared tasks, datasets and state-of-the-art results for Chinese Natural Language Processing (NLP)](https://github.com/didi/ChineseNLP)
 
 ## Tools
 + [Stanza - A Python NLP Library for Many Human Languages](https://stanfordnlp.github.io/stanza/)
