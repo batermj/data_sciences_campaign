@@ -46,6 +46,9 @@ Papers References and Reading List:
 5. [x][Reading Date: 2020Jul7, ], Yifan Hu, Yehuda Koren, Chris Volinsky. 2008, Collaborative Filtering for Implicit Feedback Datasets, (References Papers Read, 0 out of 26 papers ),  In 2008 Eighth IEEE International Conference on Data Mining. 263–272. 
 6. [x][Reading Date: 2020Jul7, ], Xinyang Yi, Ji Yang, Lichan Hong, Derek Zhiyuan Cheng, Lukasz Heldt, Aditee Kumthekar, Zhe Zhao, Li Wei, Ed Chi, Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations, (References Papers Read, 7 out of 38 papers ) , In Thirteenth ACM Conference on Recommender Systems (RecSys ’19), September 16–20, 2019, Copenhagen, Denmark. ACM, New York, NY, USA, 9 pages.
 
+## Github Projects
++ https://github.com/microsoft/recommenders/
+
 
 ## [Blogs]
 + 王喆的机器学习笔记, https://www.zhihu.com/column/wangzhenotes
