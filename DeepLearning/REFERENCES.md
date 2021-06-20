@@ -39,6 +39,10 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 + Capsule Networks
 
 # Papers
++ Tabular Data: Deep Learning is Not All You Need, https://arxiv.org/abs/2106.03253
++ 
+
+
 
 # Journals
 
