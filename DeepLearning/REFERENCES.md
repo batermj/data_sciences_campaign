@@ -472,6 +472,7 @@ Code: https://github.com/rk2900/drsa
 + [PyTorch 模型训练实用教程, 作者:余霆嵩](https://github.com/tensor-yu/PyTorch_Tutorial)
 + [Code for the book Deep Learning with PyTorch by Eli Stevens and Luca Antiga](https://github.com/deep-learning-with-pytorch/dlwpt-code)
 + [Code for the book Deep Learning with PyTorch by Eli Stevens and Luca Antiga](https://www.manning.com/books/deep-learning-with-pytorch)
++ [Everything You Need To Know About Torchvision’s SSD Implementation](https://pytorch.org/blog/torchvision-ssd-implementation/)
 
 
 ## Keras
