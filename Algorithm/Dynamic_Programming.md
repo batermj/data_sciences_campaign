@@ -10,6 +10,7 @@ Dynamic Programming
 + 第十二章_动态规划_2019-04-01, https://www.jianshu.com/p/01d8dd1810e6
 + 算法小专栏：动态规划（一）, https://www.jianshu.com/p/5f7514ec2e74
 + 经典算法系列：动态规划, https://zhuanlan.zhihu.com/p/126124250
++ 几个经典的动态规划算法, https://blog.csdn.net/a20180825/article/details/76718417
 + 
 
 # [Papers]
