@@ -13,6 +13,10 @@ Dynamic Programming
 + 几个经典的动态规划算法, https://blog.csdn.net/a20180825/article/details/76718417
 + 
 
+# [Courses]
++ 【动态规划专题班】ACM总冠军、清华+斯坦福大神带你入门动态规划算法, https://www.bilibili.com/video/BV1xb411e7ww/
+
+
 # [Papers]
 
 # [Codes]
