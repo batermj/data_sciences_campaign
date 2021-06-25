@@ -1,5 +1,9 @@
 Generative Adversarial (Neural) Networks
 
+# [SOTAs]
++ State-of-the-Art Image Generative Models, https://arankomatsuzaki.wordpress.com/2021/03/04/state-of-the-art-image-generative-models/
+
+
 # [Blogs]
 + 如何将深度学习研究论文实现为代码的几个要点, https://zhuanlan.zhihu.com/p/273622903
 + Ian Goodfellow 生成对抗网络（GAN）论文解析, https://blog.csdn.net/heyc861221/article/details/80129016
