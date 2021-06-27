@@ -14,6 +14,7 @@ It is used for Embedding related papers/codes snippets/frameworks/blogs.
 + 浅梦的学习笔记 公众号文章汇总, https://github.com/shenweichen/AlgoNotes
 + GraphEmbedding, https://github.com/shenweichen/GraphEmbedding
 + 图嵌入（Graph embedding）综述, https://zhuanlan.zhihu.com/p/62629465
++ 推荐搜索炼丹笔记：向量召回 MIND多兴趣双塔模型, https://zhuanlan.zhihu.com/p/343014809
 + 
 
 
