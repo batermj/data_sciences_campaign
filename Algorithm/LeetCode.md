@@ -7,6 +7,7 @@
 
 # Blogs&Codes
 + https://github.com/youngyangyang04/leetcode-master
++ 力扣刷题最强指南（版本1.0）， https://leetcode-cn.com/circle/article/wGp7Y9/
 + 
 
 ## 回文字符串(Palindromic_String)
