@@ -64,6 +64,7 @@ Top 100 Awesome Machine Learning Papers & Books & Blog & Whatever The Entreprene
 + [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 + A Guide for Making Black Box Models Explainable By Christoph Molnar
 + [A Brief Introduction to Machine Learning for Engineers](https://arxiv.org/abs/1709.02840)
++ [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
 
 
 # Courses
