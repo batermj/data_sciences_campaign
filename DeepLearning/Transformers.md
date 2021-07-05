@@ -6,7 +6,8 @@ Transformers
 + The Essential Guide to Transformers, the Key to Modern SOTA AI, https://www.kdnuggets.com/2021/06/essential-guide-transformers-key-modern-sota-ai.html
 + How Transformers work in deep learning and NLP: an intuitive introduction, https://theaisummer.com/transformer/
 + Comprehensive Guide To Transformers, https://analyticsindiamag.com/a-comprehensive-guide-to-transformers/
-+ 
++ Zero-Shot Controlle Generation with Encoder-Decoder Transformers, https://www.amazon.science/latest-news/controlling-language-generation-models-without-training-data?utm_content=buffer9ee31&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
+
 
 
 # [Papers-Surveys]
