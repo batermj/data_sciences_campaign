@@ -7,6 +7,8 @@ Transformers
 + How Transformers work in deep learning and NLP: an intuitive introduction, https://theaisummer.com/transformer/
 + Comprehensive Guide To Transformers, https://analyticsindiamag.com/a-comprehensive-guide-to-transformers/
 + Zero-Shot Controlle Generation with Encoder-Decoder Transformers, https://www.amazon.science/latest-news/controlling-language-generation-models-without-training-data?utm_content=buffer9ee31&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
++ This course will teach you about natural language processing (NLP) using libraries from the Hugging Face ecosystem — 🤗 Transformers, 🤗 Datasets, 🤗 Tokenizers, and 🤗 Accelerate — as well as the Hugging Face Hub. It’s completely free and without ads., https://huggingface.co/course/chapter1
++ 
 
 
 
