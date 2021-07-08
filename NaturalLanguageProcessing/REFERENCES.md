@@ -97,6 +97,9 @@ Top 100 Awesome Natural Language Processing Papers & Books & Blog & Whatever The
 + [Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html)
 + [Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes)
 
+### Embedding
++ SuperTML: Two-Dimensional Word Embedding for the Precognition on Structured Tabular Data, https://arxiv.org/abs/1903.06246
+
 
 ### Topic Modelling
 + Topic Modelling for Humans, https://github.com/RaRe-Technologies/gensim
