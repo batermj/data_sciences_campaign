@@ -1,8 +1,12 @@
 Generative Adversarial (Neural) Networks
 
+
 # [SOTAs]
 + State-of-the-Art Image Generative Models, https://arankomatsuzaki.wordpress.com/2021/03/04/state-of-the-art-image-generative-models/
 
+# [Books]
++ Generative Deep Learning, https://github.com/davidADSP/GDL_code
++ 
 
 # [Blogs]
 + 如何将深度学习研究论文实现为代码的几个要点, https://zhuanlan.zhihu.com/p/273622903
@@ -17,4 +21,5 @@ Generative Adversarial (Neural) Networks
 # [Codes]
 + really-awesome-gan, https://github.com/nightrome/really-awesome-gan
 + This repository contains the code and hyperparameters for the paper: "Generative Adversarial Networks." Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio. ArXiv 2014., https://github.com/goodfeli/adversarial
++ Generative Deep Learning, https://github.com/davidADSP/GDL_code
 + 
