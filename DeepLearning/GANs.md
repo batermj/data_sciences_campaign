@@ -4,6 +4,10 @@ Generative Adversarial (Neural) Networks
 # [SOTAs]
 + State-of-the-Art Image Generative Models, https://arankomatsuzaki.wordpress.com/2021/03/04/state-of-the-art-image-generative-models/
 
+# [Courses]
++ Deep Generative Models, https://deepgenerativemodels.github.io
+
+
 # [Books]
 + Generative Deep Learning, https://github.com/davidADSP/GDL_code
 + 
