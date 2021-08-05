@@ -3,6 +3,7 @@ Transformers
 
 # [Blogs]
 + The Illustrated Transformer, https://jalammar.github.io/illustrated-transformer/
++ Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention),https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 + Self-Attention和Transformer, https://luweikxy.gitbook.io/machine-learning-notes/self-attention-and-transformer
 + A Complete Learning Path To Transformers (With Guide To 23 Architectures), https://analyticsindiamag.com/a-complete-learning-path-to-transformers/
 + The Essential Guide to Transformers, the Key to Modern SOTA AI, https://www.kdnuggets.com/2021/06/essential-guide-transformers-key-modern-sota-ai.html
