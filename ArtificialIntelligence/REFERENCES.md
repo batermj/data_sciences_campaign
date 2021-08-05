@@ -90,6 +90,7 @@ Top 100 Awesome Artificial Intelligence Papers & Books & Blog & Whatever The Ent
 # Patents
 
 # Books
++ Artificial Intelligence: A Modern Approach, 4th US ed.,http://aima.cs.berkeley.edu/
 
 # Courses
 
