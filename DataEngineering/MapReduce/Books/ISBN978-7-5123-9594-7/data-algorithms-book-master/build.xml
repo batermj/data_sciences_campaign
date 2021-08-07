@@ -1,0 +1,179 @@
+<project name="Data Algorithms Book"  default="build_jar" basedir=".">
+<!-- ============================================================= -->
+<!-- This is the build script for Data Algorithms Book             -->
+<!-- by using Apache's Ant  (http://ant.apache.org)                -->
+<!--                                                               -->
+<!-- @author: Mahmoud Parsian                                      -->
+<!-- ============================================================= -->
+            
+   <property name="src" location="src/main/java"/>
+   <property name="src.scala" location="src/main/scala"/>
+   <property name="test" location="src/test/java"/>
+   <property name="build" location="build"/>
+   <property name="dist"  location="dist"/>
+   <property name="lib"  location="lib"/>
+   <property name="reports" location="reports"/>
+   <property environment="env"/>  
+   <property name="project_name" value="Data Algorithms Book"/>
+  
+   <path id="required_libs">
+        <fileset dir="lib" includes="**/*.jar"/>
+	    <!-- scala init begin --> 
+        <!-- <fileset dir="${env.SCALA_HOME}/lib" includes="**/*.jar"/> --> 
+	    <!-- scala init end -->         
+   </path>
+
+
+   <target name="build_jar"  depends="init">
+   
+        <echo message="compiling scala src..."/>                 
+ 		<scalac srcdir="${src.scala}" 
+ 		        destdir="${build}"
+                classpathref="required_libs"
+      			force="never"
+      			deprecation="on">
+                <!-- force="changed"> -->
+    		    <include name="**/*.scala"/> 
+  		</scalac>  
+  		
+        <echo message="compiling java src..."/>         		
+        <javac includeantruntime="false"
+               srcdir="src" 
+               destdir="build"
+               classpathref="required_libs"
+               source="1.8" 
+               target="1.8" 
+               debug="true" 
+               fork="true" 
+               memorymaximumsize="512m"
+               deprecation="false" 
+               optimize="false" 
+               failonerror="true" 
+               verbose="false">
+               <compilerarg line="-encoding ISO-8859-1"/>
+        </javac> 
+            			  	       
+        <jar destfile="dist/data_algorithms_book.jar"
+             basedir="build"
+        />  
+   </target>
+    
+   <target name="myenv"  description="print some basic information about my environment">
+      <echo>----------------------------</echo>
+      <echo>"ant.file=${ant.file}"</echo>
+      <echo>"ant.version=${ant.version}"</echo>
+      <echo>"ant.project.name=${ant.project.name}"</echo>
+      <echo>"ant.java.version=${ant.java.version}"</echo>
+      <echo>"java.home=${java.home}"</echo>
+      <echo>"ANT_HOME=${env.ANT_HOME}"</echo>
+      <echo>"JAVA_HOME=${env.JAVA_HOME}"</echo>
+      <echo>"SCALA_HOME=${env.SCALA_HOME}"</echo>
+      <echo>----------------------------</echo>
+   </target>
+ 
+   <target name="compile" depends="build_jar" description="compile the source code " >
+      <javac includeantruntime="false"
+             srcdir="test" 
+             destdir="build"
+             source="1.8" 
+             target="1.8" 
+             debug="true" 
+             fork="true" 
+             memorymaximumsize="512m"
+             deprecation="false" 
+             optimize="false" 
+             failonerror="true" 
+             verbose="false">
+
+             <classpath>
+                <fileset dir="lib">
+                    <include name="**/*.jar"/>
+                </fileset>
+                <fileset dir="dist">
+                    <include name="**/*.jar"/>
+                </fileset>
+             </classpath>
+       </javac>
+   </target>
+
+   <target name="dist" depends="clean,compile" description="generate the distributable files " >
+   </target>
+
+   <target name="clean"  description="clean up" >
+      <delete dir="${build}"/>
+      <delete dir="${dist}"/>
+      <delete dir="${reports}"/>
+   </target>
+
+   <target name="runtests" depends="compile" description="run your test suite" >
+
+      <junit printsummary="yes" haltonfailure="yes" showoutput="yes" >
+        <classpath>
+             <pathelement path="${build}"/>
+             <fileset dir="lib">
+                 <include name="**/*.jar"/>
+             </fileset>
+             <fileset dir="dist">
+                 <include name="**/*.jar"/>
+             </fileset>
+        </classpath>
+
+        <batchtest fork="yes" todir="${reports}/raw/">
+           <formatter type="xml"/>
+           <fileset dir="${tests}">
+               <include name="**/Test*.java"/>
+           </fileset>
+        </batchtest>
+      </junit>
+   </target>
+
+   <target name ="test" depends="runtests">
+       <junitreport todir="${reports}">
+           <fileset dir="${reports}/raw/">
+               <include name="TEST-*.xml"/>
+           </fileset>
+           <report format="frames" todir="${reports}\html\"/>
+       </junitreport>
+   </target>
+
+   <target name ="run" depends="" description="if this project can be run, run it" >
+   </target>
+
+   <!-- supporting targets -->
+   <target name="init" description="initialize the build environment" >
+       <!-- Create the time stamp -->
+       <tstamp/>
+       <!-- Create directory structures -->
+       <mkdir dir="${build}"/>
+       <mkdir dir="${lib}"/>
+       <mkdir dir="${dist}"/>
+       <mkdir dir="${reports}"/>
+       <mkdir dir="${reports}/raw/"/>
+       <mkdir dir="${reports}/html/"/>
+
+	   <!-- scala init begin --> 
+  		<property
+    		name="scala-library.jar"
+    		value="${scala.home}/lib/scala-library-2.11.8.jar"
+     	/>
+  		<path id="build.classpath">
+    		<pathelement location="${scala-library.jar}"   />
+    		<!-- <pathelement location="${your.path}"   /> -->
+    		<pathelement location="${build.dir}"   />
+  		</path>
+  		<taskdef resource="scala/tools/ant/antlib.xml">
+    		<classpath>
+      			<pathelement location="${scala.home}/lib/scala-compiler.jar"   />
+      			<pathelement location="${scala.home}/lib/scala-reflect.jar"   />
+      			<pathelement location="${scala-library.jar}"   />
+    		</classpath>
+  		</taskdef>
+	   <!-- scala init end --> 
+  	         
+   </target>
+
+  
+   <target name="all" depends="clean, test">
+   </target>
+ 
+</project>
