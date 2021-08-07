@@ -26,4 +26,5 @@ Generative Adversarial (Neural) Networks
 + really-awesome-gan, https://github.com/nightrome/really-awesome-gan
 + This repository contains the code and hyperparameters for the paper: "Generative Adversarial Networks." Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio. ArXiv 2014., https://github.com/goodfeli/adversarial
 + Generative Deep Learning, https://github.com/davidADSP/GDL_code
++ tensorflow-generative-model-collections, https://github.com/hwalsuklee/tensorflow-generative-model-collections
 + 
