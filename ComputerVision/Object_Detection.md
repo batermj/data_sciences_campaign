@@ -10,6 +10,10 @@ Object Detection
 + Everything You Need To Know About Torchvision’s SSD Implementation, https://pytorch.org/blog/torchvision-ssd-implementation/
 
 # [Papers]
++ Pelee: A Real-Time Object Detection System on Mobile Devices, https://arxiv.org/abs/1804.06882; Codes: https://github.com/GZQ0723/PeleeNet
++ MobileNet
++ ShuffleNet
++ NASNet-A
 
 # [Codes]
 + Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computatio, https://github.com/pjreddie/darknet
