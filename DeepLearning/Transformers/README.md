@@ -1,5 +1,8 @@
 Transformers
 
+# [Courses]
++ 台大李宏毅21年机器学习课程 self-attention和transformer, https://www.bilibili.com/video/BV1Xp4y1b7ih/?spm_id_from=autoNext
+
 
 # [Blogs]
 + The Illustrated Transformer, https://jalammar.github.io/illustrated-transformer/
