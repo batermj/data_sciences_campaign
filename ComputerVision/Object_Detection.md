@@ -14,6 +14,8 @@ Object Detection
 + MobileNet
 + ShuffleNet
 + NASNet-A
++ End-to-End Object Detection with Transformers, https://arxiv.org/abs/2005.12872
+
 
 # [Codes]
 + Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computatio, https://github.com/pjreddie/darknet
