@@ -37,6 +37,10 @@ Transformers
 + BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, https://arxiv.org/abs/1810.04805
 + 
 
+# [Papers@Object Detection]
++ End-to-End Object Detection with Transformers, https://arxiv.org/abs/2005.12872
+
+
 # [Books]
 + ***Mastering Transformers: Build state-of-the-art models from scratch with advanced natural language processing techniques***
 
