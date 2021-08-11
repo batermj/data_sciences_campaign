@@ -21,6 +21,7 @@ Transformers
 
 # [Papers-Surveys]
 + A Survey of Transformers, Tianyang Lin, Yuxin Wang, Xiangyang Liu, Xipeng Qiu, https://arxiv.org/abs/2106.04554
++ An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, https://arxiv.org/abs/2010.11929
 + TransformerFusion: Monocular RGB Scene Reconstruction using Transformers, https://arxiv.org/abs/2107.02191
 + BumbleBee: A Transformer for Music, https://arxiv.org/abs/2107.03443
 + Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation, https://github.com/NVIDIA-Merlin/publications/tree/main/2021_acm_recsys_transformers4rec
