@@ -238,6 +238,7 @@ Datasets generated for the purpose of an empirical evaluation of deep architectu
 
 ## References of Awesome nlp-datasets
 Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP). Most stuff here is just raw unstructured text data, if you are looking for annotated corpora or Treebanks refer to the sources at the bottom.
+* Google just released two new data sets focusing on realistic conversational speech. I'm particularly excited about the Disfl-QA data set - "the first dataset containing contextual disfluencies in an information seeking setting", https://ai.googleblog.com/2021/08/two-new-datasets-for-conversational-nlp.html
 
 *   [Apache Software Foundation Public Mail Archives](http://aws.amazon.com/de/datasets/apache-software-foundation-public-mail-archives/): all publicly available Apache Software Foundation mail archives as of July 11, 2011 (200 GB)
 
