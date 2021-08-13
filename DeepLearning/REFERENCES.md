@@ -474,6 +474,7 @@ Code: https://github.com/rk2900/drsa
 + [Code for the book Deep Learning with PyTorch by Eli Stevens and Luca Antiga](https://github.com/deep-learning-with-pytorch/dlwpt-code)
 + [Code for the book Deep Learning with PyTorch by Eli Stevens and Luca Antiga](https://www.manning.com/books/deep-learning-with-pytorch)
 + [Everything You Need To Know About Torchvision’s SSD Implementation](https://pytorch.org/blog/torchvision-ssd-implementation/)
++ [TorchDrug](https://github.com/DeepGraphLearning/torchdrug) TorchDrug is a PyTorch-based machine learning toolbox designed for several purposes: 1) - Easy implementation of graph operations in a PyTorchic style with GPU support 2) - Being friendly to practioners with minimal knowledge about drug discovery 3) - Rapid prototyping of machine learning research, 
 
 
 ## Keras
