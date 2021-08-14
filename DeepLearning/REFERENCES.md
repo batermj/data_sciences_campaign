@@ -2,6 +2,7 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 (2019NOV13)
 
 # Top 100 Awesome Deep Learning Resources
++ Cloud DL Development Environments
 + Researchers
 + Research Groups
 + Group Meetings
@@ -19,6 +20,10 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 + Datasets
 + Whatever The Entrepreneur& Researcher Pleased
 + References
+
+# Cloud DL Development Environments
++ A Complete guide to Google Colab for Deep Learning, https://www.kdnuggets.com/2020/06/google-colab-deep-learning.html
+
 
 # Researchers
 
