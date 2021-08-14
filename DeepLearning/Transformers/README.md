@@ -36,7 +36,8 @@ Transformers
 + BumbleBee: A Transformer for Music, https://arxiv.org/abs/2107.03443
 + Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation, https://github.com/NVIDIA-Merlin/publications/tree/main/2021_acm_recsys_transformers4rec
 + BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, https://arxiv.org/abs/1810.04805
-+ 
++ Thinking Like Transformers, https://arxiv.org/abs/2106.06981
+
 
 # [Papers@Object Detection]
 + End-to-End Object Detection with Transformers, https://arxiv.org/abs/2005.12872
