@@ -37,6 +37,8 @@ Transformers
 + Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation, https://github.com/NVIDIA-Merlin/publications/tree/main/2021_acm_recsys_transformers4rec
 + BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, https://arxiv.org/abs/1810.04805
 + Thinking Like Transformers, https://arxiv.org/abs/2106.06981
++ Mobile-Former: Bridging MobileNet and Transformer, https://arxiv.org/abs/2108.05895
++ 
 
 
 # [Papers@Object Detection]
