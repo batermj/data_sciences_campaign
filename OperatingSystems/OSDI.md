@@ -9,6 +9,10 @@ OSDI,USENIX conference on Operating Systems Design and Implementation
 + DistAI: Data-Driven Automated Invariant Learning for Distributed Protocols, https://www.usenix.org/system/files/osdi21-yao.pdf
 + MAGE: Nearly Zero-Cost Virtual Memory for Secure Computation, https://people.eecs.berkeley.edu/~samkumar/papers/mage_osdi2021.pdf
 
+## [OSDI20]
++ OSDI '20 | RAMMER (NNFusion) 如何进一步压榨加速器性能, https://zhuanlan.zhihu.com/p/275837455
+
+
 # [Books]
 
 
