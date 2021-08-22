@@ -45,6 +45,7 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 
 # Papers
 + Tabular Data: Deep Learning is Not All You Need, https://arxiv.org/abs/2106.03253
++ Can You Learn an Algorithm? Generalizing from Easy to Hard Problems with Recurrent Networks, https://arxiv.org/abs/2106.04537
 + 
 
 
