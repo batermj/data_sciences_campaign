@@ -28,6 +28,8 @@ Transformers
 + Vision Transformer with Progressive Sampling, https://arxiv.org/abs/2108.01684
 + ViTGAN: Training GANs with Vision Transformers, https://arxiv.org/abs/2107.04589
 + Do Vision Transformers See Like Convolutional Neural Networks? https://arxiv.org/abs/2108.08810
++ Focal Self-attention for Local-Global Interactions in Vision Transformers, https://arxiv.org/abs/2107.00641
++ 
 
 
 # [Papers]
