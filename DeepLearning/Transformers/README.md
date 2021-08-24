@@ -31,6 +31,7 @@ Transformers
 + Focal Self-attention for Local-Global Interactions in Vision Transformers, https://arxiv.org/abs/2107.00641
 + Is it Time to Replace CNNs with Transformers for Medical Images? https://arxiv.org/abs/2108.09038
 + Video Relation Detection via Tracklet based Visual Transformer, https://arxiv.org/abs/2108.08669
++ An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, https://arxiv.org/abs/2010.11929
 
 # [Papers- Object Detection]
 + End-to-End Object Detection with Transformers, https://arxiv.org/abs/2005.12872
