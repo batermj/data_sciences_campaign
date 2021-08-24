@@ -24,7 +24,7 @@ Transformers
 + Transformers in Vision: A Survey, https://arxiv.org/abs/2101.01169
 + 
 
-# [Computer Vision]
+# [Papers- Computer Vision]
 + Vision Transformer with Progressive Sampling, https://arxiv.org/abs/2108.01684
 + ViTGAN: Training GANs with Vision Transformers, https://arxiv.org/abs/2107.04589
 + Do Vision Transformers See Like Convolutional Neural Networks? https://arxiv.org/abs/2108.08810
@@ -32,13 +32,17 @@ Transformers
 + Is it Time to Replace CNNs with Transformers for Medical Images? https://arxiv.org/abs/2108.09038
 + Video Relation Detection via Tracklet based Visual Transformer, https://arxiv.org/abs/2108.08669
 
-# [NLP]
+# [Papers- Object Detection]
++ End-to-End Object Detection with Transformers, https://arxiv.org/abs/2005.12872
+
+
+# [Papers- NLP]
 + Fastformer: Additive Attention is All You Need,https://arxiv.org/abs/2108.09084
 + Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text  Models, https://arxiv.org/abs/2108.08877
 + 
 
 
-# [Papers]
+# [Papers- MISC]
 + Self-Attention with Relative Position Representations, https://arxiv.org/abs/1803.02155
 + An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, https://arxiv.org/abs/2010.11929
 + TransformerFusion: Monocular RGB Scene Reconstruction using Transformers, https://arxiv.org/abs/2107.02191
@@ -49,9 +53,6 @@ Transformers
 + Mobile-Former: Bridging MobileNet and Transformer, https://arxiv.org/abs/2108.05895
 + 
 
-
-# [Papers@Object Detection]
-+ End-to-End Object Detection with Transformers, https://arxiv.org/abs/2005.12872
 
 
 # [Books]
