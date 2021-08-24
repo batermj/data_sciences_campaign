@@ -29,6 +29,12 @@ Transformers
 + ViTGAN: Training GANs with Vision Transformers, https://arxiv.org/abs/2107.04589
 + Do Vision Transformers See Like Convolutional Neural Networks? https://arxiv.org/abs/2108.08810
 + Focal Self-attention for Local-Global Interactions in Vision Transformers, https://arxiv.org/abs/2107.00641
++ Is it Time to Replace CNNs with Transformers for Medical Images? https://arxiv.org/abs/2108.09038
++ Video Relation Detection via Tracklet based Visual Transformer, https://arxiv.org/abs/2108.08669
+
+# [NLP]
++ Fastformer: Additive Attention is All You Need,https://arxiv.org/abs/2108.09084
++ Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text  Models, https://arxiv.org/abs/2108.08877
 + 
 
 
