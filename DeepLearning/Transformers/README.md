@@ -16,6 +16,7 @@ Transformers
 + Zero-Shot Controlle Generation with Encoder-Decoder Transformers, https://www.amazon.science/latest-news/controlling-language-generation-models-without-training-data?utm_content=buffer9ee31&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
 + This course will teach you about natural language processing (NLP) using libraries from the Hugging Face ecosystem — 🤗 Transformers, 🤗 Datasets, 🤗 Tokenizers, and 🤗 Accelerate — as well as the Hugging Face Hub. It’s completely free and without ads., https://huggingface.co/course/chapter1
 + Transformer在图像复原领域的降维打击！ETH提出SwinIR：各项任务全面领先, https://mp.weixin.qq.com/s/w28DdccPeW_2vl2S_t8sAA
++ Advancing the state of the art in computer vision with self-supervised Transformers and 10x more efficient training, https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training
 + 
 
 
