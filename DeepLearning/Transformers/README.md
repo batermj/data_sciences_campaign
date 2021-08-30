@@ -35,6 +35,7 @@ Transformers
 + Video Relation Detection via Tracklet based Visual Transformer, https://arxiv.org/abs/2108.08669
 + An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, https://arxiv.org/abs/2010.11929
 + SwinIR: Image Restoration Using Swin Transformer, https://arxiv.org/abs/2108.10257
++ How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers, https://arxiv.org/abs/2106.10270
 + 
 
 # [Papers- Object Detection]
@@ -44,6 +45,7 @@ Transformers
 # [Papers- NLP]
 + Fastformer: Additive Attention is All You Need,https://arxiv.org/abs/2108.09084
 + Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text  Models, https://arxiv.org/abs/2108.08877
++ Fastformer: Additive Attention Can Be All You Need, https://arxiv.org/abs/2108.09084
 + 
 
 
