@@ -36,6 +36,7 @@ Transformers
 + An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, https://arxiv.org/abs/2010.11929
 + SwinIR: Image Restoration Using Swin Transformer, https://arxiv.org/abs/2108.10257
 + How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers, https://arxiv.org/abs/2106.10270
++ [moco v3] An Empirical Study of Training Self-Supervised Vision Transformers, https://arxiv.org/abs/2104.02057
 + 
 
 # [Papers- Object Detection]
