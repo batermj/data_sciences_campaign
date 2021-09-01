@@ -42,7 +42,7 @@ Transformers
 + 
 
 # [Papers- Object Detection]
-+ End-to-End Object Detection with Transformers, https://arxiv.org/abs/2005.12872
++ [***DETR (DEtection TRansformer)***][***Facebook***] End-to-End Object Detection with Transformers, https://arxiv.org/abs/2005.12872, Codes: https://github.com/facebookresearch/detr
 
 
 # [Papers- NLP]
