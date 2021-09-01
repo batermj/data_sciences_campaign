@@ -66,6 +66,8 @@ Top 100 Awesome Natural Language Processing Papers & Books & Blog & Whatever The
 + [The Super Duper NLP Repo](https://notebooks.quantumstat.com)
 
 ## Blog
++ B站主页-NLP学习之路, https://github.com/DA-southampton/NLP_ability
++ 
 
 ## Datasets
 

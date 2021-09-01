@@ -95,6 +95,9 @@ Top 100 Awesome Artificial Intelligence Papers & Books & Blog & Whatever The Ent
 # Courses
 
 # Blog
++ 从CVPR2020来看，目前人工智能研究热点有哪些进展？未来的研究趋势会有什么变化？https://www.sohu.com/a/403260152_100007727
++ Advancing AI theory with a first-principles understanding of deep neural networks, https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks/
++ 
 
 # Datasets
 

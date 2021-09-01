@@ -10,6 +10,7 @@ https://paperswithcode.com/sota
 + 
 
 # [Papers]
++ On the Opportunities and Risks of Foundation Models, https://arxiv.org/abs/2108.07258
 + 收藏！深度学习必读10篇经典算法论文总结！https://zhuanlan.zhihu.com/p/199006309
 
 # [Codes]

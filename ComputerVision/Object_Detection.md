@@ -15,7 +15,18 @@ Object Detection
 + ShuffleNet
 + NASNet-A
 + End-to-End Object Detection with Transformers, https://arxiv.org/abs/2005.12872
++ YOLO You Only Look Once: Unified, Real-Time Object Detection
++ SSD SSD: Single Shot MultiBox Detector
++ YOLO9000 YOLO9000: Better, Faster, Stronger
++ Deformable-ConvNets Deformable Convolutional Networks 
++ Faster R-CNN Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
++ R-FCN R-FCN: Object Detection via Region-based Fully Convolutional Networks
++ FPN Feature Pyramid Networks for Object Detection 
++ 
 
+## [Transformer- Papers]
++ [***DETR (DEtection TRansformer)***] End-to-End Object Detection with Transformers, https://arxiv.org/abs/2005.12872, Codes: https://github.com/facebookresearch/detr
++ 
 
 # [Codes]
 + Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computatio, https://github.com/pjreddie/darknet
