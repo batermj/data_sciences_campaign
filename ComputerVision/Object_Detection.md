@@ -24,6 +24,9 @@ Object Detection
 + FPN Feature Pyramid Networks for Object Detection 
 + 
 
+## [Transformer- Papers]
++ [***DETR (DEtection TRansformer)***] End-to-End Object Detection with Transformers, https://arxiv.org/abs/2005.12872, Codes: https://github.com/facebookresearch/detr
++ 
 
 # [Codes]
 + Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computatio, https://github.com/pjreddie/darknet
