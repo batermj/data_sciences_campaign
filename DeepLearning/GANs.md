@@ -31,4 +31,8 @@ Generative Adversarial (Neural) Networks
 
 # [Arts]
 + Art Breeder (https://www.artbreeder.com/create), a way to quickly and easily create Images and Videos with GANs
++ STEPHANIE DINKINS, https://www.stephaniedinkins.com
++ Sofia Crespo, https://sofiacrespo.com
++ Scott Eaton, https://www.scott-eaton.com/
++ 
 
