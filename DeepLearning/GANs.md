@@ -34,5 +34,6 @@ Generative Adversarial (Neural) Networks
 + STEPHANIE DINKINS, https://www.stephaniedinkins.com
 + Sofia Crespo, https://sofiacrespo.com
 + Scott Eaton, https://www.scott-eaton.com/
++ Research & Creative Work, https://stamps.umich.edu/research-creative-work
 + 
 
