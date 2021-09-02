@@ -28,3 +28,7 @@ Generative Adversarial (Neural) Networks
 + Generative Deep Learning, https://github.com/davidADSP/GDL_code
 + tensorflow-generative-model-collections, https://github.com/hwalsuklee/tensorflow-generative-model-collections
 + 
+
+# [Arts]
++ Art Breeder (https://www.artbreeder.com/create), a way to quickly and easily create Images and Videos with GANs
+
