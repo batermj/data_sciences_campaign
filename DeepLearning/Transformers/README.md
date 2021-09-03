@@ -49,11 +49,19 @@ Transformers
 + SwinIR: Image Restoration Using Swin Transformer, https://arxiv.org/abs/2108.10257
 + Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, https://arxiv.org/abs/2012.15840
 + Rethinking Spatial Dimensions of Vision Transformers, https://arxiv.org/abs/2103.16302
++ Pre-Trained Image Processing Transformer, https://arxiv.org/abs/2012.00364
++ All Tokens Matter: Token Labeling for Training Better Vision Transformers, https://arxiv.org/abs/2104.10858
++ Emerging Properties in Self-Supervised Vision Transformers, https://arxiv.org/abs/2104.14294
++ DeepViT: Towards Deeper Vision Transformer, https://arxiv.org/abs/2103.11886
++ Going deeper with Image Transformers, https://arxiv.org/abs/2103.17239
++ Incorporating Convolution Designs into Visual Transformers, https://arxiv.org/abs/2103.11816
++ Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation, https://arxiv.org/abs/2105.05537
++ LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference, https://arxiv.org/abs/2104.01136
 + 
 
 # [Papers- Object Detection]
 + [***DETR (DEtection TRansformer)***][***Facebook***] End-to-End Object Detection with Transformers, https://arxiv.org/abs/2005.12872, Codes: https://github.com/facebookresearch/detr
-+ 
++ Deformable DETR: Deformable Transformers for End-to-End Object Detection, https://arxiv.org/abs/2010.04159
 + 
 
 # [Papers- Image Super-Resolution]
