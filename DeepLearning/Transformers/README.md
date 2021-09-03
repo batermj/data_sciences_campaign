@@ -45,6 +45,7 @@ Transformers
 + [***Facebook***] Training data-efficient image transformers & distillation through attention, https://arxiv.org/abs/2012.12877
 + Visual Transformers: Token-based Image Representation and Processing for Computer Vision, https://arxiv.org/abs/2006.03677
 + Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet, https://arxiv.org/abs/2101.11986
++ [***Microsoft***] CvT: Introducing Convolutions to Vision Transformers, https://arxiv.org/abs/2103.15808
 + 
 
 # [Papers- Object Detection]
