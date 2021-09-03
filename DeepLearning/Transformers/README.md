@@ -42,6 +42,7 @@ Transformers
 + SwinIR: Image Restoration Using Swin Transformer, https://arxiv.org/abs/2108.10257
 + How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers, https://arxiv.org/abs/2106.10270
 + [moco v3] An Empirical Study of Training Self-Supervised Vision Transformers, https://arxiv.org/abs/2104.02057
++ [* Facebook *] Training data-efficient image transformers & distillation through attention, https://arxiv.org/abs/2012.12877
 + 
 
 # [Papers- Object Detection]
