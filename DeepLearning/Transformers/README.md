@@ -44,6 +44,7 @@ Transformers
 + [moco v3] An Empirical Study of Training Self-Supervised Vision Transformers, https://arxiv.org/abs/2104.02057
 + [***Facebook***] Training data-efficient image transformers & distillation through attention, https://arxiv.org/abs/2012.12877
 + Visual Transformers: Token-based Image Representation and Processing for Computer Vision, https://arxiv.org/abs/2006.03677
++ Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet, https://arxiv.org/abs/2101.11986
 + 
 
 # [Papers- Object Detection]
@@ -60,6 +61,9 @@ Transformers
 ## [Papers- Medical Image Segmentation]
 + TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation, https://arxiv.org/abs/2102.04306
 
+
+# [Papers- Image Classification]
++ [***CrossViT***] [***IBM***] CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification, https://arxiv.org/abs/2103.14899, Codes: https://github.com/IBM/CrossViT
 
 # [Papers- NLP]
 + Fastformer: Additive Attention is All You Need,https://arxiv.org/abs/2108.09084
