@@ -1,5 +1,7 @@
 Transformers
 
+- - -
+
 # [Courses]
 + Attention Is All You Need, https://www.youtube.com/watch?v=iDulhoQ2pro
 + 台大李宏毅21年机器学习课程 self-attention和transformer, https://www.bilibili.com/video/BV1Xp4y1b7ih/?spm_id_from=autoNext
@@ -44,6 +46,17 @@ Transformers
 
 # [Papers- Object Detection]
 + [***DETR (DEtection TRansformer)***][***Facebook***] End-to-End Object Detection with Transformers, https://arxiv.org/abs/2005.12872, Codes: https://github.com/facebookresearch/detr
++ 
++ 
+
+# [Papers- Image Super-Resolution]
++ Learning Texture Transformer Network for Image Super-Resolution, https://arxiv.org/abs/2006.04139
++ 
+
+# [Papers- Image Segmentation]
+
+## [Papers- Medical Image Segmentation]
++ TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation, https://arxiv.org/abs/2102.04306
 
 
 # [Papers- NLP]
