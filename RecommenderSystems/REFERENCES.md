@@ -52,6 +52,8 @@ Papers References and Reading List:
 
 ## [Blogs]
 + 王喆的机器学习笔记, https://www.zhihu.com/column/wangzhenotes
++ 实战深度学习模型文章阅读积累，主要是搜广推, https://github.com/DA-southampton/Tech_Aarticle
++ 
 
 ## [Types of Reccomender System]
 + The 5 types of reccomender system, https://ortom.co.uk/machinelearning/2021/06/22/item-2-the-5-types-of-reccomender-system.html
