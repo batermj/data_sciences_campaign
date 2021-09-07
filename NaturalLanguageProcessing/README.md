@@ -1,11 +1,7 @@
 # The Portal for Natural Language Processing
 
-+ Open Source Projects
-+ Architectures
-+ Frameworks
-+ Libraries
-+ Papers
-+ Book
++ Key Players
 
-## References of Awesome esources for Natural Language Processing
-+ <TBC>
+## Key Players
++ Sebastian Ruder：Deep Mind 的大牛，经常会总结各个会议的 Highlights 以及 Trendings, https://ruder.io/
++ 
