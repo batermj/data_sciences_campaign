@@ -8,6 +8,8 @@ https://paperswithcode.com/sota
 
 
 # [Papers]
++ * [The Evolved Transformer - David R. So(2019)](https://arxiv.org/pdf/1901.11117.pdf)  
+
 
 # [Codes]
 
