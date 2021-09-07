@@ -66,6 +66,7 @@ Top 100 Awesome Natural Language Processing Papers & Books & Blog & Whatever The
 + [The Super Duper NLP Repo](https://notebooks.quantumstat.com)
 
 ## Blog
++ 2020年NLP所有领域最新、经典、顶会、必读论文整理分享, https://zhuanlan.zhihu.com/p/143123368
 + B站主页-NLP学习之路, https://github.com/DA-southampton/NLP_ability
 + 
 
