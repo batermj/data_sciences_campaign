@@ -80,9 +80,9 @@ Transformers
 + [***CrossViT***] [***IBM***] CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification, https://arxiv.org/abs/2103.14899, Codes: https://github.com/IBM/CrossViT
 
 # [Papers- NLP]
-+ Fastformer: Additive Attention is All You Need,https://arxiv.org/abs/2108.09084
-+ Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text  Models, https://arxiv.org/abs/2108.08877
-+ [Attention Is All You Need - arXiv 2017)](https://arxiv.org/abs/1706.03762)  
+* Fastformer: Additive Attention is All You Need,https://arxiv.org/abs/2108.09084
+* Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text  Models, https://arxiv.org/abs/2108.08877
+* [Attention Is All You Need - arXiv 2017)](https://arxiv.org/abs/1706.03762)  
 * [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context - arXiv 2019)](https://arxiv.org/abs/1901.02860)  
 * [Universal Transformers - ICLR 2019)](https://arxiv.org/abs/1807.03819) 
 * [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer - arXiv 2019)](https://arxiv.org/abs/1910.10683) 
