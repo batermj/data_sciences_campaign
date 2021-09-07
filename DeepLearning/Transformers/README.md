@@ -102,6 +102,8 @@ Transformers
 * [Longformer: The Long-Document Transformer](https://arxiv.org/pdf/2004.05150.pdf)  
 * [UnifiedQA: Crossing Format Boundaries With a Single QA System](https://arxiv.org/pdf/2005.00700.pdf) [[github](https://github.com/allenai/unifiedqa)]  
 * [Big Bird: Transformers for Longer Sequences](https://arxiv.org/pdf/2007.14062.pdf) 
+* Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting, https://arxiv.org/abs/2012.07436, Codes: https://github.com/zhouhaoyi/Informer2020
+* 
 
 # [Papers- Machine Translation]
 * [The Evolved Transformer - David R. So(2019)](https://arxiv.org/pdf/1901.11117.pdf)  
