@@ -6,5 +6,7 @@ Open NMT
 # [Blogs]
 
 # [Papers]
++ Language Modeling, Lexical Translation, Reordering: The Training Process of NMT through the Lens of Classical SMT, https://arxiv.org/abs/2109.01396
+
 
 # [Codes]
