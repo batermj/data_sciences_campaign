@@ -15,5 +15,9 @@
 + Paperweekly(paperweekly): 质量高的 AI （特别是 NLP）公众号
 + 中国中文信息学会：CIPS，国内 NLP的相关会议、讲习班的信息可以从这里获取，不要小看国内的会议，随着中国的 NLP 的蓬勃发展，参加 CIPS 暑期学校等也是不出国门和大佬们交流的好机会
 + Arixv 版的热搜，由 Karpathy 维护，可以选择 cs.CL 来看目前最火的 NLP 文章， http://www.arxiv-sanity.com/top
+
+
+# [Codes]
++ NLP research library, built on PyTorch, for developing state-of-the-art deep learning models on a wide variety of linguistic tasks., https://github.com/allenai/allennlp
 + 
 
