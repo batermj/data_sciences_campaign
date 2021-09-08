@@ -8,6 +8,7 @@ Transformers
 
 
 # [Blogs]
++ The Annotated Transformer, http://nlp.seas.harvard.edu/2018/04/03/attention.html
 + multiscale-vision-transformers-an-architecture-for-modeling-visual-data, https://ai.facebook.com/blog/multiscale-vision-transformers-an-architecture-for-modeling-visual-data/
 + The Illustrated Transformer, https://jalammar.github.io/illustrated-transformer/
 + Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention),https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
