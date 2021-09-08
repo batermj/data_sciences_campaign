@@ -20,6 +20,7 @@ Generative Adversarial (Neural) Networks
 
 # [Papers]
 + Generative Adversarial Networks, https://arxiv.org/abs/1406.2661
++ Self-Attention Generative Adversarial Networks, https://arxiv.org/abs/1805.08318
 + 
 
 # [Codes]
