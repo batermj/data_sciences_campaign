@@ -21,7 +21,7 @@ Transformers
 + Transformer在图像复原领域的降维打击！ETH提出SwinIR：各项任务全面领先, https://mp.weixin.qq.com/s/w28DdccPeW_2vl2S_t8sAA
 + Advancing the state of the art in computer vision with self-supervised Transformers and 10x more efficient training, https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training
 + 华为联合北大、悉尼大学对 Visual Transformer 的最新综述, https://zhuanlan.zhihu.com/p/339418612
-+ Transformer|深度学习（李宏毅）（八）,https://zhuanlan.zhihu.com/p/325965103
++ [***公式化表示，公式推导流畅，概念清晰***] Transformer|深度学习（李宏毅）（八）,https://zhuanlan.zhihu.com/p/325965103
 + 
 
 
