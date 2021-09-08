@@ -23,6 +23,7 @@ Transformers
 + Advancing the state of the art in computer vision with self-supervised Transformers and 10x more efficient training, https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training
 + 华为联合北大、悉尼大学对 Visual Transformer 的最新综述, https://zhuanlan.zhihu.com/p/339418612
 + [***公式化表示，公式推导流畅，概念清晰***] Transformer|深度学习（李宏毅）（八）,https://zhuanlan.zhihu.com/p/325965103
++ 10分钟带你深入理解Transformer原理及实现, https://zhuanlan.zhihu.com/p/80986272
 + 
 
 
