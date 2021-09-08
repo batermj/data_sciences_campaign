@@ -112,6 +112,10 @@ Transformers
 * [The Evolved Transformer - David R. So(2019)](https://arxiv.org/pdf/1901.11117.pdf)  
 
 
+# [Papers- GANs]
++ Self-Attention Generative Adversarial Networks, https://arxiv.org/abs/1805.08318
+
+
 # [Papers- MISC]
 + Self-Attention with Relative Position Representations, https://arxiv.org/abs/1803.02155
 + An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, https://arxiv.org/abs/2010.11929
