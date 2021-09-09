@@ -2,6 +2,7 @@ Normalization
 
 # [BLOGS]
 + 深度学习中 Batch Normalization为什么效果好？https://www.zhihu.com/question/38102762?sort=created
++ 模型优化之Batch Normalization, https://zhuanlan.zhihu.com/p/54171297
 
 
 # [Papers]
