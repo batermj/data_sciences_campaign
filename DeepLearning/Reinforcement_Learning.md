@@ -1,5 +1,9 @@
 Reinforcement Learning
 
+# [Blogs]
++ The Importance of Hyperparameter Optimization for Model-based Reinforcement Learning, https://bair.berkeley.edu/blog/2021/04/19/mbrl/
++ 
+
 # [Papers ]
 + [Minimal Deep Q Learning (DQN & DDQN) implementations in Keras](https://keon.io/deep-q-learning, https://github.com/keon/deep-q-learning)
 + [ReinforcementZeroToAll](https://github.com/hunkim/ReinforcementZeroToAll)
@@ -9,4 +13,6 @@ Reinforcement Learning
 + [Code for experiments with our RNN regularizer, which stochastically forces units to maintain previous values](https://github.com/teganmaharaj/zoneout)
 + [Reinforcement Learning Coach by Intel® AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms https://nervanasystems.github.io/coach/](https://github.com/NervanaSystems/coach)
 + [Building a Powerful DQN in TensorFlow 2.0 (explanation & tutorial) Sebastian Theiler:](https://medium.com/analytics-vidhya/building-a-powerful-dqn-in-tensorflow-2-0-explanation-tutorial-d48ea8f3177a)
+
+# [Codes]
 
