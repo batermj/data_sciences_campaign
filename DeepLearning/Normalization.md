@@ -22,5 +22,6 @@ Normalization
 ## [Papers- Group Normalization]
 
 # [Codes]
-+ [PyTorch][LayerNorm] https://pytorch.org/docs/master/generated/torch.nn.LayerNorm.html
++ [PyTorch]https://pytorch.org/docs/master/nn.html#normalization-layers
++ 
 + 
