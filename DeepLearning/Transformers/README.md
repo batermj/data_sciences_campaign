@@ -34,6 +34,7 @@ Transformers
 + 2020年9月谷歌研究给出的综述“Efficient Transformers: A Survey”， https://zhuanlan.zhihu.com/p/316865623
 + The Annotated Transformer， http://nlp.seas.harvard.edu/2018/04/03/attention.html
 + Transformer|深度学习（李宏毅）（八）,https://zhuanlan.zhihu.com/p/325965103
++ 手撕Transformer-XL源码：论文里的迷之困惑的解答都在这里啦,https://zhuanlan.zhihu.com/p/151444825
 + 
 
 
