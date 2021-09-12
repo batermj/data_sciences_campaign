@@ -33,6 +33,7 @@ Transformers
 + Transformer in Deep Learning：超详细讲解Attention机制（二），https://zhuanlan.zhihu.com/p/404631212
 + 2020年9月谷歌研究给出的综述“Efficient Transformers: A Survey”， https://zhuanlan.zhihu.com/p/316865623
 + The Annotated Transformer， http://nlp.seas.harvard.edu/2018/04/03/attention.html
++ Transformer|深度学习（李宏毅）（八）,https://zhuanlan.zhihu.com/p/325965103
 + 
 
 
