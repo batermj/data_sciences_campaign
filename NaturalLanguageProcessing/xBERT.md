@@ -2,6 +2,7 @@ xBERT
 
 # [Blogs]
 + Bert源代码解读, https://github.com/DA-southampton/Read_Bert_Code
++ BERT：深度双向预训练语言模型， https://zhuanlan.zhihu.com/p/355262804
 + NLP Paper, https://github.com/changwookjun/nlp-paper#probe
 + 
 
