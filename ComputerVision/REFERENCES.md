@@ -29,6 +29,8 @@ Top 100 Awesome Computer Vision Papers & Books & Blog & Whatever The Entrepreneu
 ## Topics (Categories)
 
 ## Papers
++ CVPR 2021 论文和开源项目合集(Papers with Code), https://github.com/amusi/CVPR2021-Papers-with-Code
+
 
 ## SOTA
 
