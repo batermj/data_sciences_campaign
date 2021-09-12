@@ -24,6 +24,15 @@ Transformers
 + 华为联合北大、悉尼大学对 Visual Transformer 的最新综述, https://zhuanlan.zhihu.com/p/339418612
 + [***公式化表示，公式推导流畅，概念清晰***] Transformer|深度学习（李宏毅）（八）,https://zhuanlan.zhihu.com/p/325965103
 + 10分钟带你深入理解Transformer原理及实现, https://zhuanlan.zhihu.com/p/80986272
++ Transformer的一家！https://zhuanlan.zhihu.com/p/350987218
++ 多种Attention之间的对比(上），https://zhuanlan.zhihu.com/p/336352895
++ Transformer结构中获得相对位置信息的探究， https://zhuanlan.zhihu.com/p/100112141
++ The Transformer: Attention Is All You Need， https://glassboxmedicine.com/2019/08/15/the-transformer-attention-is-all-you-need/
++ The Illustrated Transformer， https://jalammar.github.io/illustrated-transformer/
++ 详细解读Google新作 | 教你How to train自己的Transfomer模型？https://zhuanlan.zhihu.com/p/383020224
++ Transformer in Deep Learning：超详细讲解Attention机制（二），https://zhuanlan.zhihu.com/p/404631212
++ 2020年9月谷歌研究给出的综述“Efficient Transformers: A Survey”， https://zhuanlan.zhihu.com/p/316865623
++ The Annotated Transformer， http://nlp.seas.harvard.edu/2018/04/03/attention.html
 + 
 
 
