@@ -36,6 +36,9 @@ Transformers
 + Transformer|深度学习（李宏毅）（八）,https://zhuanlan.zhihu.com/p/325965103
 + 手撕Transformer-XL源码：论文里的迷之困惑的解答都在这里啦,https://zhuanlan.zhihu.com/p/151444825
 + Vision Transformer 超详细解读 (原理分析+代码解读) (七)https://zhuanlan.zhihu.com/p/358102861
++ 牛津大学提出ViP：用Transformer表示部分-整体层次结构, https://zhuanlan.zhihu.com/p/390066749
++ Vision Transformer, https://zhuanlan.zhihu.com/p/273652295
++ So-ViT：视觉Transformer的Mind Visual Tokens, https://zhuanlan.zhihu.com/p/367508871
 + 
 
 
