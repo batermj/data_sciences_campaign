@@ -26,6 +26,9 @@ Top 100 Awesome Machine Translation Papers & Books & Blog & Whatever The Entrepr
 + Revisiting the Primacy of English in Zero-shot Cross-lingual Transfer, https://arxiv.org/abs/2106.16171
 + 
 
+### [Papers- Pre-trained Language Models]
++ Multilingual Translation via Grafting Pre-trained Language Models, https://arxiv.org/abs/2109.05256
+
 
 ## Resources on Github
 + Fully Character-Level Neural Machine Translation, https://github.com/nyu-dl/dl4mt-c2c
