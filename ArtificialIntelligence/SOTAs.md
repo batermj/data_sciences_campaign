@@ -1,6 +1,7 @@
 SOTAs of AI
 
 # [Blogs]
++ 100 Year Study on AI released its 2021 Report., https://ai100.stanford.edu
 + https://paperswithcode.com/sota
 
 # [Papers]
