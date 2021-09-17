@@ -76,6 +76,7 @@ Transformers
 + Incorporating Convolution Designs into Visual Transformers, https://arxiv.org/abs/2103.11816
 + Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation, https://arxiv.org/abs/2105.05537
 + LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference, https://arxiv.org/abs/2104.01136
++ Pre-Trained Image Processing Transformer (IPT),https://github.com/huawei-noah/Pretrained-IPT
 + 
 
 # [Papers- Object Detection]
