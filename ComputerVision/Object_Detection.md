@@ -22,6 +22,7 @@ Object Detection
 + Faster R-CNN Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
 + R-FCN R-FCN: Object Detection via Region-based Fully Convolutional Networks
 + FPN Feature Pyramid Networks for Object Detection 
++ FroDO: From Detections to 3D Objects, https://research.fb.com/publications/frodo-from-detections-to-3d-objects/
 + 
 
 ## [Transformer- Papers]
