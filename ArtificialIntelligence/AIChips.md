@@ -9,6 +9,7 @@ Artificial Intelligence Chips
 + 浅谈AI芯片架构设计， https://zhuanlan.zhihu.com/p/103593853
 + AI芯片技术发展， https://zhuanlan.zhihu.com/p/150656419
 + 片上神经网络， https://www.zhihu.com/column/DNN-on-Chip
++ 『豪门盛宴』AI训练芯片和系统最新战况,https://mp.weixin.qq.com/s/jVEY3PFeFymyKCL0oz6D8A
 
 # [Papers]
 
