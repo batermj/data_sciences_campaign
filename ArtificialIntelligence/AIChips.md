@@ -10,6 +10,8 @@ Artificial Intelligence Chips
 + AI芯片技术发展， https://zhuanlan.zhihu.com/p/150656419
 + 片上神经网络， https://www.zhihu.com/column/DNN-on-Chip
 + 『豪门盛宴』AI训练芯片和系统最新战况,https://mp.weixin.qq.com/s/jVEY3PFeFymyKCL0oz6D8A
++ 硬核！350页报告，揭秘苹果M1为何如此强大（附PDF下载）,https://worldrepublicnews.com/learn-all-about-apples-m1-with-this-350-page-deep-dive/
+
 
 # [Papers]
 
