@@ -202,6 +202,8 @@ Top 100 Awesome Machine Learning Papers & Books & Blog & Whatever The Entreprene
 ## MISC
 + Repository of teaching materials, code, and data for my data analysis and machine learning projects. https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects
 + https://github.com/AM207/2018spring
++ Awesome Machine Learning, https://github.com/josephmisiti/awesome-machine-learning
+
 
 ## Google Summer of Code
 + NumFOCUS Google Summer of Code Materials http://numfocus.org/programs/gsoc.html, https://github.com/numfocus/gsoc
