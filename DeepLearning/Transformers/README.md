@@ -133,6 +133,9 @@ Transformers
 # [Papers- GANs]
 + Self-Attention Generative Adversarial Networks, https://arxiv.org/abs/1805.08318
 
+# [Papers- OCR]
++ TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models, https://arxiv.org/abs/2109.10282
++ 
 
 # [Papers- MISC]
 + Self-Attention with Relative Position Representations, https://arxiv.org/abs/1803.02155
