@@ -7,6 +7,8 @@ Open NMT
 
 # [Papers]
 + Language Modeling, Lexical Translation, Reordering: The Training Process of NMT through the Lens of Classical SMT, https://arxiv.org/abs/2109.01396
++ Scaling Laws for Neural Machine Translation， https://arxiv.org/abs/2109.07740
++ 
 
 
 # [Codes]
