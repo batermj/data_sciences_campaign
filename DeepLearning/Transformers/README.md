@@ -41,6 +41,7 @@ Transformers
 + 牛津大学提出ViP：用Transformer表示部分-整体层次结构, https://zhuanlan.zhihu.com/p/390066749
 + Vision Transformer, https://zhuanlan.zhihu.com/p/273652295
 + So-ViT：视觉Transformer的Mind Visual Tokens, https://zhuanlan.zhihu.com/p/367508871
++ Fastformer: Additive Attention Can Be All You Need | Paper Explained, https://www.youtube.com/watch?v=Ich5TIvdYRE
 + 
 
 
