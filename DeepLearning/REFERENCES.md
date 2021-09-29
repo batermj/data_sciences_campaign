@@ -512,6 +512,10 @@ Code: https://github.com/rk2900/drsa
 ## Stock forecasting
 + [Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations,](https://github.com/huseinzol05/Stock-Prediction-Models)
 
+## Software Engineering
++ A Systematic Literature Review on the Use of Deep Learning in Software Engineering Research, https://arxiv.org/abs/2009.06520
++ 
+
 ## MISC
 + [dlsys-course](https://github.com/dlsys-course)
 + [This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research. http://cs20.stanford.edu](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
