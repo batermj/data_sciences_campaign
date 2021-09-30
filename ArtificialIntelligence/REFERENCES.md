@@ -99,6 +99,7 @@ Top 100 Awesome Artificial Intelligence Papers & Books & Blog & Whatever The Ent
 + Advancing AI theory with a first-principles understanding of deep neural networks, https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks/
 + Fast, Efficient and Affordable AI, https://www.aihardwaresummit.com/events/ai-hardware-summit?utm_campaign=AI%20Hardware%20Summit%202021%20-%20Social%20Media&utm_content=179588162&utm_medium=social&utm_source=linkedin&hss_channel=lcp-10812092
 + AI Career Podcast, https://www.linkedin.com/pulse/ai-career-podcast-steve-nouri/
++ Artificial Intelligence: Cloud and Edge Implementations (Online), https://conted.ox.ac.uk/courses/artificial-intelligence-cloud-and-edge-implementations
 + 
 
 # Datasets
