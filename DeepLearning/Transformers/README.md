@@ -96,6 +96,7 @@ Transformers
 
 ## [Papers- Medical Image Segmentation]
 + TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation, https://arxiv.org/abs/2102.04306
++ UNETR: Transformers for 3D Medical Image Segmentation, https://arxiv.org/abs/2103.10504, Codes: https://github.com/Project-MONAI/research-contributions/tree/master/UNETR, Tutorial: https://github.com/Project-MONAI/tutorials/blob/master/3d_segmentation/unetr_btcv_segmentation_3d.ipynb
 + 
 
 
