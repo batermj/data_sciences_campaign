@@ -150,7 +150,8 @@ Transformers
 + BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, https://arxiv.org/abs/1810.04805
 + Thinking Like Transformers, https://arxiv.org/abs/2106.06981
 + Mobile-Former: Bridging MobileNet and Transformer, https://arxiv.org/abs/2108.05895
-+ 
++ FNet: Mixing Tokens with Fourier Transforms, https://arxiv.org/abs/2105.03824
++
 
 
 
