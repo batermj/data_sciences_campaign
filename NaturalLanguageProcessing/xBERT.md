@@ -7,6 +7,10 @@ xBERT
 + 30分钟带你彻底掌握Bert源码(Pytorch)，超详细！！不看后悔！！https://zhuanlan.zhihu.com/p/148062852
 + 
 
+# [Books]
++ Getting Started with Google BERT, https://www.packtpub.com/product/getting-started-with-google-bert/9781838821593
+
+
 # [Papers]
 * NLP Paper, https://github.com/changwookjun/nlp-paper#probe
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding  - NAACL 2019)](https://arxiv.org/abs/1810.04805)  
