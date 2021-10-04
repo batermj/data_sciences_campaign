@@ -52,4 +52,5 @@ xBERT
 
 # [Codes]
 + BERT, https://github.com/google-research/bert
++ Classify text with BERT, https://www.tensorflow.org/text/tutorials/classify_text_with_bert#setup
 + 
