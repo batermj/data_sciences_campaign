@@ -1,6 +1,11 @@
 OSDI,USENIX conference on Operating Systems Design and Implementation
 
 # [Blogs]
++ 如何评价CS294: AI for Systems and Systems for AI ？https://www.zhihu.com/question/316906836/answer/1997546271?utm_source=wechat_timeline&utm_medium=social&utm_oi=26806916743168
++ Machine Learning Systems (Fall 2019), https://ucbrise.github.io/cs294-ai-sys-fa19/; https://www.youtube.com/watch?v=Jnunp-EymJQ&list=WL&index=13
++ AI-Sys Spring 2019, https://ucbrise.github.io/cs294-ai-sys-sp19/
++ 
++ 
 
 # [Papers][OSDI]
 
