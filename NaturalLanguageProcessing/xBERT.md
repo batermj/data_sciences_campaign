@@ -5,6 +5,7 @@ xBERT
 + BERT：深度双向预训练语言模型， https://zhuanlan.zhihu.com/p/355262804
 + NLP Paper, https://github.com/changwookjun/nlp-paper#probe
 + 30分钟带你彻底掌握Bert源码(Pytorch)，超详细！！不看后悔！！https://zhuanlan.zhihu.com/p/148062852
++ BERT language model, https://searchenterpriseai.techtarget.com/definition/BERT-language-model
 + 
 
 # [Books]
