@@ -1,5 +1,9 @@
 xBERT
 
+|BERT Typle|网络结构|L（网络层数）|H（隐藏层维度|A（Attention 多头个数）|Total Parameters|使用GPU内存|
+|Bert base|12|768|12|12*768*12=110M|
+|Bert large|24|1024|16|340M|
+
 Bert base的网络结构：
 
 > L（网络层数）=12, H（隐藏层维度）=768, A（Attention 多头个数）=12, Total Parameters= 12*768*12=110M
