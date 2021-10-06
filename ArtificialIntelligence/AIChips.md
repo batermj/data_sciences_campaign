@@ -1,6 +1,7 @@
 Artificial Intelligence Chips
 
 # [Blogs]
++ System Level AI Acceleration, https://vimeo.com/606595372
 + AI Chip (ICs and IPs), https://github.com/basicmi/AI-Chip
 + Graphcore， https://www.zhihu.com/org/graphcore
 + NVIDIA英伟达中国, https://www.zhihu.com/org/nvidiaying-wei-da
