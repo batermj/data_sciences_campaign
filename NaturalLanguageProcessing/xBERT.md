@@ -13,6 +13,7 @@ xBERT
 + 30分钟带你彻底掌握Bert源码(Pytorch)，超详细！！不看后悔！！https://zhuanlan.zhihu.com/p/148062852
 + BERT language model, https://searchenterpriseai.techtarget.com/definition/BERT-language-model
 + HuggingFace-Transformers系列的下游应用, https://www.jianshu.com/p/cdb13530a8fd
++ 美团BERT的探索和实践, https://tech.meituan.com/2019/11/14/nlp-bert-practice.html
 + 
 
 # [Books]
