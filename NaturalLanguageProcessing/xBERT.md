@@ -1,5 +1,18 @@
 xBERT
 
+Bert base的网络结构：
+
+> L（网络层数）=12, H（隐藏层维度）=768, A（Attention 多头个数）=12, Total Parameters= 12*768*12=110M
+
+> 使用GPU内存：7G多
+
+Bert large的网络结构：
+
+> L=24, H=1024, A=16, Total Parameters=340M).
+
+> 使用GPU内存：32G多
+
+
 # [Blogs]
 + Bert源代码解读, https://github.com/DA-southampton/Read_Bert_Code
 + BERT：深度双向预训练语言模型， https://zhuanlan.zhihu.com/p/355262804
