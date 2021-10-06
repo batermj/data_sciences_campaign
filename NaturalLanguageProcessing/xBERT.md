@@ -5,22 +5,6 @@ xBERT
 | Bert large  | 24 |  1024  | 16  |  340M  | 32G+  | 
 
 
-|   BERT Typle   |   L（网络层数）   |   H（隐藏层维度   |   A（Attention 多头个数）   |   Total Parameters   |   使用GPU内存   |
-| Bert base | 12 | 768 | 12 | 12*768*12=110M | 7G+ |
-| Bert large | 24 | 1024 | 16 | 340M | 32G+ |
-
-Bert base的网络结构：
-
-> L（网络层数）=12, H（隐藏层维度）=768, A（Attention 多头个数）=12, Total Parameters= 12*768*12=110M
-
-> 使用GPU内存：7G多
-
-Bert large的网络结构：
-
-> L=24, H=1024, A=16, Total Parameters=340M).
-
-> 使用GPU内存：32G多
-
 
 # [Blogs]
 + Bert源代码解读, https://github.com/DA-southampton/Read_Bert_Code
