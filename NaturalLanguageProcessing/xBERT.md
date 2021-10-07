@@ -66,3 +66,8 @@ xBERT
 + BERT with torchtext, https://github.com/pytorch/text/tree/main/examples/BERT
 + 使用huggingface的Transformers预训练自己的bert模型+FineTuning, https://blog.csdn.net/qq_26593695/article/details/115338593
 + 
+
+# [Codes- Cloud]
++ Getting started with the built-in BERT algorithm, https://cloud.google.com/ai-platform/training/docs/algorithms/bert-start
+
+
