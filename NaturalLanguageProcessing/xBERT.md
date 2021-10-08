@@ -15,6 +15,7 @@ xBERT
 + HuggingFace-Transformers系列的下游应用, https://www.jianshu.com/p/cdb13530a8fd
 + 美团BERT的探索和实践, https://tech.meituan.com/2019/11/14/nlp-bert-practice.html
 + ALBERT一作蓝振忠：从谷歌离职回到西湖大学，只为打造一个24小时在线的「心理咨询师」, https://baijiahao.baidu.com/s?id=1705968709780204020&wfr=spider&for=pc
++ “瘦身成功”的ALBERT，能取代BERT吗？https://zhuanlan.zhihu.com/p/115178654
 + 
 
 # [Books]
