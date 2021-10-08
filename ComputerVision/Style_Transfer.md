@@ -21,5 +21,8 @@ Style Transfer
 + Style transfer, https://ml4a.github.io/ml4a/style_transfer/
 + Data-parallel image stylization, https://github.com/crowsonkb/style_transfer
 + style-transfer-pytorch, https://github.com/crowsonkb/style-transfer-pytorch
++ PyTorch 实现风格迁移 (style transfer), https://www.pytorchtutorial.com/pytorch-style-transfer/
++ NEURAL TRANSFER USING PYTORCH, https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
++ A Neural Algorithm of Artistic Style, https://arxiv.org/abs/1508.06576
 + 
 
