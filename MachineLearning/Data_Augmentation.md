@@ -8,6 +8,10 @@ Data Augmentation
 # [Papers]
 
 
+## [Papers- Bayesian]
++ Training on Test Data with Bayesian Adaptation for Covariate Shift, https://arxiv.org/abs/2109.12746
++ 
+
 # [Codes]
 + AugLy is a data augmentations library that currently supports four modalities (audio, image, text & video) and over 100 augmentations., https://github.com/facebookresearch/AugLy
 
