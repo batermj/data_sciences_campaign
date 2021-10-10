@@ -42,6 +42,7 @@ Transformers
 + Vision Transformer, https://zhuanlan.zhihu.com/p/273652295
 + So-ViT：视觉Transformer的Mind Visual Tokens, https://zhuanlan.zhihu.com/p/367508871
 + Fastformer: Additive Attention Can Be All You Need | Paper Explained, https://www.youtube.com/watch?v=Ich5TIvdYRE
++ Anatomy of the Beast with many heads! [with code], https://www.linkedin.com/pulse/anatomy-beast-many-heads-code-ibrahim-sobh-phd/
 + 
 
 
