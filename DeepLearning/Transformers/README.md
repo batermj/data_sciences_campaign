@@ -45,16 +45,16 @@ Transformers
 + Anatomy of the Beast with many heads! [with code], https://www.linkedin.com/pulse/anatomy-beast-many-heads-code-ibrahim-sobh-phd/
 + 
 
+# [Papers]
 
-
-# [Papers-Surveys]
+## [Papers-Surveys]
 + A Survey of Transformers, https://arxiv.org/abs/2106.04554
 + Transformers in Vision: A Survey, https://arxiv.org/abs/2101.01169
 + A Survey on Vision Transformer, https://arxiv.org/abs/2012.12556
 + 2021-A Survey of Transformers, https://www.jianshu.com/p/98d82f83b6ba
 + 
 
-# [Papers- Computer Vision]
+## [Papers- Computer Vision]
 + Vision Transformer with Progressive Sampling, https://arxiv.org/abs/2108.01684
 + ViTGAN: Training GANs with Vision Transformers, https://arxiv.org/abs/2107.04589
 + Do Vision Transformers See Like Convolutional Neural Networks? https://arxiv.org/abs/2108.08810
@@ -83,28 +83,28 @@ Transformers
 + Pre-Trained Image Processing Transformer (IPT),https://github.com/huawei-noah/Pretrained-IPT
 + 
 
-# [Papers- Object Detection]
+## [Papers- Object Detection]
 + [***DETR (DEtection TRansformer)***][***Facebook***] End-to-End Object Detection with Transformers, https://arxiv.org/abs/2005.12872, Codes: https://github.com/facebookresearch/detr
 + Deformable DETR: Deformable Transformers for End-to-End Object Detection, https://arxiv.org/abs/2010.04159, CODES: https://arxiv.org/pdf/2010.04159.pdf
 + 
 + 
 
-# [Papers- Image Super-Resolution]
+## [Papers- Image Super-Resolution]
 + Learning Texture Transformer Network for Image Super-Resolution, https://arxiv.org/abs/2006.04139
 + 
 
-# [Papers- Image Segmentation]
+## [Papers- Image Segmentation]
 
-## [Papers- Medical Image Segmentation]
+### [Papers- Medical Image Segmentation]
 + TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation, https://arxiv.org/abs/2102.04306
 + UNETR: Transformers for 3D Medical Image Segmentation, https://arxiv.org/abs/2103.10504, Codes: https://github.com/Project-MONAI/research-contributions/tree/master/UNETR, Tutorial: https://github.com/Project-MONAI/tutorials/blob/master/3d_segmentation/unetr_btcv_segmentation_3d.ipynb
 + 
 
 
-# [Papers- Image Classification]
+## [Papers- Image Classification]
 + [***CrossViT***] [***IBM***] CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification, https://arxiv.org/abs/2103.14899, Codes: https://github.com/IBM/CrossViT
 
-# [Papers- NLP]
+## [Papers- NLP]
 * Fastformer: Additive Attention is All You Need,https://arxiv.org/abs/2108.09084
 * Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text  Models, https://arxiv.org/abs/2108.08877
 * [Attention Is All You Need - arXiv 2017)](https://arxiv.org/abs/1706.03762)  
@@ -131,18 +131,18 @@ Transformers
 * The Evolved Transformer, https://arxiv.org/abs/1901.11117
 * 
 
-# [Papers- Machine Translation]
+## [Papers- Machine Translation]
 * [The Evolved Transformer - David R. So(2019)](https://arxiv.org/pdf/1901.11117.pdf)  
 
 
-# [Papers- GANs]
+## [Papers- GANs]
 + Self-Attention Generative Adversarial Networks, https://arxiv.org/abs/1805.08318
 
-# [Papers- OCR]
+## [Papers- OCR]
 + TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models, https://arxiv.org/abs/2109.10282
 + 
 
-# [Papers- MISC]
+## [Papers- MISC]
 + Self-Attention with Relative Position Representations, https://arxiv.org/abs/1803.02155
 + An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, https://arxiv.org/abs/2010.11929
 + TransformerFusion: Monocular RGB Scene Reconstruction using Transformers, https://arxiv.org/abs/2107.02191
@@ -154,7 +154,9 @@ Transformers
 + FNet: Mixing Tokens with Fourier Transforms, https://arxiv.org/abs/2105.03824
 +
 
-
+## [Papers- Time Series]
++ Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case, https://arxiv.org/abs/2001.08317
++ 
 
 # [Books]
 + ***Mastering Transformers: Build state-of-the-art models from scratch with advanced natural language processing techniques***
