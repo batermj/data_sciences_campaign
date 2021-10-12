@@ -17,6 +17,7 @@ xBERT
 + ALBERT一作蓝振忠：从谷歌离职回到西湖大学，只为打造一个24小时在线的「心理咨询师」, https://baijiahao.baidu.com/s?id=1705968709780204020&wfr=spider&for=pc
 + “瘦身成功”的ALBERT，能取代BERT吗？https://zhuanlan.zhihu.com/p/115178654
 + 预训练BERT，官方代码发布前他们是这样用TensorFlow解决的, https://zhuanlan.zhihu.com/p/48018623
++ cuda10.2怎么选择tensorflow_gpu? https://www.zhihu.com/question/365667275
 + 
 
 # [Books]
