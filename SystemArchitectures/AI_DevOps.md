@@ -44,6 +44,12 @@ DevOps for Artificial Intelligence
 + DevOps Interview Questions | DevOps Interview Questions and Answers | Intellipaat, https://www.youtube.com/watch?v=oG8I8kds8rI
 + Top 100 DevOps Interview Questions and Answers You Must Prepare, https://www.janbasktraining.com/blog/top-devops-interview-questions-and-answers/
 + Top 100 DevOps Interview Questions and Answers You Must Prepare, https://www.janbasktraining.com/blog/top-devops-interview-questions-and-answers/, https://www.gangboard.com/blog/devops-interview-questions-and-answers
++ Top DevOps Interview Questions and Answers 2021, https://www.mygreatlearning.com/blog/devops-interview-questions/
++ Top DevOps Interview Questions and Answers 2021, https://www.mygreatlearning.com/blog/devops-interview-questions/, https://www.nigelfrank.com/blog/top-10-azure-devops-interview-questions-to-prepare-for/
++ Top 25+ Azure DevOps Interview Questions, https://www.dotnettricks.com/learn/devops/top-20-azure-devops-interview-questions-answers
++ Important DevOps Interview Questions and Answers in 2021, https://www.jigsawacademy.com/blogs/data-science/devops-interview-questions
++ DevOps Interview Questions and Answers, https://www.fita.in/devops-interview-questions-and-answers/
++ Top 30+ DevOps Interview Questions [Ultimate list], https://www.katalon.com/resources-center/blog/devops-interview-questions/
 + 
 
 
