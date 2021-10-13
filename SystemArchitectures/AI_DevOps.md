@@ -24,6 +24,13 @@ DevOps for Artificial Intelligence
 + Azure DevOps Interview Questions, https://www.opstrainerz.com/blog/azure-devops-interview-questions
 + AWS DevOps Interview Questions, https://staragile.com/blog/aws-devops-interview-questions
 + Top 23 Azure DevOps Interview Questions and Answers, https://www.qfles.com/interview-question/azure-devops-interview-questions
++ DevOps Interview Questions, https://www.devopsuniversity.org/devops-interview-questions/
++ 100+ DevOps Interview Questions You Must Prepare To Get Job, https://www.temok.com/blog/devops-interview-questions/
++ DevOps Interview Questions and Answers, https://www.besanttechnologies.com/devops-interview-questions-and-answers
++ Devops Interview Questions & Answers 2021 – Most Frequently Asked, https://www.upgrad.com/blog/devops-interview-questions-answers/
++ 10 Essential Monitoring Interview Questions to Prep, https://logz.io/blog/10-essential-performance-monitoring-interview-questions/
++ DevOps Interview Questions, https://www.bmc.com/blogs/devops-interview-questions/
++ Top 25 DevOps Interview Questions and Answers, https://www.invensislearning.com/blog/devops-interview-questions-and-answers/
 + 
 
 
