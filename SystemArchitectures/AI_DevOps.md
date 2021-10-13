@@ -37,6 +37,13 @@ DevOps for Artificial Intelligence
 + Top 65 Microsoft DevOps Engineer Interview Questions, https://www.testpreptraining.com/blog/top-65-microsoft-devops-engineer-interview-questions/
 + 10 questions to ask every DevOps team candidate, https://techbeacon.com/app-dev-testing/10-questions-ask-every-devops-team-candidate
 + Top 5 DevOps Interview Questions, https://victorops.com/blog/top-5-devops-interview-questions
++ 10 Most Popular DevOps Interview Questions and Answers, https://www.thirdrepublic.com/blog/devops-interview-questions-answers
++ Kill Your Tech Interview, https://www.fullstack.cafe/blog/15-continuous-integration-interview-questions-in-2018
++ Critical DevOps Interview Questions—and How to Answer Them, https://newrelic.com/blog/nerd-life/critical-devops-interview-questions-and-how-to-answer-them
++ Top DevOps Interview Questions & Answers to Know Before Interviewing, https://cult.honeypot.io/reads/top-devops-interview-questions/
++ DevOps Interview Questions | DevOps Interview Questions and Answers | Intellipaat, https://www.youtube.com/watch?v=oG8I8kds8rI
++ Top 100 DevOps Interview Questions and Answers You Must Prepare, https://www.janbasktraining.com/blog/top-devops-interview-questions-and-answers/
++ Top 100 DevOps Interview Questions and Answers You Must Prepare, https://www.janbasktraining.com/blog/top-devops-interview-questions-and-answers/, https://www.gangboard.com/blog/devops-interview-questions-and-answers
 + 
 
 
