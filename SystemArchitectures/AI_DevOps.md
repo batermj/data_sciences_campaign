@@ -4,6 +4,9 @@ DevOps for Artificial Intelligence
 # [Blogs]
 
 # [Interviews- Q&A]
++ DevOps Exercises, https://github.com/bregman-arie/devops-exercises
++ DevOps Interview Questions, https://mindmajix.com/devops-interview-questions
++ 20 Dev Leaders and Hiring Managers Reveal Their Favorite DevOps Interview Questions, https://www.threatstack.com/blog/20-dev-leaders-and-hiring-managers-reveal-their-favorite-devops-interview-questions
 + Devops Interview Questions and Answers, https://www.mytectra.com/interview-question/devops-interview-questions
 + 75 DevOps Interview Questions and Sample Answers (With Tips), https://in.indeed.com/career-advice/interviewing/devops-interview-questions
 + DevOps Interview Questions And Answers [Latest], https://codingcompiler.com/devops-interview-questions-answers/
@@ -50,6 +53,8 @@ DevOps for Artificial Intelligence
 + Important DevOps Interview Questions and Answers in 2021, https://www.jigsawacademy.com/blogs/data-science/devops-interview-questions
 + DevOps Interview Questions and Answers, https://www.fita.in/devops-interview-questions-and-answers/
 + Top 30+ DevOps Interview Questions [Ultimate list], https://www.katalon.com/resources-center/blog/devops-interview-questions/
++ Top interview questions for DevOps engineers, https://business.linkedin.com/talent-solutions/resources/interviewing-talent/dev-ops-engineer
++ Top 30 DevOps interview questions and answers for 2021, https://whatis.techtarget.com/feature/Top-30-DevOps-interview-questions-and-answers
 + 
 
 
