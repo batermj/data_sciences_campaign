@@ -61,6 +61,11 @@ DevOps for Artificial Intelligence
 + Top 20 Latest DevOps Interview Questions And Answers For 2021, https://www.softwaretestinghelp.com/devops-interview-questions/
 + Top DevOps Interview Questions and Answers, https://hackr.io/blog/devops-interview-questions
 + 7 top DevOps engineer interview questions for 2020, https://enterprisersproject.com/article/2020/1/devops-engineer-interview-questions-2020
++ Top 60 DevOps Interview Questions and Answers, https://intellipaat.com/blog/interview-question/devops-interview-questions/
++ Top 50 DevOps Interview Questions & Answers (2021 Update), https://www.guru99.com/devops-interview-questions.html
++ Top DevOps Interview Questions You Must Prepare In 2021, https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/
++ Top 85 DevOps Interview Questions and Answers in 2021, https://www.simplilearn.com/tutorials/devops-tutorial/devops-interview-questions
++ DevOps Interview Questions, https://www.interviewbit.com/devops-interview-questions/
 + 
 
 
