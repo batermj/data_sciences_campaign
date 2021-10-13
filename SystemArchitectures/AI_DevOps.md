@@ -5,6 +5,9 @@ DevOps for Artificial Intelligence
 
 # [Interviews- Q&A]
 + DevOps Exercises, https://github.com/bregman-arie/devops-exercises
++ Awesome MLOps, https://github.com/visenger/awesome-mlops
++ 
++ Amazon SageMaker MLOps, https://github.com/aws-samples/mlops-amazon-sagemaker-devops-with-ml
 + DevOps Interview Questions, https://mindmajix.com/devops-interview-questions
 + 20 Dev Leaders and Hiring Managers Reveal Their Favorite DevOps Interview Questions, https://www.threatstack.com/blog/20-dev-leaders-and-hiring-managers-reveal-their-favorite-devops-interview-questions
 + Devops Interview Questions and Answers, https://www.mytectra.com/interview-question/devops-interview-questions
