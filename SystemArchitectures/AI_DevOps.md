@@ -31,6 +31,12 @@ DevOps for Artificial Intelligence
 + 10 Essential Monitoring Interview Questions to Prep, https://logz.io/blog/10-essential-performance-monitoring-interview-questions/
 + DevOps Interview Questions, https://www.bmc.com/blogs/devops-interview-questions/
 + Top 25 DevOps Interview Questions and Answers, https://www.invensislearning.com/blog/devops-interview-questions-and-answers/
++ Top 30 Devops Interview Questions And Answers Pdf, https://svrtechnologies.com/top-30-devops-interview-questions-and-answers-pdf/
++ Know the Answers to These 20 DevOps Interview Questions, https://adamtheautomator.com/devops-interview-questions/
++ Devops engineer Interview Questions, https://www.glassdoor.com/Interview/devops-engineer-interview-questions-SRCH_KO0,15.htm
++ Top 65 Microsoft DevOps Engineer Interview Questions, https://www.testpreptraining.com/blog/top-65-microsoft-devops-engineer-interview-questions/
++ 10 questions to ask every DevOps team candidate, https://techbeacon.com/app-dev-testing/10-questions-ask-every-devops-team-candidate
++ Top 5 DevOps Interview Questions, https://victorops.com/blog/top-5-devops-interview-questions
 + 
 
 
