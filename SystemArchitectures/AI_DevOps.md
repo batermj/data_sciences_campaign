@@ -6,6 +6,9 @@ DevOps for Artificial Intelligence
 # [Interviews- Q&A]
 + DevOps Exercises, https://github.com/bregman-arie/devops-exercises
 + Awesome MLOps, https://github.com/visenger/awesome-mlops
++ hygieia, https://github.com/hygieia
++ Docker — 从入门到实践, https://github.com/yeasy/docker_practice
++ Linux System Administrator/DevOps Interview Questions, https://github.com/chassing/linux-sysadmin-interview-questions
 + 
 + Amazon SageMaker MLOps, https://github.com/aws-samples/mlops-amazon-sagemaker-devops-with-ml
 + DevOps Interview Questions, https://mindmajix.com/devops-interview-questions
