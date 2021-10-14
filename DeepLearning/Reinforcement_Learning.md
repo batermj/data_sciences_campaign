@@ -4,6 +4,12 @@ Reinforcement Learning
 + The Importance of Hyperparameter Optimization for Model-based Reinforcement Learning, https://bair.berkeley.edu/blog/2021/04/19/mbrl/
 + 
 
+# [Blogs]
+
+
+# [Courses]
++ Reinforcement Learning Course Materials， https://github.com/upb-lea/reinforcement_learning_course_materials
+
 # [Papers ]
 + [Minimal Deep Q Learning (DQN & DDQN) implementations in Keras](https://keon.io/deep-q-learning, https://github.com/keon/deep-q-learning)
 + [ReinforcementZeroToAll](https://github.com/hunkim/ReinforcementZeroToAll)
