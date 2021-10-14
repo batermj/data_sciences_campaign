@@ -43,6 +43,7 @@ Transformers
 + So-ViT：视觉Transformer的Mind Visual Tokens, https://zhuanlan.zhihu.com/p/367508871
 + Fastformer: Additive Attention Can Be All You Need | Paper Explained, https://www.youtube.com/watch?v=Ich5TIvdYRE
 + Anatomy of the Beast with many heads! [with code], https://www.linkedin.com/pulse/anatomy-beast-many-heads-code-ibrahim-sobh-phd/
++ DeepMind Introduces ‘Enformer’, A Deep Learning Architecture For Predicting Gene Expression From DNA Sequence, https://www.marktechpost.com/2021/10/06/deepmind-introduces-enformer-a-deep-learning-architecture-for-predicting-gene-expression-from-dna-sequence/
 + 
 
 # [Papers]
