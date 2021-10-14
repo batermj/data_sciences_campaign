@@ -1,5 +1,9 @@
 Object Detection
 
+# [Top-Players]
++ FAIR, https://ai.facebook.com/
++ 
+
 # [Ausome]
 + Metrics for object detection, https://github.com/rafaelpadilla/Object-Detection-Metrics
 + Open-Source Visual Interface for Object Detection Metrics, https://github.com/rafaelpadilla/review_object_detection_metrics
@@ -8,6 +12,8 @@ Object Detection
 
 # [Blogs]
 + Everything You Need To Know About Torchvision’s SSD Implementation, https://pytorch.org/blog/torchvision-ssd-implementation/
++ Detectron2 is FAIR's next-generation platform for object detection and segmentation., https://ai.facebook.com/tools/detectron2/
++ 
 
 # [Papers]
 + Pelee: A Real-Time Object Detection System on Mobile Devices, https://arxiv.org/abs/1804.06882; Codes: https://github.com/GZQ0723/PeleeNet
