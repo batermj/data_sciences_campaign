@@ -2,6 +2,11 @@ Transformers
 
 - - -
 
+# [Top-Players]
++ DeepMind, Predicting gene expression with AI, https://deepmind.com/
++ 
+
+
 # [Courses]
 + Attention Is All You Need, https://www.youtube.com/watch?v=iDulhoQ2pro
 + 台大李宏毅21年机器学习课程 self-attention和transformer, https://www.bilibili.com/video/BV1Xp4y1b7ih/?spm_id_from=autoNext
@@ -44,6 +49,7 @@ Transformers
 + Fastformer: Additive Attention Can Be All You Need | Paper Explained, https://www.youtube.com/watch?v=Ich5TIvdYRE
 + Anatomy of the Beast with many heads! [with code], https://www.linkedin.com/pulse/anatomy-beast-many-heads-code-ibrahim-sobh-phd/
 + DeepMind Introduces ‘Enformer’, A Deep Learning Architecture For Predicting Gene Expression From DNA Sequence, https://www.marktechpost.com/2021/10/06/deepmind-introduces-enformer-a-deep-learning-architecture-for-predicting-gene-expression-from-dna-sequence/
++ Predicting gene expression with AI, https://deepmind.com/blog/article/enformer
 + 
 
 # [Papers]
