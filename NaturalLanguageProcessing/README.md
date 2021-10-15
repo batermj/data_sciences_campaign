@@ -4,8 +4,14 @@
 + Key Resources Portal
 + Key Labs
 
-## Key Players
+# Key Players
 + Sebastian Ruder：Deep Mind 的大牛，经常会总结各个会议的 Highlights 以及 Trendings, https://ruder.io/, https://github.com/sebastianruder/NLP-progress
+
+
+# [Videos]
+
+## [Videos]
++ NLP Zurich, https://www.youtube.com/channel/UCLLX-5j9UNYassOwS0nveDQ
 + 
 
 # Key Resources Portal
