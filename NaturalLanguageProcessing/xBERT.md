@@ -71,6 +71,11 @@ xBERT
 + Ideas from google's bert for language understanding: Pre-train TextCNN， https://github.com/brightmart/bert_language_understanding
 + 
 
+## [Codes- Text Classification]
++ BERT Classifier fine-tuning, https://github.com/Yorko/bert-finetuning-catalyst
++ 
+
+
 # [Codes- Cloud]
 + Getting started with the built-in BERT algorithm, https://cloud.google.com/ai-platform/training/docs/algorithms/bert-start
 
