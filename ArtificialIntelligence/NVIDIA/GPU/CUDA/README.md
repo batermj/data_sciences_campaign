@@ -2,6 +2,7 @@ CUDA DevOps Resources
 
 # [Compatibility Matrix]
 + NVIDIA CUDA Toolkit Release Notes, https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html
++ https://www.nvidia.cn/Download/index.aspx?lang=cn
 + 
 
 # [Tutorials]
