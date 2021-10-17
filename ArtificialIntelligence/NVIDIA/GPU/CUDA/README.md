@@ -4,6 +4,10 @@ CUDA DevOps Resources
 + NVIDIA CUDA Toolkit Release Notes, https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html
 + 
 
+# [Tutorials]
++ CUDA Toolkit Documentation v11.4.2, https://docs.nvidia.com/cuda/index.html
++ 
+
 
 # [Blogs]
 
