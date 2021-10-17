@@ -22,9 +22,16 @@ CUDA DevOps Resources
 
 # [Codes]
 
+# [Codes- Sequence Processing and Generation]
++ LightSeq: A High Performance Library for Sequence Processing and Generation,https://github.com/bytedance/lightseq
++ 
 
 # [Q&A]
 + CUDA安装成功后测试Sample的时候报错（问题解决）_狂浪生-程序员宅基地, https://www.cxyzjd.com/article/qq_41481731/86658523
 + 在集群上配置cuda环境, https://blog.csdn.net/jslove1997/article/details/113919679
 + 非root用户在服务器上安装CUDA和cudnn到指定目录, https://www.cnblogs.com/li-minghao/p/13089405.html
 + 
+
+
+
+
