@@ -24,4 +24,5 @@ CUDA DevOps Resources
 
 # [Q&A]
 + CUDA安装成功后测试Sample的时候报错（问题解决）_狂浪生-程序员宅基地, https://www.cxyzjd.com/article/qq_41481731/86658523
++ 在集群上配置cuda环境, https://blog.csdn.net/jslove1997/article/details/113919679
 + 
