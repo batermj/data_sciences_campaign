@@ -7,6 +7,9 @@ CUDA DevOps Resources
 
 # [Tutorials]
 + CUDA Toolkit Documentation v11.4.2, https://docs.nvidia.com/cuda/index.html
+
+## [Tutorials- Concurrency]
++ CUDA CONCURRENCY, https://www.olcf.ornl.gov/wp-content/uploads/2020/07/07_Concurrency.pdf
 + 
 
 
