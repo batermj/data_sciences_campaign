@@ -65,6 +65,7 @@ xBERT
 
 # [Codes]
 + BERT, https://github.com/google-research/bert
++ NVIDIA Deep Learning Examples for Tensor Cores, https://github.com/NVIDIA/DeepLearningExamples
 + Classify text with BERT, https://www.tensorflow.org/text/tutorials/classify_text_with_bert#setup
 + BERT with torchtext, https://github.com/pytorch/text/tree/main/examples/BERT
 + 使用huggingface的Transformers预训练自己的bert模型+FineTuning, https://blog.csdn.net/qq_26593695/article/details/115338593
