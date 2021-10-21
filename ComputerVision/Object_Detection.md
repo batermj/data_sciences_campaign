@@ -29,6 +29,7 @@ Object Detection
 + R-FCN R-FCN: Object Detection via Region-based Fully Convolutional Networks
 + FPN Feature Pyramid Networks for Object Detection 
 + FroDO: From Detections to 3D Objects, https://research.fb.com/publications/frodo-from-detections-to-3d-objects/
++ Active Learning for Deep Object Detection via Probabilistic Modeling, https://arxiv.org/abs/2103.16130
 + 
 
 ## [Transformer- Papers]
