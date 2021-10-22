@@ -54,6 +54,10 @@ Transformers
 
 # [Papers]
 
+## [Papers- Attension]
++ Compositional Attention: Disentangling Search and Retrieval, https://arxiv.org/abs/2110.09419
++ 
+
 ## [Papers-Surveys]
 + A Survey of Transformers, https://arxiv.org/abs/2106.04554
 + Transformers in Vision: A Survey, https://arxiv.org/abs/2101.01169
