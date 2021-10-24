@@ -76,9 +76,13 @@ xBERT
 + 
 
 ## [Codes- Text Classification]
++ Keras BERT, https://github.com/CyberZHG/keras-bert
 + BERT Classifier fine-tuning, https://github.com/Yorko/bert-finetuning-catalyst
 + 
 
+## [Codes- Keras]
++ bert4keras, https://github.com/bojone/bert4keras
++ 
 
 # [Codes- Cloud]
 + Getting started with the built-in BERT algorithm, https://cloud.google.com/ai-platform/training/docs/algorithms/bert-start
