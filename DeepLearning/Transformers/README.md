@@ -154,6 +154,12 @@ Transformers
 + TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models, https://arxiv.org/abs/2109.10282
 + 
 
+## [Papers- Mobile]
++ MOBILEVIT: LIGHT-WEIGHT, GENERAL-PURPOSE, AND MOBILE-FRIENDLY VISION TRANSFORMER, https://arxiv.org/pdf/2110.02178.pdf
++ Mobile-Former: Bridging MobileNet and Transformer, https://arxiv.org/abs/2108.05895
+
+
+
 ## [Papers- MISC]
 + Self-Attention with Relative Position Representations, https://arxiv.org/abs/1803.02155
 + An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, https://arxiv.org/abs/2010.11929
@@ -162,7 +168,6 @@ Transformers
 + Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation, https://github.com/NVIDIA-Merlin/publications/tree/main/2021_acm_recsys_transformers4rec
 + BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, https://arxiv.org/abs/1810.04805
 + Thinking Like Transformers, https://arxiv.org/abs/2106.06981
-+ Mobile-Former: Bridging MobileNet and Transformer, https://arxiv.org/abs/2108.05895
 + FNet: Mixing Tokens with Fourier Transforms, https://arxiv.org/abs/2105.03824
 +
 
@@ -183,5 +188,8 @@ Transformers
 # [Codes- Chatbots]
 + 智能聊天机器人，你的AI女友, https://github.com/godweiyang/chatbot
 + 
+
+# [Codes- Mobile]
++ MobileViT: A mobile-friendly Transformer-based model for image classification, https://keras.io/examples/vision/mobilevit/
 
 
