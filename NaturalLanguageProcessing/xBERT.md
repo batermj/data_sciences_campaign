@@ -60,6 +60,8 @@ xBERT
 * [MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices](https://arxiv.org/pdf/2004.02984.pdf) [[github](https://github.com/google-research/google-research/tree/master/mobilebert)]   
 * [Measuring and Reducing Gendered Correlations in Pre-trained Models](https://arxiv.org/pdf/2010.06032.pdf)  
 * FastBERT, FastBERT: a Self-distilling BERT with Adaptive Inference Time, https://aclanthology.org/2020.acl-main.537/, https://github.com/autoliuweijie/FastBERT, 
+* BERT-of-Theseus: Compressing BERT by Progressive Module Replacing, https://www.connectedpapers.com/main/2e27f119e6fcc5477248eb0f4a6abe8d7cf4f6e7/BERTofTheseus-Compressing-BERT-by-Progressive-Module-Replacing/graph
+* BERT-of-Theseus: Compressing BERT by Progressive Module Replacing, https://arxiv.org/abs/2002.02925
 * 
 
 
@@ -70,6 +72,7 @@ xBERT
 + BERT with torchtext, https://github.com/pytorch/text/tree/main/examples/BERT
 + 使用huggingface的Transformers预训练自己的bert模型+FineTuning, https://blog.csdn.net/qq_26593695/article/details/115338593
 + Ideas from google's bert for language understanding: Pre-train TextCNN， https://github.com/brightmart/bert_language_understanding
++ BERT-of-Theseus, https://github.com/JetRunner/BERT-of-Theseus
 + 
 
 ## [Codes- Text Classification]
