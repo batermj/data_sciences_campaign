@@ -82,6 +82,7 @@ xBERT
 
 ## [Codes- Keras]
 + bert4keras, https://github.com/bojone/bert4keras
++ Keras BERT， https://github.com/CyberZHG/keras-bert
 + 
 
 # [Codes- Cloud]
