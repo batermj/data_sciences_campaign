@@ -141,6 +141,7 @@ Transformers
 * [Big Bird: Transformers for Longer Sequences](https://arxiv.org/pdf/2007.14062.pdf) 
 * Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting, https://arxiv.org/abs/2012.07436, Codes: https://github.com/zhouhaoyi/Informer2020
 * The Evolved Transformer, https://arxiv.org/abs/1901.11117
+* Adaptively Sparse Transformers, https://arxiv.org/abs/1909.00015
 * 
 
 ## [Papers- Machine Translation]
