@@ -7,6 +7,8 @@ Object Tracking
 
 
 # [Papers]
++ ByteTrack: Multi-Object Tracking by Associating Every Detection Box, https://arxiv.org/abs/2110.06864
++ 
 
 
 # [Codes]
