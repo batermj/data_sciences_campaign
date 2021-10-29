@@ -502,6 +502,7 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Gene Ontology Consortium](http://www.geneontology.org) biological ontology
 *   [REACTOME](https://reactome.org)
 *   [STRING](https://string-db.org)
+*   [新发布的MedMNIST (v2)：生物医学图像领域的MNIST，包括12个2D数据集（70万+样本）和6个3D数据集（1万+样本）](https://medmnist.com/)
 
 ## References of Awesome Weather data 
 *   [NCEI's Radar Archive includes the Next Generation Weather Radar System (NEXRAD) and Terminal Doppler Weather Radar (TDWR) networks. ](https://www.ncdc.noaa.gov/data-access/radar-data)
