@@ -15,6 +15,9 @@ Style Transfer
 ## [Papers- 3D]
 + STYLENERF: A STYLE-BASED 3D-AWARE GENERATOR FOR HIGH-RESOLUTION IMAGE SYNTHESIS， https://openreview.net/pdf?id=iUuzzTMUw9K
 
+## [Papers- Gans]
++ StyleAlign: Analysis and Applications of Aligned StyleGAN Models, https://arxiv.org/abs/2110.11323
++ 
 
 # [Codes]
 + neural-style, https://github.com/jcjohnson/neural-style
