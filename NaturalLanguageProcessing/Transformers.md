@@ -2,6 +2,9 @@ Transformers
 
 # [Blogs]
 + Learn About Transformers: A Recipe, https://elvissaravia.substack.com/p/learn-about-transformers-a-recipe
++ List of Transformer-based Pretrained Language Models (T-PTLMs),https://mr-nlp.github.io/posts/2021/05/tptlms-list/
++ 
++ 
 
 # [Papers]
 * [Attention Is All You Need - arXiv 2017)](https://arxiv.org/abs/1706.03762)  
@@ -24,6 +27,8 @@ Transformers
 * [Longformer: The Long-Document Transformer](https://arxiv.org/pdf/2004.05150.pdf)  
 * [UnifiedQA: Crossing Format Boundaries With a Single QA System](https://arxiv.org/pdf/2005.00700.pdf) [[github](https://github.com/allenai/unifiedqa)]  
 * [Big Bird: Transformers for Longer Sequences](https://arxiv.org/pdf/2007.14062.pdf) 
+* 
+* 
 
 
 
