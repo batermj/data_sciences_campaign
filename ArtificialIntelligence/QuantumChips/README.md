@@ -1,6 +1,8 @@
 Quantum Chips
 
 # [Top Players]
++ List of quantum processors, https://en.wikipedia.org/wiki/List_of_quantum_processors
++ 
 
 # [Blogs]
 
