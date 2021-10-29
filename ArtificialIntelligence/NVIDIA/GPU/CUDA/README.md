@@ -17,6 +17,7 @@ CUDA DevOps Resources
 
 # [Blogs]
 + cuda10.2怎么选择tensorflow_gpu? https://www.zhihu.com/question/365667275
++ Conda 常规命令, https://zhuanlan.zhihu.com/p/105276992
 + 
 
 # [Books]
