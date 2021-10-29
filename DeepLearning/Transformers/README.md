@@ -51,6 +51,7 @@ Transformers
 + DeepMind Introduces ‘Enformer’, A Deep Learning Architecture For Predicting Gene Expression From DNA Sequence, https://www.marktechpost.com/2021/10/06/deepmind-introduces-enformer-a-deep-learning-architecture-for-predicting-gene-expression-from-dna-sequence/
 + Predicting gene expression with AI, https://deepmind.com/blog/article/enformer
 + The Sensory Neuron as a Transformer: Permutation-Invariant Neural Networks for Reinforcement Learning, https://attentionneuron.github.io
++ DeepMind Introduces ‘Enformer’, A Deep Learning Architecture For Predicting Gene Expression From DNA Sequence, https://www.marktechpost.com/2021/10/06/deepmind-introduces-enformer-a-deep-learning-architecture-for-predicting-gene-expression-from-dna-sequence/
 + 
 
 # [Papers]
