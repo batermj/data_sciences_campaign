@@ -14,7 +14,8 @@ CUDA DevOps Resources
 
 
 # [Blogs]
-
++ cuda10.2怎么选择tensorflow_gpu? https://www.zhihu.com/question/365667275
++ 
 
 # [Books]
 + CUDA by Example: An Introduction to General-Purpose GPU Programming, https://developer.nvidia.com/cuda-example
