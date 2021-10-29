@@ -23,6 +23,11 @@ Generative Adversarial (Neural) Networks
 + Self-Attention Generative Adversarial Networks, https://arxiv.org/abs/1805.08318
 + 
 
+## [Papers- Style]
++ StyleAlign: Analysis and Applications of Aligned StyleGAN Models, https://arxiv.org/abs/2110.11323
++ 
+
+
 # [Codes]
 + really-awesome-gan, https://github.com/nightrome/really-awesome-gan
 + This repository contains the code and hyperparameters for the paper: "Generative Adversarial Networks." Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio. ArXiv 2014., https://github.com/goodfeli/adversarial
