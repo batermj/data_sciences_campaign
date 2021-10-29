@@ -142,6 +142,7 @@ Transformers
 * Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting, https://arxiv.org/abs/2012.07436, Codes: https://github.com/zhouhaoyi/Informer2020
 * The Evolved Transformer, https://arxiv.org/abs/1901.11117
 * Adaptively Sparse Transformers, https://arxiv.org/abs/1909.00015
+* AMMUS : A Survey of Transformer-based Pretrained Models in Natural Language Processing, https://arxiv.org/abs/2108.05542
 * 
 
 ## [Papers- Machine Translation]
