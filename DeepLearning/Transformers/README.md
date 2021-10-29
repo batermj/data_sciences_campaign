@@ -4,7 +4,7 @@ Transformers
 
 # [Top-Players]
 + DeepMind, Predicting gene expression with AI, https://deepmind.com/
-+ 
++ HuggingFace, 
 
 
 # [Courses]
@@ -58,6 +58,7 @@ Transformers
 ## [Papers- Attension]
 + Compositional Attention: Disentangling Search and Retrieval, https://arxiv.org/abs/2110.09419
 + The Sensory Neuron as a Transformer: Permutation-Invariant Neural Networks for Reinforcement Learning, https://attentionneuron.github.io
++ Awesome NLP Paper Discussions, https://github.com/huggingface/awesome-papers#planned-discussions
 + 
 
 ## [Papers-Surveys]
