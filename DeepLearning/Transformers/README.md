@@ -94,6 +94,8 @@ Transformers
 + LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference, https://arxiv.org/abs/2104.01136
 + Pre-Trained Image Processing Transformer (IPT),https://github.com/huawei-noah/Pretrained-IPT
 + [***Facebook***] Anticipative Video Transformer: Improving AI’s ability to predict what’s next in a video, https://ai.facebook.com/blog/anticipative-video-transformer-improving-ais-ability-to-predict-whats-next-in-a-video
++ The Sensory Neuron as a Transformer: Permutation-Invariant Neural Networks for Reinforcement Learning, https://attentionneuron.github.io
++ 
 
 ## [Papers- Object Detection]
 + [***DETR (DEtection TRansformer)***][***Facebook***] End-to-End Object Detection with Transformers, https://arxiv.org/abs/2005.12872, Codes: https://github.com/facebookresearch/detr
