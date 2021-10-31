@@ -6,6 +6,8 @@ Paraphrase or Paraphrasing
 + 
 
 # [Blogs]
++ Paraphrasing 简介, http://ir.hit.edu.cn/~lee/reports/ParaphrasingBriefIntro_wgli.pdf
++ 
 
 
 # [Papers]
