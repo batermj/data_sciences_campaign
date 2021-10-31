@@ -9,6 +9,7 @@ Textual Entailment
 + Textual entailment with TensorFlow Using neural networks to explore natural language., https://www.oreilly.com/content/textual-entailment-with-tensorflow/
 + 文本蕴含有关研究简介, https://www.jiqizhixin.com/articles/2016-12-06-2
 + Textual Entailment（自然语言推理－文本蕴含） - AllenNLP, https://www.cnblogs.com/shona/p/11577273.html
++ 【NLP】如何匹配两段文本的语义？https://cloud.tencent.com/developer/article/1587741
 + 
 
 # [Papers]
