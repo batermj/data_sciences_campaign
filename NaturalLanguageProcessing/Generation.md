@@ -32,3 +32,9 @@ Generation
 
 # [Codes]
 
+# [Codes- Paraphrase Generation]
++ Paraphrase Generation, https://github.com/vsuthichai/paraphraser
++ 
+
+
+
