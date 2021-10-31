@@ -66,6 +66,7 @@ xBERT
 
 
 # [Codes]
++ This repository is to collect BERT related resources., https://github.com/Jiakui/awesome-bert
 + BERT, https://github.com/google-research/bert
 + NVIDIA Deep Learning Examples for Tensor Cores, https://github.com/NVIDIA/DeepLearningExamples
 + Classify text with BERT, https://www.tensorflow.org/text/tutorials/classify_text_with_bert#setup
