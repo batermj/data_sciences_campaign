@@ -13,3 +13,5 @@ Text Summarization
 
 
 # [Codes]
++ PKULCWM/PKUSUMSUM，北大万小军老师团队的自动摘要方法汇总，包含了他们大量paper的实现，支持单文档摘要、多文档摘要、topic-focused多文档摘要, https://github.com/PKULCWM/PKUSUMSUM
++ 
