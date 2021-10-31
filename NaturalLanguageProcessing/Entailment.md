@@ -10,6 +10,7 @@ Textual Entailment
 
 # [Papers]
 + A Survey on Recognizing Textual Entailment as an NLP Evaluation, https://aclanthology.org/2020.eval4nlp-1.10.pdf
++ Textual Entailment as a Directional Relation, http://clg.wlv.ac.uk/events/CALP07/papers/6.pdf
 + 
 
 
