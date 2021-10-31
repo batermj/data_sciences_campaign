@@ -16,3 +16,6 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 
 
 # [Codes]
++ Sentiment Analysis, https://nlp.stanford.edu/sentiment/
++ SenticNet, http://sentic.net/about/
++ 
