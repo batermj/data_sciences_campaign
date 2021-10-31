@@ -5,7 +5,12 @@ Textual Entailment
 + 
 
 # [Blogs]
++ Textual entailment with TensorFlow Using neural networks to explore natural language., https://www.oreilly.com/content/textual-entailment-with-tensorflow/
++ 
 
 # [Papers]
++ A Survey on Recognizing Textual Entailment as an NLP Evaluation, https://aclanthology.org/2020.eval4nlp-1.10.pdf
++ 
+
 
 # [Codes]
