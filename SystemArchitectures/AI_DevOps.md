@@ -74,6 +74,17 @@ DevOps for Artificial Intelligence
 + DevOps Interview Questions, https://www.interviewbit.com/devops-interview-questions/
 + 
 
+# [Tutorials]
++ DevOps for Beginners - Docker, Kubernetes, Terraform and Azure Devops, https://github.com/in28minutes/devops-master-class
++ DevOps Exercises, https://github.com/bregman-arie/devops-exercises
++ AWS EKS - Elastic Kubernetes Service - Masterclass, https://github.com/stacksimplify/aws-eks-kubernetes-masterclass
++ All-In-One DevOps Platform, https://github.com/theonedev/onedev
++ KubeSphere provides a Jenkins-based DevOps system with various features., https://github.com/kubesphere/devops-java-sample
++ free-for.dev, https://github.com/ripienaar/free-for-dev
++ 开发自运维平台, https://github.com/YoLoveLife/DevOps
++ CDS: Continuous Delivery Service, https://github.com/ovh/cds
++ DevOps-Guide, https://github.com/Tikam02/DevOps-Guide
++ 
 
 
 # [Papers]
