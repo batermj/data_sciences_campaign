@@ -19,3 +19,5 @@ Textual Entailment
 
 
 # [Codes]
++ Textual Entailment with TensorFlow, https://github.com/Steven-Hewitt/Entailment-with-Tensorflow
++ 
