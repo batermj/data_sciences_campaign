@@ -4,6 +4,7 @@ Object Detection
 + FAIR, https://ai.facebook.com/
 + 
 
+
 # [Ausome]
 + Metrics for object detection, https://github.com/rafaelpadilla/Object-Detection-Metrics
 + Open-Source Visual Interface for Object Detection Metrics, https://github.com/rafaelpadilla/review_object_detection_metrics
@@ -38,6 +39,11 @@ Object Detection
 
 # [Codes]
 + Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computatio, https://github.com/pjreddie/darknet
++ 
+
+# [Codes- SOTAs]
++ Detectron2, https://github.com/facebookresearch/detectron2
++ MMDetection is an open source object detection toolbox based on PyTorch. It is a part of the OpenMMLab project, https://github.com/open-mmlab/mmdetection
 + 
 
 
