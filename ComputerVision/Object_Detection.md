@@ -31,6 +31,7 @@ Object Detection
 + FPN Feature Pyramid Networks for Object Detection 
 + FroDO: From Detections to 3D Objects, https://research.fb.com/publications/frodo-from-detections-to-3d-objects/
 + Active Learning for Deep Object Detection via Probabilistic Modeling, https://arxiv.org/abs/2103.16130
++ MMDetection is an open source object detection toolbox based on PyTorch. It is a part of the OpenMMLab project, https://paperswithcode.com/lib/mmdetection
 + 
 
 ## [Transformer- Papers]
