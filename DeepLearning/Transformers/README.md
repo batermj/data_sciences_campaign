@@ -65,7 +65,7 @@ Transformers
 + Awesome NLP Paper Discussions, https://github.com/huggingface/awesome-papers#planned-discussions
 + 
 
-## [Papers-Surveys]
+## [Papers- Surveys]
 + A Survey of Transformers, https://arxiv.org/abs/2106.04554
 + Transformers in Vision: A Survey, https://arxiv.org/abs/2101.01169
 + A Survey on Vision Transformer, https://arxiv.org/abs/2012.12556
@@ -184,7 +184,9 @@ Transformers
 
 ## [Papers- Time Series]
 + Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case, https://arxiv.org/abs/2001.08317
++ Multivariate Time Series Forecasting with Transformers, https://towardsdatascience.com/multivariate-time-series-forecasting-with-transformers-384dc6ce989b
 + 
+
 
 # [Books]
 + ***Mastering Transformers: Build state-of-the-art models from scratch with advanced natural language processing techniques***
