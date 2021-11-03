@@ -9,6 +9,8 @@ DevOps for Artificial Intelligence
 
 # [Courses]
 + AI-Sys Spring 2019, https://ucbrise.github.io/cs294-ai-sys-sp19/
++ CSE 599W: Systems for ML, http://dlsys.cs.washington.edu/
++ 
 
 # [Blogs]
 
