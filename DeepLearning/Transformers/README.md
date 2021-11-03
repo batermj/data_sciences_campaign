@@ -199,11 +199,16 @@ Transformers
 + A TensorFlow Implementation of Attention Is All You Need, https://github.com/Kyubyong/transformer
 + 
 
-# [Codes- Chatbots]
+## [Codes- Chatbots]
 + 智能聊天机器人，你的AI女友, https://github.com/godweiyang/chatbot
 + 
 
-# [Codes- Mobile]
+## [Codes- Mobile]
 + MobileViT: A mobile-friendly Transformer-based model for image classification, https://keras.io/examples/vision/mobilevit/
+
+
+## [Codes- HuggingFace]
++ An End-to-End Pipeline with Hugging Face transformers, https://valohai.com/blog/hugging-face-pipeline/?utm_campaign=Blogs+Feed+ads+(New+Target+Group)&utm_source=linkedin&utm_medium=paid&hsa_acc=503139555&hsa_cam=607695413&hsa_grp=192295833&hsa_ad=165444873&hsa_net=linkedin&hsa_ver=3
++ 
 
 
