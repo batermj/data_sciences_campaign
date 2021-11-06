@@ -1,6 +1,8 @@
 Semantic textual similarity (STS) 
 
 # [Blogs]
++ Application of BERT : Sentence semantic similarity, https://iq.opengenus.org/sentence-semantic-similarity-bert/
++ 
 
 # [Benchmarks]
 + STSbenchmark, http://ixa2.si.ehu.eus/stswiki/index.php/STSbenchmark
