@@ -1,4 +1,9 @@
-# Quuantum Mechanics
+Quuantum Mechanics
 
-Books:
+
+# [Books]
 + ***Berkeley Physics Course : Volume 4. Quantum Physics***, Eyvind H.Wichmann / New York , MacGraw-Hill / 1971
+
+# [Blogs]
++ Quantum Mechanics, https://plato.stanford.edu/entries/qm/
++ 
