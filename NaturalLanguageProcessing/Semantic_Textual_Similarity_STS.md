@@ -2,6 +2,8 @@ Semantic textual similarity (STS)
 
 # [Blogs]
 + Application of BERT : Sentence semantic similarity, https://iq.opengenus.org/sentence-semantic-similarity-bert/
++ BERT For Measuring Text Similarity, https://towardsdatascience.com/bert-for-measuring-text-similarity-eec91c6bf9e1
++ Measuring Text Similarity Using BERT, https://www.analyticsvidhya.com/blog/2021/05/measuring-text-similarity-using-bert/#
 + 
 
 # [Benchmarks]
