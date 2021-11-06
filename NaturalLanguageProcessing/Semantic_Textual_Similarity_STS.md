@@ -22,4 +22,6 @@ Semantic textual similarity (STS)
 + 
 
 # [Codes]
++ semantic-text-similarity, https://github.com/AndriyMulyar/semantic-text-similarity
++ 
 
