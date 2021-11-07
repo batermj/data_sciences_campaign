@@ -8,6 +8,7 @@ Semantic textual similarity (STS)
 + Sentence Similarity using HuggingFace's Sentence Transformers v2, https://www.youtube.com/watch?v=iBY-PqJAAsU
 + Semantic Textual Similarity, https://www.zhihu.com/search?type=content&q=Semantic%20Textual%20Similarity
 + SentenceTransformers, https://www.sbert.net/index.html
++ Semantic Similarity in Sentences and BERT, https://medium.com/analytics-vidhya/semantic-similarity-in-sentences-and-bert-e8d34f5a4677
 + 
 
 # [Benchmarks]
