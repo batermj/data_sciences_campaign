@@ -32,8 +32,8 @@ Semantic textual similarity (STS)
 # [Codes]
 + Semantic Similarity with BERT, https://github.com/keras-team/keras-io/blob/master/examples/nlp/semantic_similarity_with_bert.py
 + Semantic Similarity with BERT, https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/nlp/ipynb/semantic_similarity_with_bert.ipynb
++ Semantic Textual Similarity, https://github.com/UKPLab/sentence-transformers/tree/master/examples/training/sts
 + semantic-text-similarity, https://github.com/AndriyMulyar/semantic-text-similarity
 + Sentence Transformers, https://huggingface.co/sentence-transformers
-+ Semantic Textual Similarity, https://github.com/UKPLab/sentence-transformers/tree/master/examples/training/sts
 + 
 
