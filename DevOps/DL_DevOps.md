@@ -10,6 +10,7 @@ python collect_env.py
 
 # [Installation- CUDA]
 + NVIDIA CUDA Installation Guide for Linux, https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html
++ CUDA Toolkit 11.5 Downloads, https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=20.04&target_type=runfile_local
 + 
 
 # [Installation- CUDA Toolkit]
