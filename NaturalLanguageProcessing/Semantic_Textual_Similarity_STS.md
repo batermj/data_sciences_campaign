@@ -5,6 +5,7 @@ Semantic textual similarity (STS)
 + BERT For Measuring Text Similarity, https://towardsdatascience.com/bert-for-measuring-text-similarity-eec91c6bf9e1
 + Measuring Text Similarity Using BERT, https://www.analyticsvidhya.com/blog/2021/05/measuring-text-similarity-using-bert/#
 + Sentence Similarity using HuggingFace's Sentence Transformers v2, https://www.youtube.com/watch?v=iBY-PqJAAsU
++ Semantic Textual Similarity, https://www.zhihu.com/search?type=content&q=Semantic%20Textual%20Similarity
 + 
 
 # [Benchmarks]
