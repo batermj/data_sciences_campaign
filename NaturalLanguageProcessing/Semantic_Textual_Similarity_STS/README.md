@@ -10,6 +10,7 @@ Semantic textual similarity (STS)
 + 
 
 # [Benchmarks]
++ GLUE Baselines, https://github.com/nyu-mll/GLUE-baselines
 + STSbenchmark, http://ixa2.si.ehu.eus/stswiki/index.php/STSbenchmark
 + 
 
