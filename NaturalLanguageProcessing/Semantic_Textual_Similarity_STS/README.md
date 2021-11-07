@@ -19,6 +19,7 @@ Semantic textual similarity (STS)
 + 
 
 # [Papers]
++ Semantic textual similarity, https://github.com/sebastianruder/NLP-progress/blob/master/english/semantic_textual_similarity.md
 + Semantic textual similarity, http://nlpprogress.com/english/semantic_textual_similarity.html
 + Semantic Textual Similarity, https://paperswithcode.com/task/semantic-textual-similarity
 + Predicting Semantic Similarity Between Clinical Sentence Pairs Using Transformer Models: Evaluation and Representational Analysis, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8190645/
