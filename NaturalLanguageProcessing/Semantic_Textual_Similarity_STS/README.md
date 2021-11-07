@@ -29,7 +29,7 @@ Semantic textual similarity (STS)
 + 
 
 # [Codes]
-+ https://github.com/keras-team/keras-io/blob/master/examples/nlp/semantic_similarity_with_bert.py
++ Semantic Similarity with BERT, https://github.com/keras-team/keras-io/blob/master/examples/nlp/semantic_similarity_with_bert.py
 + Semantic Similarity with BERT, https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/nlp/ipynb/semantic_similarity_with_bert.ipynb
 + semantic-text-similarity, https://github.com/AndriyMulyar/semantic-text-similarity
 + 
