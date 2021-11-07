@@ -7,6 +7,7 @@ Semantic textual similarity (STS)
 + BERT For Measuring Text Similarity, https://towardsdatascience.com/bert-for-measuring-text-similarity-eec91c6bf9e1
 + Sentence Similarity using HuggingFace's Sentence Transformers v2, https://www.youtube.com/watch?v=iBY-PqJAAsU
 + Semantic Textual Similarity, https://www.zhihu.com/search?type=content&q=Semantic%20Textual%20Similarity
++ SentenceTransformers, https://www.sbert.net/index.html
 + 
 
 # [Benchmarks]
@@ -33,5 +34,6 @@ Semantic textual similarity (STS)
 + Semantic Similarity with BERT, https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/nlp/ipynb/semantic_similarity_with_bert.ipynb
 + semantic-text-similarity, https://github.com/AndriyMulyar/semantic-text-similarity
 + Sentence Transformers, https://huggingface.co/sentence-transformers
++ Semantic Textual Similarity, https://github.com/UKPLab/sentence-transformers/tree/master/examples/training/sts
 + 
 
