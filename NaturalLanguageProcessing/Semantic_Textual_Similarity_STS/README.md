@@ -9,6 +9,8 @@ Semantic textual similarity (STS)
 + Semantic Textual Similarity, https://www.zhihu.com/search?type=content&q=Semantic%20Textual%20Similarity
 + SentenceTransformers, https://www.sbert.net/index.html
 + Semantic Similarity in Sentences and BERT, https://medium.com/analytics-vidhya/semantic-similarity-in-sentences-and-bert-e8d34f5a4677
++ Comparing Sentence Similarity Methods,https://github.com/AndriyMulyar/semantic-text-similarity
++ 
 + 
 
 # [Benchmarks]
