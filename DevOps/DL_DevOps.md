@@ -10,6 +10,10 @@ python collect_env.py
 
 # [Installation- CUDA]
 
+# [Installation- CUDA Toolkit]
++ NVIDIA CUDA Toolkit 11.0 安装与卸载(Linux/Ubuntu), https://zhuanlan.zhihu.com/p/122286055
++ 
+
 
 # [Installation- PyTorch]
 + INSTALLING PREVIOUS VERSIONS OF PYTORCH, https://pytorch.org/get-started/previous-versions/
