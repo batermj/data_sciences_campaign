@@ -32,6 +32,7 @@ Semantic textual similarity (STS)
 
 ## [Papers- Survey]
 + Evolution of Semantic Similarity -- A Survey, https://arxiv.org/abs/2004.13820
++ Semantic Textual Similarity Methods, Tools, and Applications: A Survey, http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-55462016000400647
 + 
 
 # [Codes]
