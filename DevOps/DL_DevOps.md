@@ -30,6 +30,7 @@ python collect_env.py
 
 # [Cluster Manager]
 + Managing your Cluster and Scheduling jobs on your GPU Cluster can be simple and intuitive with industry leading solutions now with NVIDIA GPU support, https://developer.nvidia.com/cluster-management
++ TOOLS AND TIPS FOR MANAGING A GPU CLUSTER, https://on-demand.gputechconf.com/gtc/2014/presentations/S4253-tools-tips-for-managing-a-gpu-cluster.pdf
 + 
 
 ## [Cluster Manager- Bright Cluster Manager]
