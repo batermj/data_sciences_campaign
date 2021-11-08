@@ -26,3 +26,29 @@ python collect_env.py
 # [Installation- Containers]
 + Framework Containers Support Matrix, https://docs.nvidia.com/deeplearning/frameworks/support-matrix/index.html#unique_1156114659
 + 
+
+
+# [Cluster Manager]
++ Managing your Cluster and Scheduling jobs on your GPU Cluster can be simple and intuitive with industry leading solutions now with NVIDIA GPU support, https://developer.nvidia.com/cluster-management
++ 
+
+## [Cluster Manager- Bright Cluster Manager]
+ 
+## [Cluster Manager- Ganglia]
+ 
+## [Cluster Manager- NVIDIA DCGM]
+ 
+## [Cluster Manager- IBM Spectrum LSF]
+ 
+## [Cluster Manager- Altair PBS Professional]
+ 
+## [Cluster Manager- Altair Grid Engine]
+ 
+## [Cluster Manager- Moab HPC Suite]
+ 
+## [Cluster Manager- SLURM]
+ 
+## [Cluster Manager- Run:AI]
+ 
+ 
+
