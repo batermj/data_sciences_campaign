@@ -29,6 +29,9 @@ python collect_env.py
 
 # [Distributed Training]
 
+## [Distributed Training- Multi-Node]
++ 浅谈多节点CPU+GPU协同计算负载均衡性设计,https://www.shangmayuan.com/a/8872e8404f3c4b2b9249634b.html
+
 ## [Distributed Training- PyTorch]
 + PyTorch 单机多GPU 训练方法与原理整理, ggithub.com/jia-zhuang/pytorch-multi-gpu-training
 
