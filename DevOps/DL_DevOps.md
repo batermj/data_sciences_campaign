@@ -27,6 +27,10 @@ python collect_env.py
 + Framework Containers Support Matrix, https://docs.nvidia.com/deeplearning/frameworks/support-matrix/index.html#unique_1156114659
 + 
 
+# [Distributed Training]
+
+## [Distributed Training- PyTorch]
++ PyTorch 单机多GPU 训练方法与原理整理, ggithub.com/jia-zhuang/pytorch-multi-gpu-training
 
 # [Cluster Manager]
 + Managing your Cluster and Scheduling jobs on your GPU Cluster can be simple and intuitive with industry leading solutions now with NVIDIA GPU support, https://developer.nvidia.com/cluster-management
