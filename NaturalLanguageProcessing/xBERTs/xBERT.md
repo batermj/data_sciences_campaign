@@ -89,4 +89,12 @@ xBERT
 # [Codes- Cloud]
 + Getting started with the built-in BERT algorithm, https://cloud.google.com/ai-platform/training/docs/algorithms/bert-start
 
+## 【Codes- Chinese】
++ Awesome Pretrained Chinese NLP Models， https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models
+
+## 【Codes- English】
+
+## 【Codes- Kazakh】
+
+
 
