@@ -1,5 +1,20 @@
 Large Scale Distributed Deep Networks
 
+
+# [Top Player]
+
+## [Top Player- Companies]
++ DeepMind
++ Google
++ 
+
+## [Top Player- Labs]
+
+## [Top Player- Researchers]
++ Marc'Aurelio Ranzato, https://ranzato.github.io
++ 
+
+
 # [Blogs]
 
 
