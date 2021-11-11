@@ -1,5 +1,21 @@
 Artificial Intelligence
 
+# [Top Players]
+
+## [Top Players- Companies]
++ Intel AI, https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html
++ 
+
+## [Top Players- Labs]
+
+## [Top Players- Universities]
+
+## [Top Players- Scientists]
+
+## [Top Players- Engineers]
+
+
+
 # [Blogs]
 
 # [Papers]
