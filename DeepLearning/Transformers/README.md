@@ -55,6 +55,7 @@ Transformers
 + The Sensory Neuron as a Transformer: Permutation-Invariant Neural Networks for Reinforcement Learning, https://attentionneuron.github.io
 + DeepMind Introduces ‘Enformer’, A Deep Learning Architecture For Predicting Gene Expression From DNA Sequence, https://www.marktechpost.com/2021/10/06/deepmind-introduces-enformer-a-deep-learning-architecture-for-predicting-gene-expression-from-dna-sequence/
 + Anticipative Video Transformer: Improving AI’s ability to predict what’s next in a video, https://ai.facebook.com/blog/anticipative-video-transformer-improving-ais-ability-to-predict-whats-next-in-a-video
++ Google Research Introduces ‘SCENIC’: An Open-Source JAX Library For Computer Vision Research, https://www.marktechpost.com/2021/10/30/google-research-introduces-scenic-an-open-source-jax-library-for-computer-vision-research/
 + 
 
 # [Papers]
@@ -169,6 +170,9 @@ Transformers
 + MOBILEVIT: LIGHT-WEIGHT, GENERAL-PURPOSE, AND MOBILE-FRIENDLY VISION TRANSFORMER, https://arxiv.org/pdf/2110.02178.pdf
 + Mobile-Former: Bridging MobileNet and Transformer, https://arxiv.org/abs/2108.05895
 
+## [Papers- JAX Library]
++ SCENIC: A JAX Library for Computer Vision Research and Beyond, https://arxiv.org/pdf/2110.11403.pdf
++ 
 
 
 ## [Papers- MISC]
@@ -213,4 +217,6 @@ Transformers
 + An End-to-End Pipeline with Hugging Face transformers, https://valohai.com/blog/hugging-face-pipeline/?utm_campaign=Blogs+Feed+ads+(New+Target+Group)&utm_source=linkedin&utm_medium=paid&hsa_acc=503139555&hsa_cam=607695413&hsa_grp=192295833&hsa_ad=165444873&hsa_net=linkedin&hsa_ver=3
 + 
 
-
+## [Codes- JAX library]
++ Scenic is developed in JAX and uses Flax., https://github.com/google-research/scenic
++ 
