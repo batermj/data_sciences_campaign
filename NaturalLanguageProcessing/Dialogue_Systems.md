@@ -15,5 +15,6 @@ Dialogue Systems
 # [Codes]
 + 智能聊天机器人，你的AI女友, https://github.com/godweiyang/chatbot
 + ParlAI (pronounced “par-lay”) is a python framework for sharing, training and testing dialogue models, from open-domain chitchat, to task-oriented dialogue, to visual question answering, https://github.com/facebookresearch/ParlAI
++ Reasoning Visual Dialogs with Structural and Partial Observations,https://github.com/zilongzheng/visdial-gnn
 + 
 
