@@ -208,6 +208,10 @@ Transformers
 
 ## [Codes- Chatbots]
 + 智能聊天机器人，你的AI女友, https://github.com/godweiyang/chatbot
+
+
+## [Codes- NER]
++ Flat-Lattice-Transformer, https://github.com/LeeSureman/Flat-Lattice-Transformer
 + 
 
 ## [Codes- Mobile]
