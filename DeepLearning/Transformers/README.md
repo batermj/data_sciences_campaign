@@ -153,6 +153,7 @@ Transformers
 * The Evolved Transformer, https://arxiv.org/abs/1901.11117
 * Adaptively Sparse Transformers, https://arxiv.org/abs/1909.00015
 * AMMUS : A Survey of Transformer-based Pretrained Models in Natural Language Processing, https://arxiv.org/abs/2108.05542
+* FLAT: Chinese NER Using Flat-Lattice Transformer, https://arxiv.org/abs/2004.11795
 * 
 
 ## [Papers- Machine Translation]
