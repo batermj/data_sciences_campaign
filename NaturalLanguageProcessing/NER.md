@@ -20,4 +20,5 @@ NER命名体识别
 
 # [Codes- Named Entity Disambiguation]
 + AGDISTIS - Agnostic Named Entity Disambiguation, https://github.com/dice-group/AGDISTIS
++ Flat-Lattice-Transformer, https://github.com/LeeSureman/Flat-Lattice-Transformer
 + 
