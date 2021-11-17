@@ -21,6 +21,7 @@ Generative Adversarial (Neural) Networks
 # [Papers]
 + Generative Adversarial Networks, https://arxiv.org/abs/1406.2661
 + Self-Attention Generative Adversarial Networks, https://arxiv.org/abs/1805.08318
++ Sketch Your Own GAN, https://peterwang512.github.io/GANSketching/
 + 
 
 ## [Papers- Style]
