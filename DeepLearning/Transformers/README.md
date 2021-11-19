@@ -70,6 +70,7 @@ Transformers
 + A Survey of Transformers, https://arxiv.org/abs/2106.04554
 + Transformers in Vision: A Survey, https://arxiv.org/abs/2101.01169
 + A Survey on Vision Transformer, https://arxiv.org/abs/2012.12556
++ A Survey of Visual Transformers, https://arxiv.org/abs/2111.06091
 + 2021-A Survey of Transformers, https://www.jianshu.com/p/98d82f83b6ba
 + AMMUS : A Survey of Transformer-based Pretrained Models in Natural Language Processing, https://arxiv.org/abs/2108.05542
 + 
