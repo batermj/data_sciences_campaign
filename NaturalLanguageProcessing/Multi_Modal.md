@@ -27,5 +27,7 @@ Multi-modal
 * [Effectiveness of self-supervised pre-training for speech recognition](https://arxiv.org/abs/1911.03912)
 * [Understanding Semantics from Speech Through Pre-training](https://arxiv.org/abs/1909.10924)
 * [Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models](https://arxiv.org/abs/1906.07307) 
+* Multitask Prompted Training Enables Zero-Shot Task Generalization, https://arxiv.org/abs/2110.08207
+* 
 
 # [Codes]
