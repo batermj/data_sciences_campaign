@@ -24,6 +24,7 @@ Generative Adversarial (Neural) Networks
 + Self-Attention Generative Adversarial Networks, https://arxiv.org/abs/1805.08318
 + Sketch Your Own GAN, https://peterwang512.github.io/GANSketching/
 + EditGAN: High-Precision Semantic Image Editing, https://nv-tlabs.github.io/editGAN/
++ EditGAN: High-Precision Semantic Image Editing, https://arxiv.org/abs/2111.03186
 + 
 
 ## [Papers- Style]
