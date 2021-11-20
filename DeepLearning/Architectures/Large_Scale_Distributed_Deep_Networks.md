@@ -9,6 +9,8 @@ Large Scale Distributed Deep Networks
 + 
 
 ## [Top Player- Labs]
++ Microsoft Research Blog, https://www.microsoft.com/en-us/research/blog/
++ 
 
 ## [Top Player- Researchers]
 + Marc'Aurelio Ranzato, https://ranzato.github.io
@@ -26,4 +28,5 @@ Large Scale Distributed Deep Networks
 
 # [Codes]
 + Colossal-AI, https://github.com/hpcaitech/colossalai
++ SynapseML: A simple, multilingual, and massively parallel machine learning library, https://www.microsoft.com/en-us/research/blog/synapseml-a-simple-multilingual-and-massively-parallel-machine-learning-library/
 + 
