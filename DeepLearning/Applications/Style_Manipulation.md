@@ -30,6 +30,7 @@ Style Manipulation
 
 ## [Papers- GANs]
 + StyleAlign: Analysis and Applications of Aligned StyleGAN Models, https://arxiv.org/abs/2110.11323
++ Alias-Free Generative Adversarial Networks, https://nvlabs-fi-cdn.nvidia.com/stylegan3/stylegan3-paper.pdf
 + 
 
 # [Codes]
