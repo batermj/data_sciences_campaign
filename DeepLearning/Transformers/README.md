@@ -56,6 +56,7 @@ Transformers
 + DeepMind Introduces ‘Enformer’, A Deep Learning Architecture For Predicting Gene Expression From DNA Sequence, https://www.marktechpost.com/2021/10/06/deepmind-introduces-enformer-a-deep-learning-architecture-for-predicting-gene-expression-from-dna-sequence/
 + Anticipative Video Transformer: Improving AI’s ability to predict what’s next in a video, https://ai.facebook.com/blog/anticipative-video-transformer-improving-ais-ability-to-predict-whats-next-in-a-video
 + Google Research Introduces ‘SCENIC’: An Open-Source JAX Library For Computer Vision Research, https://www.marktechpost.com/2021/10/30/google-research-introduces-scenic-an-open-source-jax-library-for-computer-vision-research/
++ Paper Review: Swin Transformer V2 Scaling Up Capacity and Resolution, https://andlukyane.com/blog/paper-review-swin-v2
 + 
 
 # [Papers]
@@ -90,6 +91,7 @@ Transformers
 + Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet, https://arxiv.org/abs/2101.11986
 + [***Microsoft***] CvT: Introducing Convolutions to Vision Transformers, https://arxiv.org/abs/2103.15808, Codes: #1, https://github.com/leoxiaobin/CvT; #2, 
 + [***Microsoft***] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows, https://arxiv.org/abs/2103.14030
++ [***Microsoft***] Swin Transformer V2: Scaling Up Capacity and Resolution, https://arxiv.org/abs/2111.09883
 + SwinIR: Image Restoration Using Swin Transformer, https://arxiv.org/abs/2108.10257
 + Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, https://arxiv.org/abs/2012.15840
 + Rethinking Spatial Dimensions of Vision Transformers, https://arxiv.org/abs/2103.16302
@@ -210,6 +212,9 @@ Transformers
 ## [Codes- Chatbots]
 + 智能聊天机器人，你的AI女友, https://github.com/godweiyang/chatbot
 
+## [Codes- Computer Vision]
++ Swin Transformer, https://github.com/microsoft/Swin-Transformer
++ 
 
 ## [Codes- NER]
 + Flat-Lattice-Transformer, https://github.com/LeeSureman/Flat-Lattice-Transformer
