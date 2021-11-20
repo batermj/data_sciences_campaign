@@ -28,6 +28,7 @@ Large Scale Distributed Deep Networks
 
 # [Papers- NLP]
 + Scaling Laws for Neural Language Models, https://arxiv.org/abs/2001.08361
++ A Few More Examples May Be Worth Billions of Parameters, https://arxiv.org/abs/2110.04374
 + 
 
 
