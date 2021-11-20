@@ -47,6 +47,8 @@ Top 100 Awesome R Papers & Books & Blog & Whatever The Entrepreneur& Researcher 
 
 ## Packages
 + [tidyverse](https://www.tidyverse.org/)
++ The motif package implements and extends ideas of the pattern-based spatial analysis in R., https://github.com/Nowosad/motif
++ 
 
 ## Researchers
 
@@ -110,3 +112,6 @@ Top 100 Awesome R Papers & Books & Blog & Whatever The Entrepreneur& Researcher 
 
 ### Other Online Courses For R
 + [List of courses teaching R](https://github.com/rstudio-education/rstats-ed)
+
+
+
