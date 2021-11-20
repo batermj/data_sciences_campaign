@@ -26,6 +26,11 @@ Large Scale Distributed Deep Networks
 + Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training, https://arxiv.org/abs/2110.14883
 + 
 
+# [Papers- NLP]
++ Scaling Laws for Neural Language Models, https://arxiv.org/abs/2001.08361
++ 
+
+
 # [Codes]
 + Colossal-AI, https://github.com/hpcaitech/colossalai
 + SynapseML: A simple, multilingual, and massively parallel machine learning library, https://www.microsoft.com/en-us/research/blog/synapseml-a-simple-multilingual-and-massively-parallel-machine-learning-library/
