@@ -4,6 +4,7 @@ Style Manipulation
 
 ## [Blogs- Articles]
 + Style Transfer | 风格迁移综述, https://zhuanlan.zhihu.com/p/57564626
++ Alias-Free Generative Adversarial Networks (StyleGAN3), https://nvlabs.github.io/stylegan3/
 + 
 
 ## [Blogs- Videos]
