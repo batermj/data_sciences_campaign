@@ -8,6 +8,9 @@
 + Sebastian Ruder：Deep Mind 的大牛，经常会总结各个会议的 Highlights 以及 Trendings, https://ruder.io/, https://github.com/sebastianruder/NLP-progress
 + Tracking Progress in Natural Language Processing, https://github.com/sebastianruder/NLP-progress
 
+# [Courses]
++ Natural Language Processing Specialization, https://www.coursera.org/specializations/natural-language-processing?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=20211011-nlp-2-hugging_face-page-nlp-refresh
++ 
 
 # [Videos]
 
