@@ -19,6 +19,7 @@ Large Scale Distributed Deep Networks
 
 # [Blogs]
 + Researchers Introduce ‘Colossal-AI’: A PyTorch-Based Deep Learning System For Large-Scale Parallel Training, https://www.marktechpost.com/2021/10/31/researchers-introduce-colossal-ai-a-pytorch-based-deep-learning-system-for-large-scale-parallel-training/
++ KDD 2021 invited talk: It is time for deep learning to understand its expense bills by Eric Xing, https://www.youtube.com/watch?v=1ziZcHRqtNU
 + 
 
 # [Papers]
