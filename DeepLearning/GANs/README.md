@@ -25,6 +25,7 @@ Generative Adversarial (Neural) Networks
 + Sketch Your Own GAN, https://peterwang512.github.io/GANSketching/
 + EditGAN: High-Precision Semantic Image Editing, https://nv-tlabs.github.io/editGAN/
 + EditGAN: High-Precision Semantic Image Editing, https://arxiv.org/abs/2111.03186
++ BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation, https://arxiv.org/pdf/2110.11728.pdf
 + 
 
 ## [Papers- Style]
@@ -38,6 +39,7 @@ Generative Adversarial (Neural) Networks
 + Generative Deep Learning, https://github.com/davidADSP/GDL_code
 + tensorflow-generative-model-collections, https://github.com/hwalsuklee/tensorflow-generative-model-collections
 + Alias-Free Generative Adversarial Networks (StyleGAN3), https://github.com/NVlabs/stylegan3
++ BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation, https://github.com/onion-liu/BlendGAN
 + 
 
 # [Arts]
