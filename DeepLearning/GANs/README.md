@@ -41,6 +41,7 @@ Generative Adversarial (Neural) Networks
 + tensorflow-generative-model-collections, https://github.com/hwalsuklee/tensorflow-generative-model-collections
 + Alias-Free Generative Adversarial Networks (StyleGAN3), https://github.com/NVlabs/stylegan3
 + BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation, https://github.com/onion-liu/BlendGAN
++ StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation. StudioGAN aims to offer an identical playground for modern GANs so that machine learning researchers can readily compare and analyze a new idea., https://github.com/POSTECH-CVLab/PyTorch-StudioGAN
 + 
 
 # [Arts]
