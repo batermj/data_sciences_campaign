@@ -20,6 +20,7 @@ Generative Adversarial (Neural) Networks
 + 
 
 # [Papers]
++ Rebooting ACGAN: Auxiliary Classifier GANs with Stable Training, https://arxiv.org/abs/2111.01118
 + Generative Adversarial Networks, https://arxiv.org/abs/1406.2661
 + Self-Attention Generative Adversarial Networks, https://arxiv.org/abs/1805.08318
 + Sketch Your Own GAN, https://peterwang512.github.io/GANSketching/
