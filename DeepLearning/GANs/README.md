@@ -33,6 +33,10 @@ Generative Adversarial (Neural) Networks
 + StyleAlign: Analysis and Applications of Aligned StyleGAN Models, https://arxiv.org/abs/2110.11323
 + 
 
+## [Papers- Image Editing]
++ High-Fidelity GAN Inversion for Image Attribute Editing, https://tengfei-wang.github.io/HFGI/
++ High-Fidelity GAN Inversion for Image Attribute Editing, https://arxiv.org/abs/2109.06590
++ 
 
 # [Codes]
 + really-awesome-gan, https://github.com/nightrome/really-awesome-gan
@@ -42,6 +46,7 @@ Generative Adversarial (Neural) Networks
 + Alias-Free Generative Adversarial Networks (StyleGAN3), https://github.com/NVlabs/stylegan3
 + BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation, https://github.com/onion-liu/BlendGAN
 + StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation. StudioGAN aims to offer an identical playground for modern GANs so that machine learning researchers can readily compare and analyze a new idea., https://github.com/POSTECH-CVLab/PyTorch-StudioGAN
++ HFGI: High-Fidelity GAN Inversion for Image Attribute Editing, https://github.com/Tengfei-Wang/HFGI
 + 
 
 # [Arts]
