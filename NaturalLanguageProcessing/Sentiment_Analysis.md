@@ -1,6 +1,8 @@
 Sentiment Analysis
 
 # [Blogs]
++ GPU-accelerated Sentiment Analysis Using Pytorch and Huggingface on Databricks, https://databricks.com/blog/2021/10/28/gpu-accelerated-sentiment-analysis-using-pytorch-and-huggingface-on-databricks.html?utm_source=bambu&utm_medium=social&utm_campaign=advocacy&blaid=2319355
++ 
 
 # [Papers]
 * [Multi-Task Deep Neural Networks for Natural Language Understanding - Xiaodong Liu(2019)](https://arxiv.org/pdf/1901.11504.pdf)  
