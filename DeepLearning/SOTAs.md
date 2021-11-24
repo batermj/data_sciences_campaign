@@ -16,3 +16,8 @@ https://paperswithcode.com/sota
 
 # [Codes]
 
+
+# [Engineering Frameworks]
++ Implement many models for ML in Azure, https://github.com/james-tn/Many-Models
++ Many models machine learning (ML) at scale with Azure Machine Learning, https://docs.microsoft.com/en-us/azure/architecture/example-scenario/ai/many-models-machine-learning-azure-machine-learning
++ 
