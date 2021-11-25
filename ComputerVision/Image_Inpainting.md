@@ -15,3 +15,7 @@ Image Inpainting
 # [Codes]
 + LaMa: Resolution-robust Large Mask Inpainting with Fourier Convolutions, https://github.com/saic-mdal/lama
 + 
+
+# [Models]
++ LaMa Image Inpainting, https://huggingface.co/spaces/akhaliq/lama
++ 
