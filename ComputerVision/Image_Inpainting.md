@@ -1,5 +1,9 @@
 Image Inpainting
 
+# [Top Labs]
++ Advanced Image Manipulation Lab @ Samsung AI Center Moscow, https://github.com/saic-mdal
++ 
+
 # [Blogs]
 + Resolution-robust Large Mask Inpainting with Fourier Convolutions, https://saic-mdal.github.io/lama-project/
 + 
