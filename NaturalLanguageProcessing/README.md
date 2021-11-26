@@ -33,6 +33,11 @@
 + The neural architecture of language: Integrative reverse-engineering converges on a model for predictive processing, https://www.biorxiv.org/content/10.1101/2020.06.26.174482v2.full.pdf
 + 
 
+## [Papers- Word Vectors]
++ Enriching Word Vectors with Subword Information, https://arxiv.org/abs/1607.04606
++ 
+
+
 # [Codes]
 + NLP research library, built on PyTorch, for developing state-of-the-art deep learning models on a wide variety of linguistic tasks., https://github.com/allenai/allennlp
 + Natural Language Processing, https://paperswithcode.com/area/natural-language-processing
