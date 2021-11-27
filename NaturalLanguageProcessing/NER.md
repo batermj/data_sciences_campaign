@@ -5,6 +5,7 @@ NER命名体识别
 
 # [Papers]
 
+## [Papers- Survey]
 
 ## [Papers- Transformer]
 + connected papers, https://www.connectedpapers.com/main/7066df8fd89cca546d1ef3d66679cb15eba48d50/FLAT:-Chinese-NER-Using-Flat%20Lattice-Transformer/graph
