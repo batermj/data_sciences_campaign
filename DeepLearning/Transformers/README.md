@@ -57,6 +57,7 @@ Transformers
 + Anticipative Video Transformer: Improving AI’s ability to predict what’s next in a video, https://ai.facebook.com/blog/anticipative-video-transformer-improving-ais-ability-to-predict-whats-next-in-a-video
 + Google Research Introduces ‘SCENIC’: An Open-Source JAX Library For Computer Vision Research, https://www.marktechpost.com/2021/10/30/google-research-introduces-scenic-an-open-source-jax-library-for-computer-vision-research/
 + Paper Review: Swin Transformer V2 Scaling Up Capacity and Resolution, https://andlukyane.com/blog/paper-review-swin-v2
++ Transformers from Scratch, https://e2eml.school/transformers.html
 + 
 
 # [Papers]
