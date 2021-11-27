@@ -8,6 +8,9 @@ Causal Inference in Natural Language Processing
 + CausalNLP: A Practical Toolkit for Causal Inference with Text， https://www.connectedpapers.com/main/9b2f486e6f66caf860374f41b77f22335b2af1cb/CausalNLP:-A-Practical-Toolkit-for-Causal-Inference-with-Text/graph
 + 
 
+## [Papers- Survey]
+
+
 # [Codes]
 + CausalNLP is a practical toolkit for causal inference with text as treatment, outcome, or "controlled-for" variable., https://github.com/amaiya/causalnlp
 + 
