@@ -16,6 +16,7 @@ An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho
 * [Learning to Generate Reviews and Discovering Sentiment - Alec Radford(2017)](https://arxiv.org/pdf/1704.01444.pdf) 
 * [A Structured Self-attentive Sentence Embedding - Zhouhan Lin(2017)](https://arxiv.org/pdf/1703.03130.pdf) 
 
+## [Papers- Survey]
 
 # [Codes]
 + Sentiment Analysis, https://nlp.stanford.edu/sentiment/
