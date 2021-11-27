@@ -17,6 +17,7 @@ Textual Entailment
 + Textual Entailment as a Directional Relation, http://clg.wlv.ac.uk/events/CALP07/papers/6.pdf
 + 
 
+## [Papers- Survey]
 
 # [Codes]
 + Textual Entailment with TensorFlow, https://github.com/Steven-Hewitt/Entailment-with-Tensorflow
