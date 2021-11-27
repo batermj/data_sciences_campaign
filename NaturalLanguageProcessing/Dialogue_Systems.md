@@ -7,10 +7,12 @@ Dialogue Systems
 + 
 
 # [Papers]
-+ A Survey on Dialogue Systems: Recent Advances and New Frontiers, https://arxiv.org/abs/1711.01731
 + Anticipating Safety Issues in E2E Conversational AI: Framework and Tooling, https://arxiv.org/abs/2107.03451
 + Reasoning Visual Dialogs with Structural and Partial Observations, https://arxiv.org/abs/1904.05548
 + 
+
+## [Papers- Survey]
++ A Survey on Dialogue Systems: Recent Advances and New Frontiers, https://arxiv.org/abs/1711.01731
 
 # [Codes]
 + 智能聊天机器人，你的AI女友, https://github.com/godweiyang/chatbot
