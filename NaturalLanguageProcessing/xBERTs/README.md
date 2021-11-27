@@ -62,6 +62,7 @@ xBERT
 * FastBERT, FastBERT: a Self-distilling BERT with Adaptive Inference Time, https://aclanthology.org/2020.acl-main.537/, https://github.com/autoliuweijie/FastBERT, 
 * BERT-of-Theseus: Compressing BERT by Progressive Module Replacing, https://www.connectedpapers.com/main/2e27f119e6fcc5477248eb0f4a6abe8d7cf4f6e7/BERTofTheseus-Compressing-BERT-by-Progressive-Module-Replacing/graph
 * BERT-of-Theseus: Compressing BERT by Progressive Module Replacing, https://arxiv.org/abs/2002.02925
+* DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter, https://arxiv.org/abs/1910.01108
 * 
 
 
