@@ -11,6 +11,7 @@ Text Summarization
 * [GENERATING WIKIPEDIA BY SUMMARIZING LONG SEQUENCES - Peter J. Liu(2018)](https://arxiv.org/pdf/1801.10198.pdf)   
 * [Get To The Point: Summarization with Pointer-Generator Networks - Abigail See(2017)](https://arxiv.org/pdf/1704.04368.pdf) * [A Neural Attention Model for Sentence Summarization - Alexander M. Rush(2015)](https://www.aclweb.org/anthology/D15-1044)   
 
+## [Papers- Survey]
 
 # [Codes]
 + PKULCWM/PKUSUMSUM，北大万小军老师团队的自动摘要方法汇总，包含了他们大量paper的实现，支持单文档摘要、多文档摘要、topic-focused多文档摘要, https://github.com/PKULCWM/PKUSUMSUM
