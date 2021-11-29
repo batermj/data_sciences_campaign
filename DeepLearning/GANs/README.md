@@ -31,6 +31,7 @@ Generative Adversarial (Neural) Networks
 
 ## [Papers- Style]
 + StyleAlign: Analysis and Applications of Aligned StyleGAN Models, https://arxiv.org/abs/2110.11323
++ Rebooting ACGAN: Auxiliary Classifier GANs with Stable Training, https://arxiv.org/abs/2111.01118
 + 
 
 ## [Papers- Image Editing]
