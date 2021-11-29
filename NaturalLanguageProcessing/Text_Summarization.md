@@ -1,5 +1,10 @@
 Text Summarization
 
+# [Tutorials]
++ Automatic Text Summarization, https://abrazinskas.s3.eu-west-1.amazonaws.com/downloads/slides/yandex-2021.pdf
+
+# [Books]
+
 # [Blogs]
 
 # [Papers]
