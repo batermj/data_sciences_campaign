@@ -108,7 +108,7 @@ Transformers
 + Pre-Trained Image Processing Transformer (IPT),https://github.com/huawei-noah/Pretrained-IPT
 + [***Facebook***] Anticipative Video Transformer: Improving AI’s ability to predict what’s next in a video, https://ai.facebook.com/blog/anticipative-video-transformer-improving-ais-ability-to-predict-whats-next-in-a-video
 + The Sensory Neuron as a Transformer: Permutation-Invariant Neural Networks for Reinforcement Learning, https://attentionneuron.github.io
-+ 
+
 
 ## [Papers- Object Detection]
 + [***DETR (DEtection TRansformer)***][***Facebook***] End-to-End Object Detection with Transformers, https://arxiv.org/abs/2005.12872, Codes: https://github.com/facebookresearch/detr
@@ -130,6 +130,10 @@ Transformers
 
 ## [Papers- Image Classification]
 + [***CrossViT***] [***IBM***] CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification, https://arxiv.org/abs/2103.14899, Codes: https://github.com/IBM/CrossViT
+
+## [Papers- Video-Language]
++ VIOLET : End-to-End Video-Language Transformers with Masked Visual-token Modeling, https://arxiv.org/abs/2111.12681
++ 
 
 ## [Papers- NLP]
 * Fastformer: Additive Attention is All You Need,https://arxiv.org/abs/2108.09084
