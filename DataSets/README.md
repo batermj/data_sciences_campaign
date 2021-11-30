@@ -425,6 +425,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Stackexchange: Opendata](http://opendata.stackexchange.com/)
 *   [Stanford NLP group](http://www-nlp.stanford.edu/links/statnlp.html) (mainly annotated corpora and TreeBanks or actual NLP tools)
 *   [Yahoo! Webscope](http://webscope.sandbox.yahoo.com/) (also includes papers that use the data that is provided)
+*   Cooperative Driving Dataset (CODD), https://github.com/eduardohenriquearnold/CODD
+*   
 
 
 ## References of Awesome Text Datasets
