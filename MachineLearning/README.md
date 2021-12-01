@@ -12,11 +12,12 @@
 + 
 
 
-## [Blogs]
+# [Blogs]
 + A Complete Machine Learning Project From Scratch: Setting Up, https://www.mihaileric.com/posts/setting-up-a-machine-learning-project/
++ Machine-learning system accelerates discovery of new materials for 3D printing, https://phys.org/news/2021-10-machine-learning-discovery-materials-3d.html
 + 
 
-## References of Awesome esources for Machine Learning
+# References of Awesome esources for Machine Learning
 + <TBC>
 
   
