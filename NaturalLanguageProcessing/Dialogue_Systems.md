@@ -6,6 +6,12 @@ Dialogue Systems
 + AAAI2021中的Dialogue, https://zhuanlan.zhihu.com/p/391396987
 + 
 
+# [Datasets]
+
+# [Datasets- Medical]
++ MedDG: A Large-scale Medical Consultation Dataset for Building Medical Dialogue System, https://arxiv.org/abs/2010.07497, https://github.com/lwgkzl/MedDG, 
++ 
+
 # [Papers]
 + Anticipating Safety Issues in E2E Conversational AI: Framework and Tooling, https://arxiv.org/abs/2107.03451
 + Reasoning Visual Dialogs with Structural and Partial Observations, https://arxiv.org/abs/1904.05548
