@@ -3,7 +3,7 @@ Transformers on NLP
 # [Blogs]
 
 # [Papers]
-+ Trankit: A Light-Weight Transformer-based Toolkit for Multilingual Natural Language Processing, https://arxiv.org/abs/2101.03289
+* Trankit: A Light-Weight Transformer-based Toolkit for Multilingual Natural Language Processing, https://arxiv.org/abs/2101.03289
 * Fastformer: Additive Attention is All You Need,https://arxiv.org/abs/2108.09084
 * Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text  Models, https://arxiv.org/abs/2108.08877
 * [Attention Is All You Need - arXiv 2017)](https://arxiv.org/abs/1706.03762)  
