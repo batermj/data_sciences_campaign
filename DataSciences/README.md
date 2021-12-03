@@ -12,3 +12,7 @@ Data Sciences
 
 
 # [Codes]
+
+# [Tools]
++ Data Science Tools study guides for MIT's 15.003, https://github.com/shervinea/mit-15-003-data-science-tools
+
