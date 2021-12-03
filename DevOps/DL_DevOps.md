@@ -62,6 +62,8 @@ python collect_env.py
 ## [Cluster Manager- Ganglia]
  
 ## [Cluster Manager- NVIDIA DCGM]
++ GPU CLUSTER MANAGEMENT & MONITORING, https://www.brightcomputing.com/nvidia-gpu-cluster-management-and-monitoring
++ 
  
 ## [Cluster Manager- IBM Spectrum LSF]
  
