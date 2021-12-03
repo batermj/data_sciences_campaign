@@ -17,6 +17,7 @@ Generative Adversarial (Neural) Networks
 + Ian Goodfellow 生成对抗网络（GAN）论文解析, https://blog.csdn.net/heyc861221/article/details/80129016
 + Generative Adversarial Nets, https://dzone.com/articles/generative-adversarial-nets-adit-deshpande-cs-unde
 + Alias-Free Generative Adversarial Networks (StyleGAN3), https://nvlabs.github.io/stylegan3/
++ Skilful precipitation nowcasting using deep generative models of radar, https://www.nature.com/articles/s41586-021-03854-z
 + 
 
 # [Papers]
