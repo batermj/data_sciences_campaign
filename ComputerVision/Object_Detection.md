@@ -33,6 +33,7 @@ Object Detection
 + Active Learning for Deep Object Detection via Probabilistic Modeling, https://arxiv.org/abs/2103.16130
 + MMDetection is an open source object detection toolbox based on PyTorch. It is a part of the OpenMMLab project, https://paperswithcode.com/lib/mmdetection
 + Pix2seq: A Language Modeling Framework for Object Detection, https://arxiv.org/abs/2109.10852?utm_source=pocket_mylist
++ FCOS: Fully Convolutional One-Stage Object Detection, https://arxiv.org/abs/1904.01355
 + 
 
 ## [Transformer- Papers]
