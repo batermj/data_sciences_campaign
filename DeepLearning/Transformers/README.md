@@ -108,6 +108,8 @@ Transformers
 + Pre-Trained Image Processing Transformer (IPT),https://github.com/huawei-noah/Pretrained-IPT
 + [***Facebook***] Anticipative Video Transformer: Improving AI’s ability to predict what’s next in a video, https://ai.facebook.com/blog/anticipative-video-transformer-improving-ais-ability-to-predict-whats-next-in-a-video
 + The Sensory Neuron as a Transformer: Permutation-Invariant Neural Networks for Reinforcement Learning, https://attentionneuron.github.io
++ NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion, https://arxiv.org/abs/2111.12417
++ 
 
 
 ## [Papers- Object Detection]
