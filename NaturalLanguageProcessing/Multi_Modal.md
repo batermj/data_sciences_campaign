@@ -28,6 +28,7 @@ Multi-modal
 * [Understanding Semantics from Speech Through Pre-training](https://arxiv.org/abs/1909.10924)
 * [Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models](https://arxiv.org/abs/1906.07307) 
 * Multitask Prompted Training Enables Zero-Shot Task Generalization, https://arxiv.org/abs/2110.08207
+* MURAL: Multimodal, Multitask Retrieval Across Languages, https://arxiv.org/pdf/2109.05125.pdf
 * 
 
 ## [Papers- Survey]
