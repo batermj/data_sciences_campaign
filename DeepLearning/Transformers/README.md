@@ -58,6 +58,7 @@ Transformers
 + Google Research Introduces ‘SCENIC’: An Open-Source JAX Library For Computer Vision Research, https://www.marktechpost.com/2021/10/30/google-research-introduces-scenic-an-open-source-jax-library-for-computer-vision-research/
 + Paper Review: Swin Transformer V2 Scaling Up Capacity and Resolution, https://andlukyane.com/blog/paper-review-swin-v2
 + Transformers from Scratch, https://e2eml.school/transformers.html
++ The Researchers Propose a Family of Next Generation Transformer Models That Use Sparse Layers to Scale Efficiently and Perform Unbatched Decoding Much Faster than the Standard Type, https://www.marktechpost.com/2021/12/09/the-researchers-propose-a-family-of-next-generation-transformer-models-that-use-sparse-layers-to-scale-efficiently-and-perform-unbatched-decoding-much-faster-than-the-standard-type/
 + 
 
 # [Papers]
