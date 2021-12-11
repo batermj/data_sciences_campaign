@@ -24,6 +24,10 @@ NER命名体识别
 + connected papers, https://www.connectedpapers.com/main/7066df8fd89cca546d1ef3d66679cb15eba48d50/FLAT:-Chinese-NER-Using-Flat%20Lattice-Transformer/graph
 + FLAT: Chinese NER Using Flat-Lattice Transformer, https://arxiv.org/abs/2004.11795
 + END-TO-END NAMED ENTITY RECOGNITION AND RELATION EXTRACTION USING PRE-TRAINED LANGUAGE MODELS, https://arxiv.org/abs/1912.13415
+
+
+## [Papers- BERT]
++ BERT-BiLSTM-CRF-NER, https://github.com/macanv/BERT-BiLSTM-CRF-NER
 + 
 
 
