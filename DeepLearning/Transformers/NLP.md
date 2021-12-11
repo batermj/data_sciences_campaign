@@ -31,6 +31,7 @@ Transformers on NLP
 * Adaptively Sparse Transformers, https://arxiv.org/abs/1909.00015
 * AMMUS : A Survey of Transformer-based Pretrained Models in Natural Language Processing, https://arxiv.org/abs/2108.05542
 * FLAT: Chinese NER Using Flat-Lattice Transformer, https://arxiv.org/abs/2004.11795
+* Sentence Transformers: Multilingual Sentence, Paragraph, and Image Embeddings using BERT & Co., https://github.com/UKPLab/sentence-transformers
 * 
 
 ## [Papers- Machine Translation]
