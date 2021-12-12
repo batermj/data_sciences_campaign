@@ -72,23 +72,15 @@ AD:  a repository for graph convolutional networks at https://github.com/Jiakui/
 ![](https://img.shields.io/github/stars/Rshcaroline/BERT_Pytorch_fastNLP.svg)
 + [nghuyong/ERNIE-Pytorch](https://github.com/nghuyong/ERNIE-Pytorch), ERNIE Pytorch Version,
 ![](https://img.shields.io/github/stars/nghuyong/ERNIE-Pytorch.svg)
-
-
-2. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT),   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models,
++ [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT),   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models,
 ![](https://img.shields.io/github/stars/huggingface/pytorch-pretrained-BERT.svg)
-
-
-3. [dmlc/gluon-nlp](https://github.com/dmlc/gluon-nlp), Gluon + MXNet implementation that reproduces BERT pretraining and finetuning on GLUE benchmark, SQuAD, etc,
++ [dmlc/gluon-nlp](https://github.com/dmlc/gluon-nlp), Gluon + MXNet implementation that reproduces BERT pretraining and finetuning on GLUE benchmark, SQuAD, etc,
 ![](https://img.shields.io/github/stars/dmlc/gluon-nlp.svg)
-
-4. [dbiir/UER-py](https://github.com/dbiir/UER-py),  UER-py is a toolkit for pre-training on general-domain corpus and fine-tuning on downstream task. UER-py maintains model modularity and supports research extensibility. It facilitates the use of different pre-training models (e.g. BERT), and provides interfaces for users to further extend upon.  
++ [dbiir/UER-py](https://github.com/dbiir/UER-py),  UER-py is a toolkit for pre-training on general-domain corpus and fine-tuning on downstream task. UER-py maintains model modularity and supports research extensibility. It facilitates the use of different pre-training models (e.g. BERT), and provides interfaces for users to further extend upon.  
 ![](https://img.shields.io/github/stars/dbiir/UER-py.svg)
-
-
-5. [BrikerMan/Kashgari](https://github.com/BrikerMan/Kashgari), Simple, Keras-powered multilingual NLP framework, allows you to build your models in 5 minutes for named entity recognition (NER), part-of-speech tagging (PoS) and text classification tasks. Includes BERT, GPT-2 and word2vec embedding. 
++ [BrikerMan/Kashgari](https://github.com/BrikerMan/Kashgari), Simple, Keras-powered multilingual NLP framework, allows you to build your models in 5 minutes for named entity recognition (NER), part-of-speech tagging (PoS) and text classification tasks. Includes BERT, GPT-2 and word2vec embedding. 
 ![](https://img.shields.io/github/stars/BrikerMan/Kashgari.svg)
-
-6. [kaushaltrivedi/fast-bert](https://github.com/kaushaltrivedi/fast-bert), Super easy library for BERT based NLP models, 
++ [kaushaltrivedi/fast-bert](https://github.com/kaushaltrivedi/fast-bert), Super easy library for BERT based NLP models, 
 ![](https://img.shields.io/github/stars/kaushaltrivedi/fast-bert.svg)
 
 
