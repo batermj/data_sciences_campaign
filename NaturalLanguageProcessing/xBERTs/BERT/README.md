@@ -33,7 +33,10 @@ AD:  a repository for graph convolutional networks at https://github.com/Jiakui/
 # [Codes]
 
 ## [Codes- Tensorflow]
-+ BERT, https://github.com/google-research/bert
++ ## official implement:
+
++ [google-research/bert](https://github.com/google-research/bert),  **officical** TensorFlow code and pre-trained models for BERT ,
+![](https://img.shields.io/github/stars/google-research/bert.svg)
 + bert-as-service, https://github.com/hanxiao/bert-as-service
 + NVIDIA Deep Learning Examples for Tensor Cores, https://github.com/NVIDIA/DeepLearningExamples
 
@@ -82,11 +85,6 @@ AD:  a repository for graph convolutional networks at https://github.com/Jiakui/
 
 
 # Github Repositories: 
-
-## official implement:
-
-1.  [google-research/bert](https://github.com/google-research/bert),  **officical** TensorFlow code and pre-trained models for BERT ,
-![](https://img.shields.io/github/stars/google-research/bert.svg)
 
 
 ## implement of BERT besides tensorflow: 
