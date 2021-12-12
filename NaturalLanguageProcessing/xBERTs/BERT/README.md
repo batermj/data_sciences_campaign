@@ -33,22 +33,46 @@ AD:  a repository for graph convolutional networks at https://github.com/Jiakui/
 # [Codes]
 
 ## [Codes- Tensorflow]
-+ ## official implement:
-
 + [google-research/bert](https://github.com/google-research/bert),  **officical** TensorFlow code and pre-trained models for BERT ,
 ![](https://img.shields.io/github/stars/google-research/bert.svg)
 + bert-as-service, https://github.com/hanxiao/bert-as-service
 + NVIDIA Deep Learning Examples for Tensor Cores, https://github.com/NVIDIA/DeepLearningExamples
++ [guotong1988/BERT-tensorflow](https://github.com/guotong1988/BERT-tensorflow), BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+![](https://img.shields.io/github/stars/guotong1988/BERT-tensorflow.svg)
 
 ## [Codes- Keras]
 + Keras BERT, https://github.com/CyberZHG/keras-bert
 + bert4keras, https://github.com/bojone/bert4keras
++ [kpot/keras-transformer](https://github.com/kpot/keras-transformer), Keras library for building (Universal) Transformers, facilitating BERT and GPT models,
+![](https://img.shields.io/github/stars/kpot/keras-transformer.svg)
++ [conda-forge/pytorch-pretrained-bert-feedstock](https://github.com/conda-forge/pytorch-pretrained-bert-feedstock), A conda-smithy repository for pytorch-pretrained-bert
++ [Separius/BERT-keras](https://github.com/Separius/BERT-keras), Keras implementation of BERT with pre-trained weights, 
+![](https://img.shields.io/github/stars/Separius/BERT-keras.svg)
++ [CyberZHG/keras-bert](https://github.com/CyberZHG/keras-bert), Implementation of BERT that could load official pre-trained models for feature extraction and prediction
+![](https://img.shields.io/github/stars/CyberZHG/keras-bert.svg)
 
 ## [Codes- PyTorch]
 + BERT-pytorch, https://github.com/codertimo/BERT-pytorch
 + BertSum This code is for paper Fine-tune BERT for Extractive Summarization, https://github.com/nlpyang/BertSum
-1. [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch),   Google AI 2018 BERT pytorch implementation,
++ [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch),   Google AI 2018 BERT pytorch implementation,
 ![](https://img.shields.io/github/stars/codertimo/BERT-pytorch.svg)
++ [soskek/bert-chainer](https://github.com/soskek/bert-chainer),  Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+![](https://img.shields.io/github/stars/soskek/bert-chainer.svg)
++ [innodatalabs/tbert](https://github.com/innodatalabs/tbert), PyTorch port of BERT ML model
+![](https://img.shields.io/github/stars/innodatalabs/tbert.svg)
++ [dreamgonfly/BERT-pytorch](https://github.com/dreamgonfly/BERT-pytorch), PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" 
+![](https://img.shields.io/github/stars/dreamgonfly/BERT-pytorch.svg)
++ [soskek/bert-chainer](https://github.com/soskek/bert-chainer), Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+![](https://img.shields.io/github/stars/soskek/bert-chainer.svg)
++ [MaZhiyuanBUAA/bert-tf1.4.0](https://github.com/MaZhiyuanBUAA/bert-tf1.4.0), bert-tf1.4.0
+![](https://img.shields.io/github/stars/MaZhiyuanBUAA/bert-tf1.4.0.svg)
++ [dhlee347/pytorchic-bert](https://github.com/dhlee347/pytorchic-bert), Pytorch Implementation of Google BERT,
+![](https://img.shields.io/github/stars/dhlee347/pytorchic-bert.svg)
++ [Rshcaroline/BERT_Pytorch_fastNLP](https://github.com/Rshcaroline/BERT_Pytorch_fastNLP), A PyTorch & fastNLP implementation of Google AI's BERT model.
+![](https://img.shields.io/github/stars/Rshcaroline/BERT_Pytorch_fastNLP.svg)
++ [nghuyong/ERNIE-Pytorch](https://github.com/nghuyong/ERNIE-Pytorch), ERNIE Pytorch Version,
+![](https://img.shields.io/github/stars/nghuyong/ERNIE-Pytorch.svg)
+
 
 2. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT),   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models,
 ![](https://img.shields.io/github/stars/huggingface/pytorch-pretrained-BERT.svg)
@@ -68,11 +92,6 @@ AD:  a repository for graph convolutional networks at https://github.com/Jiakui/
 ![](https://img.shields.io/github/stars/kaushaltrivedi/fast-bert.svg)
 
 
-<details>
-
-<summary><b> Click to see more </b></summary>
-
-
 ## [Codes- Visualization]
 + BertViz BertViz is a tool for visualizing attention in the Transformer model, supporting most models from the transformers library (BERT, GPT-2, XLNet, RoBERTa, XLM, CTRL, BART, etc.). It extends the Tensor2Tensor visualization tool by Llion Jones and the transformers library from HuggingFace., https://github.com/jessevig/bertviz
 + 
@@ -80,67 +99,6 @@ AD:  a repository for graph convolutional networks at https://github.com/Jiakui/
 ## [Codes- Chinese]
 + Chinese-BERT-wwm, https://github.com/ymcui/Chinese-BERT-wwm
 + 
-
-
-
-
-# Github Repositories: 
-
-
-## implement of BERT besides tensorflow: 
-
-
- 
-<summary><b> Click to see more </b></summary>
-
-
-7. [Separius/BERT-keras](https://github.com/Separius/BERT-keras), Keras implementation of BERT with pre-trained weights, 
-![](https://img.shields.io/github/stars/Separius/BERT-keras.svg)
-
-8. [soskek/bert-chainer](https://github.com/soskek/bert-chainer),  Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
-![](https://img.shields.io/github/stars/soskek/bert-chainer.svg)
-
-9. [innodatalabs/tbert](https://github.com/innodatalabs/tbert), PyTorch port of BERT ML model
-![](https://img.shields.io/github/stars/innodatalabs/tbert.svg)
-
-10. [guotong1988/BERT-tensorflow](https://github.com/guotong1988/BERT-tensorflow), BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
-![](https://img.shields.io/github/stars/guotong1988/BERT-tensorflow.svg)
-
-11. [dreamgonfly/BERT-pytorch](https://github.com/dreamgonfly/BERT-pytorch), 
-PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" 
-![](https://img.shields.io/github/stars/dreamgonfly/BERT-pytorch.svg)
-
-12. [CyberZHG/keras-bert](https://github.com/CyberZHG/keras-bert), Implementation of BERT that could load official pre-trained models for feature extraction and prediction
-![](https://img.shields.io/github/stars/CyberZHG/keras-bert.svg)
-
-13. [soskek/bert-chainer](https://github.com/soskek/bert-chainer), Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
-![](https://img.shields.io/github/stars/soskek/bert-chainer.svg)
-
-14. [MaZhiyuanBUAA/bert-tf1.4.0](https://github.com/MaZhiyuanBUAA/bert-tf1.4.0), bert-tf1.4.0
-![](https://img.shields.io/github/stars/MaZhiyuanBUAA/bert-tf1.4.0.svg)
-
-15. [dhlee347/pytorchic-bert](https://github.com/dhlee347/pytorchic-bert), Pytorch Implementation of Google BERT,
-![](https://img.shields.io/github/stars/dhlee347/pytorchic-bert.svg)
-
-16. [kpot/keras-transformer](https://github.com/kpot/keras-transformer), Keras library for building (Universal) Transformers, facilitating BERT and GPT models,
-![](https://img.shields.io/github/stars/kpot/keras-transformer.svg)
-
-17. [miroozyx/BERT_with_keras](https://github.com/miroozyx/BERT_with_keras), A Keras version of Google's BERT model,
-![](https://img.shields.io/github/stars/miroozyx/BERT_with_keras.svg)
-
-18. [conda-forge/pytorch-pretrained-bert-feedstock](https://github.com/conda-forge/pytorch-pretrained-bert-feedstock), A conda-smithy repository for pytorch-pretrained-bert. ,
-![](https://img.shields.io/github/stars/conda-forge/pytorch-pretrained-bert-feedstock.svg)
-
-
-19. [Rshcaroline/BERT_Pytorch_fastNLP](https://github.com/Rshcaroline/BERT_Pytorch_fastNLP), A PyTorch & fastNLP implementation of Google AI's BERT model.
-![](https://img.shields.io/github/stars/Rshcaroline/BERT_Pytorch_fastNLP.svg)
-
-20. [nghuyong/ERNIE-Pytorch](https://github.com/nghuyong/ERNIE-Pytorch), ERNIE Pytorch Version,
-![](https://img.shields.io/github/stars/nghuyong/ERNIE-Pytorch.svg)
-
-</details>
-
-
 
 ##  Pretrained BERT weights: 
 1. [brightmart/roberta_zh](https://github.com/brightmart/roberta_zh), RoBERTa for Chinese, 中文预训练RoBERTa模型, 
