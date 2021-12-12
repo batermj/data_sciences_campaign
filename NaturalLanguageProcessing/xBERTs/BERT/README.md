@@ -54,7 +54,6 @@ AD:  a repository for graph convolutional networks at https://github.com/Jiakui/
 ![](https://img.shields.io/github/stars/huggingface/pytorch-pretrained-BERT.svg)
 
 
-
 3. [dmlc/gluon-nlp](https://github.com/dmlc/gluon-nlp), Gluon + MXNet implementation that reproduces BERT pretraining and finetuning on GLUE benchmark, SQuAD, etc,
 ![](https://img.shields.io/github/stars/dmlc/gluon-nlp.svg)
 
@@ -71,6 +70,7 @@ AD:  a repository for graph convolutional networks at https://github.com/Jiakui/
 
 <details>
 
+<summary><b> Click to see more </b></summary>
 
 
 ## [Codes- Visualization]
