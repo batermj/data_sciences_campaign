@@ -1,6 +1,8 @@
 Question Answering
 
 # [Blogs]
++ Understanding Neural Search in 2021, https://medium.com/deepset-ai/understanding-neural-search-in-2021-d8d67e84b3a6
++ 
 
 # [Papers]
 * [Language Models are Unsupervised Multitask Learners - Alec Radford(2019)](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)  
