@@ -28,6 +28,7 @@ Generation
 * [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)  
 * [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)  
 * [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)  
+* How much do language models copy from their training data? Evaluating linguistic novelty in text generation using RAVEN, https://arxiv.org/abs/2111.09509
 
 ## [Papers- Survey]
 
