@@ -8,11 +8,7 @@
 | 序号 | 课程编号 | 课程版本 | 课程名称 | 课时 | 收费标准 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 21 | ds01300001 | v1.0 | 算法实战培训课程 | 36小时 | 待定 |
-| 22 | ds01300002 | v1.0 | Computer Graphics Algorithms 计算机图形学算法 | 36小时 | 待定 |
-| 23 | ds01300003 | v1.0 | Algorithms for Signal Processing  信号处理算法 | 36小时 | 待定 |
-| 24 | ds01300004 | v1.0 | Algorithms for Image Processing  图像处理算法 | 36小时 | 待定 |
-| 25 | ds01300005 | v1.0 | Data Compression Algorithm  数据压缩算法 | 36小时 | 待定 |
-| 26 | ds01300006 | v1.0 | Algorithms for Applied Cryptography and Security  安全与密码算法 | 36小时 | 待定 |
+
 
 ## The Portal for Algorithms
 
@@ -22,6 +18,112 @@
 + Libraries
 + Papers
 + Book
+
+## Test of Programming
+Each SOTAs algorithms should be implemented with all of following programming languages
+| NO. | Programming Languages | Version | 
+| :---: | :---: | :---: |
+| 1 | Python | N/A | 
+| 1 | C | N/A | 
+| 1 | Java | N/A | 
+| 1 | C++ | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+| 1 | Assembly | N/A | 
+
 
 ## References of Awesome esources for Algorithms
 + <TBC>
