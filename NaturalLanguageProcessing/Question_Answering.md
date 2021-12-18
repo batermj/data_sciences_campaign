@@ -10,6 +10,7 @@ Question Answering
 * [Bidirectional Attention Flow for Machine Comprehension - Minjoon Seo(2018)](https://arxiv.org/pdf/1611.01603.pdf) 
 * [Reinforced Mnemonic Reader for Machine Reading Comprehension - Minghao Hu(2017)](https://arxiv.org/pdf/1705.02798.pdf)  
 * [Neural Variational Inference for Text Processing - Yishu Miao(2015)](https://arxiv.org/pdf/1511.06038.pdf)  
+* [Microsoft] Human Parity on CommonsenseQA: Augmenting Self-Attention with External Attention, https://arxiv.org/abs/2112.03254
 
 ## [Papers- Survey]
 
