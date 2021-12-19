@@ -14,9 +14,11 @@ Object Detection
 # [Blogs]
 + Everything You Need To Know About Torchvision’s SSD Implementation, https://pytorch.org/blog/torchvision-ssd-implementation/
 + Detectron2 is FAIR's next-generation platform for object detection and segmentation., https://ai.facebook.com/tools/detectron2/
++ 爆火的 Swin Transformer 到底做对了什么, https://zhuanlan.zhihu.com/p/362672090
 + 
 
 # [Papers]
++ Swin Transformer: Hierarchical Vision Transformer using Shifted Windows, https://arxiv.org/abs/2103.14030
 + Pelee: A Real-Time Object Detection System on Mobile Devices, https://arxiv.org/abs/1804.06882; Codes: https://github.com/GZQ0723/PeleeNet
 + MobileNet
 + ShuffleNet
