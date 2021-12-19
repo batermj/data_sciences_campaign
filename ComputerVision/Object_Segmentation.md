@@ -10,7 +10,9 @@ Image/Object Segmentation
 
 # [Papers]
 + U-Net: Convolutional Networks for Biomedical Image Segmentation 
++ Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, https://arxiv.org/abs/2012.15840
 + 
+
 
 ## [Papers- Medical]
 + MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning, https://arxiv.org/abs/2104.12166
