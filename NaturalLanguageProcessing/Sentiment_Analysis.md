@@ -2,9 +2,11 @@ Sentiment Analysis
 
 # [Blogs]
 + GPU-accelerated Sentiment Analysis Using Pytorch and Huggingface on Databricks, https://databricks.com/blog/2021/10/28/gpu-accelerated-sentiment-analysis-using-pytorch-and-huggingface-on-databricks.html?utm_source=bambu&utm_medium=social&utm_campaign=advocacy&blaid=2319355
++ 爆火的 Swin Transformer 到底做对了什么, https://zhuanlan.zhihu.com/p/362672090
 + 
 
 # [Papers]
+* Swin Transformer: Hierarchical Vision Transformer using Shifted Windows, https://arxiv.org/abs/2103.14030
 * [Multi-Task Deep Neural Networks for Natural Language Understanding - Xiaodong Liu(2019)](https://arxiv.org/pdf/1901.11504.pdf)  
 * [Aspect-level Sentiment Analysis using AS-Capsules - Yequan Wang(2019)](http://coai.cs.tsinghua.edu.cn/hml/media/files/WWW19WangY.pdf) 
 * [On the Role of Text Preprocessing in Neural Network Architectures:
