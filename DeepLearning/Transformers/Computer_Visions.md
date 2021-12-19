@@ -65,6 +65,9 @@ Computer Vision
 + VIOLET : End-to-End Video-Language Transformers with Masked Visual-token Modeling, https://arxiv.org/abs/2111.12681
 + 
 
+## [Papers- Human Pose]
++ End-to-End Human Pose and Mesh Reconstruction with Transformers, https://arxiv.org/abs/2012.09760
++ 
 
 ## [Papers- GANs]
 + Self-Attention Generative Adversarial Networks, https://arxiv.org/abs/1805.08318
