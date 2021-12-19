@@ -15,6 +15,8 @@ Object Detection
 + Everything You Need To Know About Torchvision’s SSD Implementation, https://pytorch.org/blog/torchvision-ssd-implementation/
 + Detectron2 is FAIR's next-generation platform for object detection and segmentation., https://ai.facebook.com/tools/detectron2/
 + 爆火的 Swin Transformer 到底做对了什么, https://zhuanlan.zhihu.com/p/362672090
++ CV+Transformer之Swin Transformer, https://zhuanlan.zhihu.com/p/361366090
++ MSRA的Transformer跨界超越CNN，还解决了计算复杂度难题, https://zhuanlan.zhihu.com/p/361009162
 + 
 
 # [Papers]
