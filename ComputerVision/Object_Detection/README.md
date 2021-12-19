@@ -45,6 +45,7 @@ Object Detection
 # [Codes]
 + Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computatio, https://github.com/pjreddie/darknet
 + Active Learning for Deep Object Detection via Probabilistic Modeling, https://github.com/NVlabs/AL-MDN
++ Swin Transformer, https://github.com/microsoft/Swin-Transformer
 + 
 
 # [Codes- SOTAs]
