@@ -49,6 +49,8 @@ Computer Vision
 + 
 
 ## [Papers- Image Segmentation]
++ Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, https://arxiv.org/abs/2012.15840
++ 
 
 ### [Papers- Medical Image Segmentation]
 + TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation, https://arxiv.org/abs/2102.04306
