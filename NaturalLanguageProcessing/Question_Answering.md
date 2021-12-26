@@ -11,6 +11,8 @@ Question Answering
 * [Reinforced Mnemonic Reader for Machine Reading Comprehension - Minghao Hu(2017)](https://arxiv.org/pdf/1705.02798.pdf)  
 * [Neural Variational Inference for Text Processing - Yishu Miao(2015)](https://arxiv.org/pdf/1511.06038.pdf)  
 * [Microsoft] Human Parity on CommonsenseQA: Augmenting Self-Attention with External Attention, https://arxiv.org/abs/2112.03254
+* Retrieve, Read, Rerank: Towards End-to-End Multi-Document Reading Comprehension, https://arxiv.org/abs/1906.04618
+* 
 
 ## [Papers- Survey]
 
