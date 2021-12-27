@@ -15,6 +15,7 @@ Style Manipulation
 
 ## [Papers- Style Transfer]
 + Son of Zorn's Lemma: Targeted Style Transfer Using Instance-aware Semantic Segmentation, https://arxiv.org/abs/1701.02357
++ Text2Mesh: Text-Driven Neural Stylization for Meshes, https://arxiv.org/pdf/2112.03221.pdf
 + 
 
 ## [Papers- 3D]
@@ -44,6 +45,7 @@ Style Manipulation
 + PyTorch 实现风格迁移 (style transfer), https://www.pytorchtutorial.com/pytorch-style-transfer/
 + NEURAL TRANSFER USING PYTORCH, https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
 + A Neural Algorithm of Artistic Style, https://arxiv.org/abs/1508.06576
++ Text2Mesh, https://github.com/threedle/text2mesh
 + 
 
 
