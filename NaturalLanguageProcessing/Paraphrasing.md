@@ -16,5 +16,9 @@ Paraphrase or Paraphrasing
 
 ## [Papers- Survey]
 
+## [Papers- Reinforcement Learning]
++ An Empirical Comparison on Imitation Learning and Reinforcement Learning for Paraphrase Generation, https://arxiv.org/abs/1908.10835
+
+
 # [Codes]
 
