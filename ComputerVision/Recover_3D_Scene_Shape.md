@@ -1,6 +1,8 @@
 Recover 3D Scene Shape
 
 # [Blogs]
++ Technique enables real-time rendering of scenes in 3D, https://news.mit.edu/2021/3-d-image-rendering-1207
++ 
 
 
 # [Papers]
