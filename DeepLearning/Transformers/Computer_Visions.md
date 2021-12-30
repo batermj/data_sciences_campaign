@@ -1,7 +1,8 @@
 Computer Vision
 
 # [Blogs]
-
++ MSRA的Transformer跨界超越CNN，还解决了计算复杂度难题, https://zhuanlan.zhihu.com/p/361009162
++ 
 
 # [Papers- Computer Vision]
 + Vision Transformer with Progressive Sampling, https://arxiv.org/abs/2108.01684
