@@ -17,6 +17,7 @@ Object Detection
 + 爆火的 Swin Transformer 到底做对了什么, https://zhuanlan.zhihu.com/p/362672090
 + CV+Transformer之Swin Transformer, https://zhuanlan.zhihu.com/p/361366090
 + MSRA的Transformer跨界超越CNN，还解决了计算复杂度难题, https://zhuanlan.zhihu.com/p/361009162
++ Train Your Own YoloV5 Object Detection Model, https://www.analyticsvidhya.com/blog/2021/08/train-your-own-yolov5-object-detection-model/
 + 
 
 # [Papers]
