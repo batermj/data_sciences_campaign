@@ -18,6 +18,7 @@ Object Detection
 + CV+Transformer之Swin Transformer, https://zhuanlan.zhihu.com/p/361366090
 + MSRA的Transformer跨界超越CNN，还解决了计算复杂度难题, https://zhuanlan.zhihu.com/p/361009162
 + Train Your Own YoloV5 Object Detection Model, https://www.analyticsvidhya.com/blog/2021/08/train-your-own-yolov5-object-detection-model/
++ Microsoft Asia’s Swin Transformer V2 Scales the Award-Winning ViT to 3 Billion Parameters and Achieves SOTA Performance on Vision Benchmarks, https://medium.com/syncedreview/microsoft-asias-swin-transformer-v2-scales-the-award-winning-vit-to-3-billion-parameters-and-e798d5aa022
 + 
 
 # [Papers]
