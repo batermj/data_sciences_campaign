@@ -22,7 +22,9 @@ Object Detection
 + 
 
 # [Papers]
-+ Swin Transformer: Hierarchical Vision Transformer using Shifted Windows, https://arxiv.org/abs/2103.14030
++ [Microsoft] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows, https://arxiv.org/abs/2103.14030
++ [Microsoft] Swin Transformer V2: Scaling Up Capacity and Resolution , https://arxiv.org/abs/2111.09883
++ [Microsoft] Video Swin Transformer ,  https://arxiv.org/abs/2106.13230
 + Pelee: A Real-Time Object Detection System on Mobile Devices, https://arxiv.org/abs/1804.06882; Codes: https://github.com/GZQ0723/PeleeNet
 + MobileNet
 + ShuffleNet
