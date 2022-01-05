@@ -29,6 +29,7 @@ Multi-modal
 * [Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models](https://arxiv.org/abs/1906.07307) 
 * Multitask Prompted Training Enables Zero-Shot Task Generalization, https://arxiv.org/abs/2110.08207
 * MURAL: Multimodal, Multitask Retrieval Across Languages, https://arxiv.org/pdf/2109.05125.pdf
+* FLAVA: A Foundational Language And Vision Alignment Model, https://arxiv.org/abs/2112.04482
 * 
 
 ## [Papers- Survey]
