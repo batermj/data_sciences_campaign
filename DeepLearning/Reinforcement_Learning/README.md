@@ -4,6 +4,12 @@ Reinforcement Learning
 + The Importance of Hyperparameter Optimization for Model-based Reinforcement Learning, https://bair.berkeley.edu/blog/2021/04/19/mbrl/
 + 
 
+# [Books]
++ 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬 𝐨𝐟 𝐑𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐞𝐦𝐞𝐧𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐢𝐧 𝐅𝐢𝐧𝐚𝐧𝐜𝐞 by Ashwin Rao and Tikhon Jelvis, http://stanford.edu/~ashlearn/RLForFinanceBook/book.pdf
++ 
+
+
+
 # [Benchmarks]
 + URLB: Unsupervised Reinforcement Learning Benchmark, https://openreview.net/pdf?id=lwrPkQP_is
 + 
