@@ -7,7 +7,7 @@ Recover 3D Scene Shape & Multi-Object 3D Reconstruction
 
 
 # [Papers]
-+ From Points to Multi-Object 3D Reconstruction, https://francisengelmann.github.io/points2objects/
++ From Points to Multi-Object 3D Reconstruction, https://francisengelmann.github.io/points2objects/, https://arxiv.org/pdf/2012.11575.pdf
 + 
 
 # [Codes]
