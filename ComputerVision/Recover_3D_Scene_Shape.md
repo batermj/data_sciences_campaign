@@ -1,4 +1,5 @@
-Recover 3D Scene Shape
+Recover 3D Scene Shape & Multi-Object 3D Reconstruction
+
 
 # [Blogs]
 + Technique enables real-time rendering of scenes in 3D, https://news.mit.edu/2021/3-d-image-rendering-1207
@@ -6,7 +7,8 @@ Recover 3D Scene Shape
 
 
 # [Papers]
-
++ From Points to Multi-Object 3D Reconstruction, https://francisengelmann.github.io/points2objects/
++ 
 
 # [Codes]
 + AdelaiDepth, https://github.com/aim-uofa/AdelaiDepth
