@@ -1,6 +1,10 @@
-Bayesian Related
+Bayesian Modeling Related
 
 # [Blogs]
+
+# [Books]
++ Bayesian Modeling and Computation in Python, https://bayesiancomputationbook.com/welcome.html
++ 
 
 # [Papers]
 + Practical Bayesian Optimization of Machine Learning Algorithms
