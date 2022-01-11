@@ -57,6 +57,7 @@ Object Detection
 # [Codes- SOTAs]
 + Detectron2, https://github.com/facebookresearch/detectron2
 + MMDetection is an open source object detection toolbox based on PyTorch. It is a part of the OpenMMLab project, https://github.com/open-mmlab/mmdetection
++ SOURCE CODE FOR MMDET.MODELS.BACKBONES.SWIN, https://mmdetection.readthedocs.io/en/latest/_modules/mmdet/models/backbones/swin.html
 + 
 
 
