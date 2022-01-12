@@ -60,6 +60,7 @@ Object Detection
 + SOURCE CODE FOR MMDET.MODELS.BACKBONES.SWIN, https://mmdetection.readthedocs.io/en/latest/_modules/mmdet/models/backbones/swin.html
 + YOLOv5, https://github.com/ultralytics/yolov5
 + Yolo v4, v3 and v2 for Windows and Linux, https://github.com/AlexeyAB/darknet
++ YOLOv4-large, https://github.com/WongKinYiu/ScaledYOLOv4
 + 
 
 
