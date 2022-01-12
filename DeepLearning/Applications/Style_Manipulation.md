@@ -30,6 +30,10 @@ Style Manipulation
 + StylePTB: A Compositional Benchmark for Fine-grained Controllable Text Style Transfer, https://arxiv.org/abs/2104.05196
 + 
 
+## [Papers- Neural Stylization for Meshes]
++ Text2Mesh: Text-Driven Neural Stylization for Meshes, https://threedle.github.io/text2mesh/
+
+
 ## [Papers- GANs]
 + StyleAlign: Analysis and Applications of Aligned StyleGAN Models, https://arxiv.org/abs/2110.11323
 + Alias-Free Generative Adversarial Networks, https://nvlabs-fi-cdn.nvidia.com/stylegan3/stylegan3-paper.pdf
