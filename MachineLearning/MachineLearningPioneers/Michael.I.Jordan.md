@@ -1,6 +1,7 @@
 Machine-Learning Pioneer- Michael I. Jordan
 
 # [Profiles]
++ Michael I. Jordan, https://people.eecs.berkeley.edu/~jordan/
 + Michael Jordan Professor Info Links, https://www2.eecs.berkeley.edu/Faculty/Homepages/jordan.html
 + 
 
