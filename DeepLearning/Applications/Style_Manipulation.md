@@ -31,7 +31,8 @@ Style Manipulation
 + 
 
 ## [Papers- Neural Stylization for Meshes]
-+ Text2Mesh: Text-Driven Neural Stylization for Meshes, https://threedle.github.io/text2mesh/
++ Text2Mesh: Text-Driven Neural Stylization for Meshes, https://threedle.github.io/text2mesh/,  https://arxiv.org/pdf/2112.03221.pdf
++ 
 
 
 ## [Papers- GANs]
