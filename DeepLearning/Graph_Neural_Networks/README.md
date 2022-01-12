@@ -10,6 +10,10 @@ Graph Neural Networks
 + 
 
 
+## [Papers- Link Prediction]
++ Neural Bellman-Ford Networks: A General Graph Neural Network Framework for Link Prediction, https://arxiv.org/abs/2106.06935
++ 
+
 
 # [Codes]
 
