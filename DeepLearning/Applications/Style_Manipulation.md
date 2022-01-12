@@ -5,6 +5,7 @@ Style Manipulation
 ## [Blogs- Articles]
 + Style Transfer | 风格迁移综述, https://zhuanlan.zhihu.com/p/57564626
 + Alias-Free Generative Adversarial Networks (StyleGAN3), https://nvlabs.github.io/stylegan3/
++ Researchers from the University of Chicago and Tel Aviv University Introduce ‘Text2Mesh’: A Novel Framework to Alter both Color and Geometry of 3D Meshes According to a Textual Target, https://www.marktechpost.com/2021/12/25/researchers-from-the-university-of-chicago-and-tel-aviv-university-introduce-text2mesh-a-novel-framework-to-alter-both-color-and-geometry-of-3d-meshes-according-to-a-textual-target/
 + 
 
 ## [Blogs- Videos]
