@@ -58,9 +58,13 @@ Object Detection
 + Detectron2, https://github.com/facebookresearch/detectron2
 + MMDetection is an open source object detection toolbox based on PyTorch. It is a part of the OpenMMLab project, https://github.com/open-mmlab/mmdetection
 + SOURCE CODE FOR MMDET.MODELS.BACKBONES.SWIN, https://mmdetection.readthedocs.io/en/latest/_modules/mmdet/models/backbones/swin.html
+
+
+## [Codes- SOTAs- xYOLO]
 + YOLOv5, https://github.com/ultralytics/yolov5
 + Yolo v4, v3 and v2 for Windows and Linux, https://github.com/AlexeyAB/darknet
 + YOLOv4-large, https://github.com/WongKinYiu/ScaledYOLOv4
++ YOLOR, https://github.com/WongKinYiu/yolor
 + 
 
 
