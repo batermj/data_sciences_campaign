@@ -9,3 +9,7 @@ Pandas
 
 # [Codes]
 
+
+## [Codes- Parallel]
++ Pandaral·lel, https://github.com/nalepae/pandarallel
++ 
