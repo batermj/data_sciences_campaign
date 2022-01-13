@@ -6,6 +6,7 @@ Jacob Eisenstein. Natural Language Processing
 
 
 # [Notes]
-
++ https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes
++ 
 
 # [Codes]
