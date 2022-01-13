@@ -11,6 +11,8 @@ https://paperswithcode.com/sota
 
 
 # [Papers]
++ [ResNet] Deep Residual Learning for Image Recognition, https://arxiv.org/abs/1512.03385
++ 
 
 # [Codes]
 + Yolov5 + Deep Sort with PyTorch, https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch
