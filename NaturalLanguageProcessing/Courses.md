@@ -6,3 +6,11 @@ Courses
 + Deep Natural Language Processing course offered in Hilary Term 2017 at the University of Oxford., https://github.com/oxford-cs-deepnlp-2017/lectures
 + CS224U: Natural Language Understanding | Spring 2021, https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ
 + 
+
+
+# [Books]
++ Speech and Language Processing (3rd ed. draft) Dan Jurafsky and James H. Martin, https://web.stanford.edu/~jurafsky/slp3/
++ 
+
+# [Codes]
+
