@@ -11,6 +11,7 @@ https://paperswithcode.com/sota
 
 
 # [Papers]
++ [ConvNeXts] A ConvNet for the 2020s, https://arxiv.org/abs/2201.03545
 + [ResNet] Deep Residual Learning for Image Recognition, https://arxiv.org/abs/1512.03385
 + 
 
