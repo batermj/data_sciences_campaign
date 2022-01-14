@@ -12,6 +12,7 @@ https://paperswithcode.com/sota
 
 # [Papers]
 + [ConvNeXts] A ConvNet for the 2020s, https://arxiv.org/abs/2201.03545
++ [EfficientNetV2] EfficientNetV2: Smaller Models and Faster Training, https://arxiv.org/pdf/2104.00298.pdf
 + [ResNet] Deep Residual Learning for Image Recognition, https://arxiv.org/abs/1512.03385
 + 
 
