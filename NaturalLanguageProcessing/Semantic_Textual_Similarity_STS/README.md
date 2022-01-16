@@ -27,7 +27,8 @@ Semantic textual similarity (STS)
 + bert Semantic Textual Similarity, https://scholar.google.ae/scholar?q=bert+Semantic+Textual+Similarity&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart
 + IPR: The Semantic Textual Similarity and Recognizing Textual Entailment systems, http://ceur-ws.org/Vol-2583/4_IPR.pdf
 + Semantic Textual Similarity Methods, Tools, and Applications: A Survey, https://www.researchgate.net/publication/313362937_Semantic_Textual_Similarity_Methods_Tools_and_Applications_A_Survey
-+ 
++ Latent Dirichlet Allocation, https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf?TB_iframe=true&width=370.8&height=658.8
+
 + 
 
 ## [Papers- Survey]
