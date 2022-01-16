@@ -2,7 +2,7 @@ Topic Modeling
 
 
 # [Blogs]
-+ 隐含狄利克雷分布, https://zh.wikipedia.org/wiki/隐含狄利克雷分布
++ Latent Dirichlet allocation, https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation
 + Latent Dirichlet allocation, https://www.youtube.com/results?search_query=Latent+Dirichlet+allocation
 
 
