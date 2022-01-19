@@ -12,6 +12,9 @@ Machine-Learning Pioneer- Michael I. Jordan
 
 # [Papers]
 
+## [Papers- Clustering]
++ On Spectral Clustering: Analysis and an algorithm, https://proceedings.neurips.cc/paper/2001/file/801272ee79cfde7fa5960571fee36b9b-Paper.pdf
++ 
 
 # [Codes]
 
