@@ -6,6 +6,8 @@ Dirichlet Process and Distribution
 + 
 
 # [Blogs]
++ LDA 数学笔记, https://yanshengjia.com/2017/12/16/LDA-数学笔记/
++ 浅谈狄利克雷分布——Dirichlet Distribution, https://blog.csdn.net/philthinker/article/details/111999552
 + LDA-math - 认识 Beta/Dirichlet 分布, https://cosx.org/2013/01/lda-math-beta-dirichlet/
 + dirichlet distribution, https://www.youtube.com/results?search_query=dirichlet+distribution
 + 狄利克雷（Peter G. L. Dirichlet）, https://www.zhihu.com/topic/19558917/top-answers
