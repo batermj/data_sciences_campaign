@@ -4,6 +4,7 @@ Probability
 
 # [Courses]
 + 高等概率论 Advanced Probability theory 香港科技大学 荆炳义, https://www.bilibili.com/video/BV1Bt411E7hM/
++ А.Н. Ширяев. Случайность в вероятности, https://www.youtube.com/watch?v=dMGiSmQpijc
 + 
 
 # [Books]
