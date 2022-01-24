@@ -20,6 +20,7 @@ Probability
 # [Exercises]
 + One Thousand Exercises in Probability: Third Edition 3rd Edition by Professor Geoffrey Grimmett (Author), Professor David Stirzaker (Author)
 + Probability and Random Processes with One Thousand Exercises in Probability by Geoffrey Grimmett (Author), David Stirzaker (Author)
++ 概率论习题集, A.H.施利亚耶夫
 + 
 
 # [Papers]
