@@ -10,9 +10,17 @@ Probability
 + A Course in Probability Theory, Third Edition 3rd Edition by Kai Lai Chung 
 + A Course in Probability Theory (Probability and Mathematical Statistics, 21) 2nd Edition, Kindle Edition by Kai Lai Chung
 + Elementary Probability Theory: With Stochastic Processes and an Introduction to Mathematical Finance (Undergraduate Texts in Mathematics) Softcover reprint of hardcover 4th ed. 2003 Edition by Kai Lai Chung, Farid AitSahhlia
++ Probability and Random Processes: Fourth Edition 4th Edition by Geoffrey Grimmett (Author), David Stirzaker (Author)
++ Probability on Graphs: Random Processes on Graphs and Lattices (Institute of Mathematical Statistics Textbooks, 8 Book 0) 2nd Edition, Kindle Edition by Geoffrey Grimmett 
 + 
 
 
+
+
+# [Exercises]
++ One Thousand Exercises in Probability: Third Edition 3rd Edition by Professor Geoffrey Grimmett (Author), Professor David Stirzaker (Author)
++ Probability and Random Processes with One Thousand Exercises in Probability by Geoffrey Grimmett (Author), David Stirzaker (Author)
++ 
 
 # [Papers]
 
