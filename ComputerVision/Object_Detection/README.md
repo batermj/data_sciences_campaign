@@ -44,6 +44,7 @@ Object Detection
 + MMDetection is an open source object detection toolbox based on PyTorch. It is a part of the OpenMMLab project, https://paperswithcode.com/lib/mmdetection
 + Pix2seq: A Language Modeling Framework for Object Detection, https://arxiv.org/abs/2109.10852?utm_source=pocket_mylist
 + FCOS: Fully Convolutional One-Stage Object Detection, https://arxiv.org/abs/1904.01355
++ [Facebook] Detecting Twenty-thousand Classes using Image-level Supervision, https://arxiv.org/abs/2201.02605
 + 
 
 ## [Transformer- Papers]
@@ -54,6 +55,7 @@ Object Detection
 + Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computatio, https://github.com/pjreddie/darknet
 + Active Learning for Deep Object Detection via Probabilistic Modeling, https://github.com/NVlabs/AL-MDN
 + Swin Transformer, https://github.com/microsoft/Swin-Transformer
++ Detecting Twenty-thousand Classes using Image-level Supervision, https://github.com/facebookresearch/Detic
 + 
 
 # [Codes- SOTAs]
