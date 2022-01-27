@@ -88,6 +88,7 @@ Computer Vision
 
 
 # [Codes]
++ OPTIMIZING VISION TRANSFORMER MODEL FOR DEPLOYMENT, https://pytorch.org/tutorials/beginner/vt_tutorial.html
 + Learning to tokenize in Vision Transformers, https://keras.io/examples/vision/token_learner/
 + The fine-tuning code and pre-trained ViT models are available at the GitHub of Google Research. You find them here:  The ViT models were pre-trained on the ImageNet and ImageNet-21k datasets.  Vision Transformer and MLP-Mixer Architectures, https://github.com/google-research/vision_transformer
 + https://github.com/huggingface/transformers
