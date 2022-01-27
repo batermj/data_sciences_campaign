@@ -11,6 +11,9 @@ Computer Vision
 + Vision Transformers: A Review — Part III, https://sertiscorp.medium.com/vision-transformers-a-review-part-iii-cd07d699a504
 + 
 
+# [Papers- Survey]
++ A Survey on Vision Transformer, https://arxiv.org/abs/2012.12556
+
 # [Papers- Computer Vision]
 + Vision Transformer with Progressive Sampling, https://arxiv.org/abs/2108.01684
 + ViTGAN: Training GANs with Vision Transformers, https://arxiv.org/abs/2107.04589
