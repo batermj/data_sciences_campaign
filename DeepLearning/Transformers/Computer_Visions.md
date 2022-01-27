@@ -1,6 +1,7 @@
 Computer Vision
 
 # [Blogs]
++ TUTORIAL 11: VISION TRANSFORMERS, https://pytorch-lightning.readthedocs.io/en/latest/notebooks/course_UvA-DL/11-vision-transformer.html
 + MSRA的Transformer跨界超越CNN，还解决了计算复杂度难题, https://zhuanlan.zhihu.com/p/361009162
 + [Swin Transformer] Hierarchical Vision Transformer using ShiftedWindows, https://liumengyang.xyz/swin-transformer/
 + Vision Transformers (ViT) in Image Recognition – 2022 Guide, https://viso.ai/deep-learning/vision-transformer-vit/
@@ -9,7 +10,6 @@ Computer Vision
 + Vision Transformers: A Review — Part I, https://sertiscorp.medium.com/vision-transformers-a-review-part-i-19153d1f5c3b
 + Vision Transformers: A Review — Part II, https://sertiscorp.medium.com/vision-transformers-a-review-part-ii-a31136cf848d
 + Vision Transformers: A Review — Part III, https://sertiscorp.medium.com/vision-transformers-a-review-part-iii-cd07d699a504
-+ 
 
 # [Papers- Survey]
 + A Survey on Vision Transformer, https://arxiv.org/abs/2012.12556
