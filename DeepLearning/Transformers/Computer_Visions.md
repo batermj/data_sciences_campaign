@@ -37,6 +37,7 @@ Computer Vision
 + The Sensory Neuron as a Transformer: Permutation-Invariant Neural Networks for Reinforcement Learning, https://attentionneuron.github.io
 + NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion, https://arxiv.org/abs/2111.12417
 + PolyViT: Co-training Vision Transformers on Images, Videos and Audio, https://arxiv.org/abs/2111.12993
++ Vision Transformers are Robust Learners, https://arxiv.org/abs/2105.07581
 + 
 
 ## [Papers- Object Detection]
