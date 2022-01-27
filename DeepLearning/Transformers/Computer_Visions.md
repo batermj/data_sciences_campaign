@@ -6,6 +6,8 @@ Computer Vision
 + Vision Transformers (ViT) in Image Recognition – 2022 Guide, https://viso.ai/deep-learning/vision-transformer-vit/
 + Vision Transformer, https://towardsdatascience.com/tagged/vision-transformer
 + Vision Transformer Explained, https://www.youtube.com/watch?v=01KZ4AAZC6k
++ Vision Transformers: A Review — Part I, https://sertiscorp.medium.com/vision-transformers-a-review-part-i-19153d1f5c3b
++ Vision Transformers: A Review — Part II, https://sertiscorp.medium.com/vision-transformers-a-review-part-ii-a31136cf848d
 + Vision Transformers: A Review — Part III, https://sertiscorp.medium.com/vision-transformers-a-review-part-iii-cd07d699a504
 + 
 
