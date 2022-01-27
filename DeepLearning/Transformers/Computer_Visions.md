@@ -3,6 +3,7 @@ Computer Vision
 # [Blogs]
 + MSRA的Transformer跨界超越CNN，还解决了计算复杂度难题, https://zhuanlan.zhihu.com/p/361009162
 + [Swin Transformer] Hierarchical Vision Transformer using ShiftedWindows, https://liumengyang.xyz/swin-transformer/
++ Vision Transformers (ViT) in Image Recognition – 2022 Guide, https://viso.ai/deep-learning/vision-transformer-vit/
 + 
 
 # [Papers- Computer Vision]
