@@ -4,6 +4,7 @@ Transformers on NLP
 
 ## [Blogs- Text Generation]
 + Text Generation with Transformers in Python, https://www.thepythoncode.com/article/text-generation-with-transformers-in-python
++ How to Paraphrase Text using Transformers in Python, https://www.thepythoncode.com/article/paraphrase-text-using-transformers-in-python
 
 
 # [Papers]
