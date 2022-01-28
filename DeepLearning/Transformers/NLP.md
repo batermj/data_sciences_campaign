@@ -43,6 +43,10 @@ Transformers on NLP
 * [The Evolved Transformer - David R. So(2019)](https://arxiv.org/pdf/1901.11117.pdf)  
 
 
+## [Papers- Text Generation]
++ Text Generation with Transformers in Python, https://www.thepythoncode.com/article/text-generation-with-transformers-in-python
++ 
+
 
 # [Codes]
 
