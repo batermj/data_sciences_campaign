@@ -9,6 +9,9 @@ https://paperswithcode.com/sota
 + Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, the World’s Largest and Most Powerful Generative Language Model, https://www.microsoft.com/en-us/research/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/
 + 
 
+## [Blogs- Highlights of the Year]
++ [2021] ML and NLP Research Highlights of 2021, https://ruder.io/ml-highlights-2021/
++ 
 
 # [Papers]
 + Finetuned Language Models Are Zero-Shot Learners, https://arxiv.org/abs/2109.01652
