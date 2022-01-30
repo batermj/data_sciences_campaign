@@ -98,7 +98,8 @@ Transformers
 + BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, https://arxiv.org/abs/1810.04805
 + Thinking Like Transformers, https://arxiv.org/abs/2106.06981
 + FNet: Mixing Tokens with Fourier Transforms, https://arxiv.org/abs/2105.03824
-+
++ Convolutional Xformers for Vision, https://arxiv.org/abs/2201.10271
++ 
 
 ## [Papers- Time Series]
 + Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case, https://arxiv.org/abs/2001.08317
