@@ -2,6 +2,7 @@
 
 In this section, we share the architect views from Omniscient Point of View to Domain Restricted(Specific) Point of View.
 
++ Books
 + Distributed System
 + Web System
 + Big Data System
@@ -9,3 +10,7 @@ In this section, we share the architect views from Omniscient Point of View to D
 + ML System
 + Autonomous System
 
+
+# [Books]
++ Beautiful Architecture: Leading Thinkers Reveal the Hidden Beauty in Software Design
++ 
