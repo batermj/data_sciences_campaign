@@ -106,6 +106,9 @@ Transformers
 + Multivariate Time Series Forecasting with Transformers, https://towardsdatascience.com/multivariate-time-series-forecasting-with-transformers-384dc6ce989b
 + 
 
+## [Papers- Bayesian Inference]
++ Transformers Can Do Bayesian Inference, https://arxiv.org/abs/2112.10510
++ 
 
 # [Books]
 + ***Mastering Transformers: Build state-of-the-art models from scratch with advanced natural language processing techniques***
