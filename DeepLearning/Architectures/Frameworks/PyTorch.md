@@ -2,6 +2,11 @@ PyTorch
 
 # [Blogs]
 
+## [Blogs- DataLoaders]
++ TORCH.UTILS.DATA, https://pytorch.org/docs/stable/data.html
++ 
+
+
 # [Release]
 + Introducing TorchVision’s New Multi-Weight Support API, https://pytorch.org/blog/introducing-torchvision-new-multi-weight-support-api/
 + 
