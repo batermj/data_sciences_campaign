@@ -4,6 +4,7 @@ PyTorch
 
 ## [Blogs- DataLoaders]
 + TORCH.UTILS.DATA, https://pytorch.org/docs/stable/data.html
++ A detailed example of how to generate your data in parallel with PyTorch, https://stanford.edu/~shervine/blog/pytorch-how-to-generate-data-parallel
 + 
 
 
