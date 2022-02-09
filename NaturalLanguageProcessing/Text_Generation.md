@@ -32,6 +32,11 @@ Generation
 
 ## [Papers- Survey]
 
+## [Papers- Causal]
++ A Causal Lens for Controllable Text Generation, https://arxiv.org/pdf/2201.09119.pdf
++ 
+
+
 # [Codes]
 
 # [Codes- Paraphrase Generation]
