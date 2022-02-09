@@ -41,6 +41,7 @@ NER命名体识别
 + End-to-end neural relation extraction using pre-trained language models, https://github.com/bowang-lab/joint-ner-and-re
 + UniRE Source code for "UniRE: A Unified Label Space for Entity Relation Extraction.", ACL2021., https://github.com/Receiling/UniRE
 + End-to-end neural relation extraction using pre-trained language models, https://github.com/bowang-lab/joint-ner-and-re
++ skweak: Weak supervision for NLP, https://github.com/NorskRegnesentral/skweak
 + 
 
 
