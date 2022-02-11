@@ -30,6 +30,7 @@ Computer Vision
 + [***Microsoft***] CvT: Introducing Convolutions to Vision Transformers, https://arxiv.org/abs/2103.15808, Codes: #1, https://github.com/leoxiaobin/CvT; #2, 
 + [***Microsoft***] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows, https://arxiv.org/abs/2103.14030
 + [***Microsoft***] Swin Transformer V2: Scaling Up Capacity and Resolution, https://arxiv.org/abs/2111.09883
++ [SWIN Transformer Variety] Nested Hierarchical Transformer: Towards Accurate, Data-Efficient and Interpretable Visual Understanding, https://arxiv.org/pdf/2105.12723.pdf
 + SwinIR: Image Restoration Using Swin Transformer, https://arxiv.org/abs/2108.10257
 + Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, https://arxiv.org/abs/2012.15840
 + Rethinking Spatial Dimensions of Vision Transformers, https://arxiv.org/abs/2103.16302
