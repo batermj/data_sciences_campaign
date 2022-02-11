@@ -13,3 +13,8 @@
 
 ## References of Awesome esources for Computer Vision
 + <TBC>
+
+  
+# [Books]\
++ Computer Vision: Algorithms and Applications, 2nd ed., https://szeliski.org/Book/
+  
