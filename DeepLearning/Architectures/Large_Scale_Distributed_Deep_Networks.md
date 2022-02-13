@@ -26,6 +26,7 @@ Large Scale Distributed Deep Networks
 + Large Scale Distributed Deep Networks, https://papers.nips.cc/paper/2012/file/6aca97005c68f1206823815f66102863-Paper.pdf
 + Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training, https://arxiv.org/abs/2110.14883
 + A Survey of Large-Scale Deep Learning Serving System Optimization: Challenges and Opportunities, https://arxiv.org/abs/2111.14247
++ Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning, https://arxiv.org/pdf/2201.12023.pdf
 + 
 
 # [Papers- NLP]
