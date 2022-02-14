@@ -66,6 +66,10 @@ xBERT
 * 
 
 
+## 【Papers- English】
++ JABER and SABER: Junior and Senior Arabic BERt, https://arxiv.org/pdf/2112.04329.pdf
++ 
+
 # [Codes]
 + This repository is to collect BERT related resources., https://github.com/Jiakui/awesome-bert
 + BERT, https://github.com/google-research/bert
