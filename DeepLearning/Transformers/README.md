@@ -99,6 +99,7 @@ Transformers
 + Thinking Like Transformers, https://arxiv.org/abs/2106.06981
 + FNet: Mixing Tokens with Fourier Transforms, https://arxiv.org/abs/2105.03824
 + Convolutional Xformers for Vision, https://arxiv.org/abs/2201.10271
++ Transformer Memory as a Differentiable Search Index, https://arxiv.org/abs/2202.06991
 + 
 
 ## [Papers- Time Series]
