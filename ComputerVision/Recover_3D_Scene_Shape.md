@@ -15,4 +15,5 @@ Recover 3D Scene Shape & Multi-Object 3D Reconstruction
 + Avatarify Python Photorealistic avatars for video-conferencing, https://github.com/alievk/avatarify-python
 + Towers of Babel: Combining Images, Language, and 3D Geometry for Learning Multimodal Vision, https://arxiv.org/abs/2108.05863
 + End-to-End Human Pose and Mesh Reconstruction with Transformers, https://arxiv.org/abs/2012.09760
++ BANMo: Building Animatable 3D Neural Models from Many Casual Videos, https://arxiv.org/abs/2112.12761
 + 
