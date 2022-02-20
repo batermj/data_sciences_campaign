@@ -15,10 +15,12 @@ Dialogue Systems
 # [Papers]
 + Anticipating Safety Issues in E2E Conversational AI: Framework and Tooling, https://arxiv.org/abs/2107.03451
 + Reasoning Visual Dialogs with Structural and Partial Observations, https://arxiv.org/abs/1904.05548
++ Topic-Aware Contrastive Learning for Abstractive Dialogue Summarization, https://arxiv.org/pdf/2109.04994.pdf
 + 
 
 ## [Papers- Survey]
 + A Survey on Dialogue Systems: Recent Advances and New Frontiers, https://arxiv.org/abs/1711.01731
+
 
 # [Codes]
 + 智能聊天机器人，你的AI女友, https://github.com/godweiyang/chatbot
@@ -120,6 +122,7 @@ Dialogue Systems
 + [MNLP 2021] Task-Oriented Clustering for Dialogues
 + [MNLP 2021] An Exploratory Study on Long Dialogue Summarization: What Works and What’s Next
 + [MNLP 2021] Speculative Sampling in Variational Autoencoders for Dialogue Response Generation
++ ConDigSum, https://github.com/junpliu/condigsum
 
 
 
