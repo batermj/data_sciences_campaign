@@ -48,6 +48,7 @@ Computer Vision
 + NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion, https://arxiv.org/abs/2111.12417
 + PolyViT: Co-training Vision Transformers on Images, Videos and Audio, https://arxiv.org/abs/2111.12993
 + Vision Transformers are Robust Learners, https://arxiv.org/abs/2105.07581
++ Vision Models Are More Robust And Fair When Pretrained On Uncurated Images Without Supervision, https://arxiv.org/abs/2202.08360
 + 
 
 ## [Papers- Object Detection]
