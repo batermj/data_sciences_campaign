@@ -17,7 +17,7 @@ Reinforcement Learning
 # [Courses]
 + Reinforcement Learning Course Materials， https://github.com/upb-lea/reinforcement_learning_course_materials
 
-# [Papers ]
+# [Papers]
 + [Minimal Deep Q Learning (DQN & DDQN) implementations in Keras](https://keon.io/deep-q-learning, https://github.com/keon/deep-q-learning)
 + [ReinforcementZeroToAll](https://github.com/hunkim/ReinforcementZeroToAll)
 + [Contains Jupyter notebooks associated with the "Deep Reinforcement Learning Tutorial" tutorial given at the O'Reilly 2017 NYC AI Conference](https://github.com/awjuliani/oreilly-rl-tutorial) 
@@ -35,6 +35,8 @@ Reinforcement Learning
 + Distributional Reinforcement Learning, https://www.distributional-rl.org
 + 
 
+## [Papers- Explainable Reinforcement Learning]
++ A Survey of Explainable Reinforcement Learning, https://arxiv.org/abs/2202.08434
 
 # [Codes]
 
