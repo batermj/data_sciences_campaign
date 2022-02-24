@@ -1,5 +1,8 @@
 Graph Neural Networks
 
+# [Books]
++ Deep Learning on Graphs, Book Website: https://cse.msu.edu/~mayao4/dlg_book/,https://web.njit.edu/~ym329/dlg_book/dlg_book.pdf
++ 
 
 # [Blogs]
 
