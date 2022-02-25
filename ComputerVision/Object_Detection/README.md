@@ -56,6 +56,7 @@ Object Detection
 + Active Learning for Deep Object Detection via Probabilistic Modeling, https://github.com/NVlabs/AL-MDN
 + Swin Transformer, https://github.com/microsoft/Swin-Transformer
 + Detecting Twenty-thousand Classes using Image-level Supervision, https://github.com/facebookresearch/Detic
++ Object Detection, https://github.com/IbrahimSobh/Object-Detection
 + 
 
 # [Codes- SOTAs]
