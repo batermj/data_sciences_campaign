@@ -48,6 +48,8 @@ Papers References and Reading List:
 
 ## Github Projects
 + https://github.com/microsoft/recommenders/
++ Introducing TorchRec, a library for modern production recommendation systems, https://pytorch.org/blog/introducing-torchrec/
++ 
 
 
 ## [Blogs]
