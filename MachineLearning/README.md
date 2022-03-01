@@ -22,6 +22,7 @@
 + Machine Learning Bookcamp, https://github.com/alexeygrigorev/mlbookcamp-code
 + 𝐋𝐞𝐜𝐭𝐮𝐫𝐞 𝐍𝐨𝐭𝐞𝐬 𝐨𝐧 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 🥇🏆⚡✔ by Charles Wheelan from Bernoulli Institute, Groningen, https://www.ai.rug.nl/minds/uploads/LN_ML_RUG.pdf
 + Machine Learning - A First Course for Engineers and Scientists, https://smlbook.org
++ Probabilistic Machine Learning: Advanced Topics, https://probml.github.io/pml-book/book2.html
 + 
 
 # References of Awesome esources for Machine Learning
