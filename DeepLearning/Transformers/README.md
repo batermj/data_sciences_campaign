@@ -79,6 +79,8 @@ Transformers
 + AMMUS : A Survey of Transformer-based Pretrained Models in Natural Language Processing, https://arxiv.org/abs/2108.05542
 
 
+## [Papers- Deep Transformer]
++ DeepNet: Scaling Transformers to 1,000 Layers, https://arxiv.org/abs/2203.00555
 
 ## [Papers- Mobile]
 + MOBILEVIT: LIGHT-WEIGHT, GENERAL-PURPOSE, AND MOBILE-FRIENDLY VISION TRANSFORMER, https://arxiv.org/pdf/2110.02178.pdf
