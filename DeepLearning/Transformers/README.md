@@ -149,3 +149,7 @@ Transformers
 ## [Codes- JAX library]
 + Scenic is developed in JAX and uses Flax., https://github.com/google-research/scenic
 + 
+
+## [Papers- Deep Transformer]
++ AI Fundamentals DeepNet: scaling Transformers to 1,000 Layers and beyond, https://github.com/microsoft/unilm
+
