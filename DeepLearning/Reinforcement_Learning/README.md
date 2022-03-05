@@ -30,6 +30,9 @@ Reinforcement Learning
 + URLB: Unsupervised Reinforcement Learning Benchmark, https://arxiv.org/abs/2110.15191
 + 
 
+## [Papers- Automated Reinforcement Learning]
++ Automated Reinforcement Learning (AutoRL): A Survey and Open Problems, https://arxiv.org/abs/2201.03916
++ 
 
 ## [Papers- Distributional Reinforcement Learning]
 + Distributional Reinforcement Learning, https://www.distributional-rl.org
