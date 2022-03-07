@@ -8,6 +8,9 @@ Transformers
 + HuggingFace, 
 + 
 
+# [Books]
++ Natural Language Processing with Transformers Book, https://transformersbook.com
++ 
 
 # [Courses]
 + Attention Is All You Need, https://www.youtube.com/watch?v=iDulhoQ2pro
