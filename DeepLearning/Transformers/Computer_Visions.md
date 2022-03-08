@@ -49,6 +49,7 @@ Computer Vision
 + PolyViT: Co-training Vision Transformers on Images, Videos and Audio, https://arxiv.org/abs/2111.12993
 + Vision Transformers are Robust Learners, https://arxiv.org/abs/2105.07581
 + Vision Models Are More Robust And Fair When Pretrained On Uncurated Images Without Supervision, https://arxiv.org/abs/2202.08360
++ DiT: Self-supervised Pre-training for Document Image Transform, https://arxiv.org/abs/2203.02378
 + 
 
 ## [Papers- Object Detection]
@@ -105,5 +106,6 @@ Computer Vision
 + PyTorch Image Models, https://github.com/rwightman/pytorch-image-models
 + Vision Transformer - Pytorch, https://github.com/lucidrains/vit-pytorch
 + Keras, Learning to tokenize in Vision Transformers, https://keras.io/examples/vision/token_learner/
++ DiT: Self-Supervised Pre-Training for Document Image Transformer, https://github.com/microsoft/unilm/tree/master/dit
 + 
 
