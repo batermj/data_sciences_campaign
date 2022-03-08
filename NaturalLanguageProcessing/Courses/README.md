@@ -10,6 +10,7 @@ Courses
 
 # [Books]
 + Speech and Language Processing (3rd ed. draft) Dan Jurafsky and James H. Martin, https://web.stanford.edu/~jurafsky/slp3/
++ [2019, Manning] Natural Language Processing in Action Understanding, analyzing, and generating text with Python, HOBSON LANE COLE HOWARD HANNES MAX HAPKE
 + 
 
 # [Codes]
