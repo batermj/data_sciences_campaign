@@ -116,6 +116,10 @@ Transformers
 + Transformers Can Do Bayesian Inference, https://arxiv.org/abs/2112.10510
 + 
 
+## [Papers- High Transformer Quality in Linear Time]
++ Transformer Quality in Linear Time, https://arxiv.org/pdf/2202.10447.pdf
++ 
+
 # [Books]
 + ***Mastering Transformers: Build state-of-the-art models from scratch with advanced natural language processing techniques***
 
