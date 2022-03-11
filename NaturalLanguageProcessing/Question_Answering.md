@@ -23,3 +23,6 @@ Question Answering
 + 
 
 # [Codes]
+
+## [Codes- Arabic]
++ SOQAL: Neural Arabic Question Answering, https://github.com/husseinmozannar/SOQAL
