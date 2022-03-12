@@ -52,6 +52,9 @@ Transformers on NLP
 + Text Generation with Transformers in Python, https://www.thepythoncode.com/article/text-generation-with-transformers-in-python
 + 
 
+## [Papers- MISC]
++ CHARFORMER: FAST CHARACTER TRANSFORMERS VIA GRADIENT-BASED SUBWORD TOKENIZATION, https://arxiv.org/pdf/2106.12672.pdf
++ 
 
 # [Codes]
 
