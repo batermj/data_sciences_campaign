@@ -32,6 +32,17 @@ Multi-modal
 * FLAVA: A Foundational Language And Vision Alignment Model, https://arxiv.org/abs/2112.04482
 * 
 
+## [Papers- Multitask]
++ Scalable and Efficient MoE Training for Multitask Multilingual Model, https://arxiv.org/pdf/2109.10465.pdf
+
 ## [Papers- Survey]
 
 # [Codes]
+
+
+## [Codes- Multitask]
++ DeepSpeed, https://github.com/microsoft/DeepSpeed
++ 
+
+
+
