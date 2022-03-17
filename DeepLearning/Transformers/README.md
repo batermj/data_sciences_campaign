@@ -120,6 +120,10 @@ Transformers
 + Transformer Quality in Linear Time, https://arxiv.org/pdf/2202.10447.pdf
 + 
 
+## [Papers- AI Alternative to Transformers]
++ HyperMixer: An MLP-based Green AI Alternative to Transformers, https://arxiv.org/abs/2203.03691
++ 
+
 # [Books]
 + ***Mastering Transformers: Build state-of-the-art models from scratch with advanced natural language processing techniques***
 
