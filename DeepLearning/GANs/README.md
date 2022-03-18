@@ -40,6 +40,11 @@ Generative Adversarial (Neural) Networks
 + High-Fidelity GAN Inversion for Image Attribute Editing, https://arxiv.org/abs/2109.06590
 + 
 
+
+## [Papers- MISC]
++ SCORE-BASED GENERATIVE MODELING WITH CRITICALLY-DAMPED LANGEVIN DIFFUSION, https://arxiv.org/pdf/2112.07068.pdf
++ 
+
 # [Codes]
 + really-awesome-gan, https://github.com/nightrome/really-awesome-gan
 + This repository contains the code and hyperparameters for the paper: "Generative Adversarial Networks." Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio. ArXiv 2014., https://github.com/goodfeli/adversarial
