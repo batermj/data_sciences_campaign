@@ -54,6 +54,7 @@ Generative Adversarial (Neural) Networks
 + BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation, https://github.com/onion-liu/BlendGAN
 + StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation. StudioGAN aims to offer an identical playground for modern GANs so that machine learning researchers can readily compare and analyze a new idea., https://github.com/POSTECH-CVLab/PyTorch-StudioGAN
 + HFGI: High-Fidelity GAN Inversion for Image Attribute Editing, https://github.com/Tengfei-Wang/HFGI
++ Score-Based Generative Modeling with Critically-Damped Langevin Diffusion ICLR 2022 (spotlight), https://github.com/nv-tlabs/CLD-SGM
 + 
 
 # [Arts]
