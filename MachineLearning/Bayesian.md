@@ -4,6 +4,7 @@ Bayesian Modeling Related
 
 # [Books]
 + Bayesian Modeling and Computation in Python, https://bayesiancomputationbook.com/welcome.html
++ Bayes Rules! An Introduction to Applied Bayesian Modeling, https://www.bayesrulesbook.com
 + 
 
 # [Courses]
