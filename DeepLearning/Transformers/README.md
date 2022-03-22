@@ -105,6 +105,9 @@ Transformers
 + FNet: Mixing Tokens with Fourier Transforms, https://arxiv.org/abs/2105.03824
 + Convolutional Xformers for Vision, https://arxiv.org/abs/2201.10271
 + Transformer Memory as a Differentiable Search Index, https://arxiv.org/abs/2202.06991
+
+## [Papers- Multimodal Fusion]
++ Attention Bottlenecks for Multimodal Fusion, https://arxiv.org/pdf/2107.00135.pdf
 + 
 
 ## [Papers- Time Series]
