@@ -36,6 +36,9 @@ Generation
 + A Causal Lens for Controllable Text Generation, https://arxiv.org/pdf/2201.09119.pdf
 + 
 
+## [Papers- Knowledge Graphs]
++ Text Generation from Knowledge Graphs with Graph Transformers, https://arxiv.org/pdf/1904.02342.pdf
++ 
 
 # [Codes]
 
@@ -44,4 +47,7 @@ Generation
 + 
 
 
+## [Codes- Knowledge Graphs]
++ Text Generation from Knowledge Graphs with Graph Transformers, https://github.com/rikdz/GraphWriter
++ 
 
