@@ -5,6 +5,8 @@ Transformers on NLP
 ## [Blogs- Text Generation]
 + Text Generation with Transformers in Python, https://www.thepythoncode.com/article/text-generation-with-transformers-in-python
 + How to Paraphrase Text using Transformers in Python, https://www.thepythoncode.com/article/paraphrase-text-using-transformers-in-python
++ Text Generation from Knowledge Graphs with Graph Transformers, https://arxiv.org/pdf/1904.02342.pdf
++ 
 
 
 # [Papers]
@@ -50,6 +52,7 @@ Transformers on NLP
 
 ## [Papers- Text Generation]
 + Text Generation with Transformers in Python, https://www.thepythoncode.com/article/text-generation-with-transformers-in-python
++ Text Generation from Knowledge Graphs with Graph Transformers, https://arxiv.org/pdf/1904.02342.pdf
 + 
 
 ## [Papers- MISC]
@@ -58,6 +61,9 @@ Transformers on NLP
 
 # [Codes]
 
+## [Codes- Text Generation]
++ Text Generation from Knowledge Graphs with Graph Transformers, https://github.com/rikdz/GraphWriter
++ 
 
 # [ToolKits]
 + Trankit: A Light-Weight Transformer-based Toolkit for Multilingual Natural Language Processing, https://github.com/nlp-uoregon/trankit
