@@ -41,6 +41,10 @@ Style Manipulation
 + Alias-Free Generative Adversarial Networks, https://nvlabs-fi-cdn.nvidia.com/stylegan3/stylegan3-paper.pdf
 + 
 
+## [Papers- Artistic Style]
++ A Neural Algorithm of Artistic Style, https://arxiv.org/pdf/1508.06576.pdf
++ 
+
 # [Codes]
 
 ## [Codes- Computer Vision]
