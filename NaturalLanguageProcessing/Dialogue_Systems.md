@@ -23,6 +23,7 @@ Dialogue Systems
 + Reasoning Visual Dialogs with Structural and Partial Observations, https://arxiv.org/abs/1904.05548
 + Topic-Aware Contrastive Learning for Abstractive Dialogue Summarization, https://arxiv.org/pdf/2109.04994.pdf
 + [2019] Target-Guided Open-Domain Conversation, https://arxiv.org/abs/1905.11553
++ LaMDA: Language Models for Dialog Applications, https://arxiv.org/abs/2201.08239
 + 
 
 ## [Papers- Survey]
