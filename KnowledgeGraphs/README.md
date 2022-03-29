@@ -1,5 +1,9 @@
 Knowledge Graphs
 
+# [Institutes]
++ HKUST-KnowComp Knowledge Computation Group@HKUST, led by Yangqiu Song, https://github.com/HKUST-KnowComp
++ 
+
 # [Books]
 
 
