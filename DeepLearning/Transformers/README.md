@@ -95,7 +95,6 @@ Transformers
 + SCENIC: A JAX Library for Computer Vision Research and Beyond, https://arxiv.org/pdf/2110.11403.pdf
 + 
 
-
 ## [Papers- MISC]
 + Self-Attention with Relative Position Representations, https://arxiv.org/abs/1803.02155
 + An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, https://arxiv.org/abs/2010.11929
@@ -128,6 +127,14 @@ Transformers
 ## [Papers- AI Alternative to Transformers]
 + HyperMixer: An MLP-based Green AI Alternative to Transformers, https://arxiv.org/abs/2203.03691
 + 
+
+## [Papers- Deep Transformer]
++ AI Fundamentals DeepNet: scaling Transformers to 1,000 Layers and beyond, https://github.com/microsoft/unilm
+
+
+## [Papers- Bringing Old Films Back to Life]
++ Bringing Old Films Back to Life, https://arxiv.org/pdf/2203.17276.pdf
+
 
 # [Books]
 + ***Mastering Transformers: Build state-of-the-art models from scratch with advanced natural language processing techniques***
@@ -166,6 +173,7 @@ Transformers
 + Scenic is developed in JAX and uses Flax., https://github.com/google-research/scenic
 + 
 
-## [Papers- Deep Transformer]
-+ AI Fundamentals DeepNet: scaling Transformers to 1,000 Layers and beyond, https://github.com/microsoft/unilm
+## [Codes- Bringing Old Films Back to Life]
++ Bringing Old Films Back to Life, https://github.com/raywzy/Bringing-Old-Films-Back-to-Life
++ 
 
