@@ -16,8 +16,13 @@ Large Scale Distributed Deep Networks
 + Marc'Aurelio Ranzato, https://ranzato.github.io
 + 
 
+# [Frameworks]
+
+## [Frameworks- PyTorch]
++ Large-Scale Distributed Training with TorchX and Ray, https://pytorch.medium.com/large-scale-distributed-training-with-torchx-and-ray-1d09a329aacb
 
 # [Blogs]
++ Large-Scale Distributed Training with TorchX and Ray, https://pytorch.medium.com/large-scale-distributed-training-with-torchx-and-ray-1d09a329aacb
 + Researchers Introduce ‘Colossal-AI’: A PyTorch-Based Deep Learning System For Large-Scale Parallel Training, https://www.marktechpost.com/2021/10/31/researchers-introduce-colossal-ai-a-pytorch-based-deep-learning-system-for-large-scale-parallel-training/
 + KDD 2021 invited talk: It is time for deep learning to understand its expense bills by Eric Xing, https://www.youtube.com/watch?v=1ziZcHRqtNU
 + 
