@@ -9,6 +9,7 @@ Object Tracking
 # [Papers]
 + ByteTrack: Multi-Object Tracking by Associating Every Detection Box, https://arxiv.org/abs/2110.06864
 + Efficient Visual Tracking with Exemplar Transformers, https://arxiv.org/pdf/2112.09686.pdf
++ Transforming Model Prediction for Tracking, https://arxiv.org/pdf/2203.11192.pdf
 + 
 
 
