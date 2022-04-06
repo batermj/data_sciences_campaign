@@ -28,6 +28,7 @@ Reinforcement Learning
 + [Building a Powerful DQN in TensorFlow 2.0 (explanation & tutorial) Sebastian Theiler:](https://medium.com/analytics-vidhya/building-a-powerful-dqn-in-tensorflow-2-0-explanation-tutorial-d48ea8f3177a)
 + Offline RL With Resource Constrained Online Deployment, https://arxiv.org/abs/2110.03165
 + URLB: Unsupervised Reinforcement Learning Benchmark, https://arxiv.org/abs/2110.15191
++ A general class of surrogate functions for stable and efficient reinforcement learning, https://arxiv.org/abs/2108.05828
 + 
 
 ## [Papers- Automated Reinforcement Learning]
