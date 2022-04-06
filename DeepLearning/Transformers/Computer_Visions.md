@@ -60,6 +60,7 @@ Computer Vision
 
 ## [Papers- Object Tracking]
 + Efficient Visual Tracking with Exemplar Transformers, https://arxiv.org/pdf/2112.09686.pdf
++ Transforming Model Prediction for Tracking, https://arxiv.org/pdf/2203.11192.pdf
 + 
 
 
