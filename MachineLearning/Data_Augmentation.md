@@ -1,6 +1,7 @@
 Data Augmentation
 
 # [Blogs]
++ The mathematics of optimization for machine learning, https://tivadardanka.com/blog/the-mathematics-of-optimization-for-machine-learning
 + Facebook AI Open Sources AugLy: A New Python Library For Data Augmentation To Develop Robust Machine Learning Models, https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/,, 
 + https://www.marktechpost.com/2021/06/19/facebook-ai-open-sources-augly-a-new-python-library-for-data-augmentation-to-develop-robust-machine-learning-models/
 + 
