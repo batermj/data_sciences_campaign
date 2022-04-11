@@ -29,6 +29,7 @@ Style Manipulation
 
 ## [Papers- Text Style Transfer]
 + StylePTB: A Compositional Benchmark for Fine-grained Controllable Text Style Transfer, https://arxiv.org/abs/2104.05196
++ Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation, https://arxiv.org/pdf/1905.05621.pdf
 + 
 
 ## [Papers- Neural Stylization for Meshes]
