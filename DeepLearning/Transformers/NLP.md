@@ -53,6 +53,10 @@ Transformers on NLP
 ## [Papers- Text Generation]
 + Text Generation with Transformers in Python, https://www.thepythoncode.com/article/text-generation-with-transformers-in-python
 + Text Generation from Knowledge Graphs with Graph Transformers, https://arxiv.org/pdf/1904.02342.pdf
+
+
+## [Papers- Text Style Transfer]
++ Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation, https://arxiv.org/pdf/1905.05621.pdf
 + 
 
 ## [Papers- MISC]
