@@ -11,6 +11,11 @@ Style Manipulation
 ## [Blogs- Videos]
 + 深度学习 风格迁移 】Neural Style Transfer by Ambroise Laurent（英文字幕）, https://www.bilibili.com/video/av26371606/
 
+# [Books]
+
+# [Datasets]
++ nlp-dataset, List some datasets in NLP field, Style Transfer in Text, https://github.com/fastnlp/nlp-dataset
++ 
 
 # [Papers]
 
