@@ -31,6 +31,11 @@ Reinforcement Learning
 + A general class of surrogate functions for stable and efficient reinforcement learning, https://arxiv.org/abs/2108.05828
 + 
 
+## [Papers- Initializing Reinforcement Learning]
++ Efficiently Initializing Reinforcement Learning With Prior Policies, https://ai.googleblog.com/2022/04/efficiently-initializing-reinforcement.html?utm_campaign=Learning%20Posts&utm_content=203918737&utm_medium=social&utm_source=linkedin&hss_channel=lcp-9358547
++ 
+
+
 ## [Papers- Automated Reinforcement Learning]
 + Automated Reinforcement Learning (AutoRL): A Survey and Open Problems, https://arxiv.org/abs/2201.03916
 + 
