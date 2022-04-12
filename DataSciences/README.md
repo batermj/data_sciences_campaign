@@ -13,6 +13,10 @@ Data Sciences
 + Problem Solving as Data Scientist: a Case Study, https://www.linkedin.com/pulse/problem-solving-data-scientist-casestudy-pan-wu/?trackingId=c4V6JGMDmJJ9BFhgWbw0aw%3D%3D
 
 
+## [Books- Probability for Data Science]
++ Introduction to Probability for Data Science, Stanley H. Chan, An undergraduate textbook on probability for data science., https://probability4datascience.com
++ 
+
 # [Papers]
 
 
