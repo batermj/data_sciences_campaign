@@ -16,5 +16,7 @@ Knowledge Graphs
 
 # [Codes]
 + ASER (Activities, States, Events, and their Relations), https://github.com/HKUST-KnowComp/ASER
++ CogKR CogKR: Cognitive Graph for Multi-hop Knowledge Reasoning, https://github.com/THUDM/CogKR
++ 
 
 
