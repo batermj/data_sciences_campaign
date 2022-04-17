@@ -53,7 +53,8 @@ Transformers on NLP
 ## [Papers- Text Generation]
 + Text Generation with Transformers in Python, https://www.thepythoncode.com/article/text-generation-with-transformers-in-python
 + Text Generation from Knowledge Graphs with Graph Transformers, https://arxiv.org/pdf/1904.02342.pdf
-
++ Modeling Graph Structure in Transformer for Better AMR-to-Text Generation, https://arxiv.org/pdf/1909.00136.pdf
++ 
 
 ## [Papers- Text Style Transfer]
 + Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation, https://arxiv.org/pdf/1905.05621.pdf
@@ -67,7 +68,7 @@ Transformers on NLP
 
 ## [Codes- Text Generation]
 + Text Generation from Knowledge Graphs with Graph Transformers, https://github.com/rikdz/GraphWriter
-+ 
++ Structural Transformer Model, https://github.com/Amazing-J/structural-transformer
 
 # [ToolKits]
 + Trankit: A Light-Weight Transformer-based Toolkit for Multilingual Natural Language Processing, https://github.com/nlp-uoregon/trankit
