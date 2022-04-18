@@ -60,6 +60,10 @@ Transformers on NLP
 + Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation, https://arxiv.org/pdf/1905.05621.pdf
 + 
 
+## [Papers- Long Document Classification]
++ Revisiting Transformer-based Models for Long Document Classification, https://arxiv.org/abs/2204.06683
++ 
+
 ## [Papers- MISC]
 + CHARFORMER: FAST CHARACTER TRANSFORMERS VIA GRADIENT-BASED SUBWORD TOKENIZATION, https://arxiv.org/pdf/2106.12672.pdf
 + 
