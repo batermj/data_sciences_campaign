@@ -3,6 +3,7 @@ Model DevOps
 # [Books]
 
 # [Blogs]
++ MLOps Is a Mess But That's to be Expected, https://www.mihaileric.com/posts/mlops-is-a-mess/
 + 5 key organizational models for DevOps teams, https://about.gitlab.com/blog/2022/03/08/key-organizational-models-for-devops-teams/?utm_campaign=blog&utm_source=linkedin&utm_medium=social
 + 
 
