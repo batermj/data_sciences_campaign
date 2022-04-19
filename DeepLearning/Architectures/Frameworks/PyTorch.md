@@ -1,5 +1,11 @@
 PyTorch
 
+# [Courses]
+
+## [Courses- Youtube]
++ Deep Learning With PyTorch - Full Course, https://www.youtube.com/watch?app=desktop&v=c36lUUr864M
++ 
+
 # [Blogs]
 
 ## [Blogs- DataLoaders]
