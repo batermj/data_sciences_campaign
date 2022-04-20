@@ -2,6 +2,16 @@ OCR
 
 # [Blogs]
 
+# [Dataset]
+
+## [Dataset- Scene text detection]
++ The HierText Dataset, https://github.com/google-research-datasets/hiertext
++ 
+
+## [Papers- document layout analysis]
++ The HierText Dataset, https://github.com/google-research-datasets/hiertext
++ 
+
 # [Papers]
 + CRNN An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition
 + CTPN Detecting Text in Natural Image with Connectionist Text Proposal Network
