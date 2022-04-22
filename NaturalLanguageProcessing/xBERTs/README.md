@@ -70,6 +70,10 @@ xBERT
 + JABER and SABER: Junior and Senior Arabic BERt, https://arxiv.org/pdf/2112.04329.pdf
 + 
 
+##【Papers- French】
++ FlauBERT: Unsupervised Language Model Pre-training for French, https://arxiv.org/pdf/1912.05372.pdf
++ 
+
 # [Codes]
 + This repository is to collect BERT related resources., https://github.com/Jiakui/awesome-bert
 + BERT, https://github.com/google-research/bert
@@ -99,9 +103,15 @@ xBERT
 
 ## 【Codes- English】
 
+##【Codes- French】
++ FlauBERT and FLUE, https://github.com/getalp/Flaubert
++ 
+
 ## 【Codes- Kazakh】
 
 ## 【Codes- Spanish】
+
+##【Codes- French】
 
 
 
