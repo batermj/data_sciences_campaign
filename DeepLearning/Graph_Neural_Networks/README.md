@@ -15,7 +15,8 @@ Graph Neural Networks
 
 
 ## [Papers- Data Augmentation]
-+ Data Augmentation for Deep Graph Learning: A Survey, https://arxiv.org/pdf/2202.08235.pdf
++ Data Augmentation for Deep Graph Learning: A Survey, https://arxiv.org/abs/2202.08235
++ 
 
 
 ## [Papers- Link Prediction]
