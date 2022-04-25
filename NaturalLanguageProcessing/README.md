@@ -25,6 +25,7 @@
 
 # Key Resources Portal
 + Tracking Progress in Natural Language Processing, https://nlpprogress.com
++ Tracking Progress in Natural Language Processing, https://github.com/sebastianruder/NLP-progress
 + TsinghuaNLP： 清华大学自然语言处理与社会人文计算实验室维护的公众号
 + 哈工大SCIR(HIT_SCIR): 哈尔滨工业大学社会计算与信息检索研究中心维护的公众号，会有相关的会议信息（最近 ACL 的新投稿政策）、组内论文推荐等
 + AINLP(nlpjob)：我爱自然语言处理博主的公号，有很多高质量的教程和论文笔记
