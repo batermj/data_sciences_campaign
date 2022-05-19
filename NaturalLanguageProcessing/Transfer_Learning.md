@@ -18,4 +18,17 @@ Unified Language Model Pre-Training)](https://arxiv.org/pdf/2002.12804.pdf)[[git
 
 ## [Papers- Survey]
 
+
+## [Papers- Cross-Lingual Transfer]
++ Composable Sparse Fine-Tuning for Cross-Lingual Transfer, https://arxiv.org/pdf/2110.07560.pdf
++ 
+
+
 # [Codes]
+
+## [Codes- Cross-Lingual Transfer]
++ Composable Sparse Fine-Tuning for Cross-Lingual Transfer, https://github.com/cambridgeltl/composable-sft
++ 
+
+
+
