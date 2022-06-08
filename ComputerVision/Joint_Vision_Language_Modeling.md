@@ -12,6 +12,9 @@ Visual Synthesis
 + DALL·E 2 is a new #AI system by #OpenAI to create realistic images & art from natural language, https://cdn.openai.com/papers/dall-e-2.pdf
 + 
 
+## [Papers- Multimodal]
++ Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts,https://arxiv.org/abs/2206.02770
++ 
 
 # [Codes]
 + NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion, https://github.com/microsoft/NUWA
