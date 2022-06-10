@@ -17,6 +17,10 @@ https://paperswithcode.com/sota
 + Finetuned Language Models Are Zero-Shot Learners, https://arxiv.org/abs/2109.01652
 + 
 
+## [Papers- the capabilities of language models]
++ Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models, https://arxiv.org/abs/2206.04615
+
+
 # [Codes]
 
 
