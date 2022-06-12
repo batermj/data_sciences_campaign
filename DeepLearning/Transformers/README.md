@@ -71,6 +71,7 @@ Transformers
 + The Sensory Neuron as a Transformer: Permutation-Invariant Neural Networks for Reinforcement Learning, https://attentionneuron.github.io
 + Awesome NLP Paper Discussions, https://github.com/huggingface/awesome-papers#planned-discussions
 + Compositional Attention: Disentangling Search and Retrieval, https://arxiv.org/abs/2110.09419
++ FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness, https://arxiv.org/pdf/2205.14135.pdf
 + 
 
 ## [Papers- Surveys]
@@ -148,6 +149,7 @@ Transformers
 
 ## [Codes- Attention]
 + A TensorFlow Implementation of Attention Is All You Need, https://github.com/Kyubyong/transformer
++ FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness, https://github.com/hazyresearch/flash-attention
 + 
 
 ## [Codes- Chatbots]
