@@ -89,6 +89,7 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 + [Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley](https://github.com/Machine-Learning-Tokyo/AI_Curriculum)
 + [Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)](https://github.com/Machine-Learning-Tokyo/DL-workshop-series)
 + [PyTorch 中文教程](https://www.w3cschool.cn/pytorch/)
++ [DeepMind] The Deep Learning Lecture Series is a collaboration between DeepMind and the UCL Centre for Artificial Intelligence., https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF
 + 
 
 # Blog
