@@ -6,6 +6,8 @@ Visualization
 
 # [Books]
 + Scientific Visualization: Python + Matplotlib Paperback – November 13, 2021, https://www.amazon.com/dp/2957990105
++ Fundamentals of Data Visualization, https://clauswilke.com/dataviz/
++ 
 
 
 # [Blogs]
