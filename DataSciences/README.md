@@ -15,6 +15,8 @@ Data Sciences
 
 ## [Books- Probability for Data Science]
 + Introduction to Probability for Data Science, Stanley H. Chan, An undergraduate textbook on probability for data science., https://probability4datascience.com
++ Data Science and Machine Learning: Mathematical and Statistical Methods 🎯 A textbook by Dirk P. Kroese, Zdravko I. Botev, Thomas Taimre and Radislav Vaisman, https://people.smp.uq.edu.au/DirkKroese/DSML/DSML.pdf
++ 
 + 
 
 # [Papers]
