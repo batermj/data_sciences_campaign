@@ -3,6 +3,7 @@ Visual Synthesis
 # [Blogs]
 + DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language., https://openai.com/dall-e-2/
 + Generalized Visual Language Models, https://lilianweng.github.io/posts/2022-06-09-vlm/
++ Imagen unprecedented photorealism × deep level of language understanding, https://imagen.research.google
 + 
 
 # [Papers]
@@ -20,4 +21,5 @@ Visual Synthesis
 # [Codes]
 + NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion, https://github.com/microsoft/NUWA
 + Implementation of "Aligning Visual Regions and Textual Concepts for Semantic-Grounded Image Representations" by Fenglin Liu, Yuanxin Liu, Xuancheng Ren, Xiaodong He, and Xu Sun., https://github.com/fenglinliu98/MIA
++ Implementation of Imagen, Google's Text-to-Image Neural Network that beats DALL-E2, in Pytorch. It is the new SOTA for text-to-image synthesis., https://github.com/lucidrains/imagen-pytorch
 + 
