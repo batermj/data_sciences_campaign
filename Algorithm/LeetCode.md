@@ -18,3 +18,5 @@
 # [Codes]
 + Awesome-Algorithm, https://github.com/godweiyang/awesome-algorithm
 
+# [Variaties]
++ 
