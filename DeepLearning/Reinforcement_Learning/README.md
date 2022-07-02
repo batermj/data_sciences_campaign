@@ -47,5 +47,10 @@ Reinforcement Learning
 ## [Papers- Explainable Reinforcement Learning]
 + A Survey of Explainable Reinforcement Learning, https://arxiv.org/abs/2202.08434
 
+
+## [Papers- MISC]
++ DeepNash by DeepMind, Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning, https://arxiv.org/abs/2206.15378
+
+
 # [Codes]
 
