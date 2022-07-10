@@ -8,6 +8,7 @@ Model DevOps
 + 
 
 # [Papers]
++ Machine Learning Operations (MLOps): Overview, Definition, and Architecture, https://arxiv.org/abs/2205.02302
 + TinyMLOps: Operational Challenges for Widespread Edge AI Adoption, https://arxiv.org/abs/2203.10923
 + 
 
