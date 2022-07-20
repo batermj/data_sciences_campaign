@@ -72,7 +72,8 @@ Transformers
 + Awesome NLP Paper Discussions, https://github.com/huggingface/awesome-papers#planned-discussions
 + Compositional Attention: Disentangling Search and Retrieval, https://arxiv.org/abs/2110.09419
 + FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness, https://arxiv.org/pdf/2205.14135.pdf
-+ 
++ Attention is not Explanation, https://arxiv.org/pdf/1902.10186.pdf
+
 
 ## [Papers- Surveys]
 + A Survey of Transformers, https://arxiv.org/abs/2106.04554
