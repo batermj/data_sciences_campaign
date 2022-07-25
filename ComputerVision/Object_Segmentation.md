@@ -22,6 +22,11 @@ Image/Object Segmentation
 + Unsupervised Semantic Segmentation by Contrasting Object Mask Proposals, https://arxiv.org/abs/2102.06191, Codes:, https://github.com/wvangansbeke/Unsupervised-Semantic-Segmentation
 + 
 
+
+## [Papers- Semantic Segmentation]
++ DIAL: Deep Interactive and Active Learning for Semantic Segmentation in Remote Sensing, https://arxiv.org/abs/2201.01047
++ 
+
 # [Codes]
 + Semantic segmentation, https://github.com/IbrahimSobh/Segmentation
 + 
