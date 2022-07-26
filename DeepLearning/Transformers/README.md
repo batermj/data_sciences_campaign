@@ -97,6 +97,12 @@ Transformers
 + SCENIC: A JAX Library for Computer Vision Research and Beyond, https://arxiv.org/pdf/2110.11403.pdf
 + 
 
+
+## [Papers- Graph Transformer]
++ Recipe for a General, Powerful, Scalable Graph Transformer, https://arxiv.org/abs/2205.12454
+
+
+
 ## [Papers- MISC]
 + Self-Attention with Relative Position Representations, https://arxiv.org/abs/1803.02155
 + An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, https://arxiv.org/abs/2010.11929
