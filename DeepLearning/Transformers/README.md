@@ -115,6 +115,7 @@ Transformers
 + Convolutional Xformers for Vision, https://arxiv.org/abs/2201.10271
 + Transformer Memory as a Differentiable Search Index, https://arxiv.org/abs/2202.06991
 + [Microsoft] Unveiling Transformers with LEGO: a synthetic reasoning task, https://arxiv.org/abs/2206.04301
++ [Google] Frequency Effects on Syntactic Rule Learning in Transformers, https://arxiv.org/pdf/2109.07020.pdf
 + 
 
 ## [Papers- Multimodal Fusion]
@@ -186,5 +187,9 @@ Transformers
 ## [Codes- Bringing Old Films Back to Life]
 + Bringing Old Films Back to Life, https://github.com/raywzy/Bringing-Old-Films-Back-to-Life
 + Bringing Old Films Back to Life, http://raywzy.com/Old_Film/
++ 
+
+## [Codes- Misc]
++ [Google Research: Language] Frequency Effects on Syntactic Rule Learning in Transformers, https://github.com/google-research/language
 + 
 
