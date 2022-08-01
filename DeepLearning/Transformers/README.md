@@ -118,9 +118,10 @@ Transformers
 + [Google] Frequency Effects on Syntactic Rule Learning in Transformers, https://arxiv.org/pdf/2109.07020.pdf
 + 
 
-## [Papers- Multimodal Fusion]
+## [Papers- Multi Modal]
 + Attention Bottlenecks for Multimodal Fusion, https://arxiv.org/pdf/2107.00135.pdf
-+ 
++ Multimodal Transformer for Unaligned Multimodal Language Sequences, https://arxiv.org/pdf/1906.00295.pdf
+
 
 ## [Papers- Time Series]
 + Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case, https://arxiv.org/abs/2001.08317
@@ -188,6 +189,10 @@ Transformers
 + Bringing Old Films Back to Life, https://github.com/raywzy/Bringing-Old-Films-Back-to-Life
 + Bringing Old Films Back to Life, http://raywzy.com/Old_Film/
 + 
+
+
+## [Papers- Multi Modal]
++ Multimodal Transformer for Unaligned Multimodal Language Sequences, https://github.com/yaohungt/Multimodal-Transformer
 
 ## [Codes- Misc]
 + [Google Research: Language] Frequency Effects on Syntactic Rule Learning in Transformers, https://github.com/google-research/language
