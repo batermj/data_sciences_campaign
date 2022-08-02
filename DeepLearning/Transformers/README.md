@@ -62,7 +62,8 @@ Transformers
 + Paper Review: Swin Transformer V2 Scaling Up Capacity and Resolution, https://andlukyane.com/blog/paper-review-swin-v2
 + Transformers from Scratch, https://e2eml.school/transformers.html
 + The Researchers Propose a Family of Next Generation Transformer Models That Use Sparse Layers to Scale Efficiently and Perform Unbatched Decoding Much Faster than the Standard Type, https://www.marktechpost.com/2021/12/09/the-researchers-propose-a-family-of-next-generation-transformer-models-that-use-sparse-layers-to-scale-efficiently-and-perform-unbatched-decoding-much-faster-than-the-standard-type/
-+ 
++ Training Generalist Agents with Multi-Game Decision Transformers, https://ai.googleblog.com/2022/07/training-generalist-agents-with-multi.html
+
 
 # [Papers]
 
@@ -102,21 +103,9 @@ Transformers
 + Recipe for a General, Powerful, Scalable Graph Transformer, https://arxiv.org/abs/2205.12454
 
 
+## [Papers- Reinforcement Learning]
++ Decision Transformer: Reinforcement Learning via Sequence Modeling, https://arxiv.org/abs/2106.01345
 
-## [Papers- MISC]
-+ Self-Attention with Relative Position Representations, https://arxiv.org/abs/1803.02155
-+ An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, https://arxiv.org/abs/2010.11929
-+ TransformerFusion: Monocular RGB Scene Reconstruction using Transformers, https://arxiv.org/abs/2107.02191
-+ BumbleBee: A Transformer for Music, https://arxiv.org/abs/2107.03443
-+ Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation, https://github.com/NVIDIA-Merlin/publications/tree/main/2021_acm_recsys_transformers4rec
-+ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, https://arxiv.org/abs/1810.04805
-+ Thinking Like Transformers, https://arxiv.org/abs/2106.06981
-+ FNet: Mixing Tokens with Fourier Transforms, https://arxiv.org/abs/2105.03824
-+ Convolutional Xformers for Vision, https://arxiv.org/abs/2201.10271
-+ Transformer Memory as a Differentiable Search Index, https://arxiv.org/abs/2202.06991
-+ [Microsoft] Unveiling Transformers with LEGO: a synthetic reasoning task, https://arxiv.org/abs/2206.04301
-+ [Google] Frequency Effects on Syntactic Rule Learning in Transformers, https://arxiv.org/pdf/2109.07020.pdf
-+ 
 
 ## [Papers- Multi Modal]
 + Attention Bottlenecks for Multimodal Fusion, https://arxiv.org/pdf/2107.00135.pdf
@@ -142,6 +131,21 @@ Transformers
 
 ## [Papers- Bringing Old Films Back to Life]
 + Bringing Old Films Back to Life, https://arxiv.org/pdf/2203.17276.pdf
+
+## [Papers- MISC]
++ Self-Attention with Relative Position Representations, https://arxiv.org/abs/1803.02155
++ An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, https://arxiv.org/abs/2010.11929
++ TransformerFusion: Monocular RGB Scene Reconstruction using Transformers, https://arxiv.org/abs/2107.02191
++ BumbleBee: A Transformer for Music, https://arxiv.org/abs/2107.03443
++ Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation, https://github.com/NVIDIA-Merlin/publications/tree/main/2021_acm_recsys_transformers4rec
++ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, https://arxiv.org/abs/1810.04805
++ Thinking Like Transformers, https://arxiv.org/abs/2106.06981
++ FNet: Mixing Tokens with Fourier Transforms, https://arxiv.org/abs/2105.03824
++ Convolutional Xformers for Vision, https://arxiv.org/abs/2201.10271
++ Transformer Memory as a Differentiable Search Index, https://arxiv.org/abs/2202.06991
++ [Microsoft] Unveiling Transformers with LEGO: a synthetic reasoning task, https://arxiv.org/abs/2206.04301
++ [Google] Frequency Effects on Syntactic Rule Learning in Transformers, https://arxiv.org/pdf/2109.07020.pdf
++ 
 
 
 # [Books]
