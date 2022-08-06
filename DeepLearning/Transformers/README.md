@@ -87,6 +87,9 @@ Transformers
 + 
 
 
+## [Papers- Formal Algorithms]
++ Formal Algorithms for Transformers, https://arxiv.org/abs/2207.09238
+
 ## [Papers- Deep Transformer]
 + DeepNet: Scaling Transformers to 1,000 Layers, https://arxiv.org/abs/2203.00555
 
@@ -131,6 +134,7 @@ Transformers
 
 ## [Papers- Bringing Old Films Back to Life]
 + Bringing Old Films Back to Life, https://arxiv.org/pdf/2203.17276.pdf
+
 
 ## [Papers- MISC]
 + Self-Attention with Relative Position Representations, https://arxiv.org/abs/1803.02155
