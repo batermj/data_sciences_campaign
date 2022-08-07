@@ -16,6 +16,7 @@ Transformers on NLP
 
 ## [Papers- Transformers]
 + ALBERT (from Google Research and the Toyota Technological Institute at Chicago) released with the paper ALBERT: A Lite BERT for Self-supervised Learning of Language Representations, by Zhenzhong Lan, Mingda Chen, Sebastian Goodman, Kevin Gimpel, Piyush Sharma, Radu Soricut. https://arxiv.org/abs/1909.11942
++ BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension, https://arxiv.org/abs/1910.13461
 + 
 * Trankit: A Light-Weight Transformer-based Toolkit for Multilingual Natural Language Processing, https://arxiv.org/abs/2101.03289
 * Fastformer: Additive Attention is All You Need,https://arxiv.org/abs/2108.09084
