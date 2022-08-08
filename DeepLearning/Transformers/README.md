@@ -77,6 +77,7 @@ Transformers
 
 
 ## [Papers- Surveys]
++ An Impartial Take to the CNN vs Transformer Robustness Contest, https://arxiv.org/pdf/2207.11347.pdf
 + A Survey of Transformers, https://arxiv.org/abs/2106.04554
 + Transformers in Vision: A Survey, https://arxiv.org/abs/2101.01169
 + A Survey on Vision Transformer, https://arxiv.org/abs/2012.12556
