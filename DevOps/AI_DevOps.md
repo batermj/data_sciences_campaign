@@ -8,11 +8,14 @@ DevOps for Artificial Intelligence
 +
 
 # [Courses]
++ Machine Learning Engineering for Production (MLOps) Specialization, https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops
 + AI-Sys Spring 2019, https://ucbrise.github.io/cs294-ai-sys-sp19/
 + CSE 599W: Systems for ML, http://dlsys.cs.washington.edu/
 + 
 
 # [Blogs]
++ 6 Benefits of Using MLOps For Your Machine Learning Application, https://www.marktechpost.com/2022/08/07/6-benefits-of-using-mlops-for-your-machine-learning-application/
++ 
 
 # [Interviews- Q&A]
 + DevOps Exercises, https://github.com/bregman-arie/devops-exercises
