@@ -6,6 +6,7 @@ Model DevOps
 + MLOps Is a Mess But That's to be Expected, https://www.mihaileric.com/posts/mlops-is-a-mess/
 + 5 key organizational models for DevOps teams, https://about.gitlab.com/blog/2022/03/08/key-organizational-models-for-devops-teams/?utm_campaign=blog&utm_source=linkedin&utm_medium=social
 + Machine Learning in Production: Why You Should Care About Data and Concept Drift, https://towardsdatascience.com/machine-learning-in-production-why-you-should-care-about-data-and-concept-drift-d96d0bc907fb
++ 6 Benefits of Using MLOps For Your Machine Learning Application, https://www.marktechpost.com/2022/08/07/6-benefits-of-using-mlops-for-your-machine-learning-application/
 + 
 
 ## [Blogs- Deployment]
