@@ -85,7 +85,8 @@ Transformers
 + 2021-A Survey of Transformers, https://www.jianshu.com/p/98d82f83b6ba
 + AMMUS : A Survey of Transformer-based Pretrained Models in Natural Language Processing, https://arxiv.org/abs/2108.05542
 + Efficient Transformers: A Survey, https://arxiv.org/pdf/2009.06732.pdf
-+ 
++ Pure Transformers are Powerful Graph Learners, https://arxiv.org/abs/2207.02505
+
 
 
 ## [Papers- Formal Algorithms]
@@ -105,6 +106,7 @@ Transformers
 
 ## [Papers- Graph Transformer]
 + Recipe for a General, Powerful, Scalable Graph Transformer, https://arxiv.org/abs/2205.12454
++ 
 
 
 ## [Papers- Reinforcement Learning]
