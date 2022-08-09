@@ -152,7 +152,7 @@ Transformers
 + Transformer Memory as a Differentiable Search Index, https://arxiv.org/abs/2202.06991
 + [Microsoft] Unveiling Transformers with LEGO: a synthetic reasoning task, https://arxiv.org/abs/2206.04301
 + [Google] Frequency Effects on Syntactic Rule Learning in Transformers, https://arxiv.org/pdf/2109.07020.pdf
-+ 
++ [Google] Multi-Game Decision Transformers, https://sites.google.com/view/multi-game-transformers
 
 
 # [Books]
