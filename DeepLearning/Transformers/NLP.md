@@ -22,7 +22,7 @@ Transformers on NLP
 * Fastformer: Additive Attention is All You Need,https://arxiv.org/abs/2108.09084
 * Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text  Models, https://arxiv.org/abs/2108.08877
 * [Attention Is All You Need - arXiv 2017)](https://arxiv.org/abs/1706.03762)  
-* [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context - arXiv 2019)](https://arxiv.org/abs/1901.02860)  
+* [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context - arXiv 2019)](https://arxiv.org/abs/1901.02860)
 * [Universal Transformers - ICLR 2019)](https://arxiv.org/abs/1807.03819) 
 * [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer - arXiv 2019)](https://arxiv.org/abs/1910.10683) 
 * [Reformer: The Efficient Transformer - ICLR 2020)](https://arxiv.org/abs/2001.04451) 
@@ -47,7 +47,7 @@ Transformers on NLP
 * AMMUS : A Survey of Transformer-based Pretrained Models in Natural Language Processing, https://arxiv.org/abs/2108.05542
 * FLAT: Chinese NER Using Flat-Lattice Transformer, https://arxiv.org/abs/2004.11795
 * Sentence Transformers: Multilingual Sentence, Paragraph, and Image Embeddings using BERT & Co., https://github.com/UKPLab/sentence-transformers
-* 
+
 
 ## [Papers- Machine Translation]
 * [The Evolved Transformer - David R. So(2019)](https://arxiv.org/pdf/1901.11117.pdf)  
@@ -76,6 +76,10 @@ Transformers on NLP
 ## [Codes- Text Generation]
 + Text Generation from Knowledge Graphs with Graph Transformers, https://github.com/rikdz/GraphWriter
 + Structural Transformer Model, https://github.com/Amazing-J/structural-transformer
+
+## [Codes- Emotion Detection]
++ The PyTorch code for paper: Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations, https://github.com/zhongpeixiang/KET
+
 
 # [ToolKits]
 + Trankit: A Light-Weight Transformer-based Toolkit for Multilingual Natural Language Processing, https://github.com/nlp-uoregon/trankit
