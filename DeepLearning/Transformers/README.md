@@ -153,6 +153,7 @@ Transformers
 + [Microsoft] Unveiling Transformers with LEGO: a synthetic reasoning task, https://arxiv.org/abs/2206.04301
 + [Google] Frequency Effects on Syntactic Rule Learning in Transformers, https://arxiv.org/pdf/2109.07020.pdf
 + [Google] Multi-Game Decision Transformers, https://sites.google.com/view/multi-game-transformers
++ Levenshtein Transformer, https://arxiv.org/pdf/1905.11006.pdf
 
 
 # [Books]
@@ -207,5 +208,6 @@ Transformers
 
 ## [Codes- Misc]
 + [Google Research: Language] Frequency Effects on Syntactic Rule Learning in Transformers, https://github.com/google-research/language
-+ 
++ [Facebook] Fairseq(-py) is a sequence modeling toolkit that allows researchers and developers to train custom models for translation, summarization, language modeling and other text generation tasks., https://github.com/facebookresearch/fairseq
+
 
