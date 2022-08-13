@@ -16,7 +16,8 @@ Transformers
 + Attention Is All You Need, https://www.youtube.com/watch?v=iDulhoQ2pro
 + 台大李宏毅21年机器学习课程 self-attention和transformer, https://www.bilibili.com/video/BV1Xp4y1b7ih/?spm_id_from=autoNext
 + Transformer models - Hugging Face Course, https://huggingface.co/course/chapter1
-+ 
++ Stanford CS25: Transformers United (Autumn 2021), https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM
+
 
 
 # [Blogs]
