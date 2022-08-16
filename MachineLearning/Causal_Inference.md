@@ -23,6 +23,7 @@ Causal Inference
 + 
 
 # [Blogs]
++ A Survey of Causal Inference Applications at Netflix, https://netflixtechblog.com/a-survey-of-causal-inference-applications-at-netflix-b62d25175e6f
 + 因果推断书籍which causal inference book you should read, https://zhuanlan.zhihu.com/p/351329702
 + 【2019】重读The Book of Why, https://zhuanlan.zhihu.com/p/72506237
 + Which causal inference book you should read, https://www.bradyneal.com/which-causal-inference-book
