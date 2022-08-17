@@ -1,6 +1,7 @@
 Computer Vision
 
 # [Blogs]
++ Transformers in computer vision: ViT architectures, tips, tricks and improvements, https://theaisummer.com/transformers-computer-vision/
 + TUTORIAL 11: VISION TRANSFORMERS, https://pytorch-lightning.readthedocs.io/en/latest/notebooks/course_UvA-DL/11-vision-transformer.html
 + MSRA的Transformer跨界超越CNN，还解决了计算复杂度难题, https://zhuanlan.zhihu.com/p/361009162
 + [Swin Transformer] Hierarchical Vision Transformer using ShiftedWindows, https://liumengyang.xyz/swin-transformer/
