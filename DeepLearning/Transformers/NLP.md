@@ -68,6 +68,11 @@ Transformers on NLP
 + Revisiting Transformer-based Models for Long Document Classification, https://arxiv.org/abs/2204.06683
 + 
 
+
+## [Papers- Long Input Summarization]
++ Extending Transformers for Long Input Summarization, https://paperswithcode.com/newsletter/36
++ 
+
 ## [Papers- MISC]
 + CHARFORMER: FAST CHARACTER TRANSFORMERS VIA GRADIENT-BASED SUBWORD TOKENIZATION, https://arxiv.org/pdf/2106.12672.pdf
 + 
