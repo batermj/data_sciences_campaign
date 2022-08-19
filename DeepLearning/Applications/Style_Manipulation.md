@@ -67,3 +67,8 @@ Style Manipulation
 + 
 
 
+
+## [Codes- 3D]
++ CLIP-based Neural Neighbor Style Transfer for 3D Assets Shailesh Mishra (Saarland University, NVIDIA), Jonathan Granskog (NVIDIA), https://granskog.xyz/clip-nnfm-for-3d
++ 
+
