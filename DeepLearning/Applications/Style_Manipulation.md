@@ -26,6 +26,8 @@ Style Manipulation
 
 ## [Papers- 3D]
 + STYLENERF: A STYLE-BASED 3D-AWARE GENERATOR FOR HIGH-RESOLUTION IMAGE SYNTHESIS， https://openreview.net/pdf?id=iUuzzTMUw9K
++ CLIP-based Neural Neighbor Style Transfer for 3D Assets, https://arxiv.org/pdf/2208.04370.pdf
++ 
 
 
 ## [Papers- Style Equalization]
