@@ -9,6 +9,7 @@
 + Tracking Progress in Natural Language Processing, https://github.com/sebastianruder/NLP-progress
 
 # [Courses]
++ CS224n: Natural Language Processing with Deep Learning Stanford / Winter 2022, https://web.stanford.edu/class/cs224n/
 + Natural Language Processing Specialization, https://www.coursera.org/specializations/natural-language-processing?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=20211011-nlp-2-hugging_face-page-nlp-refresh
 + Applied Language Technology, https://applied-language-technology.readthedocs.io/en/latest/index.html
 
