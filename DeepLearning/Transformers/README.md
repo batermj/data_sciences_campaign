@@ -89,6 +89,9 @@ Transformers
 + Pure Transformers are Powerful Graph Learners, https://arxiv.org/abs/2207.02505
 
 
+## [Papers- Universal Hyperparameter Optimization with Transformers]
++ OptFormer: Towards Universal Hyperparameter Optimization with Transformers, https://ai.googleblog.com/2022/08/optformer-towards-universal.html
+
 
 ## [Papers- Formal Algorithms]
 + Formal Algorithms for Transformers, https://arxiv.org/abs/2207.09238
