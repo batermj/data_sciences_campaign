@@ -19,6 +19,7 @@ Transformers on NLP
 + BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension, https://arxiv.org/abs/1910.13461
 + BARThez: a Skilled Pretrained French Sequence-to-Sequence Model, https://arxiv.org/abs/2010.12321
 + BARTpho: Pre-trained Sequence-to-Sequence Models for Vietnamese, https://arxiv.org/abs/2109.09701
++ BEiT: BERT Pre-Training of Image Transformers, https://arxiv.org/abs/2106.08254
 + 
 * Trankit: A Light-Weight Transformer-based Toolkit for Multilingual Natural Language Processing, https://arxiv.org/abs/2101.03289
 * Fastformer: Additive Attention is All You Need,https://arxiv.org/abs/2108.09084
