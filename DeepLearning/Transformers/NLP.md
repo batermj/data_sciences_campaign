@@ -24,6 +24,7 @@ Transformers on NLP
 + Leveraging Pre-trained Checkpoints for Sequence Generation Tasks, https://arxiv.org/abs/1907.12461
 + BERTweet: A pre-trained language model for English Tweets, https://aclanthology.org/2020.emnlp-demos.2/
 + Big Bird: Transformers for Longer Sequences, https://arxiv.org/abs/2007.14062
++ Recipes for building an open-domain chatbot, https://arxiv.org/abs/2004.13637
 + 
 * Trankit: A Light-Weight Transformer-based Toolkit for Multilingual Natural Language Processing, https://arxiv.org/abs/2101.03289
 * Fastformer: Additive Attention is All You Need,https://arxiv.org/abs/2108.09084
