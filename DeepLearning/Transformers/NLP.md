@@ -25,6 +25,7 @@ Transformers on NLP
 + BERTweet: A pre-trained language model for English Tweets, https://aclanthology.org/2020.emnlp-demos.2/
 + Big Bird: Transformers for Longer Sequences, https://arxiv.org/abs/2007.14062
 + Recipes for building an open-domain chatbot, https://arxiv.org/abs/2004.13637
++ A one-year long research workshop on large multilingual models and datasets, https://bigscience.huggingface.co
 + 
 * Trankit: A Light-Weight Transformer-based Toolkit for Multilingual Natural Language Processing, https://arxiv.org/abs/2101.03289
 * Fastformer: Additive Attention is All You Need,https://arxiv.org/abs/2108.09084
