@@ -24,6 +24,11 @@ Self-Driving
 + Neural Circuit Policies Enabling Auditable Autonomy, https://github.com/mlech26l/keras-ncp
 + 
 
+## [Codes- Solutions]
++ Self-Driving Car, https://github.com/sushant097/Self-Driving-Car-Projects
++ 
+
+
 ## [Codes- Holistic Perception]
 + LiDAR-based Panoptic Segmentation via Dynamic Shifting Network, https://github.com/hongfz16/DS-Net
 + 
