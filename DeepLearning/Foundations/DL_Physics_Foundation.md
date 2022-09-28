@@ -5,7 +5,8 @@ Deep Learning Explainability: Hints from Physics
 
 
 # [Papers]
-
++ A connection between probability, physics and neural networks, https://arxiv.org/abs/2209.12737
++ 
 
 # [Codes]
 
