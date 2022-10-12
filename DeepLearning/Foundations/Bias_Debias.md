@@ -11,5 +11,10 @@ Bias and Debias
 + A Farewell to the Bias-Variance Tradeoff? An Overview of the Theory of Overparameterized Machine Learning, https://arxiv.org/abs/2109.02355
 + 
 
+
+## [Papers- Self-Stabilization]
++ Self-Stabilization: The Implicit Bias of Gradient Descent at the Edge of Stability, https://arxiv.org/abs/2209.15594
++ 
+
 # [Codes]
 
