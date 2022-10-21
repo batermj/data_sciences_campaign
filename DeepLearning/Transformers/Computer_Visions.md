@@ -15,7 +15,7 @@ Computer Vision
 # [Papers- Survey]
 + A Survey on Vision Transformer, https://arxiv.org/abs/2012.12556
 
-# [Papers- Computer Vision]
+## [Papers- Computer Vision]
 + Vision Transformer with Progressive Sampling, https://arxiv.org/abs/2108.01684
 + ViTGAN: Training GANs with Vision Transformers, https://arxiv.org/abs/2107.04589
 + Do Vision Transformers See Like Convolutional Neural Networks? https://arxiv.org/abs/2108.08810
@@ -64,7 +64,9 @@ Computer Vision
 + Transforming Model Prediction for Tracking, https://arxiv.org/pdf/2203.11192.pdf
 + 
 
-
+## [Papers- Image Quality]
++ MUSIQ: Multi-scale Image Quality Transformer, https://arxiv.org/abs/2108.05997
++ 
 
 ## [Papers- Image Super-Resolution]
 + Learning Texture Transformer Network for Image Super-Resolution, https://arxiv.org/abs/2006.04139
@@ -111,3 +113,5 @@ Computer Vision
 + DiT: Self-Supervised Pre-Training for Document Image Transformer, https://github.com/microsoft/unilm/tree/master/dit
 + 
 
+## [Codes- Image Quality]
++ MUSIQ: Multi-scale Image Quality Transformer, https://github.com/google-research/google-research/tree/master/musiq
