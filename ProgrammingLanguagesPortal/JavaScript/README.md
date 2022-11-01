@@ -8,3 +8,7 @@ Portal for JavaScript
 
 # [Event Loops]
 + The event loop, https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop#run-to-completion
+
+# [Promise]
++ Using Promise, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises
++ 
