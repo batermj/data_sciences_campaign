@@ -6,3 +6,5 @@ Portal for JavaScript
 # [Tutorials]
 + JavaScript Guide, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 
+# [Event Loops]
++ The event loop, https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop#run-to-completion
