@@ -14,4 +14,5 @@ Portal for JavaScript
 # [Promise]
 + Promise, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
 + Using Promise, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises
++ Reject a Promise in JavaScript, https://masteringjs.io/tutorials/fundamentals/promise-reject
 + 
