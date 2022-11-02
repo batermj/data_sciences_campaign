@@ -8,6 +8,8 @@ Portal for JavaScript
 
 # [Event Loops]
 + The event loop, https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop#run-to-completion
++ The Node.js Event Loop, Timers, and process.nextTick(), https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/
++ 
 
 # [Promise]
 + Promise, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
