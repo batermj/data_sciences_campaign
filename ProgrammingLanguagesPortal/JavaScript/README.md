@@ -6,6 +6,7 @@ Portal for JavaScript
 # [Tutorials]
 + JavaScript Guide, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 + Fundamentals, https://masteringjs.io/fundamentals
++ W3C JavaScript, https://www.w3schools.com/js/
 + 
 
 # [Event Loops]
