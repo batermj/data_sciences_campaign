@@ -91,6 +91,8 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 + [PyTorch 中文教程](https://www.w3cschool.cn/pytorch/)
 + [DeepMind] The Deep Learning Lecture Series is a collaboration between DeepMind and the UCL Centre for Artificial Intelligence., https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF
 + DEEP LEARNING DS-GA 1008 · SPRING 2020 · NYU CENTER FOR DATA SCIENCE, INSTRUCTORS	Yann LeCun & Alfredo Canziani,  https://atcold.github.io/pytorch-Deep-Learning/
++ DEEP LEARNING, https://atcold.github.io/pytorch-Deep-Learning/
+
 
 
 
