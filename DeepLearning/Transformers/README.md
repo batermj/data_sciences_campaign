@@ -170,7 +170,7 @@ Transformers
 +  Transformers, https://github.com/huggingface/transformers
 +  Saint Lightning This repository contains an implementation of SAINT (Self-Attention and Intersample Attention Transformer) using Pytorch-Lightning as a framework and Hydra for the configuration. Find the paper on arxiv, https://github.com/Actis92/lit-saint
 +  NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion., https://github.com/microsoft/NUWA
-+  
++  nn.Transformer module, https://pytorch.org/tutorials/beginner/transformer_tutorial?utm_source=linkedin&utm_medium=organic_social&utm_campaign=tutorial_tuesdays&utm_content=tutorial
 
 ## [Codes- Deep Transformer]
 + AI Fundamentals DeepNet: scaling Transformers to 1,000 Layers and beyond, https://github.com/microsoft/unilm
