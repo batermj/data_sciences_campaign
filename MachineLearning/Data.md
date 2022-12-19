@@ -9,6 +9,11 @@ Data Augmentation
 # [Papers]
 
 
+## [Measuring Data]
++ Measuring Data, https://arxiv.org/abs/2212.05129
++ 
+
+
 ## [Papers- Bayesian]
 + Training on Test Data with Bayesian Adaptation for Covariate Shift, https://arxiv.org/abs/2109.12746
 + 
