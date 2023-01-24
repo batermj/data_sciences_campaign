@@ -21,6 +21,7 @@ Transformers
 
 
 # [Blogs]
++ Transformer models: an introduction and catalog — 2023 Edition, https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/
 + The Annotated Transformer, http://nlp.seas.harvard.edu/2018/04/03/attention.html
 + multiscale-vision-transformers-an-architecture-for-modeling-visual-data, https://ai.facebook.com/blog/multiscale-vision-transformers-an-architecture-for-modeling-visual-data/
 + The Illustrated Transformer, https://jalammar.github.io/illustrated-transformer/
