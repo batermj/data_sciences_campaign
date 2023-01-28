@@ -79,6 +79,7 @@ Top 100 Awesome Deep Learning Papers & Books & Blog & Whatever The Entrepreneur&
 # Patents
 
 # Books
++ Understanding Deep Learning, https://udlbook.github.io/udlbook/
 + [Neural-Symbolic Cognitive Reasoning](https://www.springer.com/gp/book/9783540732457)  Authors: D'Avila Garcez, Artur S., Lamb, Luís C., Gabbay, Dov M
 
 # Courses
