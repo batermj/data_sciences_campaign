@@ -15,6 +15,7 @@
 + <TBC>
 
   
-# [Books]\
+# [Books]
 + Computer Vision: Algorithms and Applications, 2nd ed., https://szeliski.org/Book/
++ Computer Vision:  Models, Learning, and Inference, http://www.computervisionmodels.com/
   
