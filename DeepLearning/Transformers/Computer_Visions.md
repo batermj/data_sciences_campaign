@@ -16,6 +16,7 @@ Computer Vision
 + A Survey on Vision Transformer, https://arxiv.org/abs/2012.12556
 
 ## [Papers- Computer Vision]
++ Efficiency 360: Efficient Vision Transformers, https://arxiv.org/abs/2302.08374
 + Vision Transformer with Progressive Sampling, https://arxiv.org/abs/2108.01684
 + ViTGAN: Training GANs with Vision Transformers, https://arxiv.org/abs/2107.04589
 + Do Vision Transformers See Like Convolutional Neural Networks? https://arxiv.org/abs/2108.08810
