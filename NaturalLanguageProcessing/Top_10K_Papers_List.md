@@ -1,6 +1,8 @@
 Top 10K Papers List
 
 # [Papers]
++ Chapter 9 Convolutional Networks, https://www.deeplearningbook.org/contents/convnets.html
++ Convolutional Neural Networks, https://www.coursera.org/learn/convolutional-neural-networks/home/week/1,
 + BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, https://arxiv.org/abs/1810.04805
 + Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models, https://arxiv.org/abs/2304.01852
 + 
