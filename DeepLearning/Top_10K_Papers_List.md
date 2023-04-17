@@ -6,6 +6,7 @@ Top 10K Papers List
 + [CNN][Standford] Welcome to the Deep Learning Tutorial! http://ufldl.stanford.edu/tutorial/
 + [CNN][Course] Convolutional Neural Networks, https://www.coursera.org/learn/convolutional-neural-networks/
 + [CNN][Codes] Convolutional Neural Networks for Text, https://lena-voita.github.io/nlp_course/models/convolutional.html
++ [CNN][Paper] LeNet-5, GradientBased Learning Applied to Document Recognition, http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
 + [CNN][Paper] AlexNet, ImageNet Classification with Deep Convolutional Neural Networks, https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
 + [CNN][Paper] VGG, Very Deep Convolutional Networks for Large-Scale Image Recognition, https://arxiv.org/abs/1409.1556
 
