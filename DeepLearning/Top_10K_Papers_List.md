@@ -11,4 +11,4 @@ Top 10K Papers List
 + [CNN][Paper] VGG, Very Deep Convolutional Networks for Large-Scale Image Recognition, https://arxiv.org/abs/1409.1556
 + [CNN][Paper] ResNet, Deep Residual Learning for Image Recognition, https://arxiv.org/abs/1512.03385
 + [CNN][Paper] Networks in Networks and 1x1 Convolutions, Network In Network, https://arxiv.org/abs/1312.4400
-+ 
++ [CNN][Paper] Inception Network Motivation, Going Deeper with Convolutions, https://arxiv.org/abs/1409.4842
