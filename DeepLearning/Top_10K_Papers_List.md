@@ -12,3 +12,4 @@ Top 10K Papers List
 + [CNN][Paper] ResNet, Deep Residual Learning for Image Recognition, https://arxiv.org/abs/1512.03385
 + [CNN][Paper] Networks in Networks and 1x1 Convolutions, Network In Network, https://arxiv.org/abs/1312.4400
 + [CNN][Paper] Inception Network Motivation, Going Deeper with Convolutions, https://arxiv.org/abs/1409.4842
++ [CNN][Paper] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, https://arxiv.org/abs/1704.04861
