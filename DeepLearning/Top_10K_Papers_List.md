@@ -16,3 +16,7 @@ Top 10K Papers List
 + [CNN][Paper] MobileNetV2: Inverted Residuals and Linear Bottlenecks, https://arxiv.org/abs/1801.04381
 + [CNN][Paper] Searching for MobileNetV3, https://arxiv.org/abs/1905.02244
 + [CNN][Paper] EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks, https://arxiv.org/abs/1905.11946
++ [CNN][Codes] https://github.com/kaiminghe
++ [CNN][Codes] MoCo: Momentum Contrast for Unsupervised Visual Representation Learning, https://github.com/facebookresearch/moco
++ [CNN][Codes] Masked Autoencoders: A PyTorch Implementation, https://github.com/facebookresearch/mae
++ [CNN][Codes]Detectron2, https://github.com/facebookresearch/detectron2
