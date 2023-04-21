@@ -19,4 +19,8 @@ Top 10K Papers List
 + [CNN][Codes] https://github.com/kaiminghe
 + [CNN][Codes] MoCo: Momentum Contrast for Unsupervised Visual Representation Learning, https://github.com/facebookresearch/moco
 + [CNN][Codes] Masked Autoencoders: A PyTorch Implementation, https://github.com/facebookresearch/mae
-+ [CNN][Codes]Detectron2, https://github.com/facebookresearch/detectron2
++ [CNN][Codes] Detectron2, https://github.com/facebookresearch/detectron2
++ [CNN][Paper] OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks, https://arxiv.org/abs/1312.6229
++ [CNN][Course] OverFeat Integrated    Recogni.on,    Localiza.on    and    Detec.on    using Convolu.onal    Networks Sermanet    et.    al Presenta.on    by    Eric    Holmdahl, http://vision.stanford.edu/teaching/cs231b_spring1415/slides/overfeat_eric.pdf
++ 
+ 
