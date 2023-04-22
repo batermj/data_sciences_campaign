@@ -41,5 +41,6 @@ Top 10K Papers List
 + [CNN][Paper] Automatic Brain Tumor Detection and Segmentation Using U-Net Based Fully Convolutional Networks, https://arxiv.org/abs/1705.03820
 + [CNN][Paper] DeepFace: Closing the Gap to Human-Level Performance in Face Verification, https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf, https://ranzato.github.io
 + [CNN][Paper] FaceNet: A Unified Embedding for Face Recognition and Clustering, https://arxiv.org/abs/1503.03832
++ [CNN][Paper] Visualizing and Understanding Convolutional Networks, https://arxiv.org/abs/1311.2901
 + 
  
