@@ -37,6 +37,7 @@ Top 10K Papers List
 + [CNN][Paper] U-Net: Convolutional Networks for Biomedical Image Segmentation, https://arxiv.org/abs/1505.04597
 + [CNN][Paper] U-Net, https://paperswithcode.com/method/u-net
 + [CNN][Blog] Understand Semantic segmentation with the Fully Convolutional Network U-Net step-by-step, https://pallawi-ds.medium.com/understand-semantic-segmentation-with-the-fully-convolutional-network-u-net-step-by-step-9d287b12c852
-+ 
++ [CNN][Paper] Fully Convolutional Architectures for Multi-Class Segmentation in Chest Radiographs, https://arxiv.org/abs/1701.08816 
++ [CNN][Paper] Automatic Brain Tumor Detection and Segmentation Using U-Net Based Fully Convolutional Networks, https://arxiv.org/abs/1705.03820
 + 
  
