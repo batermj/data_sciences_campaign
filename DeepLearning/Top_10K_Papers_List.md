@@ -43,5 +43,6 @@ Top 10K Papers List
 + [CNN][Paper] FaceNet: A Unified Embedding for Face Recognition and Clustering, https://arxiv.org/abs/1503.03832
 + [CNN][Paper] Visualizing and Understanding Convolutional Networks, https://arxiv.org/abs/1311.2901
 + [CNN][Paper] A Neural Algorithm of Artistic Style, https://arxiv.org/abs/1508.06576
++ [CNN][Codes] SAM (Segment Anything Model), https://huggingface.co/docs/transformers/main/en/model_doc/sam
 + 
  
