@@ -30,6 +30,7 @@ Top 10K Papers List
 + [CNN][Paper] YOLOv4: Optimal Speed and Accuracy of Object Detection, https://arxiv.org/abs/2004.10934
 + [CNN][Paper] YOLOv3: An Incremental Improvement, https://arxiv.org/abs/1804.02767
 + [CNN][Paper] YOLO9000: Better, Faster, Stronger, https://arxiv.org/abs/1612.08242
++ [CNN][Blog] YOLO Object Detection Explained, https://www.datacamp.com/blog/yolo-object-detection-explained
 + [CNN][Paper] R-CNN, 2013 rich feature hierarchies for accurate object detection and semantic segmentation, https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf, https://ieeexplore.ieee.org/document/6909475
 + [CNN][Blog] Rich feature hierarchies for accurate object detection and semantic segmentation Tech report (v5), https://www.arxiv-vanity.com/papers/1311.2524/
 + [CNN][Paper] Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, https://arxiv.org/abs/1506.01497
