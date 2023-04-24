@@ -79,6 +79,9 @@ Transformers
 + Ultimate-Awesome-Transformer-Attention, https://github.com/cmhungsteve/Awesome-Transformer-Attention
 + 
 
+## [Papers- Scaling Transformer]
++ Scaling Transformer to 1M tokens and beyond with RMT, https://arxiv.org/abs/2304.11062
+
 ## [Papers- Insights to Transformer]
 + What do Vision Transformers Learn? A Visual Exploration, https://arxiv.org/abs/2212.06727
 
