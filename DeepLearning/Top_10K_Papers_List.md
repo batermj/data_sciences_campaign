@@ -34,6 +34,10 @@ Top 10K Papers List
 + [CNN][Blog] Rich feature hierarchies for accurate object detection and semantic segmentation Tech report (v5), https://www.arxiv-vanity.com/papers/1311.2524/
 + [CNN][Paper] Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, https://arxiv.org/abs/1506.01497
 + [CNN][Codes] Faster R-CNN, https://paperswithcode.com/method/faster-r-cnn
++ [CNN][Paper] Fast R-CNN
++ [CNN][Paper] RFCN
++ [CNN][Paper] Mask RCNN
++ [CNN][Paper] SSD
 + [CNN][Paper] U-Net: Convolutional Networks for Biomedical Image Segmentation, https://arxiv.org/abs/1505.04597
 + [CNN][Paper] U-Net, https://paperswithcode.com/method/u-net
 + [CNN][Blog] Understand Semantic segmentation with the Fully Convolutional Network U-Net step-by-step, https://pallawi-ds.medium.com/understand-semantic-segmentation-with-the-fully-convolutional-network-u-net-step-by-step-9d287b12c852
