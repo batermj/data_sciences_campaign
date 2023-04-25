@@ -49,5 +49,5 @@ Top 10K Papers List
 + [CNN][Paper] Visualizing and Understanding Convolutional Networks, https://arxiv.org/abs/1311.2901
 + [CNN][Paper] A Neural Algorithm of Artistic Style, https://arxiv.org/abs/1508.06576
 + [CNN][Codes] SAM (Segment Anything Model), https://huggingface.co/docs/transformers/main/en/model_doc/sam
-+ 
++ CNN][Paper] Hyena Hierarchy: Towards Larger Convolutional Language Models, https://arxiv.org/abs/2302.10866
  
