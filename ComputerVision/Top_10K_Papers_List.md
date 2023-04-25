@@ -9,6 +9,7 @@
 + [CNN][Paper] YOLOv4: Optimal Speed and Accuracy of Object Detection, https://arxiv.org/abs/2004.10934
 + [CNN][Paper] YOLOv3: An Incremental Improvement, https://arxiv.org/abs/1804.02767
 + [CNN][Paper] YOLO9000: Better, Faster, Stronger, https://arxiv.org/abs/1612.08242
++ [CNN][Codes] YAD2K: Yet Another Darknet 2 Keras, https://github.com/allanzelener/YAD2K, https://pjreddie.com/darknet/yolo/
 + DINOv2: Learning Robust Visual Features without Supervision, https://arxiv.org/abs/2304.07193, https://github.com/facebookresearch/dinov2, https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/, https://dinov2.metademolab.com/?fbclid=IwAR2titnlXyis-JL6M6vDSmfDgYAECNI0bNZqvWIMa9V8uCGWNIZqvgzFGvM
 + 
 
