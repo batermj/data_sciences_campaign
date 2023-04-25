@@ -10,4 +10,6 @@ xGPTs
 ## [LLM-Self-Debug]
 + Teaching Large Language Models to Self-Debug, https://arxiv.org/abs/2304.05128
 
+## [LLM-Codes]
++ DeepSpeed Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales, https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat
 
