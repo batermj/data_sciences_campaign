@@ -8,6 +8,11 @@ PyTorch
 
 # [Blogs]
 
+## [Operator Fusion and CPU/GPU Code-Generation]
++ How Pytorch 2.0 Accelerates Deep Learning with Operator Fusion and CPU/GPU Code-Generation, https://towardsdatascience.com/how-pytorch-2-0-accelerates-deep-learning-with-operator-fusion-and-cpu-gpu-code-generation-35132a85bd26
+
+
+
 ## [Blogs- DataLoaders]
 + TORCH.UTILS.DATA, https://pytorch.org/docs/stable/data.html
 + A detailed example of how to generate your data in parallel with PyTorch, https://stanford.edu/~shervine/blog/pytorch-how-to-generate-data-parallel
