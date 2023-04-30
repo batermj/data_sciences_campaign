@@ -5,8 +5,13 @@
 
 -- _Definition by the [Open Knowledge Foundation](https://okfn.org/opendata/)_
 
+## [Papers]
++ DataComp: In search of the next generation of multimodal datasets, https://arxiv.org/abs/2304.14108
+
 ## Datasets Search Tools
 + [Google’s Dataset Search](https://toolbox.google.com/datasetsearch)
+
+
 
 ## Open Data
 
