@@ -1,6 +1,7 @@
 Top 10K Papers List
 
 # [Papers]
++ [GPT-2] Language Models are Unsupervised Multitask Learners, https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf
 + [GPT-3] Language Models are Few-Shot Learners, https://arxiv.org/abs/2005.14165
 + ChatGLM-6B, https://github.com/THUDM/ChatGLM-6B/tree/main/improve
 + 
