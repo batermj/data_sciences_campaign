@@ -10,6 +10,7 @@ Style Transfer
 
 # [Papers]
 + Son of Zorn's Lemma: Targeted Style Transfer Using Instance-aware Semantic Segmentation, https://arxiv.org/abs/1701.02357
++ A Neural Algorithm of Artistic Style, https://arxiv.org/abs/1508.06576
 + 
 
 ## [Papers- 3D]
