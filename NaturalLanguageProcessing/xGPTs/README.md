@@ -13,3 +13,5 @@ xGPTs
 ## [LLM-Codes]
 + DeepSpeed Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales, https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat
 
+## [LLM-Plugins-Codes]
++ starcoder, HF Code Autocomplete, https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode, https://huggingface.co/bigcode/starcoder
