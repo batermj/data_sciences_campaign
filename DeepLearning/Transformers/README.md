@@ -18,8 +18,6 @@ Transformers
 + Transformer models - Hugging Face Course, https://huggingface.co/course/chapter1
 + Stanford CS25: Transformers United (Autumn 2021), https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM
 
-
-
 # [Blogs]
 + Transformer models: an introduction and catalog — 2023 Edition, https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/
 + The Annotated Transformer, http://nlp.seas.harvard.edu/2018/04/03/attention.html
@@ -150,6 +148,8 @@ Transformers
 ## [Papers- Bringing Old Films Back to Life]
 + Bringing Old Films Back to Life, https://arxiv.org/pdf/2203.17276.pdf
 
+## [Papers- Spectral Graph Neural Networks Meet Transformers]
++ Specformer: Spectral Graph Neural Networks Meet Transformers, https://arxiv.org/abs/2303.01028
 
 ## [Papers- MISC]
 + Self-Attention with Relative Position Representations, https://arxiv.org/abs/1803.02155
