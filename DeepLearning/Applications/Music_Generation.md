@@ -18,6 +18,7 @@ Music Generation
 + 
 
 # [Codes]
++ Audiocraft is a PyTorch library for deep learning research on audio generation. At the moment, it contains the code for MusicGen, a state-of-the-art controllable text-to-music model, https://github.com/facebookresearch/audiocraft
 
 ## [Codes- Singing Voice Generation]
 + DEMO of RealSinger, https://realsinger.github.io
