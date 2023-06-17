@@ -6,7 +6,7 @@ Music Generation
 
 # [Papers]
 + FIGARO: Generating Symbolic Music with Fine-Grained Artistic Control, https://arxiv.org/abs/2201.10936
-
++ Simple and Controllable Music Generation, https://arxiv.org/abs/2306.05284
 
 ## [Papers- Singing Voice Generation]
 + RealSinger: Ultra-Realistic Singing Voice Generation via Stochastic Differential Equations, https://openreview.net/forum?id=ctnmrjv6lU5
