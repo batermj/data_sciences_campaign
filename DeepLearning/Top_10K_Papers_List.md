@@ -1,6 +1,7 @@
 Top 10K Papers List
 
 # [Papers]
++ [Roadmap] Deep Learning Papers Reading Roadmap, https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 + [CNN][Book] Chapter 9 Convolutional Networks, https://www.deeplearningbook.org/contents/convnets.html
 + [CNN][Standford CS-230] Convolutional Neural Networks cheatsheet, https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks#
 + [CNN][Standford] Welcome to the Deep Learning Tutorial! http://ufldl.stanford.edu/tutorial/
