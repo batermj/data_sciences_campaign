@@ -1,23 +1,7 @@
 Top 10K Papers List
 
-# [Papers]
+# [Papers to be Read]
 + [Roadmap] Deep Learning Papers Reading Roadmap, https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
-+ [CNN][Book] Chapter 9 Convolutional Networks, https://www.deeplearningbook.org/contents/convnets.html
-+ [CNN][Standford CS-230] Convolutional Neural Networks cheatsheet, https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks#
-+ [CNN][Standford] Welcome to the Deep Learning Tutorial! http://ufldl.stanford.edu/tutorial/
-+ [CNN][Course] Convolutional Neural Networks, https://www.coursera.org/learn/convolutional-neural-networks/
-+ [CNN][Codes] Convolutional Neural Networks for Text, https://lena-voita.github.io/nlp_course/models/convolutional.html
-+ [CNN][Paper] LeNet-5, GradientBased Learning Applied to Document Recognition, http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
-+ [CNN][Paper] AlexNet, ImageNet Classification with Deep Convolutional Neural Networks, https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
-+ [CNN][Paper] VGG, Very Deep Convolutional Networks for Large-Scale Image Recognition, https://arxiv.org/abs/1409.1556
-+ [CNN][Paper] ResNet, Deep Residual Learning for Image Recognition, https://arxiv.org/abs/1512.03385
-+ [CNN][Paper] Networks in Networks and 1x1 Convolutions, Network In Network, https://arxiv.org/abs/1312.4400
-+ [CNN][Paper] Inception Network Motivation, Going Deeper with Convolutions, https://arxiv.org/abs/1409.4842
-+ [CNN][Paper] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, https://arxiv.org/abs/1704.04861
-+ [CNN][Paper] MobileNetV2: Inverted Residuals and Linear Bottlenecks, https://arxiv.org/abs/1801.04381
-+ [CNN][Paper] Searching for MobileNetV3, https://arxiv.org/abs/1905.02244
-+ [CNN][Paper] EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks, https://arxiv.org/abs/1905.11946
-+ [CNN][Codes] https://github.com/kaiminghe
 + [CNN][Codes] MoCo: Momentum Contrast for Unsupervised Visual Representation Learning, https://github.com/facebookresearch/moco
 + [CNN][Codes] Masked Autoencoders: A PyTorch Implementation, https://github.com/facebookresearch/mae
 + [CNN][Codes] Detectron2, https://github.com/facebookresearch/detectron2
@@ -52,4 +36,49 @@ Top 10K Papers List
 + [CNN][Codes] SAM (Segment Anything Model), https://huggingface.co/docs/transformers/main/en/model_doc/sam
 + [CNN][Paper] Hyena Hierarchy: Towards Larger Convolutional Language Models, https://arxiv.org/abs/2302.10866
 + [CNN][Paper] Going Deeper with Convolutions, https://arxiv.org/abs/1409.4842
- 
++ CLIP: Connecting text and images, https://openai.com/research/clip, Codes: https://github.com/openai/CLIP; Paper: Learning Transferable Visual Models From Natural Language Supervision, https://arxiv.org/abs/2103.00020
++ Image GPT, https://openai.com/research/image-gpt
++ MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (Howard, Zhu, Chen, Kalenichenko, Wang, Weyand, Andreetto, & Adam, 2017), https://arxiv.org/abs/1704.04861, https://github.com/fchollet/deep-learning-with-python-notebooks
++ MobileNetV2: Inverted Residuals and Linear Bottlenecks (Sandler, Howard, Zhu, Zhmoginov &Chen, 2018), https://arxiv.org/abs/1801.04381
++ EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks (Tan & Le, 2019), https://arxiv.org/abs/1905.11946
++ You Only Look Once: Unified, Real-Time Object Detection (Redmon, Divvala, Girshick & Farhadi, 2015), https://arxiv.org/abs/1506.02640
++ YOLO9000: Better, Faster, Stronger (Redmon & Farhadi, 2016), https://arxiv.org/abs/1612.08242
++ YAD2K (GitHub: allanzelener), https://github.com/allanzelener/YAD2K
++ YOLO: Real-Time Object Detection, https://pjreddie.com/darknet/yolo/
++ Fully Convolutional Architectures for Multi-Class Segmentation in Chest Radiographs (Novikov, Lenis, Major, Hladůvka, Wimmer & Bühler, 2017), https://arxiv.org/abs/1701.08816
++ Automatic Brain Tumor Detection and Segmentation Using U-Net Based Fully Convolutional Networks (Dong, Yang, Liu, Mo & Guo, 2017), https://arxiv.org/abs/1705.03820
++ U-Net: Convolutional Networks for Biomedical Image Segmentation (Ronneberger, Fischer & Brox, 2015), https://arxiv.org/abs/1505.04597
++ FaceNet: A Unified Embedding for Face Recognition and Clustering (Schroff, Kalenichenko & Philbin, 2015), https://arxiv.org/pdf/1503.03832.pdf
++ DeepFace: Closing the Gap to Human-Level Performance in Face Verification (Taigman, Yang, Ranzato & Wolf), https://scontent.ffjr7-1.fna.fbcdn.net/v/t39.8562-6/240890413_887772915161178_4705912772854439762_n.pdf?_nc_cat=109&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=F5lzaUIsBnAAX8Z7wVC&_nc_ht=scontent.ffjr7-1.fna&oh=00_AfC8DK3sP5sye19oUs9dVjfLPdibMfA-3Z-MuBENbTogqg&oe=645556BF
++ [FaceNet,DeepFace] facenet (GitHub: davidsandberg), https://github.com/davidsandberg/facenet
++ How to Develop a Face Recognition System Using FaceNet in Keras (Jason Brownlee, 2019), https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/
++ keras-facenet/notebook/tf_to_keras.ipynb (GitHub: nyoki-mtl), https://github.com/nyoki-mtl/keras-facenet/blob/master/notebook/tf_to_keras.ipynb
++ A Neural Algorithm of Artistic Style (Gatys, Ecker & Bethge, 2015), https://arxiv.org/abs/1508.06576
++ Convolutional neural networks for artistic style transfer, https://harishnarayanan.org/writing/artistic-style-transfer/
++ TensorFlow Implementation of "A Neural Algorithm of Artistic Style”, http://www.chioka.in/tensorflow-implementation-neural-algorithm-of-artistic-style
++ Very Deep Convolutional Networks For Large-Scale Image Recognition (Simonyan & Zisserman, 2015), https://arxiv.org/pdf/1409.1556.pdf
++ Pretrained models (MatConvNet), https://www.vlfeat.org/matconvnet/pretrained/
++ Dropout: A Simple Way to Prevent Neural Networks from Overfitting, https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf
++ Dropout: A Simple Way to Prevent Neural Networks from Overfitting, https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer,
++ Dropout is NOT All You Need to Prevent Gradient Leakage, https://arxiv.org/abs/2208.06163
++  Dropout, https://paperswithcode.com/method/dropout
++ Modified Dropout for Training Neural Network, https://www.cs.cmu.edu/~epxing/Class/10715/project-reports/DuyckLeeLei.pdf
+
+
+# [Paper Reproduction]
++ [CNN][Book] Chapter 9 Convolutional Networks, https://www.deeplearningbook.org/contents/convnets.html
++ [CNN][Standford CS-230] Convolutional Neural Networks cheatsheet, https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks#
++ [CNN][Standford] Welcome to the Deep Learning Tutorial! http://ufldl.stanford.edu/tutorial/
++ [CNN][Course] Convolutional Neural Networks, https://www.coursera.org/learn/convolutional-neural-networks/
++ [CNN][Codes] Convolutional Neural Networks for Text, https://lena-voita.github.io/nlp_course/models/convolutional.html
++ [CNN][Paper] LeNet-5, GradientBased Learning Applied to Document Recognition, http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
++ [CNN][Paper] AlexNet, ImageNet Classification with Deep Convolutional Neural Networks, https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
++ [CNN][Paper] VGG, Very Deep Convolutional Networks for Large-Scale Image Recognition, https://arxiv.org/abs/1409.1556
++ [CNN][Paper] ResNet, Deep Residual Learning for Image Recognition, https://arxiv.org/abs/1512.03385
++ [CNN][Paper] Networks in Networks and 1x1 Convolutions, Network In Network, https://arxiv.org/abs/1312.4400
++ [CNN][Paper] Inception Network Motivation, Going Deeper with Convolutions, https://arxiv.org/abs/1409.4842
++ [CNN][Paper] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, https://arxiv.org/abs/1704.04861
++ [CNN][Paper] MobileNetV2: Inverted Residuals and Linear Bottlenecks, https://arxiv.org/abs/1801.04381
++ [CNN][Paper] Searching for MobileNetV3, https://arxiv.org/abs/1905.02244
++ [CNN][Paper] EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks, https://arxiv.org/abs/1905.11946
++ [CNN][Codes] https://github.com/kaiminghe
