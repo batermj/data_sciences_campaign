@@ -66,6 +66,7 @@ Top 10K Papers List
 
 
 # [Paper Reproduction]
+
 + [CNN][Book] Chapter 9 Convolutional Networks, https://www.deeplearningbook.org/contents/convnets.html
 + [CNN][Standford CS-230] Convolutional Neural Networks cheatsheet, https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks#
 + [CNN][Standford] Welcome to the Deep Learning Tutorial! http://ufldl.stanford.edu/tutorial/
@@ -82,3 +83,15 @@ Top 10K Papers List
 + [CNN][Paper] Searching for MobileNetV3, https://arxiv.org/abs/1905.02244
 + [CNN][Paper] EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks, https://arxiv.org/abs/1905.11946
 + [CNN][Codes] https://github.com/kaiminghe
+
+## 2023.Jul.02
++ ALBERT (from Google Research and the Toyota Technological Institute at Chicago) released with the paper ALBERT: A Lite BERT for Self-supervised Learning of Language Representations, by Zhenzhong Lan, Mingda Chen, Sebastian Goodman, Kevin Gimpel, Piyush Sharma, Radu Soricut.
++ ALIGN (from Google Research) released with the paper Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision by Chao Jia, Yinfei Yang, Ye Xia, Yi-Ting Chen, Zarana Parekh, Hieu Pham, Quoc V. Le, Yunhsuan Sung, Zhen Li, Tom Duerig.
++ AltCLIP (from BAAI) released with the paper AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities by Chen, Zhongzhi and Liu, Guang and Zhang, Bo-Wen and Ye, Fulong and Yang, Qinghong and Wu, Ledell.
++ Audio Spectrogram Transformer (from MIT) released with the paper AST: Audio Spectrogram Transformer by Yuan Gong, Yu-An Chung, James Glass.
++ Autoformer (from Tsinghua University) released with the paper Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting by Haixu Wu, Jiehui Xu, Jianmin Wang, Mingsheng Long.
++ BART (from Facebook) released with the paper BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension by Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov and Luke Zettlemoyer.
++ BARThez (from École polytechnique) released with the paper BARThez: a Skilled Pretrained French Sequence-to-Sequence Model by Moussa Kamal Eddine, Antoine J.-P. Tixier, Michalis Vazirgiannis.
++ BARTpho (from VinAI Research) released with the paper BARTpho: Pre-trained Sequence-to-Sequence Models for Vietnamese by Nguyen Luong Tran, Duong Minh Le and Dat Quoc Nguyen.
++ BEiT (from Microsoft) released with the paper BEiT: BERT Pre-Training of Image Transformers by Hangbo Bao, Li Dong, Furu Wei.
+
