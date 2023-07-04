@@ -85,6 +85,7 @@ Top 10K Papers List
 + [CNN][Paper] EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks, https://arxiv.org/abs/1905.11946
 + [CNN][Codes] https://github.com/kaiminghe
 + TART: A plug-and-play Transformer module for task-agnostic reasoning, https://arxiv.org/abs/2306.07536
++ Preference Ranking Optimization for Human Alignment, https://arxiv.org/abs/2306.17492
 
 ## 2023.Jul.02
 + ALBERT (from Google Research and the Toyota Technological Institute at Chicago) released with the paper ALBERT: A Lite BERT for Self-supervised Learning of Language Representations, by Zhenzhong Lan, Mingda Chen, Sebastian Goodman, Kevin Gimpel, Piyush Sharma, Radu Soricut.
