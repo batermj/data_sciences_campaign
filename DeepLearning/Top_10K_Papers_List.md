@@ -68,6 +68,7 @@ Top 10K Papers List
 # [Paper Reproduction]
 
 ## 2023.Jul.04
++ A Survey of Large Language Models, https://arxiv.org/pdf/2303.18223.pdf
 + [CNN][Book] Chapter 9 Convolutional Networks, https://www.deeplearningbook.org/contents/convnets.html
 + [CNN][Standford CS-230] Convolutional Neural Networks cheatsheet, https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks#
 + [CNN][Standford] Welcome to the Deep Learning Tutorial! http://ufldl.stanford.edu/tutorial/
@@ -86,6 +87,18 @@ Top 10K Papers List
 + [CNN][Codes] https://github.com/kaiminghe
 + TART: A plug-and-play Transformer module for task-agnostic reasoning, https://arxiv.org/abs/2306.07536
 + Preference Ranking Optimization for Human Alignment, https://arxiv.org/abs/2306.17492
++ Restart Sampling for Improving Generative Processes, https://arxiv.org/abs/2306.14878
++ Bring Your Own Data! Self-Supervised Evaluation for Large Language Models, https://arxiv.org/abs/2306.13651
++ Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects, https://arxiv.org/abs/2306.10125
++ Chatbots to ChatGPT in a Cybersecurity Space: Evolution, Vulnerabilities, Attacks, Challenges, and Future Recommendations, https://arxiv.org/abs/2306.09255
++ Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model, https://arxiv.org/abs/1911.08265
++ LLMs for Semi-Automated Data Science: Introducing CAAFE for Context-Aware Automated Feature Engineering, https://arxiv.org/abs/2305.03403
++ Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation, https://arxiv.org/abs/2306.07954
++ Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow, https://arxiv.org/abs/2306.07209
++ Evaluating the Social Impact of Generative AI Systems in Systems and Society, https://arxiv.org/abs/2306.05949
++ Exploring the MIT Mathematics and EECS Curriculum Using Large Language Models, https://arxiv.org/abs/2306.08997
++ DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection, https://arxiv.org/abs/2306.10347
++ Reinforcement Learning, An Introduction, 2nd Edition, Richard S. Sutton and Andrew G. Barto, http://incompleteideas.net/book/RLbook2020.pdf
 
 ## 2023.Jul.02
 + ALBERT (from Google Research and the Toyota Technological Institute at Chicago) released with the paper ALBERT: A Lite BERT for Self-supervised Learning of Language Representations, by Zhenzhong Lan, Mingda Chen, Sebastian Goodman, Kevin Gimpel, Piyush Sharma, Radu Soricut.
