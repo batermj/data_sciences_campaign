@@ -99,6 +99,7 @@ Top 10K Papers List
 + Exploring the MIT Mathematics and EECS Curriculum Using Large Language Models, https://arxiv.org/abs/2306.08997
 + DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection, https://arxiv.org/abs/2306.10347
 + Reinforcement Learning, An Introduction, 2nd Edition, Richard S. Sutton and Andrew G. Barto, http://incompleteideas.net/book/RLbook2020.pdf
++ Towards Integrative AI, Xuedong Huang, Microsoft Corporation, USA
 
 ## 2023.Jul.02
 + ALBERT (from Google Research and the Toyota Technological Institute at Chicago) released with the paper ALBERT: A Lite BERT for Self-supervised Learning of Language Representations, by Zhenzhong Lan, Mingda Chen, Sebastian Goodman, Kevin Gimpel, Piyush Sharma, Radu Soricut.
