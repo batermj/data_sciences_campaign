@@ -68,7 +68,8 @@ Top 10K Papers List
 # [Paper Reproduction]
 
 ## 2023.Jul.04
-+ A Survey of Large Language Models, https://arxiv.org/pdf/2303.18223.pdf
++ [LLM] A Survey of Large Language Models, https://arxiv.org/pdf/2303.18223.pdf
++ [CNN] Convolutional Neural Networks for Sentence Classification, https://arxiv.org/abs/1408.5882
 + [CNN][Book] Chapter 9 Convolutional Networks, https://www.deeplearningbook.org/contents/convnets.html
 + [CNN][Standford CS-230] Convolutional Neural Networks cheatsheet, https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks#
 + [CNN][Standford] Welcome to the Deep Learning Tutorial! http://ufldl.stanford.edu/tutorial/
