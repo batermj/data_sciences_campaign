@@ -71,6 +71,7 @@ Top 10K Papers List
 + [LLM] A Survey of Large Language Models, https://arxiv.org/pdf/2303.18223.pdf
 + [CNN] Convolutional Neural Networks for Sentence Classification, https://arxiv.org/abs/1408.5882
 + [CNN] Character-level Convolutional Networks for Text Classification, https://arxiv.org/abs/1509.01626
++ [CNN] A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification, http://arxiv.org/abs/1510.03820
 + [CNN][Book] Chapter 9 Convolutional Networks, https://www.deeplearningbook.org/contents/convnets.html
 + [CNN][Standford CS-230] Convolutional Neural Networks cheatsheet, https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks#
 + [CNN][Standford] Welcome to the Deep Learning Tutorial! http://ufldl.stanford.edu/tutorial/
