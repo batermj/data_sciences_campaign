@@ -67,6 +67,7 @@ Top 10K Papers List
 
 # [Paper Reproduction]
 
+## 2023.Jul.04
 + [CNN][Book] Chapter 9 Convolutional Networks, https://www.deeplearningbook.org/contents/convnets.html
 + [CNN][Standford CS-230] Convolutional Neural Networks cheatsheet, https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks#
 + [CNN][Standford] Welcome to the Deep Learning Tutorial! http://ufldl.stanford.edu/tutorial/
@@ -83,6 +84,7 @@ Top 10K Papers List
 + [CNN][Paper] Searching for MobileNetV3, https://arxiv.org/abs/1905.02244
 + [CNN][Paper] EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks, https://arxiv.org/abs/1905.11946
 + [CNN][Codes] https://github.com/kaiminghe
++ TART: A plug-and-play Transformer module for task-agnostic reasoning, https://arxiv.org/abs/2306.07536
 
 ## 2023.Jul.02
 + ALBERT (from Google Research and the Toyota Technological Institute at Chicago) released with the paper ALBERT: A Lite BERT for Self-supervised Learning of Language Representations, by Zhenzhong Lan, Mingda Chen, Sebastian Goodman, Kevin Gimpel, Piyush Sharma, Radu Soricut.
