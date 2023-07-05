@@ -74,7 +74,8 @@ Top 10K Papers List
 + [CNN] Convolutional Neural Networks for Sentence Classification, https://arxiv.org/abs/1408.5882
 + [CNN] Character-level Convolutional Networks for Text Classification, https://arxiv.org/abs/1509.01626
 + [CNN] A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification, http://arxiv.org/abs/1510.03820
-+ [] Residual Network Introduced by He et al. in Deep Residual Learning for Image Recognition, https://paperswithcode.com/method/resnet
++ [ResNet] Residual Network Introduced by He et al. in Deep Residual Learning for Image Recognition, https://paperswithcode.com/method/resnet
++ [VGG] VGG Introduced by Simonyan et al. in Very Deep Convolutional Networks for Large-Scale Image Recognition, https://paperswithcode.com/method/vgg
 + [CNN][Book] Chapter 9 Convolutional Networks, https://www.deeplearningbook.org/contents/convnets.html
 + [CNN][Standford CS-230] Convolutional Neural Networks cheatsheet, https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks#
 + [CNN][Standford] Welcome to the Deep Learning Tutorial! http://ufldl.stanford.edu/tutorial/
@@ -83,6 +84,7 @@ Top 10K Papers List
 + [CNN][Paper] LeNet-5, GradientBased Learning Applied to Document Recognition, http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
 + [CNN][Paper] AlexNet, ImageNet Classification with Deep Convolutional Neural Networks, https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
 + [CNN][Paper] VGG, Very Deep Convolutional Networks for Large-Scale Image Recognition, https://arxiv.org/abs/1409.1556
++ [VGG] VGG Introduced by Simonyan et al. in Very Deep Convolutional Networks for Large-Scale Image Recognition, https://paperswithcode.com/method/vgg
 + [CNN][Paper] ResNet, Deep Residual Learning for Image Recognition, https://arxiv.org/abs/1512.03385
 + [CNN][Paper] Networks in Networks and 1x1 Convolutions, Network In Network, https://arxiv.org/abs/1312.4400
 + [CNN][Paper] Inception Network Motivation, Going Deeper with Convolutions, https://arxiv.org/abs/1409.4842
