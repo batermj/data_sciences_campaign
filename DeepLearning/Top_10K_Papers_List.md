@@ -1,4 +1,10 @@
 Top 10K Papers List
+- Convention: [xxx] means belong to what category of AI fields
+- Convention: <Reference> means it is a paper in the reference of the paper just under reproducing
+- Priority: #1, SOTAs (state-of-the-art) Papers with Codes with SOTA performance first; 
+- Priority: #2, Latest Papers (Hot Paper from Top Companies, Universities, Institutes) with Codes with SOTA performance; 
+- Priority: #3, Latest Papers (Highly Cited Paper) with Codes with SOTA performance; 
+- Priority: #4, Classics Papers with Codes with SOTA performance; 
 
 # [Papers to be Read]
 + [Roadmap] Deep Learning Papers Reading Roadmap, https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
@@ -67,14 +73,62 @@ Top 10K Papers List
 
 # [Paper Reproduction]
 
+## 2023.Jul.06 - for ConvNeXt related Models
++ [CNN][ResNet] ResNet, Deep Residual Learning for Image Recognition, https://arxiv.org/abs/1512.03385, https://paperswithcode.com/method/resnet
++ <Reference>
++ [CNN] A ConvNet for the 2020s, https://arxiv.org/abs/2201.03545, Codes: https://github.com/facebookresearch/ConvNeXt, https://huggingface.co/docs/transformers/main/model_doc/convnext, https://pytorch.org/vision/main/models/convnext.html, https://paperswithcode.com/paper/convnext-v2-co-designing-and-scaling-convnets
++ <Reference>
++ [Transformers] Vision Transformers (ViTs)
++ <Reference>
++ [Transformers] Swin Transformer, v1, v2
++ <Reference>
++ [Transformers] DeiT
++ <Reference>
++ <Reference>
++ <Reference>
++ [Survey] [LLM] A Survey of Large Language Models, https://arxiv.org/abs/2303.18223, https://github.com/RUCAIBox/LLMSurvey
++ <Reference>
++ <Reference>
++ <Reference>
++ <Reference>
 
-
-## 2023.Jul.04
-+ [LLM] A Survey of Large Language Models, https://arxiv.org/pdf/2303.18223.pdf
+## 2023.Jul.05 - for TextCNN related Models
 + [CNN] Convolutional Neural Networks for Sentence Classification, https://arxiv.org/abs/1408.5882
++ <Reference>Y. Bengio, R. Ducharme, P. Vincent. 2003. Neural Probabilitistic Language Model. Journal of Ma- chine Learning Research 3:1137–1155.
++ <Reference>R. Collobert, J. Weston, L. Bottou, M. Karlen, K. Kavukcuglu, P. Kuksa. 2011. Natural Language Processing (Almost) from Scratch. Journal of Machine Learning Research 12:2493–2537.
++ <Reference>J. Duchi, E. Hazan, Y. Singer. 2011 Adaptive subgradient methods for online learning and stochastic optimization. Journal of Machine Learning Research, 12:2121–2159.
++ <Reference>L. Dong, F. Wei, S. Liu, M. Zhou, K. Xu. 2014. A Statistical Parsing Framework for Sentiment Classification. CoRR, abs/1401.6330.
++ <Reference>A. Graves, A. Mohamed, G. Hinton. 2013. Speech recognition with deep recurrent neural networks. In Proceedings of ICASSP 2013.
++ <Reference>G. Hinton, N. Srivastava, A. Krizhevsky, I. Sutskever, R. Salakhutdinov. 2012. Improving neural networks by preventing co-adaptation of feature detectors. CoRR, abs/1207.0580.
++ <Reference>K. Hermann, P. Blunsom. 2013. The Role of Syntax in Vector Space Models of Compositional Semantics. In Proceedings of ACL 2013.
++ <Reference>M. Hu, B. Liu. 2004. Mining and Summarizing Customer Reviews. In Proceedings of ACM SIGKDD 2004.
++ <Reference>M. Iyyer, P. Enns, J. Boyd-Graber, P. Resnik 2014. Political Ideology Detection Using Recursive Neural Networks. In Proceedings of ACL 2014.
++ <Reference>N. Kalchbrenner, E. Grefenstette, P. Blunsom. 2014. A Convolutional Neural Network for Modelling Sentences. In Proceedings of ACL 2014.
++ <Reference>A. Krizhevsky, I. Sutskever, G. Hinton. 2012. ImageNet Classification with Deep Convolutional Neural Networks. In Proceedings of NIPS 2012.
++ <Reference>Q. Le, T. Mikolov. 2014. Distributed Represenations of Sentences and Documents. In Proceedings of ICML 2014.
++ <Reference>Y. LeCun, L. Bottou, Y. Bengio, P. Haffner. 1998. Gradient-based learning applied to document recognition. In Proceedings of the IEEE, 86(11):2278– 2324, November.
++ <Reference>X. Li, D. Roth. 2002. Learning Question Classifiers. In Proceedings of ACL 2002.
++ <Reference>T. Mikolov, I. Sutskever, K. Chen, G. Corrado, J. Dean. 2013. Distributed Representations of Words and Phrases and their Compositionality. In Proceedings of NIPS 2013.
++ <Reference>T. Nakagawa, K. Inui, S. Kurohashi. 2010. Dependency tree-based sentiment classification using CRFs with hidden variables. In Proceedings of ACL 2010.
++ <Reference>B. Pang, L. Lee. 2004. A sentimen[py38.yml](..%2F..%2F..%2F..%2F..%2F..%2FDownloads%2Fpy38.yml)tal education: Sentiment analysis using subjectivity summarization based on minimum cuts. In Proceedings of ACL 2004.
++ <Reference>B. Pang, L. Lee. 2005. Seeing stars: Exploiting class relationships for sentiment categorization with respect to rating scales. In Proceedings of ACL 2005.
++ <Reference>A.S. Razavian, H. Azizpour, J. Sullivan, S. Carlsson 2014. CNN Features off-the-shelf: an Astounding Baseline. CoRR, abs/1403.6382.
++ <Reference>Y. Shen, X. He, J. Gao, L. Deng, G. Mesnil. 2014. Learning Semantic Representations Using Convolutional Neural Networks for Web Search. In Proceedings of WWW 2014.
++ <Reference>J. Silva, L. Coheur, A. Mendes, A. Wichert. 2011. From symbolic to sub-symbolic information in question classification. Artificial Intelligence Review, 35(2):137–154.
++ <Reference>R. Socher, J. Pennington, E. Huang, A. Ng, C. Man- ning. 2011. Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions. In Proceedings of EMNLP 2011.
++ <Reference>R. Socher, B. Huval, C. Manning, A. Ng. 2012. Semantic Compositionality through Recursive Matrix-Vector Spaces. In Proceedings of EMNLP 2012.
++ <Reference>R. Socher, A. Perelygin, J. Wu, J. Chuang, C. Manning, A. Ng, C. Potts. 2013. Recursive Deep Models for Semantic Compositionality Over a Sentiment Tree-bank. In Proceedings of EMNLP 2013.
++ <Reference>J. Wiebe, T. Wilson, C. Cardie. 2005. Annotating Expressions of Opinions and Emotions in Language. Language Resources and Evaluation, 39(2-3): 165– 210.
++ <Reference>S. Wang, C. Manning. 2012. Baselines and Bigrams: Simple, Good Sentiment and Topic Classification. In Proceedings of ACL 2012.
++ <Reference>S. Wang, C. Manning. 2013. Fast Dropout Training. In Proceedings of ICML 2013.
++ <Reference>B. Yang, C. Cardie. 2014. Context-aware Learning for Sentence-level Sentiment Analysis with Posterior Regularization. In Proceedings of ACL 2014.
++ <Reference>W. Yih, K. Toutanova, J. Platt, C. Meek. 2011. Learning Discriminative Projections for Text Similarity Measures. Proceedings of the Fifteenth Conference on Computational Natural Language Learning, 247–256.
++ <Reference>W. Yih, X. He, C. Meek. 2014. Semantic Parsing for Single-Relation Question Answering. In Proceedings of ACL 2014.
++ <Reference>M. Zeiler. 2012. Adadelta: An adaptive learning rate method. CoRR, abs/1212.5701.
+
+## 2023.Jul.04 - for Classical Convolution Neural Networks related Models
 + [CNN] Character-level Convolutional Networks for Text Classification, https://arxiv.org/abs/1509.01626
 + [CNN] A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification, http://arxiv.org/abs/1510.03820
-+ [ResNet] Residual Network Introduced by He et al. in Deep Residual Learning for Image Recognition, https://paperswithcode.com/method/resnet
 + [VGG] VGG Introduced by Simonyan et al. in Very Deep Convolutional Networks for Large-Scale Image Recognition, https://paperswithcode.com/method/vgg
 + [CNN][Book] Chapter 9 Convolutional Networks, https://www.deeplearningbook.org/contents/convnets.html
 + [CNN][Standford CS-230] Convolutional Neural Networks cheatsheet, https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks#
@@ -85,7 +139,6 @@ Top 10K Papers List
 + [CNN][Paper] AlexNet, ImageNet Classification with Deep Convolutional Neural Networks, https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
 + [CNN][Paper] VGG, Very Deep Convolutional Networks for Large-Scale Image Recognition, https://arxiv.org/abs/1409.1556
 + [VGG] VGG Introduced by Simonyan et al. in Very Deep Convolutional Networks for Large-Scale Image Recognition, https://paperswithcode.com/method/vgg
-+ [CNN][Paper] ResNet, Deep Residual Learning for Image Recognition, https://arxiv.org/abs/1512.03385
 + [CNN][Paper] Networks in Networks and 1x1 Convolutions, Network In Network, https://arxiv.org/abs/1312.4400
 + [CNN][Paper] Inception Network Motivation, Going Deeper with Convolutions, https://arxiv.org/abs/1409.4842
 + [CNN][Paper] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, https://arxiv.org/abs/1704.04861
@@ -109,7 +162,7 @@ Top 10K Papers List
 + Reinforcement Learning, An Introduction, 2nd Edition, Richard S. Sutton and Andrew G. Barto, http://incompleteideas.net/book/RLbook2020.pdf
 + Towards Integrative AI, Xuedong Huang, Microsoft Corporation, USA
 
-## 2023.Jul.02
+## 2023.Jul.02 - for HuggingFace Transformer related models
 + ALBERT (from Google Research and the Toyota Technological Institute at Chicago) released with the paper ALBERT: A Lite BERT for Self-supervised Learning of Language Representations, by Zhenzhong Lan, Mingda Chen, Sebastian Goodman, Kevin Gimpel, Piyush Sharma, Radu Soricut.
 + ALIGN (from Google Research) released with the paper Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision by Chao Jia, Yinfei Yang, Ye Xia, Yi-Ting Chen, Zarana Parekh, Hieu Pham, Quoc V. Le, Yunhsuan Sung, Zhen Li, Tom Duerig.
 + AltCLIP (from BAAI) released with the paper AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities by Chen, Zhongzhi and Liu, Guang and Zhang, Bo-Wen and Ye, Fulong and Yang, Qinghong and Wu, Ledell.
