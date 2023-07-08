@@ -1,4 +1,4 @@
-Top 10K Papers List
+Top 100K Papers List
 - Convention: [xxx] means belong to what category of AI fields
 - Convention: <Reference> means it is a paper in the reference of the paper just under reproducing
 - Priority: #1, SOTAs (state-of-the-art) Papers with Codes with SOTA performance first; 
@@ -6,7 +6,38 @@ Top 10K Papers List
 - Priority: #3, Latest Papers (Highly Cited Paper) with Codes with SOTA performance; 
 - Priority: #4, Classics Papers with Codes with SOTA performance; 
 
-# [Papers to be Read]
+# [Milestone of Paper Reproduction for Jul.01-Jul.30, 2023]
++ Google’s BERT
++ OpenAI’s GPT-2
++ [Transformers][HuggingFace] ALBERT (from Google Research and the Toyota Technological Institute at Chicago) released with the paper ALBERT: A Lite BERT for Self-supervised Learning of Language Representations, by Zhenzhong Lan, Mingda Chen, Sebastian Goodman, Kevin Gimpel, Piyush Sharma, Radu Soricut.
++ [Transformers][HuggingFace] ALIGN (from Google Research) released with the paper Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision by Chao Jia, Yinfei Yang, Ye Xia, Yi-Ting Chen, Zarana Parekh, Hieu Pham, Quoc V. Le, Yunhsuan Sung, Zhen Li, Tom Duerig.
++ [Transformers][HuggingFace] AltCLIP (from BAAI) released with the paper AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities by Chen, Zhongzhi and Liu, Guang and Zhang, Bo-Wen and Ye, Fulong and Yang, Qinghong and Wu, Ledell.
++ [Transformers][HuggingFace] Audio Spectrogram Transformer (from MIT) released with the paper AST: Audio Spectrogram Transformer by Yuan Gong, Yu-An Chung, James Glass.
++ [Transformers][HuggingFace] Autoformer (from Tsinghua University) released with the paper Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting by Haixu Wu, Jiehui Xu, Jianmin Wang, Mingsheng Long.
++ [Transformers][HuggingFace] BART (from Facebook) released with the paper BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension by Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov and Luke Zettlemoyer.
++ [Transformers][HuggingFace] BARThez (from École polytechnique) released with the paper BARThez: a Skilled Pretrained French Sequence-to-Sequence Model by Moussa Kamal Eddine, Antoine J.-P. Tixier, Michalis Vazirgiannis.
++ [Transformers][HuggingFace] BARTpho (from VinAI Research) released with the paper BARTpho: Pre-trained Sequence-to-Sequence Models for Vietnamese by Nguyen Luong Tran, Duong Minh Le and Dat Quoc Nguyen.
++ [Transformers][HuggingFace] BEiT (from Microsoft) released with the paper BEiT: BERT Pre-Training of Image Transformers by Hangbo Bao, Li Dong, Furu Wei.
++ [CNN][Codes] Convolutional Neural Networks for Text, https://lena-voita.github.io/nlp_course/models/convolutional.html
++ [CNN][Paper] LeNet-5, GradientBased Learning Applied to Document Recognition, http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
++ [CNN][Paper] AlexNet, ImageNet Classification with Deep Convolutional Neural Networks, https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
++ [CNN][Paper] VGG, Very Deep Convolutional Networks for Large-Scale Image Recognition, https://arxiv.org/abs/1409.1556
++ [VGG] VGG Introduced by Simonyan et al. in Very Deep Convolutional Networks for Large-Scale Image Recognition, https://paperswithcode.com/method/vgg
++ [CNN][Paper] Networks in Networks and 1x1 Convolutions, Network In Network, https://arxiv.org/abs/1312.4400
++ [CNN][Paper] Inception Network Motivation, Going Deeper with Convolutions, https://arxiv.org/abs/1409.4842
++ [CNN][Paper] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, https://arxiv.org/abs/1704.04861
++ [CNN][Paper] MobileNetV2: Inverted Residuals and Linear Bottlenecks, https://arxiv.org/abs/1801.04381
++ [CNN][Paper] Searching for MobileNetV3, https://arxiv.org/abs/1905.02244
++ [CNN][Paper] EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks, https://arxiv.org/abs/1905.11946
++ [Survey] [LLM] A Survey of Large Language Models, https://arxiv.org/abs/2303.18223, https://github.com/RUCAIBox/LLMSurvey
++ [Transformers] Vision Transformers (ViTs)
++ [Transformers] Swin Transformer, v1, v2
++ [Transformers] DeiT
++ [CNN][ResNet] ResNet, Deep Residual Learning for Image Recognition, https://arxiv.org/abs/1512.03385, https://paperswithcode.com/method/resnet
++ [CNN] A ConvNet for the 2020s, https://arxiv.org/abs/2201.03545, Codes: https://github.com/facebookresearch/ConvNeXt, https://huggingface.co/docs/transformers/main/model_doc/convnext, https://pytorch.org/vision/main/models/convnext.html, https://paperswithcode.com/paper/convnext-v2-co-designing-and-scaling-convnets
++ [CNN][TextCNN] Convolutional Neural Networks for Sentence Classification, https://arxiv.org/abs/1408.5882
+
+# [Papers to be for Reproduction]
 + [Roadmap] Deep Learning Papers Reading Roadmap, https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 + [CNN][Codes] MoCo: Momentum Contrast for Unsupervised Visual Representation Learning, https://github.com/facebookresearch/moco
 + [CNN][Codes] Masked Autoencoders: A PyTorch Implementation, https://github.com/facebookresearch/mae
@@ -73,23 +104,6 @@ Top 10K Papers List
 
 # [Paper Reproduction]
 
-## 2023.Jul.07 - for ConvNeXt related Models
-+ [CNN][ResNet] ResNet, Deep Residual Learning for Image Recognition, https://arxiv.org/abs/1512.03385, https://paperswithcode.com/method/resnet
-+ <Reference>
-+ [Transformers] Vision Transformers (ViTs)
-+ <Reference>
-+ [Transformers] Swin Transformer, v1, v2
-+ <Reference>
-+ [Transformers] DeiT
-+ <Reference>
-+ <Reference>
-+ <Reference>
-+ [Survey] [LLM] A Survey of Large Language Models, https://arxiv.org/abs/2303.18223, https://github.com/RUCAIBox/LLMSurvey
-+ <Reference>
-+ <Reference>
-+ <Reference>
-+ <Reference>
-
 ## 2023.Jul.06 - for ConvNeXt related Models
 + [CNN] A ConvNet for the 2020s, https://arxiv.org/abs/2201.03545, Codes: https://github.com/facebookresearch/ConvNeXt, https://huggingface.co/docs/transformers/main/model_doc/convnext, https://pytorch.org/vision/main/models/convnext.html, https://paperswithcode.com/paper/convnext-v2-co-designing-and-scaling-convnets
 + <Reference>
@@ -107,17 +121,6 @@ Top 10K Papers List
 + [CNN][Standford CS-230] Convolutional Neural Networks cheatsheet, https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks#
 + [CNN][Standford] Welcome to the Deep Learning Tutorial! http://ufldl.stanford.edu/tutorial/
 + [CNN][Course] Convolutional Neural Networks, https://www.coursera.org/learn/convolutional-neural-networks/
-+ [CNN][Codes] Convolutional Neural Networks for Text, https://lena-voita.github.io/nlp_course/models/convolutional.html
-+ [CNN][Paper] LeNet-5, GradientBased Learning Applied to Document Recognition, http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
-+ [CNN][Paper] AlexNet, ImageNet Classification with Deep Convolutional Neural Networks, https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
-+ [CNN][Paper] VGG, Very Deep Convolutional Networks for Large-Scale Image Recognition, https://arxiv.org/abs/1409.1556
-+ [VGG] VGG Introduced by Simonyan et al. in Very Deep Convolutional Networks for Large-Scale Image Recognition, https://paperswithcode.com/method/vgg
-+ [CNN][Paper] Networks in Networks and 1x1 Convolutions, Network In Network, https://arxiv.org/abs/1312.4400
-+ [CNN][Paper] Inception Network Motivation, Going Deeper with Convolutions, https://arxiv.org/abs/1409.4842
-+ [CNN][Paper] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, https://arxiv.org/abs/1704.04861
-+ [CNN][Paper] MobileNetV2: Inverted Residuals and Linear Bottlenecks, https://arxiv.org/abs/1801.04381
-+ [CNN][Paper] Searching for MobileNetV3, https://arxiv.org/abs/1905.02244
-+ [CNN][Paper] EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks, https://arxiv.org/abs/1905.11946
 + [CNN][Codes] https://github.com/kaiminghe
 + TART: A plug-and-play Transformer module for task-agnostic reasoning, https://arxiv.org/abs/2306.07536
 + Preference Ranking Optimization for Human Alignment, https://arxiv.org/abs/2306.17492
@@ -136,13 +139,3 @@ Top 10K Papers List
 + Towards Integrative AI, Xuedong Huang, Microsoft Corporation, USA
 
 ## 2023.Jul.02 - for HuggingFace Transformer related models
-+ ALBERT (from Google Research and the Toyota Technological Institute at Chicago) released with the paper ALBERT: A Lite BERT for Self-supervised Learning of Language Representations, by Zhenzhong Lan, Mingda Chen, Sebastian Goodman, Kevin Gimpel, Piyush Sharma, Radu Soricut.
-+ ALIGN (from Google Research) released with the paper Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision by Chao Jia, Yinfei Yang, Ye Xia, Yi-Ting Chen, Zarana Parekh, Hieu Pham, Quoc V. Le, Yunhsuan Sung, Zhen Li, Tom Duerig.
-+ AltCLIP (from BAAI) released with the paper AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities by Chen, Zhongzhi and Liu, Guang and Zhang, Bo-Wen and Ye, Fulong and Yang, Qinghong and Wu, Ledell.
-+ Audio Spectrogram Transformer (from MIT) released with the paper AST: Audio Spectrogram Transformer by Yuan Gong, Yu-An Chung, James Glass.
-+ Autoformer (from Tsinghua University) released with the paper Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting by Haixu Wu, Jiehui Xu, Jianmin Wang, Mingsheng Long.
-+ BART (from Facebook) released with the paper BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension by Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov and Luke Zettlemoyer.
-+ BARThez (from École polytechnique) released with the paper BARThez: a Skilled Pretrained French Sequence-to-Sequence Model by Moussa Kamal Eddine, Antoine J.-P. Tixier, Michalis Vazirgiannis.
-+ BARTpho (from VinAI Research) released with the paper BARTpho: Pre-trained Sequence-to-Sequence Models for Vietnamese by Nguyen Luong Tran, Duong Minh Le and Dat Quoc Nguyen.
-+ BEiT (from Microsoft) released with the paper BEiT: BERT Pre-Training of Image Transformers by Hangbo Bao, Li Dong, Furu Wei.
-
