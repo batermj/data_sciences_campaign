@@ -37,9 +37,9 @@ Top 100K Papers List
 + [Transformers] Vision Transformers (ViTs)
 + [Transformers] Swin Transformer, v1, v2
 + [Transformers] DeiT
-+ :white_check_mark[CNN][ResNet] ResNet, Deep Residual Learning for Image Recognition, https://arxiv.org/abs/1512.03385, https://paperswithcode.com/method/resnet
-+ :white_check_mark[CNN] A ConvNet for the 2020s, https://arxiv.org/abs/2201.03545, Codes: https://github.com/facebookresearch/ConvNeXt, https://huggingface.co/docs/transformers/main/model_doc/convnext, https://pytorch.org/vision/main/models/convnext.html, https://paperswithcode.com/paper/convnext-v2-co-designing-and-scaling-convnets
-+ :white_check_mark[CNN][TextCNN] Convolutional Neural Networks for Sentence Classification, https://arxiv.org/abs/1408.5882
++ :white_check_mark [CNN][ResNet] ResNet, Deep Residual Learning for Image Recognition, https://arxiv.org/abs/1512.03385, https://paperswithcode.com/method/resnet
++ :white_check_mark [CNN] A ConvNet for the 2020s, https://arxiv.org/abs/2201.03545, Codes: https://github.com/facebookresearch/ConvNeXt, https://huggingface.co/docs/transformers/main/model_doc/convnext, https://pytorch.org/vision/main/models/convnext.html, https://paperswithcode.com/paper/convnext-v2-co-designing-and-scaling-convnets
++ :white_check_mark [CNN][TextCNN] Convolutional Neural Networks for Sentence Classification, https://arxiv.org/abs/1408.5882
 
 # [Papers to be for Reproduction]
 + [Roadmap] Deep Learning Papers Reading Roadmap, https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
