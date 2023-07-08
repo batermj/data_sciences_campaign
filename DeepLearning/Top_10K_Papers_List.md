@@ -7,6 +7,7 @@ Top 100K Papers List
 - Priority: #4, Classics Papers with Codes with SOTA performance; 
 
 # [Milestone of Paper Reproduction for Jul.01-Jul.30, 2023]
++ [ ] From Zero to AI Research Scientist Full Resources Guide, https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
 + [ ] Google’s BERT
 + [ ] OpenAI’s GPT-2
 + [ ] [RL] Deep reinforcement learning from human preferences, https://arxiv.org/abs/1706.03741
