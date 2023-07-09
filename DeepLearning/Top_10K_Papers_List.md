@@ -10,6 +10,8 @@ Top 100K Papers List
 + [ ] From Zero to AI Research Scientist Full Resources Guide, https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
 + [ ] Google’s BERT
 + [ ] OpenAI’s GPT-2
++ [ ] [Google] Google Research Publication database, https://research.google/pubs/
++ [ ] [CV] Fast Segment Anything, https://github.com/CASIA-IVA-Lab/FastSAM
 + [ ] [RL] Deep reinforcement learning from human preferences, https://arxiv.org/abs/1706.03741
 + [ ] [NLP] Lost in the Middle: How Language Models Use Long Contexts, https://arxiv.org/abs/2307.03172
 + [ ] [CV] Generating Images with Multimodal Language Models, https://arxiv.org/abs/2305.17216
@@ -85,8 +87,9 @@ Top 100K Papers List
 + [ ] [CNN][Paper] MobileNetV2: Inverted Residuals and Linear Bottlenecks, https://arxiv.org/abs/1801.04381
 + [ ] [CNN][Paper] Searching for MobileNetV3, https://arxiv.org/abs/1905.02244
 + [ ] [CNN][Paper] EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks, https://arxiv.org/abs/1905.11946
-+ [ ] [Survey][LLM] A Survey of Large Language Models, https://arxiv.org/abs/2303.18223, https://github.com/RUCAIBox/LLMSurvey
++ [ ] [LLM][Survey] A Survey of Large Language Models, https://arxiv.org/abs/2303.18223, https://github.com/RUCAIBox/LLMSurvey
 + [ ] [LLM] LoRA: Low-Rank Adaptation of Large Language Models, https://arxiv.org/abs/2106.09685
++ [ ] [LLM] Lost in the Middle: How Language Models Use Long Contexts, https://arxiv.org/abs/2307.03172
 + [ ] [Transformers] Vision Transformers (ViTs)
 + [ ] [Transformers] Swin Transformer, v1, v2
 + [ ] [Transformers] DeiT
