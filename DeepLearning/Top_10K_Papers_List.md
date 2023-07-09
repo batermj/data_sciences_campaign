@@ -10,6 +10,8 @@ Top 100K Papers List
 + [ ] From Zero to AI Research Scientist Full Resources Guide, https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
 + [ ] Google’s BERT
 + [ ] OpenAI’s GPT-2
++ [ ] [Stanford] Stanford CS224W: Machine Learning with Graphs - YouTube, https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
++ [ ] [Stanford] Statistical Learning Stanford Online, https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e
 + [ ] [Google] Google Research Publication database, https://research.google/pubs/
 + [ ] [CV] Fast Segment Anything, https://github.com/CASIA-IVA-Lab/FastSAM
 + [ ] [RL] Deep reinforcement learning from human preferences, https://arxiv.org/abs/1706.03741
