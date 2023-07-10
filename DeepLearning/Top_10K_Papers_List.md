@@ -6,13 +6,17 @@ Top 100K Papers List
 - Priority: #3, Latest Papers (Highly Cited Paper) with Codes with SOTA performance; 
 - Priority: #4, Classics Papers with Codes with SOTA performance; 
 
+# [Courses & Videos]
++ [ ] [Stanford] Stanford CS229: Machine Learning Course, https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
++ [ ] [Stanford] Stanford CS224W: Machine Learning with Graphs - YouTube, https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
++ [ ] [Stanford] Statistical Learning Stanford Online, https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e
++ [ ] [Stanford] Prompt Engineering" for effectively using generative ai llms, tools and platforms such as chatGPT, etc., by Aleksandar Popovic., https://www.youtube.com/playlist?list=PLYio3GBcDKsPP2_zuxEp8eCulgFjI5a3g
++ [ ] [Databricks][LLM] Large Language Models: Application through Production, https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm
+
 # [Milestone of Paper Reproduction for Jul.01-Jul.30, 2023]
 + [ ] From Zero to AI Research Scientist Full Resources Guide, https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
 + [ ] Google’s BERT
 + [ ] OpenAI’s GPT-2
-+ [ ] [Stanford] Stanford CS229: Machine Learning Course, https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
-+ [ ] [Stanford] Stanford CS224W: Machine Learning with Graphs - YouTube, https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
-+ [ ] [Stanford] Statistical Learning Stanford Online, https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e
 + [ ] [Google] Google Research Publication database, https://research.google/pubs/
 + [ ] [CV] Fast Segment Anything, https://github.com/CASIA-IVA-Lab/FastSAM
 + [ ] [RL] Deep reinforcement learning from human preferences, https://arxiv.org/abs/1706.03741
