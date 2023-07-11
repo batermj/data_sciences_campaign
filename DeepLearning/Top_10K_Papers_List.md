@@ -19,6 +19,7 @@ Top 100K Papers List
 + [ ] OpenAI’s GPT-2
 + [ ] [Google] Google Research Publication database, https://research.google/pubs/
 + [ ] [CV] Fast Segment Anything, https://github.com/CASIA-IVA-Lab/FastSAM
++ [ ] [GNN][Time Series] A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, https://arxiv.org/abs/2307.03759
 + [ ] [RL] Deep reinforcement learning from human preferences, https://arxiv.org/abs/1706.03741
 + [ ] [NLP] Lost in the Middle: How Language Models Use Long Contexts, https://arxiv.org/abs/2307.03172
 + [ ] [CV] Generating Images with Multimodal Language Models, https://arxiv.org/abs/2305.17216
