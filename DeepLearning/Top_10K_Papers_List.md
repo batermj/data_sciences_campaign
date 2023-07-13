@@ -17,13 +17,26 @@ Top 100K Papers List
 + [ ] From Zero to AI Research Scientist Full Resources Guide, https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
 + [ ] Google’s BERT
 + [ ] OpenAI’s GPT-2
++ [ ] [NVIDIA] NVIDIA Deep Learning Examples for Tensor Cores, https://github.com/NVIDIA/DeepLearningExamples
 + [ ] [Google] Google Research Publication database, https://research.google/pubs/
 + [ ] [CV] Fast Segment Anything, https://github.com/CASIA-IVA-Lab/FastSAM
++ [ ] [SLAM] DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras, https://arxiv.org/abs/2108.10869, https://github.com/princeton-vl/DROID-SLAM
++ [ ] [Model Compression] Model Compression for Deep Neural Networks: A Survey
++ [ ] [Model Compression] A Survey on Deep Neural Network Compression: Challenges, Overview, and Solutions, https://arxiv.org/abs/2010.03954, https://paperswithcode.com/paper/a-survey-on-deep-neural-network-compression/review/
++ [ ] [Model Compression] A Survey of Model Compression and Acceleration for Deep Neural Networks, https://arxiv.org/abs/1710.09282
++ [ ] [Model Compression] A comprehensive survey on model compression and acceleration, https://link.springer.com/article/10.1007/s10462-020-09816-7
++ [ ] [Model Compression] Deep neural networks compression: A comparative survey and choice recommendations, https://www.sciencedirect.com/science/article/pii/S0925231222014643
++ [ ] [Model Compression] Model-Compression-Papers, https://github.com/chester256/Model-Compression-Papers
++ [ ] [Model Compression] Compression of Deep Learning Models for Text: A Survey, https://dl.acm.org/doi/full/10.1145/3487045
++ [ ] [Model Compression] Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey, https://ieeexplore.ieee.org/document/9043731
++ [ ] [Model Compression] Deep model compression for mobile platforms: A survey, https://ieeexplore.ieee.org/document/8727762
++ [ ] [Model Compression] DEEPCOMPRESSION:COMPRESSINGDEEPNEURAL NETWORKSWITHPRUNING,TRAINEDQUANTIZATION ANDHUFFMANCODING, https://arxiv.org/pdf/1510.00149)
 + [ ] [GNN][Time Series] A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, https://arxiv.org/abs/2307.03759
 + [ ] [RL] Deep reinforcement learning from human preferences, https://arxiv.org/abs/1706.03741
 + [ ] [NLP] Lost in the Middle: How Language Models Use Long Contexts, https://arxiv.org/abs/2307.03172
 + [ ] [CV] Generating Images with Multimodal Language Models, https://arxiv.org/abs/2305.17216
 + [ ] [MLP] Scaling MLPs: A Tale of Inductive Bias, https://arxiv.org/abs/2306.13575
++ [ ] [Transformers] Trainable Transformer in Transformer, Abhishek Panigrahi, Sadhika Malladi, Mengzhou Xia, Sanjeev Arora, https://arxiv.org/abs/2307.01189
 + [ ] [Transformers] Compositional Attention: Disentangling Search and Retrieval, https://arxiv.org/abs/2110.09419
 + [ ] [Transformers] The Sensory Neuron as a Transformer: Permutation-Invariant Neural Networks for Reinforcement Learning, https://attentionneuron.github.io
 + [ ] [Transformers] Awesome NLP Paper Discussions, https://github.com/huggingface/awesome-papers#planned-discussions
