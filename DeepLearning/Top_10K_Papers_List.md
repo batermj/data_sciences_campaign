@@ -14,12 +14,22 @@ Top 100K Papers List
 + [ ] [Databricks][LLM] Large Language Models: Application through Production, https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm
 
 # [Milestone of Paper Reproduction for Jul.01-Jul.30, 2023]
++ [ ] [LLM][Survey] A Survey of Large Language Models, https://arxiv.org/abs/2303.18223, https://github.com/RUCAIBox/LLMSurvey
++ [ ] [LLM][Survey] Papers and resources for LLMs evaluation, https://github.com/MLGroupJLU/LLM-eval-survey
++ [ ] [LLM] LoRA: Low-Rank Adaptation of Large Language Models, https://arxiv.org/abs/2106.09685
++ [ ] [LLM] Lost in the Middle: How Language Models Use Long Contexts, https://arxiv.org/abs/2307.03172
++ [ ] [Hands-on]Setting Python Development Environment with VScode and Docker, https://github.com/RamiKrispin/vscode-python
 + [ ] From Zero to AI Research Scientist Full Resources Guide, https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
 + [ ] Google’s BERT
 + [ ] OpenAI’s GPT-2
 + [ ] [NVIDIA] NVIDIA Deep Learning Examples for Tensor Cores, https://github.com/NVIDIA/DeepLearningExamples
 + [ ] [Google] Google Research Publication database, https://research.google/pubs/
++ [ ] [Meta] Expand, Rerank, and Retrieve: Query Reranking for Open-Domain Question Answering, https://virtual2023.aclweb.org/paper_P452.html?utm_source=linkedin&utm_medium=organic_social&utm_campaign=acl2023&utm_content=image#paper
++ [ ] [Meta] Meta-training with Demonstration Retrieval for Efficient Few-shot Learning, https://arxiv.org/abs/2307.00119
++ [ ] [Meta] UnitY: Two-pass Direct Speech-to-speech Translation with Discrete Units, https://arxiv.org/abs/2212.08055
 + [ ] [CV] Fast Segment Anything, https://github.com/CASIA-IVA-Lab/FastSAM
++ [ ] [Knowledge Distillation] Knowledge Distillation: A Survey, https://arxiv.org/abs/2006.05525
++ [ ] [Knowledge Distillation] Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes, https://arxiv.org/abs/2305.02301
 + [ ] [SLAM] DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras, https://arxiv.org/abs/2108.10869, https://github.com/princeton-vl/DROID-SLAM
 + [ ] [Model Compression] Model Compression for Deep Neural Networks: A Survey
 + [ ] [Model Compression] A Survey on Deep Neural Network Compression: Challenges, Overview, and Solutions, https://arxiv.org/abs/2010.03954, https://paperswithcode.com/paper/a-survey-on-deep-neural-network-compression/review/
@@ -36,6 +46,7 @@ Top 100K Papers List
 + [ ] [NLP] Lost in the Middle: How Language Models Use Long Contexts, https://arxiv.org/abs/2307.03172
 + [ ] [CV] Generating Images with Multimodal Language Models, https://arxiv.org/abs/2305.17216
 + [ ] [MLP] Scaling MLPs: A Tale of Inductive Bias, https://arxiv.org/abs/2306.13575
++ [ ] Scenic is developed in JAX and uses Flax., https://github.com/google-research/scenic
 + [ ] [Transformers] Trainable Transformer in Transformer, Abhishek Panigrahi, Sadhika Malladi, Mengzhou Xia, Sanjeev Arora, https://arxiv.org/abs/2307.01189
 + [ ] [Transformers] Compositional Attention: Disentangling Search and Retrieval, https://arxiv.org/abs/2110.09419
 + [ ] [Transformers] The Sensory Neuron as a Transformer: Permutation-Invariant Neural Networks for Reinforcement Learning, https://attentionneuron.github.io
@@ -72,13 +83,15 @@ Top 100K Papers List
 + [ ] [Transformers] FNet: Mixing Tokens with Fourier Transforms, https://arxiv.org/abs/2105.03824
 + [ ] [Transformers] Convolutional Xformers for Vision, https://arxiv.org/abs/2201.10271
 + [ ] [Transformers] Transformer Memory as a Differentiable Search Index, https://arxiv.org/abs/2202.06991
-+ [ ] Flat-Lattice-Transformer, https://github.com/LeeSureman/Flat-Lattice-Transformer
-+ [ ] MobileViT: A mobile-friendly Transformer-based model for image classification, https://keras.io/examples/vision/mobilevit/
-+ [ ] Scenic is developed in JAX and uses Flax., https://github.com/google-research/scenic
++ [ ] [Transformers]  Flat-Lattice-Transformer, https://github.com/LeeSureman/Flat-Lattice-Transformer
++ [ ] [Transformers]  MobileViT: A mobile-friendly Transformer-based model for image classification, https://keras.io/examples/vision/mobilevit/
++ [ ] [Transformers] Vision Transformers (ViTs)
++ [ ] [Transformers] Swin Transformer, v1, v2
++ [ ] [Transformers] DeiT
++ [ ] [Transformers] Levenshtein Transformer, https://arxiv.org/pdf/1905.11006.pdf
 + [ ] [Transformers] [Microsoft] Unveiling Transformers with LEGO: a synthetic reasoning task, https://arxiv.org/abs/2206.04301
 + [ ] [Transformers] [Google] Frequency Effects on Syntactic Rule Learning in Transformers, https://arxiv.org/pdf/2109.07020.pdf
 + [ ] [Transformers] [Google] Multi-Game Decision Transformers, https://sites.google.com/view/multi-game-transformers
-+ [ ] [Transformers] Levenshtein Transformer, https://arxiv.org/pdf/1905.11006.pdf
 + [ ] [Transformers][Survey] An Impartial Take to the CNN vs Transformer Robustness Contest, https://arxiv.org/pdf/2207.11347.pdf
 + [ ] [Transformers][Survey] A Survey of Transformers, https://arxiv.org/abs/2106.04554
 + [ ] [Transformers][Survey] Transformers in Vision: A Survey, https://arxiv.org/abs/2101.01169
@@ -108,12 +121,6 @@ Top 100K Papers List
 + [ ] [CNN][Paper] MobileNetV2: Inverted Residuals and Linear Bottlenecks, https://arxiv.org/abs/1801.04381
 + [ ] [CNN][Paper] Searching for MobileNetV3, https://arxiv.org/abs/1905.02244
 + [ ] [CNN][Paper] EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks, https://arxiv.org/abs/1905.11946
-+ [ ] [LLM][Survey] A Survey of Large Language Models, https://arxiv.org/abs/2303.18223, https://github.com/RUCAIBox/LLMSurvey
-+ [ ] [LLM] LoRA: Low-Rank Adaptation of Large Language Models, https://arxiv.org/abs/2106.09685
-+ [ ] [LLM] Lost in the Middle: How Language Models Use Long Contexts, https://arxiv.org/abs/2307.03172
-+ [ ] [Transformers] Vision Transformers (ViTs)
-+ [ ] [Transformers] Swin Transformer, v1, v2
-+ [ ] [Transformers] DeiT
 + [ ] [CNN][Codes] MoCo: Momentum Contrast for Unsupervised Visual Representation Learning, https://github.com/facebookresearch/moco
 + [ ] [CNN][Codes] Masked Autoencoders: A PyTorch Implementation, https://github.com/facebookresearch/mae
 + [ ] [CNN][Codes] Detectron2, https://github.com/facebookresearch/detectron2
