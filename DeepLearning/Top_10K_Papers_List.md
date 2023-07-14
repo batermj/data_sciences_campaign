@@ -15,6 +15,7 @@ Top 100K Papers List
 
 # [Milestone of Paper Reproduction for Jul.01-Jul.30, 2023]
 + [ ] https://index.quantumstat.com
++ [ ] [LLM][GPT-3] Language Models are Few-Shot Learners, https://arxiv.org/abs/2005.14165
 + [ ] [LLM] OpenAI Cookbook, https://github.com/openai/openai-cookbook
 + [ ] [LLM] Coding framework LlamaIndex enables data interaction with LLMs, https://github.com/jerryjliu/llama_index
 + [ ] [LLM] Multimodal Chain-of-Thought Reasoning in Language Models, https://arxiv.org/abs/2302.00923, https://github.com/amazon-science/mm-cot
@@ -27,11 +28,327 @@ Top 100K Papers List
 + [ ] From Zero to AI Research Scientist Full Resources Guide, https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
 + [ ] Google’s BERT
 + [ ] OpenAI’s GPT-2
++ AlphaFold Protein Structure Database: massively expanding the structural coverage of protein-sequence space with high-accuracy models		1331	DeepMind, European Molecular Biology Laboratory	UK	academia 
++ ColabFold: making protein folding accessible to all		1138	Harvard University, Max Planck Institute for Multidisciplinary Sciences, Michigan State University, Seoul National University, University of Tokyo	Germany, Japan, South Korea, USA	academia 
++ A ConvNet for the 2020s	857	835	Meta, UC Berkeley	USA	industry 
++ Hierarchical Text-Conditional Image Generation with CLIP Latents	105	718	OpenAI	USA	industry 
++ PaLM: Scaling Language Modeling with Pathways	445	426	Google	USA	industry 
++ Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding	2462	390	Google	USA	industry 
++ Instant Neural Graphics Primitives with a Multiresolution Hash Encoding	11	342	NVIDIA	USA	industry 
++ SignalP 6.0 predicts all five types of signal peptides using protein language models		274	Copenhagen University Hospital, ETH Zurich, Stanford University, Stockholm University, Technical University of Denmark, University of Copenhagen, Wellcome Genome Campus	Denmark, Sweden, Switzerland, UK, USA	academia 
++ Swin Transformer V2: Scaling Up Capacity and Resolution	87	266	Huazhong University of Science and Technology, Microsoft, Tsinghua University, University of Science and Technology of China, Xi’an Jiaotong University	China, USA	industry 
++ Training language models to follow instructions with human feedback	448	254	OpenAI	USA	industry 
++ Chain of Thought Prompting Elicits Reasoning in Large Language Models	378	224	Google	USA	industry 
++ Flamingo: a Visual Language Model for Few-Shot Learning	71	218	DeepMind	UK	industry 
++ Classifier-Free Diffusion Guidance	53	194	Google	Netherlands, USA	industry 
++ Magnetic control of tokamak plasmas through deep reinforcement learning		194	DeepMind, École Polytechnique Fédérale de Lausanne, Meta	Switzerland, UK, USA	industry 
++ data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language		191	Meta	USA	industry 
++ OPT: Open Pre-trained Transformer Language Models	812	187	Meta	USA	industry 
++ BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation	79	184	Salesforce	USA	industry 
++ A Generalist Agent	231	180	DeepMind	UK	industry 
++ LaMDA: Language Models for Dialog Applications	473	180	Google	USA	industry 
++ CMT: Convolutional Neural Networks Meet Vision Transformers		172	Huawei, University of Sydney	Australia, China	academia 
++ Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model	271	158	Microsoft, NVIDIA	USA	industry 
++ What Makes Good In-Context Examples for GPT-3?		157	Duke University, Meta, Microsoft	USA	industry 
++ Ensemble unsupervised autoencoders and Gaussian mixture model for cyberattack detection		145	Ningbo University of Technology, Tongji University	China	academia 
++ Training Compute-Optimal Large Language Models		144	DeepMind	UK	industry
++ Learning robust perceptive locomotion for quadrupedal robots in the wild	3	141	ETH Zurich, Intel, Korea Advanced Institute of Science and Technology	South Korea, Switzerland, USA	academia 
++ Do As I Can, Not As I Say: Grounding Language in Robotic Affordances	82	135	Everyday Robots, Google	USA	industry 
++ How Do Vision Transformers Work?	193	129	NAVER, Yonsei University	South Korea	academia 
++ Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs	30	127	Aberystwyth University, Megvii, Tsinghua University	China, UK	industry 
++ Large Language Models are Zero-Shot Reasoners	862	124	Google, University of Tokyo	Japan, USA	academia 
++ Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time		122	Columbia University, Google, Meta, Tel Aviv University, University of Washington	Israel, USA	academia 
++ Patches Are All You Need?	117	116	Bosch, Carnegie Mellon University	USA	academia, industry 
++ Competition-Level Code Generation with AlphaCode		113	DeepMind	UK	industry 
++ TensoRF: Tensorial Radiance Fields	73	110	Adobe, ShanghaiTech University, UC San Diego, University of Tubingen	China, Germany, USA	academia 
++ Video Diffusion Models		103	Google	Netherlands, USA	industry 
++ Data Analytics for the Identification of Fake Reviews Using Supervised Learning		102	Albaha University, Dr. Babasaheb Ambedkar Marathwada University, King Faisal University, Nahrain University	India, Iraq, Saudi Arabia	academia 
++ Visual Prompt Tuning	26	102	Cornell University, Meta, University of Copenhagen	Denmark, USA	industry 
++ DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection	15	100	Hong Kong University of Science and Technology, International Digital Economy Academy, Tsinghua University	China	academia 
++ VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training	66	100	Nanjing University, Shanghai AI Lab, Tencent	China	academia 
++ Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?	199	99	Allen Institute for Artificial Intelligence, Meta, University of Washington	USA	academia, industry 
++ BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers	11	96	Nanjing University, Shanghai AI Lab, University of Hong Kong	China	academia 
++ Conditional Prompt Learning for Vision-Language Models	51	93	Nanyang Technological University	Singapore	academia 
++ Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution	151	93	Stanford University	USA	academia 
++ Measuring and Improving the Use of Graph Information in Graph Neural Networks	1	93	Chinese University of Hong Kong, National University of Singapore	China, Singapore	academia 
++ Exploring Plain Vision Transformer Backbones for Object Detection	205	91	Meta	USA	industry 
++ GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation	26	90	CIFAR, HEC Montreal, Mila, Stanford University, University of Montreal	Canada, USA	academia 
++ OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework	91	88	Alibaba Group	China	industry 
++ Block-NeRF: Scalable Large Scene Neural View Synthesis	641	86	Google, UC Berkeley, Waymo	USA	industry 
++ Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents	24	86	Carnegie Mellon University, Google, UC Berkeley	USA	industry 
++ Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models	881	81	AI Objectives Institute, Allen Institute for Artificial Intelligence, Amazon, Amelia, Amirkabir University of Technology, Anthropic, Apergo, Arizona State University, Bauhaus-Universität Weimar, Bluevine, Carnegie Mellon University, Carnegie Robotics, Charles River Analytics, Columbia University, Complutense University of Madrid, Conjecture, Cornell University, De Anza College, DeepMind, Duke Kunshan University, Duke University, ETH Zurich, EleutherAI, Ford Motor Company, Fraunhofer Institute for Integrated Circuits, Georgia Institute of Technology, Google, Hacettepe University, Harker School, Harvard University, Heidelberg Institute for Theoretical Studies, Hong Kong University of Science and Technology, IBM, Illinois Mathematics and Science Academy, Imperial College London, Indian Institute of Technology Madras, Juelich Research Center, KU Leuven, Karlsruhe Institute of Technology, King’s College London, Koç University, Lawrence Berkeley National Laboratory, Leipzig University, Ludwig Maximilian University of Munich, MIT, ML Collective, Martin-Luther-University Halle-Wittenberg, Max Planck Institute for Intelligent Systems, Max Planck Institute for Mathematics in the Sciences, McGill University, McMaster University, Meta, Microsoft, Mila, MosaicML, NAVER, NUST School of Electrical Engineering and Computer Science, National Public School, HSR, National Research Council Canada, National University of Singapore, NeuralSpace, Neurospin, New York University, NoOverfitting Lab, OpenAI, Ought, Peking University, Penn State University, Princeton University, Queen’s University, Research Institutes of Sweden, Rice University, Rutgers University, Saarland University, Salesforce, Sapienza University of Rome, Sharif University of Technology, Stanford University, Strathmore University, Synthego Corporation, Technion, Tel Aviv University, Thapar Institute of Engineering and Technology, Thomson Reuters Special Services, TomTom, Toyota Technological Institute at Chicago, Tufts University, UC Berkeley, UC Irvine, UC Los Angeles, UC San Diego, Umeå University, UnifyID labs, University of Amsterdam, University of Bristol, University of Cambridge, University of Edinburgh, University of Hamburg, University of Heidelberg, University of Hong Kong, University of Illinois Urbana-Champaign, University of Memphis, University of Michigan, University of Milano-Bicocca, University of North Carolina at Chapel Hill, University of Notre Dame, University of Oxford, University of Pennsylvania, University of Potsdam, University of Southern California, University of Tehran, University of Texas at Austin, University of Toronto, University of Tsukuba, University of Tubingen, University of Utah, University of Virginia, University of Washington, University of Wisconsin-Madison, Valencia Polytechnic University, Wrocław University of Science and Technology, Yale University	Belgium, Canada, China, France, Germany, India, Iran, Israel, Italy, Japan, Kenya, Netherlands, Pakistan, Poland, Singapore, South Korea, Spain, Sweden, Switzerland, Turkey, UK, USA	academia 
++ Outracing champion Gran Turismo drivers with deep reinforcement learning		80	Sony	Japan	industry 
++ BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning	10	77	Everyday Robots, Google, Stanford University, UC Berkeley	USA	academia 
++ DN-DETR: Accelerate DETR Training by Introducing Query DeNoising		74	Hong Kong University of Science and Technology, International Digital Economy Academy, Tsinghua University	China	academia 
++ Emergent Abilities of Large Language Models	442	74	DeepMind, Google, Stanford University, University of North Carolina at Chapel Hill	UK, USA	academia, industry 
++ Equivariant Diffusion for Molecule Generation in 3D	131	73	École Polytechnique Fédérale de Lausanne, University of Amsterdam	Netherlands, Switzerland	academia 
++ Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images	6	73	NVIDIA, Vanderbilt University	USA	industry 
++ GPT-NeoX-20B: An Open-Source Autoregressive Language Model	50	72	EleutherAI		industry 
++ Online reinforcement learning multiplayer non-zero sum games of continuous-time Markov jump linear systems		72	Anhui University, Chengdu University, Murdoch University, University of Kragujevac	Australia, China, Serbia	academia 
++ Self-consistency improves chain of thought reasoning in language models	290	71	Google	USA	industry 
++ Detecting Twenty-thousand Classes using Image-level Supervision	35	70	Meta, University of Texas at Austin	USA	industry 
++ Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network		68	Wuhan University	China	academia 
++ LAION-5B: An open large-scale dataset for training next generation image-text models	53	66	Juelich Research Center, LAION, Stability AI, Technical University of Darmstadt, Technical University of Munich, UC Berkeley, University of Washington	Germany, USA	industry 
++ Denoising Diffusion Restoration Models		65	NVIDIA, Stanford University, Technion	Israel, USA	industry 
++ VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance	175	64	AiDock, Booz Allen Hamilton, EleutherAI, Georgia Institute of Technology	Israel, USA	industry 
++ CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields	33	63	City University of Hong Kong, Microsoft, Snap Inc., University of Southern California	China, USA	academia 
++ Solving Quantitative Reasoning Problems with Language Models	139	63	Google	USA	industry 
++ Masked Autoencoders As Spatiotemporal Learners	120	61	Meta	USA	industry 
++ Why do tree-based models still outperform deep learning on tabular data?	646	60	CNRS, INRIA, Sorbonne University	France	academia 
++ Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language	499	59	Google	USA	industry 
++ ViTAEv2: Vision Transformer Advanced by Exploring Inductive Bias for Image Recognition and Beyond	2	59	JD Explore Academy, University of Sydney	Australia, China	academia, industry 
++ Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks	178	58	Microsoft	USA	industry 
++ Language-driven Semantic Segmentation	95	57	Apple, Cornell University, Intel, University of Copenhagen	Denmark, USA	industry 
++ Vision-Language Pre-Training with Triple Contrastive Learning	34	56	Amazon, University of Texas at Arlington	USA	academia 
++ Deep Reinforcement Learning-Based Path Control and Optimization for Unmanned Ships		55	Sipivt, Tongji University	China	industry 
++ EquiBind: Geometric Deep Learning for Drug Binding Structure Prediction	208	54	MIT	USA	academia 
++ Omnivore: A Single Model for Many Visual Modalities	89	54	Meta	USA	industry 
++ Quantifying Memorization Across Neural Language Models	106	54	Cornell University, Google, University of Pennsylvania	USA	industry 
++ DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection	36	53	Google, Johns Hopkins University	USA	industry 
++ Genetic Algorithm-Based Trajectory Optimization for Digital Twin Robots		53	Wuhan University of Science and Technology	China	academia 
++ Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors	280	53	Meta	USA	industry 
++ Discovering faster matrix multiplication algorithms with reinforcement learning		52	DeepMind	UK	industry 
++ DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation	221	52	Boston University, Google	USA	industry 
++ PETR: Position Embedding Transformation for Multi-View 3D Object Detection	4	52	Megvii	China	industry 
++ Protein structure predictions to atomic accuracy with AlphaFold		51	DeepMind	UK	industry 
++ ABAW: Valence-Arousal Estimation, Expression Recognition, Action Unit Detection & Multi-Task Learning Challenges	2	50	Queen Mary University of London	UK	academia 
++ HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video	72	50	Google, University of Washington	USA	academia, industry 
++ UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models	38	49	Allen Institute for Artificial Intelligence, Carnegie Mellon University, George Mason University, Google, Meta, Penn State University, Salesforce, ServiceNow Research, Shanghai AI Lab, Stanford University, UC Berkeley, University of Edinburgh, University of Hong Kong, University of Illinois Urbana-Champaign, University of Washington, University of Waterloo, Yale University	Canada, China, UK, USA	academia 
++ A Systematic Evaluation of Large Language Models of Code	61	48	Carnegie Mellon University	USA	academia 
++ Robust Speech Recognition via Large-Scale Weak Supervision	40	48	OpenAI	USA	industry 
++ Diffusion Models: A Comprehensive Survey of Methods and Applications	274	47	Beijing University of Posts and Telecommunications, Carnegie Mellon University, HEC Montreal, Mila, OpenAI, Peking University, UC Los Angeles, UC Merced	Canada, China, USA	academia 
++ Can language models learn from explanations in context?	113	46	DeepMind	UK	industry 
++ NELA-GT-2021: A Large Multi-Labelled News Dataset for The Study of Misinformation in News Articles	9	46	Rensselaer Polytechnic Institute, University of Tennessee Knoxville	USA	academia 
++ ActionFormer: Localizing Moments of Actions with Transformers		44	4Paradigm Inc., Nanjing University, University of Wisconsin-Madison	China, USA	academia 
++ DeiT III: Revenge of the ViT	115	44	Meta, Sorbonne University	France, USA	academia, industry 
++ Least-to-Most Prompting Enables Complex Reasoning in Large Language Models		44	Google	USA	industry 
++ Diffusion-LM Improves Controllable Text Generation	253	43	Stanford University	USA	academia 
++ Overview of The Shared Task on Homophobia and Transphobia Detection in Social Media Comments		41	Indian Institute of Information Technology and Management, Madurai Kamaraj University, National University of Ireland Galway, SSN College of Engineering	India, Ireland	academia 
++ Text and Code Embeddings by Contrastive Pre-Training	23	40	OpenAI	USA	industry 
++ Winoground: Probing Vision and Language Models for Visio-Linguistic Compositionality	125	40	Hugging Face, Meta, University College London, University of Waterloo	Canada, UK, USA	industry 
++ BLOOM: A 176B-Parameter Open-Access Multilingual Language Model	325	39	BigScience Team	France	industry 
++ Red Teaming Language Models with Language Models	40	39	DeepMind, New York University	UK, USA	industry 
++ Transformer Memory as a Differentiable Search Index	372	39	Google	USA	industry 
++ Torsional Diffusion for Molecular Conformer Generation	109	38	Harvard University, MIT	USA	academia 
++ Unified Contrastive Learning in Image-Text-Label Space	66	37	Microsoft	USA	industry 
++ Benchmarking Generalization via In-Context Instructions on 1, 600+ Language Tasks	149	36	Allen Institute for Artificial Intelligence, Amirkabir University of Technology, Arizona State University, Columbia University, Factored AI, Government Polytechnic Rajkot, Indian Institute of Technology Kharagpur, Indian Institute of Technology Madras, Johns Hopkins University, Microsoft, National Institute of Technology Karnataka, National University of Singapore, PSG College Of Technology, Sharif University of Technology, Stanford University, Tata Consultancy Services, UC Berkeley, University of Amsterdam, University of Massachusetts Amherst, University of Washington, Zycus Infotech
++ Highly accurate protein structure prediction with AlphaFold		8783	DeepMind, Seoul National University	South Korea, UK	industry 
++ Swin Transformer: Hierarchical Vision Transformer using Shifted Windows	383	5389	Microsoft	USA	industry 
++ Learning Transferable Visual Models From Natural Language Supervision	178	3658	OpenAI	USA	industry 
++ Accurate prediction of protein structures and interactions using a three-track neural network		1659	Harvard University, Lawrence Berkeley National Laboratory, North-West University, Stanford University, UC Berkeley, University of British Columbia, University of Cambridge, University of Graz, University of Texas Southwestern Medical Center, University of Victoria, University of Washington, University of the Free State	Austria, Canada, South Africa, UK, USA 
++ Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions	69	1306	Inception Institute of AI, Nanjing University, Nanjing University of Science and Technology, SenseTime, University of Hong Kong	China, UAE	academia 
++ Rethinking Semantic Segmentation From a Sequence-to-Sequence Perspective With Transformers	20	1280	Fudan University, Meta, Tencent, University of Oxford, University of Surrey	China, UK, USA	academia 
++ On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?		1241	Black in AI, University of Washington	USA	academia 
++ Masked Autoencoders Are Scalable Vision Learners	843	1234	Meta	USA	industry 
++ Emerging Properties in Self-Supervised Vision Transformers	269	1219	INRIA, Meta, Sorbonne University	France, USA	industry 
++ Review of deep learning: concepts, CNN architectures, challenges, applications, future directions		1210	Queensland University of Technology	Australia	academia 
++ nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation		1178	DeepMind, German Cancer Research Center, Heidelberg University Hospital, University of Heidelberg	Germany, UK	academia 
++ Zero-Shot Text-to-Image Generation	155	1177	OpenAI	USA	industry 
++ TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation	46	998	East China Normal University, Johns Hopkins University, PAII Inc., Stanford University, University of Electronic Science and Technology of China	China, USA	academia 
++ Barlow Twins: Self-Supervised Learning via Redundancy Reduction	1076	951	Meta, New York University	USA	industry 
++ Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet	13	912	National University of Singapore, YITU Technology	China, Singapore	academia 
++ MLP-Mixer: An all-MLP Architecture for Vision	671	896	Google	USA	industry 
++ SimCSE: Simple Contrastive Learning of Sentence Embeddings	85	866	Princeton University, Tsinghua University	China, USA	academia 
++ Coordinate Attention for Efficient Mobile Network Design	49	860	National University of Singapore	Singapore	academia 
++ SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers	100	831	California Institute of Technology, NVIDIA, Nanjing University, University of Hong Kong	China, USA	academia 
++ BEiT: BERT Pre-Training of Image Transformers	143	785	Harbin Institute of Technology, Microsoft	China, USA	industry 
++ CvT: Introducing Convolutions to Vision Transformers		761	McGill University, Microsoft	Canada, USA	industry 
++ Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision	41	759	Google	USA	industry 
++ Transformers in Vision: A Survey	158	757	Inception Institute of AI, Mohamed bin Zayed University of Artificial Intelligence, Monash University, University of Central Florida	Australia, UAE, USA	academia 
++ Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing	201	737	Carnegie Mellon University, National University of Singapore	Singapore, USA	academia 
++ EfficientNetV2: Smaller Models and Faster Training	666	730	Google	USA	industry 
++ Is Space-Time Attention All You Need for Video Understanding?	84	729	Dartmouth College, Meta	USA	academia, industry 
++ ViViT: A Video Vision Transformer	66	713	Google	USA	industry 
++ Diffusion Models Beat GANs on Image Synthesis	566	694	OpenAI	USA	industry 
++ An Empirical Study of Training Self-Supervised Vision Transformers	76	601	Meta	USA	industry 
++ The Power of Scale for Parameter-Efficient Prompt Tuning	227	594	Google	USA	industry 
++ SwinIR: Image Restoration Using Swin Transformer	34	578	ETH Zurich, KU Leuven	Belgium, Switzerland	academia 
++ Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity	120	576	Google	USA	industry 
++ Protein complex prediction with AlphaFold-Multimer		561	DeepMind	UK	industry 
++ Bottleneck Transformers for Visual Recognition	46	542	Google, UC Berkeley	USA	industry 
++ HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units	43	534
++ Alias-Free Generative Adversarial Networks	77	520	Aalto University, NVIDIA	Finland, USA	industry 
++ Towards Causal Representation Learning	117	504	CIFAR, ETH Zurich, Google, Max Planck Institute for Intelligent Systems, Mila, University of Montreal	Canada, Germany, Switzerland, USA	academia 
++ Vision Transformers for Dense Prediction	360	486	Intel	USA	industry 
++ Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges		480	DeepMind, Imperial College London, New York University, Qualcomm, Twitter	UK, USA	industry 
++ High-Resolution Image Synthesis with Latent Diffusion Models	210	480	Ludwig Maximilian University of Munich, Runway, University of Heidelberg	Germany, USA	academia 
++ Segmenter: Transformer for Semantic Segmentation	59	468	INRIA	France	academia 
++ RepVGG: Making VGG-style ConvNets Great Again		467	Aberystwyth University, Hong Kong University of Science and Technology, Megvii, Tsinghua University	China, UK	industry 
++ Multiscale Vision Transformers	99	452	Meta, UC Berkeley	USA	industry 
++ CoAtNet: Marrying Convolution and Attention for All Data Sizes		442	Google	USA	industry 
++ CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification	34	435	IBM, MIT	USA	academia, industry 
++ ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision		435	Kakao Brain, Kakao Enterprise, NAVER	South Korea	industry 
++ Video Swin Transformer	32	415	Huazhong University of Science and Technology, Microsoft, Tsinghua University, University of Science and Technology of China	China, USA	industry 
++ End-to-End Video Instance Segmentation With Transformers		411	Meituan, University of Adelaide	Australia, China	industry 
++ StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery	602	401	Adobe, Hebrew University of Jerusalem, Tel Aviv University	Israel, USA	academia 
++ Evaluating Large Language Models Trained on Code	934	400	Anthropic, OpenAI, Zipeline	USA	industry 
++ Improved Denoising Diffusion Probabilistic Models	50	397	OpenAI	USA	industry 
++ VinVL: Revisiting Visual Representations in Vision-Language Models	3	373	Microsoft, University of Washington	USA	industry 
++ ABCDM: An Attention-based Bidirectional CNN-RNN Deep Model for sentiment analysis		361	Deakin University, Nanyang Technological University, Ngee Ann Polytechnic, University of Shahrekord	Australia, Iran, Singapore	academia 
++ Out-of-Distribution Generalization via Risk Extrapolation (REx)		354	McGill University, Meta, Mila, University of Montreal, University of Toronto, Vector	Canada, USA	academia 
++ UNETR: Transformers for 3D Medical Image Segmentation	55	351	NVIDIA, Vanderbilt University	USA	industry 
++ ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases		344	Meta, École normale supérieure	France, USA	industry 
++ Align before Fuse: Vision and Language Representation Learning with Momentum Distillation	30	337	Salesforce	USA	industry 
++ GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models	1614	333	OpenAI	USA	industry 
++ Perceiver: General Perception with Iterative Attention		329	OpenAI	USA	industry 
++ Scaling Vision Transformers	237	324	Google	USA	industry 
++ VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning	241	314	INRIA, Meta, New York University	France, USA	academia, industry 
++ Machine learning accelerated computational fluid dynamics	19	312	Google, Harvard University	USA	industry 
++ “Everyone wants to do the model work, not the data work”: Data Cascades in High-Stakes AI		310	Google	USA	industry 
++ Per-Pixel Classification is Not All You Need for Semantic Segmentation	69	309	Meta, University of Illinois Urbana-Champaign	USA	industry 
++ Finetuned Language Models Are Zero-Shot Learners	402	307	Google	USA	industry 
++ Multitask Prompted Training Enables Zero-Shot Task Generalization	640	300	ASUS, BigScience Team, Birla Institute of Technology and Science, Pilani, Booz Allen Hamilton, Brown University, Charles River Analytics, EleutherAI, Hugging Face, Hyperscience, IBM, IMATAG, INRIA, IRISA, Institute for Infocomm Research, King Fahd University of Petroleum and Minerals, NAVER, Nanyang Technological University, New York University, Parity, SAP, SambaNova Systems, Snorkel AI, Stanford University, UC Berkeley, UC San Diego, University of Rome, University of Virginia, VU Amsterdam, Walmart, ZEALS	France, Germany, India, Italy, Japan, Netherlands, Saudi Arabia, Singapore, South Korea, Taiwan, UK, USA	industry 
++ TransGAN: Two Pure Transformers Can Make One Strong GAN, and That Can Scale Up	77	297	IBM, MIT, UC Santa Barbara, University of Texas at Austin	USA	academia 
++ Scene Text Detection and Recognition: The Deep Learning Era.		294	ByteDance, Carnegie Mellon University, Megvii	China, USA	industry 
++ PlenOctrees for Real-time Rendering of Neural Radiance Fields	71	278	UC Berkeley, University of Southern California	USA	academia 
++ High-Performance Large-Scale Image Recognition Without Normalization	179	275	DeepMind	UK	industry 
++ Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields	33	268	Google, UC Berkeley	USA	industry 
++ GPT Understands, Too	87	264	Beijing Academy of Artificial Intelligence, MIT, Recurrent AI, Tsinghua University	China, USA	academia 
++ Less Is More: ClipBERT for Video-and-Language Learning via Sparse Sampling		260	Microsoft, University of North Carolina at Chapel Hill	USA	industry 
++ SimMIM: A Simple Framework for Masked Image Modeling	76	257	Microsoft, Tsinghua University, Xi’an Jiaotong University	China, USA	industry 
++ VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text	285	255	Columbia University, Cornell University, Google	USA	industry 
++ Restormer: Efficient Transformer for High-Resolution Image Restoration	52	247	Google, Inception Institute of AI, Mohamed bin Zayed University of Artificial Intelligence, Monash University, UC Merced, Yonsei University	Australia, South Korea, UAE, USA	academia, industry 
++ Understanding adversarial attacks on deep learning based medical image analysis systems.	1	246	Beihang University, Chinese Academy of Sciences, National Institute of Informatics, Shanghai Jiao Tong University, University of Melbourne	Australia, China, Japan	academia 
++ FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search	1	245	Xiaomi	China	industry 
++ Calibrate Before Use: Improving Few-Shot Performance of Language Models	90	243	UC Berkeley, UC Irvine, University of Maryland	USA	academia 
++ Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision	1	242	Microsoft, Peking University	China, USA	industry 
++ IBRNet: Learning Multi-View Image-Based Rendering	8	241	Cornell University, Google, Princeton University	USA	academia, industry 
++ E(n) Equivariant Graph Neural Networks	60	238	Bosch, University of Amsterdam	Germany, Netherlands	academia, industry 
++ LoFTR: Detector-Free Local Feature Matching with Transformers	95	238	SenseTime, Zhejiang University	China	academia 
++ Plant leaf disease classification using EfficientNet deep learning model		237	Iskenderun Technical University, Karabuk University, Kastamonu University	Turkey	academia 
++ How Attentive are Graph Attention Networks?	56	234	Carnegie Mellon University, Technion	Israel, USA	academia 
++ Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking	15	234	Hefei Comprehensive National Science Center, University of Science and Technology of China	China	academia 
++ MDETR - Modulated Detection for End-to-End Multi-Modal Understanding		233	Meta, New York University	USA	academia 
++ Learning to Prompt for Vision-Language Models	61	231	Nanyang Technological University	Singapore	academia 
++ SimVLM: Simple Visual Language Model Pretraining with Weak Supervision		231	Carnegie Mellon University, Google, University of Washington	USA	industry 
++ Scaling Language Models: Methods, Analysis & Insights from Training Gopher		229	DeepMind	UK	industry 
++ How to Train Your Robot with Deep Reinforcement Learning; Lessons We've Learned	42	220	Google, UC Berkeley, X, The Moonshot Factory	USA	academia, industry 
++ Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts	8	217	Google	USA	industry 
++ Model-Contrastive Federated Learning	1	209	National University of Singapore, UC Berkeley	Singapore, USA	academia 
++ SpeechBrain: A General-Purpose Speech Toolkit	117	208	Aalto University, Academia Sinica, Avignon Université, HEC Montreal, Indian Institute of Technology Madras, Marche Polytechnic University, McGill University, Mila, NVIDIA, Ohio State University, Samsung, Toulouse Institute of Computer Science Research, Toyota Technological Institute at Chicago, University of Cambridge, University of Edinburgh, University of Montreal, University of Sherbrooke	Canada, Finland, France, India, Italy, South Korea, Taiwan, UK, USA	academia 
++ MagFace: A Universal Representation for Face Recognition and Quality Assessment	10	206	Aibee	China	industry 
++ Offline Reinforcement Learning as One Big Sequence Modeling Problem	110	200	UC Berkeley	USA	academia 
++ Unified Pre-training for Program Understanding and Generation	16	200	Columbia University, UC Los Angeles	USA	academia 
++ Image Super-Resolution via Iterative Refinement	401	198	Google	USA	industry 
++ FastNeRF: High-Fidelity Neural Rendering at 200FPS	164	194	Microsoft	USA	industry 
++ BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models	95	194	Technical University of Darmstadt	Germany	academia 
++ Measurement and Fairness.
++ An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale	142	12042	Google	USA	industry
++ A Simple Framework for Contrastive Learning of Visual Representations	16	8476	Google	USA	industry 
++ Language Models are Few-Shot Learners	331	7903	OpenAI	USA	industry 
++ YOLOv4: Optimal Speed and Accuracy of Object Detection	20	7860	Academia Sinica	Taiwan	industry 
++ Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.	53	6362	Google	USA	industry 
++ Momentum Contrast for Unsupervised Visual Representation Learning	8	6060	Meta	USA	industry 
++ End-to-End Object Detection with Transformers	43	4998	Meta, Paris Dauphine University	France, USA	industry 
++ Analyzing and Improving the Image Quality of StyleGAN	44	3101	Aalto University, NVIDIA	Finland, USA	industry 
++ EfficientDet: Scalable and Efficient Object Detection	7	3081	Google	USA	industry 
++ Advances and Open Problems in Federated Learning	5	2921	Australian National University, Carnegie Mellon University, Cornell University, Emory University, École Polytechnique Fédérale de Lausanne, Georgia Institute of Technology, Google, Hong Kong University of Science and Technology, INRIA, IT University of Copenhagen, MIT, Nanyang Technological University, Princeton University, Rutgers University, Stanford University, UC Berkeley, UC San Diego, University of Illinois Urbana-Champaign, University of Oulu, University of Pittsburgh, University of Southern California, University of Virginia, University of Warwick, University of Washington, University of Wisconsin-Madison	Australia, China, Denmark, Finland, France, Singapore, Switzerland, UK, USA	industry 
++ Unsupervised Cross-lingual Representation Learning at Scale	6	2857	Meta	USA	industry 
++ Bootstrap your own latent: A new approach to self-supervised Learning	13	2827	DeepMind, Imperial College London	UK	industry 
++ Training data-efficient image transformers & distillation through attention	45	2558	Meta, Sorbonne University	France, USA	industry 
++ Random Erasing Data Augmentation.	2	2453	University of Technology Sydney, Xiamen University	Australia, China	academia 
++ nuScenes: A Multimodal Dataset for Autonomous Driving	3	2366	nuTonomy	USA	industry 
++ NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis	188	2283	Google, UC Berkeley, UC San Diego	USA	academia 
++ ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators		2142	CIFAR, Google, Stanford University	Canada, USA	academia 
++ Improved protein structure prediction using potentials from deep learning		2121	DeepMind, Francis Crick Institute, University College London	UK	industry 
++ Transformers: State-of-the-Art Natural Language Processing		2071	Hugging Face	USA	industry 
++ Unsupervised Learning of Visual Features by Contrasting Cluster Assignments	12	1847	INRIA, Meta	France, USA	industry 
++ Supervised Contrastive Learning	29	1835	Boston University, Google, MIT, Snap Inc.	USA	industry 
++ Improved Baselines with Momentum Contrastive Learning	1	1782	Meta	USA	industry 
++ wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations	34	1777	Meta	USA	industry 
++ Exploring Simple Siamese Representation Learning	73	1767	Meta	USA	industry 
++ ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks	5	1713	Dalian University of Technology, Harbin Institute of Technology, Tianjin University	China	academia 
++ RandAugment: Practical Automated Data Augmentation with a Reduced Search Space	3	1684	Google	USA	industry 
++ Self-Training With Noisy Student Improves ImageNet Classification	19	1674	Carnegie Mellon University, Google	USA	industry 
++ Longformer: The Long-Document Transformer	55	1650	Allen Institute for Artificial Intelligence	USA	industry 
++ FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence		1603	Google	USA	industry 
++ Face2Face: Real-time Face Capture and Reenactment of RGB Videos	1	1532	Max Planck Institute for Informatics, Stanford University, University of Erlangen-Nuremberg	Germany, USA	academia 
++ Image Segmentation Using Deep Learning: A Survey	13	1450	Qualcomm, Snapchat, UC Los Angeles, University of Extremadura, University of Texas at Dallas, University of Waterloo	Canada, Spain, USA	academia 
++ Unsupervised Data Augmentation for Consistency Training	11	1345	Carnegie Mellon University, Google	USA	industry 
++ Big Self-Supervised Models are Strong Semi-Supervised Learners	16	1314	Google	USA	industry 
++ SpanBERT: Improving Pre-training by Representing and Predicting Spans	2	1307	Allen Institute for Artificial Intelligence, Meta, Princeton University, University of Washington	USA	industry
++ Conformer: Convolution-augmented Transformer for Speech Recognition	51	1214	Google	USA	industry 
++ Scalability in Perception for Autonomous Driving: Waymo Open Dataset		1209	Google, Waymo	USA	industry 
++ Denoising Diffusion Probabilistic Models	108	1206	UC Berkeley	USA	academia 
++ Don't Stop Pretraining: Adapt Language Models to Domains and Tasks	10	1150	Allen Institute for Artificial Intelligence, University of Washington	USA	academia, industry 
++ LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation		1141	Hefei University of Technology, Kuaishou Technology, National University of Singapore, University of Science and Technology of China	China, Singapore	academia 
++ Open Graph Benchmark: Datasets for Machine Learning on Graphs	22	1112	Harvard University, Microsoft, Stanford University, Technical University Dortmund	Germany, USA	academia 
++ Dense Passage Retrieval for Open-Domain Question Answering	23	1106	Meta, Princeton University, University of Washington	USA	industry 
++ SCAFFOLD: Stochastic Controlled Averaging for Federated Learning	1	1052	École Polytechnique Fédérale de Lausanne, Google, New York University	Switzerland, USA	industry 
++ Data-Efficient Image Recognition with Contrastive Predictive Coding		1031	DeepMind, UC Berkeley	UK, USA	industry 
++ Stanza: A Python Natural Language Processing Toolkit for Many Human Languages		1016	Stanford University	USA	academia 
++ ResNeSt: Split-Attention Networks	5	994	Amazon, ByteDance, Meta, SenseTime, Snap Inc., UC Davis	China, USA	industry 
++ Self-Supervised Learning of Pretext-Invariant Representations	2	993	Meta	USA	industry 
++ Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks	2	971	Microsoft, University of Washington	USA	industry 
++ Implicit Neural Representations with Periodic Activation Functions	38	963	Stanford University	USA	academia 
++ TinyBERT: Distilling BERT for Natural Language Understanding		954	Huawei, Huazhong University of Science and Technology	China	industry 
++ Big Bird: Transformers for Longer Sequences	10	929	Google	USA	industry 
++ BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning	2	924	Cornell University, Element, UC Berkeley, UC San Diego	Canada, USA	academia 
++ StarGAN v2: Diverse Image Synthesis for Multiple Domains		916	NAVER	South Korea	industry 
++ PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection		899	Chinese Academy of Sciences, Chinese University of Hong Kong, National Laboratory of Pattern Recognition, SenseTime	China	academia 
++ A Primer in BERTology: What we know about how BERT works	20	892	University of Copenhagen, University of Massachusetts Lowell	Denmark, USA	academia 
++ RAFT: Recurrent All-Pairs Field Transforms for Optical Flow	10	860	Princeton University	USA	academia 
++ Multilingual Denoising Pre-training for Neural Machine Translation	1	859	Meta	USA	industry 
++ Bridging the Gap Between Anchor-Based and Anchor-Free Detection via Adaptive Training Sample Selection		850	Beijing University of Posts and Telecommunications, Chinese Academy of Sciences, National Laboratory of Pattern Recognition, University of Chinese Academy of Sciences, Westlake University	China	academia 
++ Knowledge Distillation: A Survey	19	850	University of London, University of Sydney	Australia, UK	academia 
++ RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds	3	848	National University of Defense Technology, Sun Yat-sen University, University of Oxford	China, UK	academia 
++ SuperGlue: Learning Feature Matching With Graph Neural Networks	10	839	ETH Zurich, Magic Leap	Switzerland, USA	industry 
++ Generative Pretraining From Pixels		838	OpenAI	USA	industry 
++ Pre-trained models for natural language processing: A survey	10	832	Fudan University	China	academia 
++ Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks		811	University of Tubingen	Germany	academia 
++ Deep Learning for Person Re-identification: A Survey and Outlook		806	Beijing Institute of Technology, Inception Institute of AI, Salesforce, Singapore Management University, University of Surrey, Wuhan University	China, Singapore, UAE, UK, USA	academia, industry 
++ Object-Contextual Representations for Semantic Segmentation		800	Chinese Academy of Sciences, Microsoft, University of Chinese Academy of Sciences	China, USA	industry 
++ Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains	14	774	Google, UC Berkeley, UC San Diego	USA	academia 
++ Scaled-YOLOv4: Scaling Cross Stage Partial Network		758	Academia Sinica, Intel, Providence University	Taiwan, USA	academia, industry 
++ Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere	3	755	MIT	USA	academia 
++ Fast is better than free: Revisiting adversarial training		744	Bosch, Carnegie Mellon University	Germany, USA	academia, industry 
++ Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting	35	741	Beihang University, Rutgers University, Sharjah Economic Development Department, UC Berkeley	China, UAE, USA	industry 
++ CodeBERT: A Pre-Trained Model for Programming and Natural Languages	30	736	Harbin Institute of Technology, Microsoft, Sun Yat-sen University	China, USA	industry 
++ Big Transfer (BiT): General Visual Representation Learning	51	704	Google	USA	industry 
++ Pre-Trained Image Processing Transformer	3	703	Huawei, Peking University, Peng Cheng Laboratory, University of Sydney	Australia, China	academia 
++ Rethinking Attention with Performers	38	697	Alan Turing Institute, DeepMind, Google, University of Cambridge	UK, USA	academia, industry 
++ What makes for good views for contrastive learning	8	686	Brown University, Google, MIT	USA	academia 
++ Score-Based Generative Modeling through Stochastic Differential Equations	54	684	Google, Stanford University	USA	industry 
++ Graph Contrastive Learning with Augmentations	2	682	Google, Texas A&M University, University of Science and Technology of China, University of Texas at Austin	China, USA	academia 
++ Interpreting the Latent Space of GANs for Semantic Face Editing	14	675	Chinese University of Hong Kong	China	academia 
++ Linformer: Self-Attention with Linear Complexity	8	668	Meta	USA	industry 
++ MaskGAN: Towards Diverse and Interactive Facial Image Manipulation		653	Chinese University of Hong Kong, SenseTime, University of Hong Kong	China	academia 
++ Simple and Deep Graph Convolutional Networks	1	653	Alibaba Group, Fudan University, Renmin University of China	China	industry 
++ REALM: Retrieval-Augmented Language Model Pre-Training	11	640	Google	USA	industry 
++ Single Path One-Shot Neural Architecture Search with Uniform Sampling	1	627	Hong Kong University of Science and Technology, Megvii, Tsinghua University	China	industry 
++ Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing	18	602	Microsoft	USA	industry 
++ Tracking Objects as Points	3	589	Intel, University of Texas at Austin	USA	academia 
++ Adaptive Federated Optimization	2	588	Google	USA	industry 
++ Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference	7	581	Ludwig Maximilian University of Munich, Sulzer GmbH	Germany	academia 
++ Making Pre-trained Language Models Better Few-shot Learners	13	576	MIT, Princeton University	USA	academia 
++ Recipes for building an open-domain chatbot	12	575	Meta	USA	industry 
++ Meshed-Memory Transformer for Image Captioning		572	University of Modena and Reggio Emilia	Italy	academia 
++ Unicoder-VL: A Universal Encoder for Vision and Language by Cross-Modal Pre-Training.		568	Microsoft, Peking University	China, USA	industry 
++ Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention	17	562	École Polytechnique Fédérale de Lausanne, Idiap Research Institute, University of Geneva, University of Washington	Switzerland, USA	academia 
++ Learning to Simulate Complex Physics with Graph Networks	46	547	DeepMind, Stanford University	UK, USA	industry 
++ Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment.		546	Agency for Science, Technology and Research, MIT, University of Hong Kong	China, Singapore, USA	academia 
++ XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization	1	536	Carnegie Mellon University, DeepMind, Google	UK, USA	industry 
++ On Adaptive Attacks to Adversarial Example Defenses	3	535	Google, MIT, Stanford University, University of Tubingen	Germany, USA	academia 
++ Circle Loss: A Unified Perspective of Pair Similarity Optimization		534	Australian National University, Beihang University, Megvii, Tsinghua University	Australia, China	industry 
++ Explaining machine learning classifiers through diverse counterfactual explanations.		527	Microsoft, University of Colorado Boulder	USA	academia 
++ Efficient Transformers: A Survey	355	524	Google	USA	industry 
++ Exploring Self-attention for Image Recognition		523	Chinese University of Hong Kong, Intel
++ 
++ [ ] [DeepMind] AlphaFold Protein Structure Database: massively expanding the structural coverage of protein-sequence space with high-accuracy models, https://academic.oup.com/nar/article/50/D1/D439/6430488
++ [ ] [DeepMind] Highly accurate protein structure prediction with AlphaFold, https://www.nature.com/articles/s41586-021-03819-2
++ [ ] [Protein] ColabFold: making protein folding accessible to all, https://www.nature.com/articles/s41592-022-01488-1
++ [ ] [Protein] Accurate prediction of protein structures and interactions using a three-track neural network, https://www.science.org/doi/epdf/10.1126/science.abj8754
++ [ ] [OpenAI] Hierarchical Text-Conditional Image Generation with CLIP Latents, https://arxiv.org/abs/2204.06125
++ [ ] [OpenAI] Learning Transferable Visual Models From Natural Language Supervision, https://arxiv.org/abs/2103.00020
 + [ ] [NVIDIA] NVIDIA Deep Learning Examples for Tensor Cores, https://github.com/NVIDIA/DeepLearningExamples
 + [ ] [Google] Google Research Publication database, https://research.google/pubs/
++ [ ] [Google] PaLM: Scaling Language Modeling with Pathways, https://arxiv.org/abs/2204.02311
++ [ ] [Google] Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer, https://arxiv.org/abs/1910.10683
++ [ ] Bootstrap your own latent: A new approach to self-supervised Learning, https://arxiv.org/abs/2006.07733
 + [ ] [Meta] Expand, Rerank, and Retrieve: Query Reranking for Open-Domain Question Answering, https://virtual2023.aclweb.org/paper_P452.html?utm_source=linkedin&utm_medium=organic_social&utm_campaign=acl2023&utm_content=image#paper
 + [ ] [Meta] Meta-training with Demonstration Retrieval for Efficient Few-shot Learning, https://arxiv.org/abs/2307.00119
 + [ ] [Meta] UnitY: Two-pass Direct Speech-to-speech Translation with Discrete Units, https://arxiv.org/abs/2212.08055
++ [ ] [U. Washington] On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? https://dl.acm.org/doi/10.1145/3442188.3445922
 + [ ] [CV] Fast Segment Anything, https://github.com/CASIA-IVA-Lab/FastSAM
 + [ ] [Knowledge Distillation] Knowledge Distillation: A Survey, https://arxiv.org/abs/2006.05525
 + [ ] [Knowledge Distillation] Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes, https://arxiv.org/abs/2305.02301
@@ -91,8 +408,10 @@ Top 100K Papers List
 + [ ] [Transformers]  Flat-Lattice-Transformer, https://github.com/LeeSureman/Flat-Lattice-Transformer
 + [ ] [Transformers]  MobileViT: A mobile-friendly Transformer-based model for image classification, https://keras.io/examples/vision/mobilevit/
 + [ ] [Transformers] Vision Transformers (ViTs)
-+ [ ] [Transformers] Swin Transformer, v1, v2
-+ [ ] [Transformers] DeiT
++ [ ] [Transformers][Google] An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, https://arxiv.org/abs/2010.11929
++ [ ] [Transformers][Microsoft] Swin Transformer, v1, v2, Swin Transformer: Hierarchical Vision Transformer using Shifted Windows, https://arxiv.org/abs/2103.14030
++ [ ] [Transformers][Meta] Emerging Properties in Self-Supervised Vision Transformers, https://arxiv.org/abs/2104.14294
++ [ ] [Transformers] DeiT, DeiT III: Revenge of the ViT, https://arxiv.org/abs/2204.07118
 + [ ] [Transformers] Levenshtein Transformer, https://arxiv.org/pdf/1905.11006.pdf
 + [ ] [Transformers] [Microsoft] Unveiling Transformers with LEGO: a synthetic reasoning task, https://arxiv.org/abs/2206.04301
 + [ ] [Transformers] [Google] Frequency Effects on Syntactic Rule Learning in Transformers, https://arxiv.org/pdf/2109.07020.pdf
