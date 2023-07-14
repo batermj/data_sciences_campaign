@@ -14,10 +14,15 @@ Top 100K Papers List
 + [ ] [Databricks][LLM] Large Language Models: Application through Production, https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm
 
 # [Milestone of Paper Reproduction for Jul.01-Jul.30, 2023]
++ [ ] https://index.quantumstat.com
++ [ ] [LLM] OpenAI Cookbook, https://github.com/openai/openai-cookbook
++ [ ] [LLM] Coding framework LlamaIndex enables data interaction with LLMs, https://github.com/jerryjliu/llama_index
++ [ ] [LLM] Multimodal Chain-of-Thought Reasoning in Language Models, https://arxiv.org/abs/2302.00923, https://github.com/amazon-science/mm-cot
 + [ ] [LLM][Survey] A Survey of Large Language Models, https://arxiv.org/abs/2303.18223, https://github.com/RUCAIBox/LLMSurvey
 + [ ] [LLM][Survey] Papers and resources for LLMs evaluation, https://github.com/MLGroupJLU/LLM-eval-survey
 + [ ] [LLM] LoRA: Low-Rank Adaptation of Large Language Models, https://arxiv.org/abs/2106.09685
 + [ ] [LLM] Lost in the Middle: How Language Models Use Long Contexts, https://arxiv.org/abs/2307.03172
++ [ ] [LLM] LLM Calibration and Automatic Hallucination Detection via Pareto Optimal Self-supervision, https://arxiv.org/abs/2306.16564
 + [ ] [Hands-on]Setting Python Development Environment with VScode and Docker, https://github.com/RamiKrispin/vscode-python
 + [ ] From Zero to AI Research Scientist Full Resources Guide, https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
 + [ ] Google’s BERT
