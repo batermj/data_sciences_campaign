@@ -15,7 +15,7 @@ Top 100K Papers List
 
 # [Milestone of Paper Reproduction for Jul.01-Jul.30, 2023]
 + [ ] https://index.quantumstat.com
-+ [ ] [LLM][LangChain] ReAct: Synergizing Reasoning and Acting in Language Models, https://arxiv.org/abs/2210.03629
++ [ ] [LLM][LangChain] ReAct: Synergizing Reasoning and Acting in Language Models, https://arxiv.org/abs/2210.03629, The Problem With LangChain LangChain is complicated, so it must be better. Right? https://minimaxir.com/2023/07/langchain-problem/
 + [ ] [LLM][In-context learning (ICL)] Schema-learning and rebinding as mechanisms of in-context learning and emergence, https://arxiv.org/abs/2307.01201
 + [ ] [LLM][Meta] Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning, https://ai.meta.com/research/publications/scaling-autoregressive-multi-modal-models-pretraining-and-instruction-tuning/
 + [ ] [LLM][GPT-3] Language Models are Few-Shot Learners, https://arxiv.org/abs/2005.14165
