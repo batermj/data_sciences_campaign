@@ -15,6 +15,7 @@ Top 100K Papers List
 
 # [Milestone of Paper Reproduction for Jul.01-Jul.30, 2023]
 + [ ] https://index.quantumstat.com
++ [ ] [LLM][Meta] Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning, https://ai.meta.com/research/publications/scaling-autoregressive-multi-modal-models-pretraining-and-instruction-tuning/
 + [ ] [LLM][GPT-3] Language Models are Few-Shot Learners, https://arxiv.org/abs/2005.14165
 + [ ] [LLM] OpenAI Cookbook, https://github.com/openai/openai-cookbook
 + [ ] [LLM] Coding framework LlamaIndex enables data interaction with LLMs, https://github.com/jerryjliu/llama_index
