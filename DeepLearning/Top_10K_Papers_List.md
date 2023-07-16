@@ -505,7 +505,9 @@ Top 100K Papers List
 + [ ] TensorFlow Implementation of "A Neural Algorithm of Artistic Style”, http://www.chioka.in/tensorflow-implementation-neural-algorithm-of-artistic-style
 + [ ] Very Deep Convolutional Networks For Large-Scale Image Recognition (Simonyan & Zisserman, 2015), https://arxiv.org/pdf/1409.1556.pdf
 + [ ] Pretrained models (MatConvNet), https://www.vlfeat.org/matconvnet/pretrained/
-+ [x][MLOps] Hidden Technical Debt in Machine Learning System, https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf
++ [ ] [PyTorch] 
++ [x] [MLOps] Large Scale Distributed Deep Networks, Jeffrey Dean,
++ [x] [MLOps] Hidden Technical Debt in Machine Learning System, https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf
 + [x] Dropout: A Simple Way to Prevent Neural Networks from Overfitting, https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf,https://paperswithcode.com/method/dropout
 + [x] Dropout is NOT All You Need to Prevent Gradient Leakage, https://arxiv.org/abs/2208.06163
 + [x] Modified Dropout for Training Neural Network, https://www.cs.cmu.edu/~epxing/Class/10715/project-reports/DuyckLeeLei.pdf
