@@ -508,6 +508,9 @@ Top 100K Papers List
 + [ ] TensorFlow Implementation of "A Neural Algorithm of Artistic Style”, http://www.chioka.in/tensorflow-implementation-neural-algorithm-of-artistic-style
 + [ ] Very Deep Convolutional Networks For Large-Scale Image Recognition (Simonyan & Zisserman, 2015), https://arxiv.org/pdf/1409.1556.pdf
 + [ ] Pretrained models (MatConvNet), https://www.vlfeat.org/matconvnet/pretrained/
++ [ ] [Causal Inference] the Book of Why, by Judea Pearl
++ [ ] [Causal Inference] [Books] "Causal Inference and Discovery in Python by Aleksander Molak” (Python)
++ [ ] [Causal Inference] [Books]  “Causal Inference in Python by Matheus Facure" (Python).
 + [ ] [PyTorch] PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel,
 + [x] [MLOps] Large Scale Distributed Deep Networks, Jeffrey Dean,
 + [x] [MLOps] Hidden Technical Debt in Machine Learning System, https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf
