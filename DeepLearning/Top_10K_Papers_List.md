@@ -7,6 +7,9 @@ Top 100K Papers List
 - Priority: #4, Classics Papers with Codes with SOTA performance; 
 
 # [Courses & Videos]
++ [ ] [UK] Top 100 AI startups in UK, https://www.ai-startups.org/country/UK/
+
+# [Courses & Videos]
 + [ ] [Stanford] Stanford CS229: Machine Learning Course, https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 + [ ] [Stanford] Stanford CS224W: Machine Learning with Graphs - YouTube, https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
 + [ ] [Stanford] Statistical Learning Stanford Online, https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e
@@ -372,7 +375,7 @@ Top 100K Papers List
 + [ ] [Model Compression] Deep model compression for mobile platforms: A survey, https://ieeexplore.ieee.org/document/8727762
 + [ ] [Model Compression] DEEPCOMPRESSION:COMPRESSINGDEEPNEURAL NETWORKSWITHPRUNING,TRAINEDQUANTIZATION ANDHUFFMANCODING, https://arxiv.org/pdf/1510.00149)
 + [ ] [GNN][Time Series] A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, https://arxiv.org/abs/2307.03759
-+ [ ] [RL] Deep reinforcement learning from human preferences, https://arxiv.org/abs/1706.03741
++ A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, https://arxiv.org/abs/2307.03759
 + [ ] [RL] Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning, https://arxiv.org/abs/2109.11978
 + [ ] [NLP] Lost in the Middle: How Language Models Use Long Contexts, https://arxiv.org/abs/2307.03172
 + [ ] [CV] Generating Images with Multimodal Language Models, https://arxiv.org/abs/2305.17216
