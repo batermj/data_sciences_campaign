@@ -15,7 +15,8 @@ Top 100K Papers List
 
 # [Milestone of Paper Reproduction for Jul.01-Jul.30, 2023]
 + [ ] https://index.quantumstat.com
-+ [ ] [LLM][Meta] Llama 2: Open Foundation and Fine-Tuned Chat Models, https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/
++ [ ] [LLM][Meta] Llama 2: Open Foundation and Fine-Tuned Chat Models, https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/, https://huggingface.co/meta-llama,
++ [ ] [LLM][Meta] LLaMA: Open and Efficient Foundation Language Models, https://arxiv.org/abs/2302.13971
 + [ ] [LLM][Evaluation] AGIEval This repository contains information about AGIEval, data, code and output of baseline systems for the benchmark, https://github.com/microsoft/agieval
 + [ ] [LLM][LangChain] ReAct: Synergizing Reasoning and Acting in Language Models, https://arxiv.org/abs/2210.03629, The Problem With LangChain LangChain is complicated, so it must be better. Right? https://minimaxir.com/2023/07/langchain-problem/
 + [ ] [LLM][In-context learning (ICL)] Schema-learning and rebinding as mechanisms of in-context learning and emergence, https://arxiv.org/abs/2307.01201
@@ -372,6 +373,7 @@ Top 100K Papers List
 + [ ] [Model Compression] DEEPCOMPRESSION:COMPRESSINGDEEPNEURAL NETWORKSWITHPRUNING,TRAINEDQUANTIZATION ANDHUFFMANCODING, https://arxiv.org/pdf/1510.00149)
 + [ ] [GNN][Time Series] A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, https://arxiv.org/abs/2307.03759
 + [ ] [RL] Deep reinforcement learning from human preferences, https://arxiv.org/abs/1706.03741
++ [ ] [RL] Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning, https://arxiv.org/abs/2109.11978
 + [ ] [NLP] Lost in the Middle: How Language Models Use Long Contexts, https://arxiv.org/abs/2307.03172
 + [ ] [CV] Generating Images with Multimodal Language Models, https://arxiv.org/abs/2305.17216
 + [ ] [MLP] Scaling MLPs: A Tale of Inductive Bias, https://arxiv.org/abs/2306.13575
