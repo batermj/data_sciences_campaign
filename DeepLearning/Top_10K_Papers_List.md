@@ -345,6 +345,7 @@ Top 100K Papers List
 + [ ] Explaining machine learning classifiers through diverse counterfactual explanations.		527	Microsoft, University of Colorado Boulder	USA	academia 
 + [ ] Efficient Transformers: A Survey	355	524	Google	USA	industry 
 + [ ] Exploring Self-attention for Image Recognition		523	Chinese University of Hong Kong, Intel
++ [ ] [ML][CMU] Improved Self-Normalized Concentration in Hilbert Spaces: Sublinear Regret for GP-UCB, https://arxiv.org/abs/2307.07539
 + [ ] [DeepMind] AlphaFold Protein Structure Database: massively expanding the structural coverage of protein-sequence space with high-accuracy models, https://academic.oup.com/nar/article/50/D1/D439/6430488
 + [ ] [DeepMind] Highly accurate protein structure prediction with AlphaFold, https://www.nature.com/articles/s41586-021-03819-2
 + [ ] [Protein] ColabFold: making protein folding accessible to all, https://www.nature.com/articles/s41592-022-01488-1
