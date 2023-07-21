@@ -18,6 +18,7 @@ Top 100K Papers List
 
 # [Milestone of Paper Reproduction for Jul.01-Jul.30, 2023]
 + [ ] https://index.quantumstat.com
++ [ ] [LLM] Challenges and Applications of Large Language Models, https://arxiv.org/abs/2307.10169
 + [ ] [LLM][Meta] Llama 2: Open Foundation and Fine-Tuned Chat Models, https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/, https://huggingface.co/meta-llama,
 + [ ] [LLM][Meta] LLaMA: Open and Efficient Foundation Language Models, https://arxiv.org/abs/2302.13971
 + [ ] [LLM][Evaluation] AGIEval This repository contains information about AGIEval, data, code and output of baseline systems for the benchmark, https://github.com/microsoft/agieval
