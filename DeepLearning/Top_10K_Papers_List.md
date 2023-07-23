@@ -383,6 +383,7 @@ Top 100K Papers List
 + [ ] [RL] Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning, https://arxiv.org/abs/2109.11978
 + [ ] [RL] Course in Deep Reinforcement Learning, https://github.com/andri27-ts/Reinforcement-Learning
 + [ ] [NLP] Lost in the Middle: How Language Models Use Long Contexts, https://arxiv.org/abs/2307.03172
++ [ ] [NLP] FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets, https://arxiv.org/abs/2307.10928
 + [ ] [CV] Generating Images with Multimodal Language Models, https://arxiv.org/abs/2305.17216
 + [ ] [MLP] Scaling MLPs: A Tale of Inductive Bias, https://arxiv.org/abs/2306.13575
 + [ ] Scenic is developed in JAX and uses Flax., https://github.com/google-research/scenic
