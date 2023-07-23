@@ -25,6 +25,7 @@ Top 100K Papers List
 + [ ] [LLM][Evaluation] AGIEval This repository contains information about AGIEval, data, code and output of baseline systems for the benchmark, https://github.com/microsoft/agieval
 + [ ] [LLM][LangChain] ReAct: Synergizing Reasoning and Acting in Language Models, https://arxiv.org/abs/2210.03629, The Problem With LangChain LangChain is complicated, so it must be better. Right? https://minimaxir.com/2023/07/langchain-problem/
 + [ ] [LLM][In-context learning (ICL)] Schema-learning and rebinding as mechanisms of in-context learning and emergence, https://arxiv.org/abs/2307.01201
++ [ ] [LLM][In-context learning (ICL)] A Survey on In-context Learning, https://arxiv.org/abs/2301.00234, https://github.com/dqxiu/icl_paperlist, https://www.connectedpapers.com/main/8aa98fbfb6f1e979dead13ce24075503fe47658e/A-Survey-for-In%20context-Learning/graph
 + [ ] [LLM][Meta] Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning, https://ai.meta.com/research/publications/scaling-autoregressive-multi-modal-models-pretraining-and-instruction-tuning/
 + [ ] [LLM][GPT-3] Language Models are Few-Shot Learners, https://arxiv.org/abs/2005.14165
 + [ ] [LLM] OpenAI Cookbook, https://github.com/openai/openai-cookbook
