@@ -17,6 +17,7 @@ Top 100K Papers List
 + [ ] [Databricks][LLM] Large Language Models: Application through Production, https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm
 
 # [Milestone of Paper Reproduction for Jul.01-Jul.30, 2023]
++ [ ] [Autonomous Driving] SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving, https://arxiv.org/abs/2303.09551, https://github.com/weiyithu/SurroundOcc
 + [ ] https://index.quantumstat.com
 + [ ] [LLM] How is ChatGPT's behavior changing over time?, https://arxiv.org/abs/2307.09009
 + [ ] [LLM] Challenges and Applications of Large Language Models, https://arxiv.org/abs/2307.10169
@@ -387,6 +388,7 @@ Top 100K Papers List
 + [ ] [CV] Generating Images with Multimodal Language Models, https://arxiv.org/abs/2305.17216
 + [ ] [MLP] Scaling MLPs: A Tale of Inductive Bias, https://arxiv.org/abs/2306.13575
 + [ ] Scenic is developed in JAX and uses Flax., https://github.com/google-research/scenic
++ [ ] [Transformers] Explainable AI: Visualizing Attention in Transformers,  And logging the results in an experiment tracking tool, https://generativeai.pub/explainable-ai-visualizing-attention-in-transformers-4eb931a2c0f8
 + [ ] [Transformers] Attending to Graph Transformers, https://arxiv.org/abs/2302.04181
 + [ ] [Transformers] Sumformer: A Linear-Complexity Alternative to Self-Attention for Speech Recognition, https://arxiv.org/abs/2307.07421
 + [ ] [Transformers] Trainable Transformer in Transformer, Abhishek Panigrahi, Sadhika Malladi, Mengzhou Xia, Sanjeev Arora, https://arxiv.org/abs/2307.01189
