@@ -385,6 +385,7 @@ Top 100K Papers List
 + [ ] [RL] Course in Deep Reinforcement Learning, https://github.com/andri27-ts/Reinforcement-Learning
 + [ ] [NLP] Lost in the Middle: How Language Models Use Long Contexts, https://arxiv.org/abs/2307.03172
 + [ ] [NLP] FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets, https://arxiv.org/abs/2307.10928
++ [ ] [NLP] Jina Embeddings: A Novel Set of High-Performance Sentence Embedding Models, https://arxiv.org/abs/2307.11224
 + [ ] [CV] Generating Images with Multimodal Language Models, https://arxiv.org/abs/2305.17216
 + [ ] [MLP] Scaling MLPs: A Tale of Inductive Bias, https://arxiv.org/abs/2306.13575
 + [ ] Scenic is developed in JAX and uses Flax., https://github.com/google-research/scenic
@@ -532,6 +533,13 @@ Top 100K Papers List
 + [ ] [PyTorch] PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel,
 + [x] [MLOps] Large Scale Distributed Deep Networks, Jeffrey Dean,
 + [x] [MLOps] Hidden Technical Debt in Machine Learning System, https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf
++ [x] [MLOps] MLOps Zoomcamp, https://github.com/DataTalksClub/mlops-zoomcamp
++ [x] [MLOps] MLOps-Basics, https://github.com/graviraja/MLOps-Basics
++ [x] [MLOps] MLOps Guide, https://mlops-guide.github.io
++ [x] [MLOps] Awesome MLOps, https://github.com/visenger/awesome-mlops
++ [x] [MLOps] Awesome MLOps - Tools, https://github.com/kelvins/awesome-mlops
++ [x] [MLOps] DTU MLOps, https://github.com/SkafteNicki/dtu_mlops
++ [x] [MLOps] MLOps Course, https://github.com/GokuMohandas/mlops-course
 + [x] Dropout: A Simple Way to Prevent Neural Networks from Overfitting, https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf,https://paperswithcode.com/method/dropout
 + [x] Dropout is NOT All You Need to Prevent Gradient Leakage, https://arxiv.org/abs/2208.06163
 + [x] Modified Dropout for Training Neural Network, https://www.cs.cmu.edu/~epxing/Class/10715/project-reports/DuyckLeeLei.pdf
