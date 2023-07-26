@@ -19,6 +19,7 @@ Top 100K Papers List
 # [Milestone of Paper Reproduction for Jul.01-Jul.30, 2023]
 + [ ] [Autonomous Driving] SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving, https://arxiv.org/abs/2303.09551, https://github.com/weiyithu/SurroundOcc
 + [ ] https://index.quantumstat.com
++ [ ] [LLM] [RL] RLCD: Reinforcement Learning from Contrast Distillation for Language Model Alignment, https://arxiv.org/abs/2307.12950
 + [ ] [LLM] How is ChatGPT's behavior changing over time?, https://arxiv.org/abs/2307.09009
 + [ ] [LLM] Challenges and Applications of Large Language Models, https://arxiv.org/abs/2307.10169
 + [ ] [LLM][Meta] Llama 2: Open Foundation and Fine-Tuned Chat Models, https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/, https://huggingface.co/meta-llama,
@@ -531,18 +532,24 @@ Top 100K Papers List
 + [ ] [Causal Inference] [Books] "Causal Inference and Discovery in Python by Aleksander Molak” (Python)
 + [ ] [Causal Inference] [Books]  “Causal Inference in Python by Matheus Facure" (Python).
 + [ ] [PyTorch] PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel,
-+ [x] [MLOps] Large Scale Distributed Deep Networks, Jeffrey Dean,
-+ [x] [MLOps] Hidden Technical Debt in Machine Learning System, https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf
-+ [x] [MLOps] MLOps Zoomcamp, https://github.com/DataTalksClub/mlops-zoomcamp
-+ [x] [MLOps] MLOps-Basics, https://github.com/graviraja/MLOps-Basics
-+ [x] [MLOps] MLOps Guide, https://mlops-guide.github.io
-+ [x] [MLOps] Awesome MLOps, https://github.com/visenger/awesome-mlops
-+ [x] [MLOps] Awesome MLOps - Tools, https://github.com/kelvins/awesome-mlops
-+ [x] [MLOps] DTU MLOps, https://github.com/SkafteNicki/dtu_mlops
-+ [x] [MLOps] MLOps Course, https://github.com/GokuMohandas/mlops-course
-+ [x] Dropout: A Simple Way to Prevent Neural Networks from Overfitting, https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf,https://paperswithcode.com/method/dropout
-+ [x] Dropout is NOT All You Need to Prevent Gradient Leakage, https://arxiv.org/abs/2208.06163
-+ [x] Modified Dropout for Training Neural Network, https://www.cs.cmu.edu/~epxing/Class/10715/project-reports/DuyckLeeLei.pdf
++ [ ] [CV] [Samsung] Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction, https://arxiv.org/abs/2306.05872, https://github.com/SamsungLabs/NeuralHaircut, https://samsunglabs.github.io/NeuralHaircut/
++ [x] [MLOps] [Evaluation] [Evidently AI] Evidently  An open-source framework to evaluate, test and monitor ML models in production, https://github.com/evidentlyai/evidently
++ [x] [MLOps] Machine Learning in Production: Why You Should Care About Data and Concept Drift, https://towardsdatascience.com/machine-learning-in-production-why-you-should-care-about-data-and-concept-drift-d96d0bc907fb
++ [x] [MLOps] Machine Learning Monitoring, Part 1: What It Is and How It Differs, https://www.evidentlyai.com/blog/machine-learning-monitoring-what-it-is-and-how-it-differs
++ [x] [MLOps] Machine Learning Monitoring, Part 3: What Can Go Wrong With Your Data? https://www.evidentlyai.com/blog/machine-learning-monitoring-what-can-go-wrong-with-your-data
++ [x] [MLOps] ML Monitoring, https://www.evidentlyai.com/category/ml-monitoring
++ [ ] [MLOps] Large Scale Distributed Deep Networks, Jeffrey Dean,
++ [ ] [MLOps] Hidden Technical Debt in Machine Learning System, https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf
++ [ ] [MLOps] MLOps Zoomcamp, https://github.com/DataTalksClub/mlops-zoomcamp
++ [ ] [MLOps] MLOps-Basics, https://github.com/graviraja/MLOps-Basics
++ [ ] [MLOps] MLOps Guide, https://mlops-guide.github.io
++ [ ] [MLOps] Awesome MLOps, https://github.com/visenger/awesome-mlops
++ [ ] [MLOps] Awesome MLOps - Tools, https://github.com/kelvins/awesome-mlops
++ [ ] [MLOps] DTU MLOps, https://github.com/SkafteNicki/dtu_mlops
++ [ ] [MLOps] MLOps Course, https://github.com/GokuMohandas/mlops-course
++ [ ] Dropout: A Simple Way to Prevent Neural Networks from Overfitting, https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf,https://paperswithcode.com/method/dropout
++ [ ] Dropout is NOT All You Need to Prevent Gradient Leakage, https://arxiv.org/abs/2208.06163
++ [ ] Modified Dropout for Training Neural Network, https://www.cs.cmu.edu/~epxing/Class/10715/project-reports/DuyckLeeLei.pdf
 + [x] Attention Is All You Need, https://arxiv.org/abs/1706.03762
 + [x] [CNN][ResNet] ResNet, Deep Residual Learning for Image Recognition, https://arxiv.org/abs/1512.03385, https://paperswithcode.com/method/resnet
 + [x] [CNN] A ConvNet for the 2020s, https://arxiv.org/abs/2201.03545, Codes: https://github.com/facebookresearch/ConvNeXt, https://huggingface.co/docs/transformers/main/model_doc/convnext, https://pytorch.org/vision/main/models/convnext.html, https://paperswithcode.com/paper/convnext-v2-co-designing-and-scaling-convnets
