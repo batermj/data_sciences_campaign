@@ -534,13 +534,17 @@ Top 100K Papers List
 + [ ] [Causal Inference] [Books]  “Causal Inference in Python by Matheus Facure" (Python).
 + [ ] [PyTorch] PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel,
 + [ ] [CV] [Samsung] Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction, https://arxiv.org/abs/2306.05872, https://github.com/SamsungLabs/NeuralHaircut, https://samsunglabs.github.io/NeuralHaircut/
-+ [x] [MLOps] [Evaluation] [Evidently AI] Evidently  An open-source framework to evaluate, test and monitor ML models in production, https://github.com/evidentlyai/evidently
++ [ ] [MLOps] How to break a model in 20 days. A tutorial on production model analytics, https://www.evidentlyai.com/blog/tutorial-1-model-analytics-in-production
++ [ ] [MLOps] To retrain, or not to retrain? Let's get analytical about ML model updates, https://www.evidentlyai.com/blog/retrain-or-not-retrain
++ [ ] [MLOps] Introducing Evidently 0.0.1 Release: Open-Source Tool To Analyze Data Drift, https://www.evidentlyai.com/blog/evidently-001-open-source-tool-to-analyze-data-drift
++ [ ] [MLOps] Monitoring Machine Learning Models in Production, https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/
++ [ ] [MLOps] [Evaluation] [Evidently AI] Evidently  An open-source framework to evaluate, test and monitor ML models in production, https://github.com/evidentlyai/evidently
 + [x] [MLOps] Machine Learning in Production: Why You Should Care About Data and Concept Drift, https://towardsdatascience.com/machine-learning-in-production-why-you-should-care-about-data-and-concept-drift-d96d0bc907fb
-+ [x] [MLOps] Machine Learning Monitoring, Part 1: What It Is and How It Differs, https://www.evidentlyai.com/blog/machine-learning-monitoring-what-it-is-and-how-it-differs
++ [ ] [MLOps] Machine Learning Monitoring, Part 1: What It Is and How It Differs, https://www.evidentlyai.com/blog/machine-learning-monitoring-what-it-is-and-how-it-differs
 + [x] [MLOps] Machine Learning Monitoring, Part 3: What Can Go Wrong With Your Data? https://www.evidentlyai.com/blog/machine-learning-monitoring-what-can-go-wrong-with-your-data
-+ [x] [MLOps] ML Monitoring, https://www.evidentlyai.com/category/ml-monitoring
++ [ ] [MLOps] ML Monitoring, https://www.evidentlyai.com/category/ml-monitoring
 + [ ] [MLOps] Large Scale Distributed Deep Networks, Jeffrey Dean,
-+ [ ] [MLOps] Hidden Technical Debt in Machine Learning System, https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf
++ [x] [MLOps] Hidden Technical Debt in Machine Learning System, https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf
 + [ ] [MLOps] MLOps Zoomcamp, https://github.com/DataTalksClub/mlops-zoomcamp
 + [ ] [MLOps] MLOps-Basics, https://github.com/graviraja/MLOps-Basics
 + [ ] [MLOps] MLOps Guide, https://mlops-guide.github.io
