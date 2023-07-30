@@ -9,6 +9,11 @@ Top 100K Papers List
 # [Courses & Videos]
 + [ ] [UK] Top 100 AI startups in UK, https://www.ai-startups.org/country/UK/
 
+# [Physics]
++ [ ] The Feynman Lectures on Physics, Volume I, https://www.feynmanlectures.caltech.edu/I_toc.html
++ [ ] The Feynman Lectures on Physics, Volume II mainly electromagnetism and matter Feynman • Leighton • Sands, https://www.feynmanlectures.caltech.edu/II_toc.html
++ [ ] The Feynman Lectures on Physics, Volume III quantum mechanics Feynman • Leighton • Sands, https://www.feynmanlectures.caltech.edu/III_toc.html 
+
 # [Courses & Videos]
 + [ ] [Stanford] Stanford CS229: Machine Learning Course, https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 + [ ] [Stanford] Stanford CS224W: Machine Learning with Graphs - YouTube, https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
