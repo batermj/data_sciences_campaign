@@ -544,7 +544,7 @@ Top 100K Papers List
 + [ ] [MLOps] Machine Learning Monitoring, Part 1: What It Is and How It Differs, https://www.evidentlyai.com/blog/machine-learning-monitoring-what-it-is-and-how-it-differs
 + [x] [MLOps] Machine Learning Monitoring, Part 3: What Can Go Wrong With Your Data? https://www.evidentlyai.com/blog/machine-learning-monitoring-what-can-go-wrong-with-your-data
 + [ ] [MLOps] ML Monitoring, https://www.evidentlyai.com/category/ml-monitoring
-+ [ ] [MLOps] Large Scale Distributed Deep Networks, Jeffrey Dean,
++ [x] [MLOps] Large Scale Distributed Deep Networks, Jeffrey Dean,
 + [x] [MLOps] Hidden Technical Debt in Machine Learning System, https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf
 + [ ] [MLOps] MLOps Zoomcamp, https://github.com/DataTalksClub/mlops-zoomcamp
 + [ ] [MLOps] MLOps-Basics, https://github.com/graviraja/MLOps-Basics
