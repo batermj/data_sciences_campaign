@@ -398,6 +398,7 @@ Top 100K Papers List
 + [ ] [CV] Generating Images with Multimodal Language Models, https://arxiv.org/abs/2305.17216
 + [ ] [MLP] Scaling MLPs: A Tale of Inductive Bias, https://arxiv.org/abs/2306.13575
 + [ ] Scenic is developed in JAX and uses Flax., https://github.com/google-research/scenic
++ [ ] [Transformers] Teaching Arithmetic to Small Transformers, https://arxiv.org/abs/2307.03381
 + [ ] [Transformers] Explainable AI: Visualizing Attention in Transformers,  And logging the results in an experiment tracking tool, https://generativeai.pub/explainable-ai-visualizing-attention-in-transformers-4eb931a2c0f8
 + [ ] [Transformers] Attending to Graph Transformers, https://arxiv.org/abs/2302.04181
 + [ ] [Transformers] Sumformer: A Linear-Complexity Alternative to Self-Attention for Speech Recognition, https://arxiv.org/abs/2307.07421
