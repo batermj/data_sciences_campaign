@@ -543,6 +543,7 @@ Top 100K Papers List
 + [ ] [Causal Inference] [Books] "Causal Inference and Discovery in Python by Aleksander Molak” (Python)
 + [ ] [Causal Inference] [Books]  “Causal Inference in Python by Matheus Facure" (Python).
 + [ ] [PyTorch] PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel,
++ [ ] [Nvidia] An Online Deep Learning Interface for HPC programs on NVIDIA GPUs, https://github.com/NVIDIA/TorchFort
 + [ ] [CV] [Samsung] Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction, https://arxiv.org/abs/2306.05872, https://github.com/SamsungLabs/NeuralHaircut, https://samsunglabs.github.io/NeuralHaircut/
 + [ ] [MLOps] How to break a model in 20 days. A tutorial on production model analytics, https://www.evidentlyai.com/blog/tutorial-1-model-analytics-in-production
 + [ ] [MLOps] To retrain, or not to retrain? Let's get analytical about ML model updates, https://www.evidentlyai.com/blog/retrain-or-not-retrain
