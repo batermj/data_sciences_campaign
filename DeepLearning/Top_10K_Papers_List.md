@@ -22,6 +22,7 @@ Top 100K Papers List
 + [ ] [Databricks][LLM] Large Language Models: Application through Production, https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm
 
 # [Milestone of Paper Reproduction for Jul.01-Jul.30, 2023]
++ [ ] [CV][In-context learning (ICL)] Med-Flamingo: a Multimodal Medical Few-shot Learner, https://arxiv.org/abs/2307.15189, https://huggingface.co/med-flamingo/med-flamingo, https://github.com/snap-stanford/med-flamingo, https://www.marktechpost.com/2023/08/02/meet-med-flamingo-a-unique-foundation-model-which-is-capable-of-performing-multimodal-in-context-learning-specialized-for-the-medical-domain/
 + [ ] [Autonomous Driving] SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving, https://arxiv.org/abs/2303.09551, https://github.com/weiyithu/SurroundOcc
 + [ ] https://index.quantumstat.com
 + [ ] [LLM] When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities, https://arxiv.org/abs/2307.16376
@@ -484,6 +485,7 @@ Top 100K Papers List
 + [ ] [CNN][Codes] Detectron2, https://github.com/facebookresearch/detectron2
 + [ ] [CNN][Paper] OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks, https://arxiv.org/abs/1312.6229
 + [ ] [CNN][Course] OverFeat Integrated    Recogni.on,    Localiza.on    and    Detec.on    using Convolu.onal    Networks Sermanet    et.    al Presenta.on    by    Eric    Holmdahl, http://vision.stanford.edu/teaching/cs231b_spring1415/slides/overfeat_eric.pdf
++ [ ] [CNN][Paper] A Comprehensive Review of YOLO: From YOLOv1 and Beyond, https://arxiv.org/abs/2304.00501
 + [ ] [CNN][Paper] You Only Look Once: Unified, Real-Time Object Detection, https://arxiv.org/abs/1506.02640
 + [ ] [CNN][Paper] A Comprehensive Review of YOLO: From YOLOv1 to YOLOv8 and Beyond, https://arxiv.org/abs/2304.00501
 + [ ] [CNN][Paper] YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors,https://arxiv.org/abs/2207.02696
