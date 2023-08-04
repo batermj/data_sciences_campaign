@@ -88,7 +88,8 @@ Top 100K Papers List
 + [ ] Video Diffusion Models		103	Google	Netherlands, USA	industry 
 + [ ] Data Analytics for the Identification of Fake Reviews Using Supervised Learning		102	Albaha University, Dr. Babasaheb Ambedkar Marathwada University, King Faisal University, Nahrain University	India, Iraq, Saudi Arabia	academia 
 + [ ] Visual Prompt Tuning	26	102	Cornell University, Meta, University of Copenhagen	Denmark, USA	industry 
-+ [ ] DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection	15	100	Hong Kong University of Science and Technology, International Digital Economy Academy, Tsinghua University	China	academia 
++ [ ] [CV] DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection	15	100	Hong Kong University of Science and Technology, International Digital Economy Academy, Tsinghua University	China	academia 
++ [ ] [CV] DINOv2: Learning Robust Visual Features without Supervision, https://arxiv.org/abs/2304.07193, https://huggingface.co/docs/transformers/main/model_doc/dinov2
 + [ ] VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training	66	100	Nanjing University, Shanghai AI Lab, Tencent	China	academia 
 + [ ] Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?	199	99	Allen Institute for Artificial Intelligence, Meta, University of Washington	USA	academia, industry 
 + [ ] BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers	11	96	Nanjing University, Shanghai AI Lab, University of Hong Kong	China	academia 
@@ -390,6 +391,7 @@ Top 100K Papers List
 + [ ] [Model Compression] DEEPCOMPRESSION:COMPRESSINGDEEPNEURAL NETWORKSWITHPRUNING,TRAINEDQUANTIZATION ANDHUFFMANCODING, https://arxiv.org/pdf/1510.00149)
 + [ ] [GNN][Time Series] A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, https://arxiv.org/abs/2307.03759
 + [ ] [Time Series] A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, https://arxiv.org/abs/2307.03759
++ [ ] [RL] [DeepMind] DeepNash learns to play Stratego from scratch by combining game theory and model-free deep RL, https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_KWnjJMok4p7lxxBJgIa1f-qA07jSWCt3GXAPWGm9rOoVgsUvfcPNMlM5GrOOOH3knocHJ
 + [ ] [RL] Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback, https://arxiv.org/abs/2307.15217
 + [ ] [RL] Understanding Self-Predictive Learning for Reinforcement Learning, https://arxiv.org/abs/2212.03319
 + [ ] [RL] Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning, https://arxiv.org/abs/2109.11978
