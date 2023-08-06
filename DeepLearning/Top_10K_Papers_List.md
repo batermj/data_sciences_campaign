@@ -19,7 +19,26 @@ Top 100K Papers List
 + [ ] [Stanford] Stanford CS224W: Machine Learning with Graphs - YouTube, https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
 + [ ] [Stanford] Statistical Learning Stanford Online, https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e
 + [ ] [Stanford] Prompt Engineering" for effectively using generative ai llms, tools and platforms such as chatGPT, etc., by Aleksandar Popovic., https://www.youtube.com/playlist?list=PLYio3GBcDKsPP2_zuxEp8eCulgFjI5a3g
++ [ ] [Stanford] CS221 - Artificial Intelligence: Principles and Techniques by Percy Liang and Dorsa Sadigh, https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2
++ [ ] [Stanford] CS229 - Machine Learning by Andrew Ng, https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
++ [ ] [Stanford] CS230 - Deep Learning by Andrew Ng, https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
++ [ ] [Stanford] CS231n - Convolutional Neural Networks for Visual Recognition by Fei-Fei Li and Andrej Karpathy, https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
++ [ ] [Stanford] CS224n - Natural Language Processing with Deep Learning by Christopher Manning, https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ
++ [ ] [Stanford] CS224w - Machine Learning with Graphs by Jure Leskovec, https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
++ [ ] [Stanford] CS234 - Reinforcement Learning by Emma Brunskill, https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u
++ [ ] [Stanford] CS330 - Deep Multi-task and Meta Learning by Chelsea Finn, https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI
++ [ ] [Stanford] CS25 - Transformers United by Divyansh Garg, Steven Feng, and Rylan Schaeffer, https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM
 + [ ] [Databricks][LLM] Large Language Models: Application through Production, https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm
++ [ ] [University College London (UCL)] COMP M050 Reinforcement Learning by David Silver:, https://www.youtube.com/watch?v=2pWv7GOvuf0
++ [ ] [MIT] 6.S191 - Introduction to Deep Learning by Alexander Amini and Ava Amini:, https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
++ [ ] [MIT] 6.S094 - Deep Learning by Lex Fridman, https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf
++ [ ] [MIT] 6.S192 - Deep Learning for Art, Aesthetics, and Creativity by Ali Jahanian, https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH
++ [ ] [CMU] CS/LTI 11-711: Advanced NLP by Graham Neubig, https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK70z
++ [ ] [CMU] CS/LTI 11-747: Neural Networks for NLP by Graham Neubig, https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV
++ [ ] [CMU] CS/LTI 11-737: Multilingual NLP by Graham Neubig, https://www.youtube.com/playlist?list=PL8PYTP1V4I8BhCpzfdKKdd1OnTfLcyZr7
++ [ ] [CMU] CS/LTI 11-777: Multimodal Machine Learning by Louis-Philippe Morency, https://www.youtube.com/channel/UCqlHIJTGYhiwQpNuPU5e2gg/videos
++ [ ] [CMU] CS/LTI 11-785: Introduction to Deep Learning by Bhiksha Raj and Rita Singh, https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/playlists
++ [ ] [CMU] CS/LTI Low Resource NLP Bootcamp 2020 by Graham Neubig, https://www.youtube.com/playlist?list=PL8PYTP1V4I8A1CpCzURXAUa6H4HO7PF2c
 
 # [Milestone of Paper Reproduction for Jul.01-Jul.30, 2023]
 + [ ] [CV][In-context learning (ICL)] Med-Flamingo: a Multimodal Medical Few-shot Learner, https://arxiv.org/abs/2307.15189, https://huggingface.co/med-flamingo/med-flamingo, https://github.com/snap-stanford/med-flamingo, https://www.marktechpost.com/2023/08/02/meet-med-flamingo-a-unique-foundation-model-which-is-capable-of-performing-multimodal-in-context-learning-specialized-for-the-medical-domain/
