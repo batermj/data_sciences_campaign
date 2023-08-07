@@ -581,7 +581,6 @@ Top 100K Papers List
 + [ ] [Causal Inference] the Book of Why, by Judea Pearl
 + [ ] [Causal Inference] [Books] "Causal Inference and Discovery in Python by Aleksander Molak” (Python)
 + [ ] [Causal Inference] [Books]  “Causal Inference in Python by Matheus Facure" (Python).
-+ [x] [PyTorch] PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel, https://arxiv.org/abs/2304.11277
 + [ ] [Nvidia] An Online Deep Learning Interface for HPC programs on NVIDIA GPUs, https://github.com/NVIDIA/TorchFort
 + [ ] [CV] [Samsung] Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction, https://arxiv.org/abs/2306.05872, https://github.com/SamsungLabs/NeuralHaircut, https://samsunglabs.github.io/NeuralHaircut/
 + [ ] [MLOps] How to break a model in 20 days. A tutorial on production model analytics, https://www.evidentlyai.com/blog/tutorial-1-model-analytics-in-production
@@ -605,6 +604,7 @@ Top 100K Papers List
 + [ ] Dropout: A Simple Way to Prevent Neural Networks from Overfitting, https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf,https://paperswithcode.com/method/dropout
 + [ ] Dropout is NOT All You Need to Prevent Gradient Leakage, https://arxiv.org/abs/2208.06163
 + [ ] Modified Dropout for Training Neural Network, https://www.cs.cmu.edu/~epxing/Class/10715/project-reports/DuyckLeeLei.pdf
++ [x] [PyTorch] PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel, https://arxiv.org/abs/2304.11277
 + [x] Attention Is All You Need, https://arxiv.org/abs/1706.03762
 + [x] [CNN][ResNet] ResNet, Deep Residual Learning for Image Recognition, https://arxiv.org/abs/1512.03385, https://paperswithcode.com/method/resnet
 + [x] [CNN] A ConvNet for the 2020s, https://arxiv.org/abs/2201.03545, Codes: https://github.com/facebookresearch/ConvNeXt, https://huggingface.co/docs/transformers/main/model_doc/convnext, https://pytorch.org/vision/main/models/convnext.html, https://paperswithcode.com/paper/convnext-v2-co-designing-and-scaling-convnets
