@@ -44,6 +44,7 @@ Top 100K Papers List
 + [ ] [CV][In-context learning (ICL)] Med-Flamingo: a Multimodal Medical Few-shot Learner, https://arxiv.org/abs/2307.15189, https://huggingface.co/med-flamingo/med-flamingo, https://github.com/snap-stanford/med-flamingo, https://www.marktechpost.com/2023/08/02/meet-med-flamingo-a-unique-foundation-model-which-is-capable-of-performing-multimodal-in-context-learning-specialized-for-the-medical-domain/
 + [ ] [Autonomous Driving] SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving, https://arxiv.org/abs/2303.09551, https://github.com/weiyithu/SurroundOcc
 + [ ] https://index.quantumstat.com
++ [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [LLM] LLongMA 2: A Llama-2 8k model,https://www.reddit.com/r/LocalLLaMA/comments/154us99/llongma_2_a_llama2_8k_model/?rdt=41147
 + [ ] [LLM] Inference of LLaMA model in pure C/C++, https://github.com/ggerganov/llama.cpp
 + [ ] [LLM] 𝗕𝗮𝗯𝘆 𝗟𝗹𝗮𝗺𝗮 𝟮, llama2.c, https://github.com/karpathy/llama2.c
@@ -604,6 +605,8 @@ Top 100K Papers List
 + [ ] Dropout: A Simple Way to Prevent Neural Networks from Overfitting, https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf,https://paperswithcode.com/method/dropout
 + [ ] Dropout is NOT All You Need to Prevent Gradient Leakage, https://arxiv.org/abs/2208.06163
 + [ ] Modified Dropout for Training Neural Network, https://www.cs.cmu.edu/~epxing/Class/10715/project-reports/DuyckLeeLei.pdf
++ [ ] [PyTorch] NVIDIA. 2023. The NVIDIA Collective Communication Library (NCCL). https: //developer.nvidia.com/nccl
++ [ ] [PyTorch] PyTorch distributed training features such as DistributeDataParallel (DDP), Pytorch distributed: Experiences on accelerating data parallel training. arXiv preprint arXiv:2006.15704 (2020), https://arxiv.org/abs/2006.15704
 + [ ] [PyTorch] Key PyTorch core components including Tensor implemen- tation, dispatcher system, and CUDA memory caching allocator
 + [x] [PyTorch] PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel, https://arxiv.org/abs/2304.11277
 + [x] Attention Is All You Need, https://arxiv.org/abs/1706.03762
