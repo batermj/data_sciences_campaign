@@ -44,6 +44,21 @@ Top 100K Papers List
 + [ ] [CV][In-context learning (ICL)] Med-Flamingo: a Multimodal Medical Few-shot Learner, https://arxiv.org/abs/2307.15189, https://huggingface.co/med-flamingo/med-flamingo, https://github.com/snap-stanford/med-flamingo, https://www.marktechpost.com/2023/08/02/meet-med-flamingo-a-unique-foundation-model-which-is-capable-of-performing-multimodal-in-context-learning-specialized-for-the-medical-domain/
 + [ ] [Autonomous Driving] SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving, https://arxiv.org/abs/2303.09551, https://github.com/weiyithu/SurroundOcc
 + [ ] https://index.quantumstat.com
++ [ ] [LLM] LLongMA 2: A Llama-2 8k model,https://www.reddit.com/r/LocalLLaMA/comments/154us99/llongma_2_a_llama2_8k_model/?rdt=41147
++ [ ] [LLM] Inference of LLaMA model in pure C/C++, https://github.com/ggerganov/llama.cpp
++ [ ] [LLM] 𝗕𝗮𝗯𝘆 𝗟𝗹𝗮𝗺𝗮 𝟮, llama2.c, https://github.com/karpathy/llama2.c
++ [ ] [LLM] http://Llama2.rs (https://github.com/srush/llama2.rs) A one-file Rust Llama2.c
++ [ ] [LLM] Quantized models from 𝗧𝗵𝗲𝗕𝗹𝗼𝗸𝗲, https://huggingface.co/TheBloke/Llama-2-13B-chat-GPTQ
++ [ ] [LLM] Responsible-Use-Guide.pdf, https://github.com/facebookresearch/llama/blob/main/Responsible-Use-Guide.pdf
++ [ ] [LLM] [Meta] Llama 2 Fine-tuning / Inference Recipes and Examples, https://github.com/facebookresearch/llama-recipes
++ [ ] [LLM] [𝗛𝘂𝗴𝗴𝗶𝗻𝗴𝗙𝗮𝗰𝗲], Llama 2 is here - get it on Hugging Face, https://huggingface.co/blog/llama2
++ [ ] [LLM] [OPpenLLM] What's going on with the Open LLM Leaderboard?, https://huggingface.co/blog/evaluating-mmlu-leaderboard
++ [ ] [LLM] [Intel] Accelerate Llama 2 with Intel AI Hardware and Software Optimizations, https://www.intel.com/content/www/us/en/developer/articles/news/llama2.html
++ [ ] [LLM] [Qualicomm] Qualcomm Works with Meta to Enable On-device AI Applications Using Llama 2, https://www.qualcomm.com/news/releases/2023/07/qualcomm-works-with-meta-to-enable-on-device-ai-applications-usi
++ [ ] [LLM] [Google] The Path to Achieve Ultra-Low Inference Latency With LLaMA 65B on PyTorch/XLA, https://pytorch.org/blog/path-achieve-low-inference-latency/
++ [ ] [LLM] [Amazon] Llama 2 foundation models from Meta are now available in Amazon SageMaker JumpStart, https://aws.amazon.com/blogs/machine-learning/llama-2-foundation-models-from-meta-are-now-available-in-amazon-sagemaker-jumpstart/
++ [ ] [LLM] [Microsoft] Microsoft and Meta expand their AI partnership with Llama 2 on Azure and Windows, https://blogs.microsoft.com/blog/2023/07/18/microsoft-and-meta-expand-their-ai-partnership-with-llama-2-on-azure-and-windows/
++ [ ] [LLM] [Microsoft] Llama 2 Powered By ONNX, https://github.com/microsoft/Llama-2-Onnx
 + [ ] [LLM] [CV] [Health] ELIXR: Towards a general purpose X-ray artificial intelligence system through alignment of large language models and radiology vision encoders, https://arxiv.org/abs/2308.01317
 + [ ] [LLM] When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities, https://arxiv.org/abs/2307.16376
 + [ ] [LLM] [CV] 3D-LLM: Injecting the 3D World into Large Language Models, https://arxiv.org/abs/2307.12981, https://github.com/UMass-Foundation-Model/3D-LLM, https://vis-www.cs.umass.edu/3dllm/
@@ -566,7 +581,7 @@ Top 100K Papers List
 + [ ] [Causal Inference] the Book of Why, by Judea Pearl
 + [ ] [Causal Inference] [Books] "Causal Inference and Discovery in Python by Aleksander Molak” (Python)
 + [ ] [Causal Inference] [Books]  “Causal Inference in Python by Matheus Facure" (Python).
-+ [ ] [PyTorch] PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel,
++ [x] [PyTorch] PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel, https://arxiv.org/abs/2304.11277
 + [ ] [Nvidia] An Online Deep Learning Interface for HPC programs on NVIDIA GPUs, https://github.com/NVIDIA/TorchFort
 + [ ] [CV] [Samsung] Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction, https://arxiv.org/abs/2306.05872, https://github.com/SamsungLabs/NeuralHaircut, https://samsunglabs.github.io/NeuralHaircut/
 + [ ] [MLOps] How to break a model in 20 days. A tutorial on production model analytics, https://www.evidentlyai.com/blog/tutorial-1-model-analytics-in-production
