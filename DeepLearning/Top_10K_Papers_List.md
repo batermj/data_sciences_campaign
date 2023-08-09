@@ -14,6 +14,9 @@ Top 100K Papers List
 + [ ] The Feynman Lectures on Physics, Volume II mainly electromagnetism and matter Feynman • Leighton • Sands, https://www.feynmanlectures.caltech.edu/II_toc.html
 + [ ] The Feynman Lectures on Physics, Volume III quantum mechanics Feynman • Leighton • Sands, https://www.feynmanlectures.caltech.edu/III_toc.html 
 
+# [Players]
++ Ping Li, Distinguished Engineer, LinkedIn Ads, https://pltrees.github.io/
+
 # [Courses & Videos]
 + [ ] [Stanford] Stanford CS229: Machine Learning Course, https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 + [ ] [Stanford] Stanford CS224W: Machine Learning with Graphs - YouTube, https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
@@ -45,6 +48,7 @@ Top 100K Papers List
 + [ ] [Autonomous Driving] SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving, https://arxiv.org/abs/2303.09551, https://github.com/weiyithu/SurroundOcc
 + [ ] https://index.quantumstat.com
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
++ [ ] [LLM] AgentBench: Evaluating LLMs as Agents, https://arxiv.org/abs/2308.03688
 + [ ] [LLM] LLongMA 2: A Llama-2 8k model,https://www.reddit.com/r/LocalLLaMA/comments/154us99/llongma_2_a_llama2_8k_model/?rdt=41147
 + [ ] [LLM] Inference of LLaMA model in pure C/C++, https://github.com/ggerganov/llama.cpp
 + [ ] [LLM] 𝗕𝗮𝗯𝘆 𝗟𝗹𝗮𝗺𝗮 𝟮, llama2.c, https://github.com/karpathy/llama2.c
