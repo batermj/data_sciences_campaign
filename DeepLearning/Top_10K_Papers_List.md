@@ -512,6 +512,7 @@ Top 100K Papers List
 + [ ] [Transformers][HuggingFace] BARThez (from École polytechnique) released with the paper BARThez: a Skilled Pretrained French Sequence-to-Sequence Model by Moussa Kamal Eddine, Antoine J.-P. Tixier, Michalis Vazirgiannis.
 + [ ] [Transformers][HuggingFace] BARTpho (from VinAI Research) released with the paper BARTpho: Pre-trained Sequence-to-Sequence Models for Vietnamese by Nguyen Luong Tran, Duong Minh Le and Dat Quoc Nguyen.
 + [ ] [Transformers][HuggingFace] BEiT (from Microsoft) released with the paper BEiT: BERT Pre-Training of Image Transformers by Hangbo Bao, Li Dong, Furu Wei.
++ [ ] [Transformers] Transformers: from NLP to CV, https://github.com/IbrahimSobh/Transformers
 + [ ] [CNN][Codes] Convolutional Neural Networks for Text, https://lena-voita.github.io/nlp_course/models/convolutional.html
 + [ ] [CNN][Paper] LeNet-5, GradientBased Learning Applied to Document Recognition, http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
 + [ ] [CNN][Paper] AlexNet, ImageNet Classification with Deep Convolutional Neural Networks, https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
