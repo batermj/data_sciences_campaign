@@ -131,6 +131,7 @@ Top 100K Papers List
 + [ ] Visual Prompt Tuning	26	102	Cornell University, Meta, University of Copenhagen	Denmark, USA	industry 
 + [ ] [CV] DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection	15	100	Hong Kong University of Science and Technology, International Digital Economy Academy, Tsinghua University	China	academia 
 + [ ] [CV] DINOv2: Learning Robust Visual Features without Supervision, https://arxiv.org/abs/2304.07193, https://huggingface.co/docs/transformers/main/model_doc/dinov2
++ [ ] [CV] [Meta] PUG: Photorealistic and Semantically Controllable Synthetic Data for Representation Learning, https://arxiv.org/abs/2308.03977, https://github.com/facebookresearch/PUG, https://pug.metademolab.com/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=pug&utm_content=video
 + [ ] VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training	66	100	Nanjing University, Shanghai AI Lab, Tencent	China	academia 
 + [ ] Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?	199	99	Allen Institute for Artificial Intelligence, Meta, University of Washington	USA	academia, industry 
 + [ ] BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers	11	96	Nanjing University, Shanghai AI Lab, University of Hong Kong	China	academia 
