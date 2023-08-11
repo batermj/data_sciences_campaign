@@ -49,6 +49,7 @@ Top 100K Papers List
 + [ ] [Autonomous Driving] SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving, https://arxiv.org/abs/2303.09551, https://github.com/weiyithu/SurroundOcc
 + [ ] https://index.quantumstat.com
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
++ [ ] [LLM] [Low-rank adaptation (LoRA)] Stack More Layers Differently: High-Rank Training Through Low-Rank Updates, https://arxiv.org/abs/0002307.05695
 + [ ] [LLM] LLM As DBA, https://arxiv.org/abs/2308.05481
 + [ ] [LLM] AgentBench: Evaluating LLMs as Agents, https://arxiv.org/abs/2308.03688
 + [ ] [LLM] LLongMA 2: A Llama-2 8k model,https://www.reddit.com/r/LocalLLaMA/comments/154us99/llongma_2_a_llama2_8k_model/?rdt=41147
