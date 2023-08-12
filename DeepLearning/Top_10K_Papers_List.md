@@ -440,6 +440,7 @@ Top 100K Papers List
 + [ ] [RL] Understanding Self-Predictive Learning for Reinforcement Learning, https://arxiv.org/abs/2212.03319
 + [ ] [RL] Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning, https://arxiv.org/abs/2109.11978
 + [ ] [RL] Course in Deep Reinforcement Learning, https://github.com/andri27-ts/Reinforcement-Learning
++ [ ] [NLP] TEXT SUMMARIZATION WITH BART LARGE ON IPU, https://www.graphcore.ai/posts/text-summarization-with-bart-large-on-ipu?utm_content=260099192&utm_medium=social&utm_source=linkedin&hss_channel=lcp-10812092
 + [ ] [NLP] Lost in the Middle: How Language Models Use Long Contexts, https://arxiv.org/abs/2307.03172
 + [ ] [NLP] FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets, https://arxiv.org/abs/2307.10928
 + [ ] [NLP] Jina Embeddings: A Novel Set of High-Performance Sentence Embedding Models, https://arxiv.org/abs/2307.11224
