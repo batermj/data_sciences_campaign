@@ -435,6 +435,7 @@ Top 100K Papers List
 + [ ] [Model Compression] DEEPCOMPRESSION:COMPRESSINGDEEPNEURAL NETWORKSWITHPRUNING,TRAINEDQUANTIZATION ANDHUFFMANCODING, https://arxiv.org/pdf/1510.00149)
 + [ ] [GNN][Time Series] A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, https://arxiv.org/abs/2307.03759
 + [ ] [Time Series] A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, https://arxiv.org/abs/2307.03759
++ [ ] [RL] Offline Reinforcement Learning with Implicit Q-Learning, https://arxiv.org/abs/2110.06169
 + [ ] [RL] [DeepMind] DeepNash learns to play Stratego from scratch by combining game theory and model-free deep RL, https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_KWnjJMok4p7lxxBJgIa1f-qA07jSWCt3GXAPWGm9rOoVgsUvfcPNMlM5GrOOOH3knocHJ
 + [ ] [RL] Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback, https://arxiv.org/abs/2307.15217
 + [ ] [RL] Understanding Self-Predictive Learning for Reinforcement Learning, https://arxiv.org/abs/2212.03319
