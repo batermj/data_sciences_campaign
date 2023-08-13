@@ -43,12 +43,16 @@ Top 100K Papers List
 + [ ] [CMU] CS/LTI 11-785: Introduction to Deep Learning by Bhiksha Raj and Rita Singh, https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/playlists
 + [ ] [CMU] CS/LTI Low Resource NLP Bootcamp 2020 by Graham Neubig, https://www.youtube.com/playlist?list=PL8PYTP1V4I8A1CpCzURXAUa6H4HO7PF2c
 
+# [Mathematics]
++ [Graph Theory] An introduction to graph theory, https://arxiv.org/abs/2308.04512
+
 # [Milestone of Paper Reproduction for Jul.01-Jul.30, 2023]
 + [ ] [AI] [HCI] Generative Agents: Interactive Simulacra of Human Behavior, https://arxiv.org/abs/2304.03442, https://github.com/joonspk-research/generative_agents
 + [ ] [CV][In-context learning (ICL)] Med-Flamingo: a Multimodal Medical Few-shot Learner, https://arxiv.org/abs/2307.15189, https://huggingface.co/med-flamingo/med-flamingo, https://github.com/snap-stanford/med-flamingo, https://www.marktechpost.com/2023/08/02/meet-med-flamingo-a-unique-foundation-model-which-is-capable-of-performing-multimodal-in-context-learning-specialized-for-the-medical-domain/
 + [ ] [Autonomous Driving] SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving, https://arxiv.org/abs/2303.09551, https://github.com/weiyithu/SurroundOcc
 + [ ] https://index.quantumstat.com
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
++ [ ] [LLM] Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies, https://arxiv.org/abs/2308.03188
 + [ ] [LLM] [Low-rank adaptation (LoRA)] Stack More Layers Differently: High-Rank Training Through Low-Rank Updates, https://arxiv.org/abs/0002307.05695
 + [ ] [LLM] LLM As DBA, https://arxiv.org/abs/2308.05481
 + [ ] [LLM] AgentBench: Evaluating LLMs as Agents, https://arxiv.org/abs/2308.03688
@@ -595,6 +599,7 @@ Top 100K Papers List
 + [ ] [Causal Inference] [Books]  “Causal Inference in Python by Matheus Facure" (Python).
 + [ ] [Nvidia] An Online Deep Learning Interface for HPC programs on NVIDIA GPUs, https://github.com/NVIDIA/TorchFort
 + [ ] [CV] [Samsung] Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction, https://arxiv.org/abs/2306.05872, https://github.com/SamsungLabs/NeuralHaircut, https://samsunglabs.github.io/NeuralHaircut/
++ [ ] [CV] [Object Detection] Follow Anything: Open-set detection, tracking, and following in real-time, https://arxiv.org/abs/2308.05737
 + [ ] [GNN] Graph Neural Networks Foundations, Frontiers, and Applications Lingfei Wu, Pinterest Peng Cui, Tsinghua University Jian Pei, Duke University Liang Zhao, Emory University, https://graph-neural-networks.github.io/index.html
 + [ ] [MLOps] How to break a model in 20 days. A tutorial on production model analytics, https://www.evidentlyai.com/blog/tutorial-1-model-analytics-in-production
 + [ ] [MLOps] To retrain, or not to retrain? Let's get analytical about ML model updates, https://www.evidentlyai.com/blog/retrain-or-not-retrain
