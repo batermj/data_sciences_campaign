@@ -52,6 +52,7 @@ Top 100K Papers List
 + [ ] [Autonomous Driving] SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving, https://arxiv.org/abs/2303.09551, https://github.com/weiyithu/SurroundOcc
 + [ ] https://index.quantumstat.com
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
++ [ ] [LLM] Open LLMs These LLMs (Large Language Models) are all licensed for commercial use (e.g., Apache 2.0, MIT, OpenRAIL-M). Contributions welcome! https://github.com/eugeneyan/open-llms?utm_source=substack&utm_medium=email
 + [ ] [LLM] Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies, https://arxiv.org/abs/2308.03188
 + [ ] [LLM] [Low-rank adaptation (LoRA)] Stack More Layers Differently: High-Rank Training Through Low-Rank Updates, https://arxiv.org/abs/0002307.05695
 + [ ] [LLM] LLM As DBA, https://arxiv.org/abs/2308.05481
@@ -601,6 +602,7 @@ Top 100K Papers List
 + [ ] [CV] [Samsung] Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction, https://arxiv.org/abs/2306.05872, https://github.com/SamsungLabs/NeuralHaircut, https://samsunglabs.github.io/NeuralHaircut/
 + [ ] [CV] [Object Detection] Follow Anything: Open-set detection, tracking, and following in real-time, https://arxiv.org/abs/2308.05737
 + [ ] [GNN] Graph Neural Networks Foundations, Frontiers, and Applications Lingfei Wu, Pinterest Peng Cui, Tsinghua University Jian Pei, Duke University Liang Zhao, Emory University, https://graph-neural-networks.github.io/index.html
++ [ ] [Causal Analysis] Causal analysis with PyMC: Answering "What If?" with the new do operator, https://www.pymc-labs.io/blog-posts/causal-analysis-with-pymc-answering-what-if-with-the-new-do-operator/
 + [ ] [MLOps] How to break a model in 20 days. A tutorial on production model analytics, https://www.evidentlyai.com/blog/tutorial-1-model-analytics-in-production
 + [ ] [MLOps] To retrain, or not to retrain? Let's get analytical about ML model updates, https://www.evidentlyai.com/blog/retrain-or-not-retrain
 + [ ] [MLOps] Introducing Evidently 0.0.1 Release: Open-Source Tool To Analyze Data Drift, https://www.evidentlyai.com/blog/evidently-001-open-source-tool-to-analyze-data-drift
