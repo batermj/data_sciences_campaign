@@ -624,6 +624,7 @@ Top 100K Papers List
 + [ ] [MLOps] MLOps-Basics, https://github.com/graviraja/MLOps-Basics
 + [ ] [MLOps] MLOps Guide, https://mlops-guide.github.io
 + [ ] [MLOps] Awesome MLOps, https://github.com/visenger/awesome-mlops
++ [ ] [MLOps] Awesome MLOps, Awesome MLOps, https://github.com/kelvins/awesome-mlops
 + [ ] [MLOps] Awesome MLOps - Tools, https://github.com/kelvins/awesome-mlops
 + [ ] [MLOps] DTU MLOps, https://github.com/SkafteNicki/dtu_mlops
 + [ ] [MLOps] MLOps Course, https://github.com/GokuMohandas/mlops-course
