@@ -52,6 +52,7 @@ Top 100K Papers List
 + [ ] [Autonomous Driving] SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving, https://arxiv.org/abs/2303.09551, https://github.com/weiyithu/SurroundOcc
 + [ ] https://index.quantumstat.com
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
++ [ ] [LLM] OctoPack: Instruction Tuning Code Large Language Models, https://arxiv.org/abs/2308.07124
 + [ ] [LLM] Open LLMs These LLMs (Large Language Models) are all licensed for commercial use (e.g., Apache 2.0, MIT, OpenRAIL-M). Contributions welcome! https://github.com/eugeneyan/open-llms?utm_source=substack&utm_medium=email
 + [ ] [LLM] Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies, https://arxiv.org/abs/2308.03188
 + [ ] [LLM] [Low-rank adaptation (LoRA)] Stack More Layers Differently: High-Rank Training Through Low-Rank Updates, https://arxiv.org/abs/0002307.05695
