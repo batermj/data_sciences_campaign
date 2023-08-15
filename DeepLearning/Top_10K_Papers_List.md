@@ -606,6 +606,7 @@ Top 100K Papers List
 + [ ] [CV] [Object Detection] Follow Anything: Open-set detection, tracking, and following in real-time, https://arxiv.org/abs/2308.05737
 + [ ] [GNN] Graph Neural Networks Foundations, Frontiers, and Applications Lingfei Wu, Pinterest Peng Cui, Tsinghua University Jian Pei, Duke University Liang Zhao, Emory University, https://graph-neural-networks.github.io/index.html
 + [ ] [Causal Analysis] Causal analysis with PyMC: Answering "What If?" with the new do operator, https://www.pymc-labs.io/blog-posts/causal-analysis-with-pymc-answering-what-if-with-the-new-do-operator/
++ [ ] [MLOps] What's New in WebGPU (Chrome 116), https://developer.chrome.com/blog/new-in-webgpu-116/
 + [ ] [MLOps] How to break a model in 20 days. A tutorial on production model analytics, https://www.evidentlyai.com/blog/tutorial-1-model-analytics-in-production
 + [ ] [MLOps] To retrain, or not to retrain? Let's get analytical about ML model updates, https://www.evidentlyai.com/blog/retrain-or-not-retrain
 + [ ] [MLOps] Introducing Evidently 0.0.1 Release: Open-Source Tool To Analyze Data Drift, https://www.evidentlyai.com/blog/evidently-001-open-source-tool-to-analyze-data-drift
