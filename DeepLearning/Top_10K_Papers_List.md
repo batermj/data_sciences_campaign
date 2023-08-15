@@ -627,6 +627,7 @@ Top 100K Papers List
 + [ ] [MLOps] Awesome MLOps - Tools, https://github.com/kelvins/awesome-mlops
 + [ ] [MLOps] DTU MLOps, https://github.com/SkafteNicki/dtu_mlops
 + [ ] [MLOps] MLOps Course, https://github.com/GokuMohandas/mlops-course
++ [ ] [MLOps] MLOps-Basics, https://github.com/graviraja/MLOps-Basics/tree/main
 + [ ] Dropout: A Simple Way to Prevent Neural Networks from Overfitting, https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf,https://paperswithcode.com/method/dropout
 + [ ] Dropout is NOT All You Need to Prevent Gradient Leakage, https://arxiv.org/abs/2208.06163
 + [ ] Modified Dropout for Training Neural Network, https://www.cs.cmu.edu/~epxing/Class/10715/project-reports/DuyckLeeLei.pdf
