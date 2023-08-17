@@ -611,6 +611,7 @@ Top 100K Papers List
 + [ ] [Causal Analysis] Causal analysis with PyMC: Answering "What If?" with the new do operator, https://www.pymc-labs.io/blog-posts/causal-analysis-with-pymc-answering-what-if-with-the-new-do-operator/
 + [ ] [Biases] The No Free Lunch Theorem, Kolmogorov Complexity, and the Role of Inductive Biases in Machine Learning, https://arxiv.org/abs/2304.05366
 + [ ] [Biases] The Cognitive Biases Compendium: Explore over 150 Cognitive Biases (with examples) to make better decisions, think critically, solve problems effectively, ... accurately. (Arificial Intelligence Book 2) Kindle Edition by Murat Durmus (Author)
++ [ ] [Labels] Labels are not necessary: Assessing peer-review helpfulness using domain adaptation based on self-training, https://aclanthology.org/2023.bea-1.15/
 + [ ] [MLOps] What's New in WebGPU (Chrome 116), https://developer.chrome.com/blog/new-in-webgpu-116/
 + [ ] [MLOps] How to break a model in 20 days. A tutorial on production model analytics, https://www.evidentlyai.com/blog/tutorial-1-model-analytics-in-production
 + [ ] [MLOps] To retrain, or not to retrain? Let's get analytical about ML model updates, https://www.evidentlyai.com/blog/retrain-or-not-retrain
@@ -632,8 +633,8 @@ Top 100K Papers List
 + [ ] [MLOps] DTU MLOps, https://github.com/SkafteNicki/dtu_mlops
 + [ ] [MLOps] MLOps Course, https://github.com/GokuMohandas/mlops-course
 + [ ] [MLOps] MLOps-Basics, https://github.com/graviraja/MLOps-Basics/tree/main
-+ [ ] Dropout: A Simple Way to Prevent Neural Networks from Overfitting, https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf,https://paperswithcode.com/method/dropout
-+ [ ] Dropout is NOT All You Need to Prevent Gradient Leakage, https://arxiv.org/abs/2208.06163
++ [ ] [Optimization] Dropout: A Simple Way to Prevent Neural Networks from Overfitting, https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf,https://paperswithcode.com/method/dropout
++ [ ] [Optimization] Dropout is NOT All You Need to Prevent Gradient Leakage, https://arxiv.org/abs/2208.06163
 + [ ] Modified Dropout for Training Neural Network, https://www.cs.cmu.edu/~epxing/Class/10715/project-reports/DuyckLeeLei.pdf
 + [ ] [PyTorch] NVIDIA. 2023. The NVIDIA Collective Communication Library (NCCL). https: //developer.nvidia.com/nccl
 + [ ] [PyTorch] PyTorch distributed training features such as DistributeDataParallel (DDP), Pytorch distributed: Experiences on accelerating data parallel training. arXiv preprint arXiv:2006.15704 (2020), https://arxiv.org/abs/2006.15704
