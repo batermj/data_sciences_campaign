@@ -608,6 +608,7 @@ Top 100K Papers List
 + [ ] [CV] [Object Detection] Follow Anything: Open-set detection, tracking, and following in real-time, https://arxiv.org/abs/2308.05737
 + [ ] [GNN] Graph Neural Networks Foundations, Frontiers, and Applications Lingfei Wu, Pinterest Peng Cui, Tsinghua University Jian Pei, Duke University Liang Zhao, Emory University, https://graph-neural-networks.github.io/index.html
 + [ ] [Causal Analysis] Causal analysis with PyMC: Answering "What If?" with the new do operator, https://www.pymc-labs.io/blog-posts/causal-analysis-with-pymc-answering-what-if-with-the-new-do-operator/
++ [ ] [Biases] The No Free Lunch Theorem, Kolmogorov Complexity, and the Role of Inductive Biases in Machine Learning, https://arxiv.org/abs/2304.05366
 + [ ] [Biases] The Cognitive Biases Compendium: Explore over 150 Cognitive Biases (with examples) to make better decisions, think critically, solve problems effectively, ... accurately. (Arificial Intelligence Book 2) Kindle Edition by Murat Durmus (Author)
 + [ ] [MLOps] What's New in WebGPU (Chrome 116), https://developer.chrome.com/blog/new-in-webgpu-116/
 + [ ] [MLOps] How to break a model in 20 days. A tutorial on production model analytics, https://www.evidentlyai.com/blog/tutorial-1-model-analytics-in-production
