@@ -52,6 +52,7 @@ Top 100K Papers List
 + [ ] [Autonomous Driving] SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving, https://arxiv.org/abs/2303.09551, https://github.com/weiyithu/SurroundOcc
 + [ ] https://index.quantumstat.com
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
++ [ ] [LLM] LangChain for LLM Application Development, https://learn.deeplearning.ai/langchain/lesson/2/models,-prompts-and-parsers
 + [ ] [LLM] Open challenges in LLM research, https://huyenchip.com/2023/08/16/llm-research-open-challenges.html
 + [ ] [LLM] Platypus: Quick, Cheap, and Powerful Refinement of LLMs, https://arxiv.org/abs/2308.07317
 + [ ] [LLM] OctoPack: Instruction Tuning Code Large Language Models, https://arxiv.org/abs/2308.07124
