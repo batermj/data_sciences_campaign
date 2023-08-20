@@ -141,6 +141,7 @@ Top 100K Papers List
 + [ ] Video Diffusion Models		103	Google	Netherlands, USA	industry 
 + [ ] Data Analytics for the Identification of Fake Reviews Using Supervised Learning		102	Albaha University, Dr. Babasaheb Ambedkar Marathwada University, King Faisal University, Nahrain University	India, Iraq, Saudi Arabia	academia 
 + [ ] Visual Prompt Tuning	26	102	Cornell University, Meta, University of Copenhagen	Denmark, USA	industry 
++ [ ] [Neural Video Editing] INVE: Interactive Neural Video Editing, https://arxiv.org/abs/2307.07663, https://gabriel-huang.github.io/inve/
 + [ ] [CV] DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection	15	100	Hong Kong University of Science and Technology, International Digital Economy Academy, Tsinghua University	China	academia 
 + [ ] [CV] DINOv2: Learning Robust Visual Features without Supervision, https://arxiv.org/abs/2304.07193, https://huggingface.co/docs/transformers/main/model_doc/dinov2
 + [ ] [CV] [Meta] PUG: Photorealistic and Semantically Controllable Synthetic Data for Representation Learning, https://arxiv.org/abs/2308.03977, https://github.com/facebookresearch/PUG, https://pug.metademolab.com/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=pug&utm_content=video
