@@ -613,6 +613,7 @@ Top 100K Papers List
 + [ ] [GNN] Graph Neural Networks Foundations, Frontiers, and Applications Lingfei Wu, Pinterest Peng Cui, Tsinghua University Jian Pei, Duke University Liang Zhao, Emory University, https://graph-neural-networks.github.io/index.html
 + [ ] [MT] Neural Machine Translation by Jointly Learning to Align and Translate, https://arxiv.org/abs/1409.0473
 + [ ] [Speech] Self-Supervised Speech Representation Learning: A Review, https://arxiv.org/abs/2205.10643
++ [ ] [Optimization] Fast as CHITA: Neural Network Pruning with Combinatorial Optimization, https://arxiv.org/abs/2302.14623
 + [ ] [Causal Analysis] Causal analysis with PyMC: Answering "What If?" with the new do operator, https://www.pymc-labs.io/blog-posts/causal-analysis-with-pymc-answering-what-if-with-the-new-do-operator/
 + [ ] [Biases] The No Free Lunch Theorem, Kolmogorov Complexity, and the Role of Inductive Biases in Machine Learning, https://arxiv.org/abs/2304.05366
 + [ ] [Biases] The Cognitive Biases Compendium: Explore over 150 Cognitive Biases (with examples) to make better decisions, think critically, solve problems effectively, ... accurately. (Arificial Intelligence Book 2) Kindle Edition by Murat Durmus (Author)
