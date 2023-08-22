@@ -448,6 +448,7 @@ Top 100K Papers List
 + [ ] [GNN][Time Series] A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, https://arxiv.org/abs/2307.03759
 + [ ] [Time Series] A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, https://arxiv.org/abs/2307.03759
 + [ ] [RL] Offline Reinforcement Learning with Implicit Q-Learning, https://arxiv.org/abs/2110.06169
++ [ ] [RL] Offline Reinforcement Learning with Implicit Q-Learning, https://arxiv.org/abs/2110.06169
 + [ ] [RL] [DeepMind] DeepNash learns to play Stratego from scratch by combining game theory and model-free deep RL, https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_KWnjJMok4p7lxxBJgIa1f-qA07jSWCt3GXAPWGm9rOoVgsUvfcPNMlM5GrOOOH3knocHJ
 + [ ] [RL] Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback, https://arxiv.org/abs/2307.15217
 + [ ] [RL] Understanding Self-Predictive Learning for Reinforcement Learning, https://arxiv.org/abs/2212.03319
@@ -612,6 +613,7 @@ Top 100K Papers List
 + [ ] [CV] [Samsung] Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction, https://arxiv.org/abs/2306.05872, https://github.com/SamsungLabs/NeuralHaircut, https://samsunglabs.github.io/NeuralHaircut/
 + [ ] [CV] [Object Detection] Follow Anything: Open-set detection, tracking, and following in real-time, https://arxiv.org/abs/2308.05737
 + [ ] [GNN] Graph Neural Networks Foundations, Frontiers, and Applications Lingfei Wu, Pinterest Peng Cui, Tsinghua University Jian Pei, Duke University Liang Zhao, Emory University, https://graph-neural-networks.github.io/index.html
++ [ ] [MT][Meta] SeamlessM4T—MassivelyMultilingual&MultimodalMachine Translation, https://dl.fbaipublicfiles.com/seamless/seamless_m4t_paper.pdf, SeamlessM4T, https://github.com/facebookresearch/seamless_communication
 + [ ] [MT] Neural Machine Translation by Jointly Learning to Align and Translate, https://arxiv.org/abs/1409.0473
 + [ ] [Speech] Self-Supervised Speech Representation Learning: A Review, https://arxiv.org/abs/2205.10643
 + [ ] [Optimization] Fast as CHITA: Neural Network Pruning with Combinatorial Optimization, https://arxiv.org/abs/2302.14623
