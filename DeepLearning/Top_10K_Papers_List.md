@@ -54,6 +54,7 @@ Top 100K Papers List
 + [ ] https://index.quantumstat.com
 + [ ] [Robotics] RoboAgent Towards Sample Efficient Robot Manipulation with Semantic Augmentations and Action Chunking, https://robopen.github.io/media/roboagent.pdf, https://github.com/robopen/roboagent/, https://robopen.github.io/roboset/
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
++ [ ] [LLM] Graph of Thoughts: Solving Elaborate Problems with Large Language Models, https://arxiv.org/abs/2308.09687, https://github.com/spcl/graph-of-thoughts
 + [ ] [LLM] Bactrian-X : A Multilingual Replicable Instruction-Following Model with Low-Rank Adaptation, https://arxiv.org/abs/2305.15011
 + [ ] [LLM] LangChain for LLM Application Development, https://learn.deeplearning.ai/langchain/lesson/2/models,-prompts-and-parsers
 + [ ] [LLM] Open challenges in LLM research, https://huyenchip.com/2023/08/16/llm-research-open-challenges.html
