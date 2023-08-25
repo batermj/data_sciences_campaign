@@ -662,6 +662,10 @@ Top 100K Papers List
 + [x] [CNN] A ConvNet for the 2020s, https://arxiv.org/abs/2201.03545, Codes: https://github.com/facebookresearch/ConvNeXt, https://huggingface.co/docs/transformers/main/model_doc/convnext, https://pytorch.org/vision/main/models/convnext.html, https://paperswithcode.com/paper/convnext-v2-co-designing-and-scaling-convnets
 + [x] [CNN][TextCNN] Convolutional Neural Networks for Sentence Classification, https://arxiv.org/abs/1408.5882
 
+
+# [Papers to be for Biology]
++ [ ] [Music] Music can be reconstructed from human auditory cortex activity using nonlinear decoding models, https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002176
+
 # [Papers to be for Reproduction]
 + [Roadmap] Deep Learning Papers Reading Roadmap, https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 
