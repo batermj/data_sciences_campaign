@@ -623,7 +623,7 @@ Top 100K Papers List
 + [ ] [CV] [Samsung] Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction, https://arxiv.org/abs/2306.05872, https://github.com/SamsungLabs/NeuralHaircut, https://samsunglabs.github.io/NeuralHaircut/
 + [ ] [CV] [Object Detection] Follow Anything: Open-set detection, tracking, and following in real-time, https://arxiv.org/abs/2308.05737
 + [ ] [GNN] Graph Neural Networks Foundations, Frontiers, and Applications Lingfei Wu, Pinterest Peng Cui, Tsinghua University Jian Pei, Duke University Liang Zhao, Emory University, https://graph-neural-networks.github.io/index.html
-+ [ ] [MT][Meta] SeamlessM4T—MassivelyMultilingual&MultimodalMachine Translation, https://dl.fbaipublicfiles.com/seamless/seamless_m4t_paper.pdf, SeamlessM4T, https://github.com/facebookresearch/seamless_communication
++ [ ] [MT][Meta] Bringing the world closer together with a foundational multimodal model for speech translation, https://ai.meta.com/blog/seamless-m4t/, SeamlessM4T—Massively Multilingual & Multimodal Machine Translation, https://dl.fbaipublicfiles.com/seamless/seamless_m4t_paper.pdf, SeamlessM4T, https://github.com/facebookresearch/seamless_communication
 + [ ] [MT] Neural Machine Translation by Jointly Learning to Align and Translate, https://arxiv.org/abs/1409.0473
 + [ ] [Speech] Self-Supervised Speech Representation Learning: A Review, https://arxiv.org/abs/2205.10643
 + [ ] [Optimization] Fast as CHITA: Neural Network Pruning with Combinatorial Optimization, https://arxiv.org/abs/2302.14623
@@ -664,6 +664,9 @@ Top 100K Papers List
 + [x] [CNN] A ConvNet for the 2020s, https://arxiv.org/abs/2201.03545, Codes: https://github.com/facebookresearch/ConvNeXt, https://huggingface.co/docs/transformers/main/model_doc/convnext, https://pytorch.org/vision/main/models/convnext.html, https://paperswithcode.com/paper/convnext-v2-co-designing-and-scaling-convnets
 + [x] [CNN][TextCNN] Convolutional Neural Networks for Sentence Classification, https://arxiv.org/abs/1408.5882
 
+
+# [Papers for Data Sciences]
++ [ ] [Topological Data Analysis (TDA)] Algebraic Topology for Data Scientists, https://arxiv.org/abs/2308.10825
 
 # [Papers to be for Biology]
 + [ ] [Music] Music can be reconstructed from human auditory cortex activity using nonlinear decoding models, https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002176
