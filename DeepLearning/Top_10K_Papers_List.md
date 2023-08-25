@@ -59,6 +59,7 @@ Top 100K Papers List
 + [ ] [LLM] [Causal NLP] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality, https://arxiv.org/pdf/2305.00050.pdf
 + [ ] [LLM] [Causal NLP] Passive learning of active causal strategies in agents and language models, https://arxiv.org/pdf/2305.16183.pdf
 + [ ] [LLM] [Causal NLP] Can Large Language Models Infer Causation from Correlation? https://arxiv.org/abs/2306.05836
++ [ ] [LLM] Code Llama: Open Foundation Models for Code, https://ai.meta.com/research/publications/code-llama-open-foundation-models-for-code/, https://ai.meta.com/blog/code-llama-large-language-model-coding
 + [ ] [LLM] Graph of Thoughts: Solving Elaborate Problems with Large Language Models, https://arxiv.org/abs/2308.09687, https://github.com/spcl/graph-of-thoughts
 + [ ] [LLM] Bactrian-X : A Multilingual Replicable Instruction-Following Model with Low-Rank Adaptation, https://arxiv.org/abs/2305.15011
 + [ ] [LLM] LangChain for LLM Application Development, https://learn.deeplearning.ai/langchain/lesson/2/models,-prompts-and-parsers
