@@ -59,6 +59,13 @@ Top 100K Papers List
 + [ ] [LLM] [Causal NLP] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality, https://arxiv.org/pdf/2305.00050.pdf
 + [ ] [LLM] [Causal NLP] Passive learning of active causal strategies in agents and language models, https://arxiv.org/pdf/2305.16183.pdf
 + [ ] [LLM] [Causal NLP] Can Large Language Models Infer Causation from Correlation? https://arxiv.org/abs/2306.05836
++ [ ] [LLM] Language to Rewards for Robotic Skill Synthesis, https://arxiv.org/abs/2306.08647
++ [ ] [LLM] LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in Large Language Models, https://arxiv.org/abs/2308.11462
++ [ ] [LLM] Prompt2Model: Generating Deployable Models from Natural Language Instructions, https://arxiv.org/abs/2308.12261
++ [ ] [LLM] A Survey on Large Language Model based Autonomous Agents, https://arxiv.org/abs/2308.11432
++ [ ] [LLM] IT3D: Improved Text-to-3D Generation with Explicit View Synthesis, https://arxiv.org/abs/2308.11473
++ [ ] [LLM] Giraffe: Adventures in Expanding Context Lengths in LLMs, https://arxiv.org/abs/2308.10882
++ [ ] [LLM] Instruction Tuning for Large Language Models: A Survey, https://arxiv.org/abs/2308.10792
 + [ ] [LLM] Anti-hype LLM reading list, https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e
 + [ ] [LLM] Head-to-Tail: How Knowledgeable are Large Language Models (LLM)? A.K.A. Will LLMs Replace Knowledge Graphs? https://arxiv.org/abs/2308.10168
 + [ ] [LLM] ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs, https://arxiv.org/abs/2307.16789, https://github.com/openbmb/toolbench
