@@ -59,6 +59,7 @@ Top 100K Papers List
 + [ ] [LLM] [Causal NLP] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality, https://arxiv.org/pdf/2305.00050.pdf
 + [ ] [LLM] [Causal NLP] Passive learning of active causal strategies in agents and language models, https://arxiv.org/pdf/2305.16183.pdf
 + [ ] [LLM] [Causal NLP] Can Large Language Models Infer Causation from Correlation? https://arxiv.org/abs/2306.05836
++ [ ] [LLM] Prompt2Model: Generating Deployable Models from Natural Language Instructions, https://arxiv.org/abs/2308.12261, https://github.com/neulab/prompt2model
 + [ ] [LLM] UniversalNER A case study on targeted distillation from LLMs, https://universal-ner.github.io
 + [ ] [LLM] Language to Rewards for Robotic Skill Synthesis, https://arxiv.org/abs/2306.08647
 + [ ] [LLM] LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in Large Language Models, https://arxiv.org/abs/2308.11462
