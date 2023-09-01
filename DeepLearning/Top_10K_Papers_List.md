@@ -469,6 +469,7 @@ Top 100K Papers List
 + [ ] [Model Compression] DEEPCOMPRESSION:COMPRESSINGDEEPNEURAL NETWORKSWITHPRUNING,TRAINEDQUANTIZATION ANDHUFFMANCODING, https://arxiv.org/pdf/1510.00149)
 + [ ] [GNN][Time Series] A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, https://arxiv.org/abs/2307.03759
 + [ ] [Time Series] A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, https://arxiv.org/abs/2307.03759
++ [ ] [RL] Champion-level drone racing using deep reinforcement learning, https://www.nature.com/articles/s41586-023-06419-4
 + [ ] [RL] AnIntroductiontoDeep ReinforcementLearning, https://www.ics.uci.edu/~dechter/courses/ics-295/fall-2019/texts/An_Introduction_to_Deep_Reinforcement_Learning.pdf
 + [ ] [RL] Offline Reinforcement Learning with Implicit Q-Learning, https://arxiv.org/abs/2110.06169
 + [ ] [RL] Offline Reinforcement Learning with Implicit Q-Learning, https://arxiv.org/abs/2110.06169
