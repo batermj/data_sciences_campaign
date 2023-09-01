@@ -681,6 +681,9 @@ Top 100K Papers List
 + [x] [CNN][TextCNN] Convolutional Neural Networks for Sentence Classification, https://arxiv.org/abs/1408.5882
 
 
+# [Papers for Information Retrieval]
++ [ ][IR] Vector Search with OpenAI Embeddings: Lucene Is All You Need, https://arxiv.org/abs/2308.14963
+
 # [Papers for Data Sciences]
 + [ ] [Topological Data Analysis (TDA)] Algebraic Topology for Data Scientists, https://arxiv.org/abs/2308.10825
 
