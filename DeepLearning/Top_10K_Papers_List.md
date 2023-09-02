@@ -60,6 +60,12 @@ Top 100K Papers List
 + [ ] [LLM] [Causal NLP] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality, https://arxiv.org/pdf/2305.00050.pdf
 + [ ] [LLM] [Causal NLP] Passive learning of active causal strategies in agents and language models, https://arxiv.org/pdf/2305.16183.pdf
 + [ ] [LLM] [Causal NLP] Can Large Language Models Infer Causation from Correlation? https://arxiv.org/abs/2306.05836
++ [ ] [LLM] Fast Model Editing at Scale,, https://arxiv.org/abs/2110.11309
++ [ ] [LLM] Incrementally-Computable Neural Networks: Efficient Inference for Dynamic Inputs, https://arxiv.org/abs/2307.14988
++ [ ] [LLM] Locating and Editing Factual Associations in GPT, https://arxiv.org/abs/2202.05262
++ [ ] [LLM] [Transformer] Mass-Editing Memory in a Transformer, https://arxiv.org/abs/2210.07229
++ [ ] [LLM] [Transformer] PMET: Precise Model Editing in a Transformer, https://arxiv.org/abs/2308.08742
++ [ ] [LLM] Evaluating the Ripple Effects of Knowledge Editing in Language Models, https://arxiv.org/abs/2307.12976
 + [ ] [LLM] Prompt2Model: Generating Deployable Models from Natural Language Instructions, https://arxiv.org/abs/2308.12261, https://github.com/neulab/prompt2model
 + [ ] [LLM] UniversalNER A case study on targeted distillation from LLMs, https://universal-ner.github.io
 + [ ] [LLM] Language to Rewards for Robotic Skill Synthesis, https://arxiv.org/abs/2306.08647
