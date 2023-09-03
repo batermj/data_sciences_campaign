@@ -60,6 +60,7 @@ Top 100K Papers List
 + [ ] [LLM] [Causal NLP] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality, https://arxiv.org/pdf/2305.00050.pdf
 + [ ] [LLM] [Causal NLP] Passive learning of active causal strategies in agents and language models, https://arxiv.org/pdf/2305.16183.pdf
 + [ ] [LLM] [Causal NLP] Can Large Language Models Infer Causation from Correlation? https://arxiv.org/abs/2306.05836
++ [ ] [LLM] GPT Engineer, https://github.com/AntonOsika/gpt-engineer
 + [ ] [LLM] Fast Model Editing at Scale,, https://arxiv.org/abs/2110.11309
 + [ ] [LLM] Incrementally-Computable Neural Networks: Efficient Inference for Dynamic Inputs, https://arxiv.org/abs/2307.14988
 + [ ] [LLM] Locating and Editing Factual Associations in GPT, https://arxiv.org/abs/2202.05262
