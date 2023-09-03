@@ -637,6 +637,7 @@ Top 100K Papers List
 + [ ] Pretrained models (MatConvNet), https://www.vlfeat.org/matconvnet/pretrained/
 + [ ] DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation, https://arxiv.org/abs//2306.12422
 + [ ] [ML] [Course] Introduction to Embedded Machine Learning, https://www.youtube.com/playlist?list=PL7VEa1KauMQqZFj_nWRfsCZNXaBbkuurG
++ [ ] [GAN] Scaling up GANs for Text-to-Image Synthesism, https://mingukkang.github.io/GigaGAN/
 + [ ] [GAN] StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces, https://arxiv.org/abs/2303.06146
 + [ ] [Information Theory] Information Theory, Inference, and Learning Algorithms (Hardback, 640 pages, Published September 2003), https://inference.org.uk/itila/book.html
 + [ ] [Diffusion Models] Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing, https://arxiv.org/abs/2304.02051, https://github.com/aimagelab/multimodal-garment-designer
