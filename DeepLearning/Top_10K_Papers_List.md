@@ -60,6 +60,7 @@ Top 100K Papers List
 + [ ] [LLM] [Causal NLP] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality, https://arxiv.org/pdf/2305.00050.pdf
 + [ ] [LLM] [Causal NLP] Passive learning of active causal strategies in agents and language models, https://arxiv.org/pdf/2305.16183.pdf
 + [ ] [LLM] [Causal NLP] Can Large Language Models Infer Causation from Correlation? https://arxiv.org/abs/2306.05836
++ [ ] [LLM] TabLLM: Few-shot Classification of Tabular Data with Large Language Models, https://arxiv.org/abs/2210.10723
 + [ ] [LLM] Spread Your Wings: Falcon 180B is here, https://huggingface.co/spaces/tiiuae/falcon-180b-demo, https://huggingface.co/models?sort=trending&search=Falcon-180b, https://huggingface.co/blog/falcon-180b
 + [ ] [LLM] Jais and Jais-chat: Arabic-Centric Foundation and Instruction-Tuned Open Generative Large Language Modelsm, https://arxiv.org/abs/2308.16149, https://huggingface.co/inception-mbzuai/jais-13b-chatm, https://huggingface.co/inception-mbzuai/jais-13b-chat, https://www.inceptioniai.org/jais/docs/DeveloperManual.pdf, https://www.inceptioniai.org/jais/docs/Whitepaper.pdf
 + [ ] [LLM] GPT Engineer, https://github.com/AntonOsika/gpt-engineer
