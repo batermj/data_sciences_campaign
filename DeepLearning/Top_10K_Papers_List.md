@@ -705,6 +705,9 @@ Top 100K Papers List
 # [Papers to be for Reproduction]
 + [Roadmap] Deep Learning Papers Reading Roadmap, https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 
+# [Papers to be for Quantum Mechanics]
++ [ ] Two-Worlds Interpretation of Quantum Mechanics, https://arxiv.org/abs/2309.03151
+
 ## 2023.Jul.04 - for Classical Convolution Neural Networks related Models
 + [CNN] Character-level Convolutional Networks for Text Classification, https://arxiv.org/abs/1509.01626
 + [CNN] A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification, http://arxiv.org/abs/1510.03820
