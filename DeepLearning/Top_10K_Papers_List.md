@@ -464,6 +464,7 @@ Top 100K Papers List
 + [ ] [Meta] UnitY: Two-pass Direct Speech-to-speech Translation with Discrete Units, https://arxiv.org/abs/2212.08055
 + [ ] [U. Washington] On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? https://dl.acm.org/doi/10.1145/3442188.3445922
 + [ ] [CV] Fast Segment Anything, https://github.com/CASIA-IVA-Lab/FastSAM
++ [ ] [Knowledge Graph] Generating Faithful Text From a Knowledge Graph with Noisy Reference Text, https://arxiv.org/abs/2308.06488
 + [ ] [Knowledge Distillation] Knowledge Distillation: A Survey, https://arxiv.org/abs/2006.05525
 + [ ] [Knowledge Distillation] Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes, https://arxiv.org/abs/2305.02301
 + [ ] [SLAM] DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras, https://arxiv.org/abs/2108.10869, https://github.com/princeton-vl/DROID-SLAM
