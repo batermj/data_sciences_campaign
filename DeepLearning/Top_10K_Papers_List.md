@@ -501,6 +501,7 @@ Top 100K Papers List
 + [ ] [CV] Generating Images with Multimodal Language Models, https://arxiv.org/abs/2305.17216
 + [ ] [MLP] Scaling MLPs: A Tale of Inductive Bias, https://arxiv.org/abs/2306.13575
 + [ ] Scenic is developed in JAX and uses Flax., https://github.com/google-research/scenic
++ [ ] [Transformers] Nougat: Neural Optical Understanding for Academic Documents, https://arxiv.org/abs/2308.13418, https://github.com/facebookresearch/nougat, https://facebookresearch.github.io/nougat/
 + [ ] [Transformers][FFN] One Wide Feedforward is All You Need, https://arxiv.org/abs/2309.01826
 + [ ] [Transformers] UForm v2: now in 21 languages, https://www.unum.cloud/blog/2023-08-17-uform-graphcore, https://www.unum.cloud/blog/2023-02-20-efficient-multimodality
 + [ ] [Transformers] CoTracker: It is Better to Track Together, https://arxiv.org/abs/2307.07635, https://github.com/facebookresearch/co-tracker, https://huggingface.co/spaces/facebook/cotracker
