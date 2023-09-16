@@ -693,6 +693,7 @@ Top 100K Papers List
 + [ ] [Optimization] Dropout is NOT All You Need to Prevent Gradient Leakage, https://arxiv.org/abs/2208.06163
 + [ ] Modified Dropout for Training Neural Network, https://www.cs.cmu.edu/~epxing/Class/10715/project-reports/DuyckLeeLei.pdf
 + [ ] ML Papers Explained, https://github.com/dair-ai/ML-Papers-Explained
++ [ ] [Embodied Agent] MineDojo, MineDojo is a new framework built on the popular Minecraft game for embodied agent research.,  https://minedojo.org
 + [ ] [Autonomous Driving] LINGO-1: Exploring Natural Language for Autonomous Driving, https://wayve.ai/thinking/lingo-natural-language-autonomous-driving/
 + [ ] [CV][Evaluation] Evaluating the fairness of computer vision models, https://ai.meta.com/blog/dinov2-facet-computer-vision-fairness-evaluation/
 + [ ] [PyTorch] NVIDIA. 2023. The NVIDIA Collective Communication Library (NCCL). https: //developer.nvidia.com/nccl
