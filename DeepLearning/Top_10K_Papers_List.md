@@ -693,6 +693,7 @@ Top 100K Papers List
 + [ ] [Optimization] Dropout is NOT All You Need to Prevent Gradient Leakage, https://arxiv.org/abs/2208.06163
 + [ ] Modified Dropout for Training Neural Network, https://www.cs.cmu.edu/~epxing/Class/10715/project-reports/DuyckLeeLei.pdf
 + [ ] ML Papers Explained, https://github.com/dair-ai/ML-Papers-Explained
++ [ ] [CV][Evaluation] Evaluating the fairness of computer vision models, https://ai.meta.com/blog/dinov2-facet-computer-vision-fairness-evaluation/
 + [ ] [PyTorch] NVIDIA. 2023. The NVIDIA Collective Communication Library (NCCL). https: //developer.nvidia.com/nccl
 + [ ] [PyTorch] PyTorch distributed training features such as DistributeDataParallel (DDP), Pytorch distributed: Experiences on accelerating data parallel training. arXiv preprint arXiv:2006.15704 (2020), https://arxiv.org/abs/2006.15704
 + [ ] [PyTorch] Key PyTorch core components including Tensor implemen- tation, dispatcher system, and CUDA memory caching allocator
