@@ -60,6 +60,7 @@ Top 100K Papers List
 + [ ] [LLM] [Causal NLP] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality, https://arxiv.org/pdf/2305.00050.pdf
 + [ ] [LLM] [Causal NLP] Passive learning of active causal strategies in agents and language models, https://arxiv.org/pdf/2305.16183.pdf
 + [ ] [LLM] [Causal NLP] Can Large Language Models Infer Causation from Correlation? https://arxiv.org/abs/2306.05836
++ [ ] [LLM] Large Language Models Sensitivity to The Order of Options in Multiple-Choice Questions, https://arxiv.org/abs/2308.11483
 + [ ] [LLM] Open challenges in LLM research, https://huyenchip.com/2023/08/16/llm-research-open-challenges.html
 + [ ] [LLM] A Survey of Hallucination in Large Foundation Models, https://arxiv.org/abs/2309.05922
 + [ ] [LLM] XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models, https://arxiv.org/abs/2308.01263, https://github.com/paul-rottger/exaggerated-safety
