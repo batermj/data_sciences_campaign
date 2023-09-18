@@ -60,6 +60,9 @@ Top 100K Papers List
 + [ ] [LLM] [Causal NLP] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality, https://arxiv.org/pdf/2305.00050.pdf
 + [ ] [LLM] [Causal NLP] Passive learning of active causal strategies in agents and language models, https://arxiv.org/pdf/2305.16183.pdf
 + [ ] [LLM] [Causal NLP] Can Large Language Models Infer Causation from Correlation? https://arxiv.org/abs/2306.05836
++ [ ] [LLM] Efficient Memory Management for Large Language Model Serving with PagedAttention, https://arxiv.org/abs/2309.06180, https://github.com/vllm-project/vllm
++ [ ] [LLM] Nougat: Neural Optical Understanding for Academic Documents, https://arxiv.org/abs/2308.13418
++ [ ] [LLM] NExT-GPT: Any-to-Any Multimodal LLM, https://arxiv.org/abs/2309.05519
 + [ ] [LLM] Large Language Models Sensitivity to The Order of Options in Multiple-Choice Questions, https://arxiv.org/abs/2308.11483
 + [ ] [LLM] Open challenges in LLM research, https://huyenchip.com/2023/08/16/llm-research-open-challenges.html
 + [ ] [LLM] A Survey of Hallucination in Large Foundation Models, https://arxiv.org/abs/2309.05922
