@@ -60,6 +60,8 @@ Top 100K Papers List
 + [ ] [LLM] [Causal NLP] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality, https://arxiv.org/pdf/2305.00050.pdf
 + [ ] [LLM] [Causal NLP] Passive learning of active causal strategies in agents and language models, https://arxiv.org/pdf/2305.16183.pdf
 + [ ] [LLM] [Causal NLP] Can Large Language Models Infer Causation from Correlation? https://arxiv.org/abs/2306.05836
++ [ ] [LLM] Explaining grokking through circuit efficiency, https://arxiv.org/abs/2309.02390Explaining grokking through circuit efficiency, https://arxiv.org/abs/2309.02390
++ [ ] [LLM] DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models, https://arxiv.org/abs/2309.03883, https://github.com/voidism/DoLa
 + [ ] [LLM] Efficient Memory Management for Large Language Model Serving with PagedAttention, https://arxiv.org/abs/2309.06180, https://github.com/vllm-project/vllm
 + [ ] [LLM] Nougat: Neural Optical Understanding for Academic Documents, https://arxiv.org/abs/2308.13418
 + [ ] [LLM] NExT-GPT: Any-to-Any Multimodal LLM, https://arxiv.org/abs/2309.05519
@@ -698,6 +700,7 @@ Top 100K Papers List
 + [ ] [Optimization] Dropout is NOT All You Need to Prevent Gradient Leakage, https://arxiv.org/abs/2208.06163
 + [ ] Modified Dropout for Training Neural Network, https://www.cs.cmu.edu/~epxing/Class/10715/project-reports/DuyckLeeLei.pdf
 + [ ] ML Papers Explained, https://github.com/dair-ai/ML-Papers-Explained
++ [ ] [Misc] Enhancing Land Cover Mapping and Monitoring: An Interactive and Explainable Machine Learning Approach Using Google Earth Engine, https://www.mdpi.com/2072-4292/15/18/4585, https://github.com/GeoAIR-lab/XAI-tool4GEE
 + [ ] [Embodied Agent] MineDojo, MineDojo is a new framework built on the popular Minecraft game for embodied agent research.,  https://minedojo.org
 + [ ] [Autonomous Driving] LINGO-1: Exploring Natural Language for Autonomous Driving, https://wayve.ai/thinking/lingo-natural-language-autonomous-driving/
 + [ ] [CV][Evaluation] Evaluating the fairness of computer vision models, https://ai.meta.com/blog/dinov2-facet-computer-vision-fairness-evaluation/
