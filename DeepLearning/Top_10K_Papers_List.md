@@ -700,6 +700,7 @@ Top 100K Papers List
 + [ ] [Optimization] Dropout is NOT All You Need to Prevent Gradient Leakage, https://arxiv.org/abs/2208.06163
 + [ ] Modified Dropout for Training Neural Network, https://www.cs.cmu.edu/~epxing/Class/10715/project-reports/DuyckLeeLei.pdf
 + [ ] ML Papers Explained, https://github.com/dair-ai/ML-Papers-Explained
++ [ ] [Misc] Fast Feedforward Networks, https://arxiv.org/abs/2308.14711
 + [ ] [Misc] Enhancing Land Cover Mapping and Monitoring: An Interactive and Explainable Machine Learning Approach Using Google Earth Engine, https://www.mdpi.com/2072-4292/15/18/4585, https://github.com/GeoAIR-lab/XAI-tool4GEE
 + [ ] [Embodied Agent] MineDojo, MineDojo is a new framework built on the popular Minecraft game for embodied agent research.,  https://minedojo.org
 + [ ] [Autonomous Driving] LINGO-1: Exploring Natural Language for Autonomous Driving, https://wayve.ai/thinking/lingo-natural-language-autonomous-driving/
