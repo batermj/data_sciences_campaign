@@ -60,6 +60,9 @@ Top 100K Papers List
 + [ ] [LLM] [Causal NLP] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality, https://arxiv.org/pdf/2305.00050.pdf
 + [ ] [LLM] [Causal NLP] Passive learning of active causal strategies in agents and language models, https://arxiv.org/pdf/2305.16183.pdf
 + [ ] [LLM] [Causal NLP] Can Large Language Models Infer Causation from Correlation? https://arxiv.org/abs/2306.05836
++ [ ] [LLM] Adapting Large Language Models via Reading Comprehension, https://arxiv.org/abs/2309.09530, https://github.com/microsoft/LMOps
++ [ ] [LLM] Large Language Models are not Fair Evaluators, https://arxiv.org/abs/2305.17926, https://github.com/i-Eval/FairEval
++ [ ] [LLM] The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A", https://arxiv.org/abs/2309.12288
 + [ ] [LLM] Graphologue: Exploring Large Language Model Responses with Interactive Diagrams, https://arxiv.org/abs/2305.11473, https://arxiv.org/abs/2305.11473, https://graphologue.app
 + [ ] [LLM] PDFTriage: Question Answering over Long, Structured Documents, https://arxiv.org/abs/2309.08872
 + [ ] [LLM] Language Modeling Is Compression, https://arxiv.org/abs/2309.10668
@@ -704,6 +707,7 @@ Top 100K Papers List
 + [ ] [Optimization] Dropout is NOT All You Need to Prevent Gradient Leakage, https://arxiv.org/abs/2208.06163
 + [ ] Modified Dropout for Training Neural Network, https://www.cs.cmu.edu/~epxing/Class/10715/project-reports/DuyckLeeLei.pdf
 + [ ] ML Papers Explained, https://github.com/dair-ai/ML-Papers-Explained
++ [ ] [DM] ICDM 2023 Tutorial Robust Time Series Analysis and Applications: A Interdisciplinary Approach The 23rd IEEE International Conference on Data Mining (ICDM'23) Dec. 2023, Shanghai, China, https://sites.google.com/view/timeseries-tutorial-aaai2023/home
 + [ ] [Misc] Tracking Anything with Decoupled Video Segmentation, https://arxiv.org/abs/2309.03903v1, https://github.com/hkchengrex/Tracking-Anything-with-DEVA, https://hkchengrex.com/Tracking-Anything-with-DEVA/
 + [ ] [Misc] Fast Feedforward Networks, https://arxiv.org/abs/2308.14711
 + [ ] [Misc] Enhancing Land Cover Mapping and Monitoring: An Interactive and Explainable Machine Learning Approach Using Google Earth Engine, https://www.mdpi.com/2072-4292/15/18/4585, https://github.com/GeoAIR-lab/XAI-tool4GEE
