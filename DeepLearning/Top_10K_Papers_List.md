@@ -669,6 +669,7 @@ Top 100K Papers List
 + [ ] [GAN] Scaling up GANs for Text-to-Image Synthesism, https://mingukkang.github.io/GigaGAN/
 + [ ] [GAN] StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces, https://arxiv.org/abs/2303.06146
 + [ ] [Information Theory] Information Theory, Inference, and Learning Algorithms (Hardback, 640 pages, Published September 2003), https://inference.org.uk/itila/book.html
++ [ ] [Diffusion Models] Core ML Stable Diffusion, https://github.com/apple/ml-stable-diffusion
 + [ ] [Diffusion Models] InstructDiffusion: A Generalist Modeling Interface for Vision Tasks, https://gengzigang.github.io/instructdiffusion.github.io/
 + [ ] [Diffusion Models] Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing, https://arxiv.org/abs/2304.02051, https://github.com/aimagelab/multimodal-garment-designer
 + [ ] [Causal Inference] the Book of Why, by Judea Pearl
