@@ -60,6 +60,9 @@ Top 100K Papers List
 + [ ] [LLM] [Causal NLP] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality, https://arxiv.org/pdf/2305.00050.pdf
 + [ ] [LLM] [Causal NLP] Passive learning of active causal strategies in agents and language models, https://arxiv.org/pdf/2305.16183.pdf
 + [ ] [LLM] [Causal NLP] Can Large Language Models Infer Causation from Correlation? https://arxiv.org/abs/2306.05836
++ [ ] [LLM] [Multimodal] Multimodal Foundation Models: From Specialists to General-Purpose Assistants, https://arxiv.org/abs/2309.10020
++ [ ] [LLM] [Compression] A Survey on Model Compression for Large Language Models, https://arxiv.org/abs/2308.07633
++ [ ] [LLM] The Internal State of an LLM Knows When its Lying, https://arxiv.org/abs/2304.13734
 + [ ] [LLM] A Hackers' Guide to Language Models, https://www.youtube.com/watch?v=jkrNMKz9pWU
 + [ ] [LLM] Adapting Large Language Models via Reading Comprehension, https://arxiv.org/abs/2309.09530, https://github.com/microsoft/LMOps
 + [ ] [LLM] Large Language Models are not Fair Evaluators, https://arxiv.org/abs/2305.17926, https://github.com/i-Eval/FairEval
