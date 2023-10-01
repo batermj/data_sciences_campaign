@@ -712,6 +712,7 @@ Top 100K Papers List
 + [ ] [Optimization] Dropout is NOT All You Need to Prevent Gradient Leakage, https://arxiv.org/abs/2208.06163
 + [ ] Modified Dropout for Training Neural Network, https://www.cs.cmu.edu/~epxing/Class/10715/project-reports/DuyckLeeLei.pdf
 + [ ] ML Papers Explained, https://github.com/dair-ai/ML-Papers-Explained
++ [ ] [CV] [Semantic Segmentation] Residual Pattern Learning for Pixel-wise Out-of-Distribution Detection in Semantic Segmentation, https://arxiv.org/abs/2211.14512, https://github.com/yyliu01/RPL
 + [ ] [DM] ICDM 2023 Tutorial Robust Time Series Analysis and Applications: A Interdisciplinary Approach The 23rd IEEE International Conference on Data Mining (ICDM'23) Dec. 2023, Shanghai, China, https://sites.google.com/view/timeseries-tutorial-aaai2023/home
 + [ ] [DM] Anomaly Detection under Distribution Shift, https://arxiv.org/abs/2303.13845, https://github.com/mala-lab/ADShift
 + [ ] [Misc] https://open.spotify.com/episode/6S3TPytV81NWmkDArApKYl
