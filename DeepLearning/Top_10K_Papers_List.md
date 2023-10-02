@@ -62,6 +62,7 @@ Top 100K Papers List
 + [ ] [LLM] [Causal NLP] Can Large Language Models Infer Causation from Correlation? https://arxiv.org/abs/2306.05836
 + [ ] [LLM] [Multimodal] Multimodal Foundation Models: From Specialists to General-Purpose Assistants, https://arxiv.org/abs/2309.10020
 + [ ] [LLM] [Compression] A Survey on Model Compression for Large Language Models, https://arxiv.org/abs/2308.07633
++ [ ] [LLM] QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models, https://arxiv.org/abs/2309.14717
 + [ ] [LLM] The Internal State of an LLM Knows When its Lying, https://arxiv.org/abs/2304.13734
 + [ ] [LLM] A Hackers' Guide to Language Models, https://www.youtube.com/watch?v=jkrNMKz9pWU
 + [ ] [LLM] Adapting Large Language Models via Reading Comprehension, https://arxiv.org/abs/2309.09530, https://github.com/microsoft/LMOps
@@ -713,8 +714,10 @@ Top 100K Papers List
 + [ ] Modified Dropout for Training Neural Network, https://www.cs.cmu.edu/~epxing/Class/10715/project-reports/DuyckLeeLei.pdf
 + [ ] ML Papers Explained, https://github.com/dair-ai/ML-Papers-Explained
 + [ ] [CV] [Semantic Segmentation] Residual Pattern Learning for Pixel-wise Out-of-Distribution Detection in Semantic Segmentation, https://arxiv.org/abs/2211.14512, https://github.com/yyliu01/RPL
++ [ ] [Multi Agent] AutoGen - Automated Multi Agent Chat, https://microsoft.github.io/autogen/docs/Examples/AutoGen-AgentChat/
 + [ ] [DM] ICDM 2023 Tutorial Robust Time Series Analysis and Applications: A Interdisciplinary Approach The 23rd IEEE International Conference on Data Mining (ICDM'23) Dec. 2023, Shanghai, China, https://sites.google.com/view/timeseries-tutorial-aaai2023/home
 + [ ] [DM] Anomaly Detection under Distribution Shift, https://arxiv.org/abs/2303.13845, https://github.com/mala-lab/ADShift
++ [ ] [Misc] Solution multiplicity and effects of data and eddy viscosity on Navier-Stokes solutions inferred by physics-informed neural networks, https://arxiv.org/abs/2309.06010, https://github.com/Scien42/NSFnet
 + [ ] [Misc] https://open.spotify.com/episode/6S3TPytV81NWmkDArApKYl
 + [ ] [Misc] IJCAI23 Tutorial: Deep non-IID learning, https://datasciences.org/news/ijcai-tutorial-deep-non-iid-learning/
 + [ ] [Misc] Tracking Anything with Decoupled Video Segmentation, https://arxiv.org/abs/2309.03903v1, https://github.com/hkchengrex/Tracking-Anything-with-DEVA, https://hkchengrex.com/Tracking-Anything-with-DEVA/
