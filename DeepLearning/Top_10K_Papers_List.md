@@ -55,6 +55,7 @@ Top 100K Papers List
 + [ ] [Robotics] RoboAgent Towards Sample Efficient Robot Manipulation with Semantic Augmentations and Action Chunking, https://robopen.github.io/media/roboagent.pdf, https://github.com/robopen/roboagent/, https://robopen.github.io/roboset/
 + [ ] [Difussion Model] Erasing Concepts from Diffusion Models, https://arxiv.org/abs/2303.07345, https://civitai.com/models
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
++ [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
 + [ ] [LLM] [Causal NLP] Understanding Causality with Large Language Models: Feasibility and Opportunities, https://arxiv.org/pdf/2304.05524.pdf
 + [ ] [LLM] [Causal NLP] Causal Parrots: Large Language Models May Talk Causality But Are Not Causal, https://openreview.net/pdf?id=tv46tCzs83
 + [ ] [LLM] [Causal NLP] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality, https://arxiv.org/pdf/2305.00050.pdf
@@ -62,6 +63,8 @@ Top 100K Papers List
 + [ ] [LLM] [Causal NLP] Can Large Language Models Infer Causation from Correlation? https://arxiv.org/abs/2306.05836
 + [ ] [LLM] [Multimodal] Multimodal Foundation Models: From Specialists to General-Purpose Assistants, https://arxiv.org/abs/2309.10020
 + [ ] [LLM] [Compression] A Survey on Model Compression for Large Language Models, https://arxiv.org/abs/2308.07633
++ [ ] [LLM] A Path Towards Autonomous Machine Intelligence, https://openreview.net/pdf?id=BZ5a1r-kVsf, https://worldmodels.github.io, https://openai.com/research/unsupervised-sentiment-neuron, 
++ [ ] [LLM] Language Models Represent Space and Time, https://arxiv.org/abs/2310.02207, https://github.com/wesg52/world-models
 + [ ] [LLM] QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models, https://arxiv.org/abs/2309.14717
 + [ ] [LLM] The Internal State of an LLM Knows When its Lying, https://arxiv.org/abs/2304.13734
 + [ ] [LLM] A Hackers' Guide to Language Models, https://www.youtube.com/watch?v=jkrNMKz9pWU
@@ -153,6 +156,7 @@ Top 100K Papers List
 + [ ] [LLM][Survey] Papers and resources for LLMs evaluation, https://github.com/MLGroupJLU/LLM-eval-survey
 + [ ] [LLM] LoRA: Low-Rank Adaptation of Large Language Models, https://arxiv.org/abs/2106.09685
 + [ ] [LLM] Lost in the Middle: How Language Models Use Long Contexts, https://arxiv.org/abs/2307.03172
++ [ ] [LLM] Retrieval meets Long Context Large Language Models, https://arxiv.org/abs/2310.03025
 + [ ] [LLM] LLM Calibration and Automatic Hallucination Detection via Pareto Optimal Self-supervision, https://arxiv.org/abs/2306.16564
 + [ ] [Hands-on]Setting Python Development Environment with VScode and Docker, https://github.com/RamiKrispin/vscode-python
 + [ ] Topological Deep Learning: Going Beyond Graph Data, https://arxiv.org/abs/2206.00606
@@ -717,7 +721,6 @@ Top 100K Papers List
 + [ ] [Multi Agent] AutoGen - Automated Multi Agent Chat, https://microsoft.github.io/autogen/docs/Examples/AutoGen-AgentChat/
 + [ ] [DM] ICDM 2023 Tutorial Robust Time Series Analysis and Applications: A Interdisciplinary Approach The 23rd IEEE International Conference on Data Mining (ICDM'23) Dec. 2023, Shanghai, China, https://sites.google.com/view/timeseries-tutorial-aaai2023/home
 + [ ] [DM] Anomaly Detection under Distribution Shift, https://arxiv.org/abs/2303.13845, https://github.com/mala-lab/ADShift
-+ [ ] [Misc] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
 + [ ] [Misc] Decaf: Monocular Deformation Capture for Face and Hand Interactions, https://arxiv.org/abs/2309.16670, https://vcai.mpi-inf.mpg.de/projects/Decaf/
 + [ ] [Misc] Solution multiplicity and effects of data and eddy viscosity on Navier-Stokes solutions inferred by physics-informed neural networks, https://arxiv.org/abs/2309.06010, https://github.com/Scien42/NSFnet
 + [ ] [Misc] https://open.spotify.com/episode/6S3TPytV81NWmkDArApKYl
