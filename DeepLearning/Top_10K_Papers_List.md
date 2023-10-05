@@ -717,7 +717,8 @@ Top 100K Papers List
 + [ ] [Multi Agent] AutoGen - Automated Multi Agent Chat, https://microsoft.github.io/autogen/docs/Examples/AutoGen-AgentChat/
 + [ ] [DM] ICDM 2023 Tutorial Robust Time Series Analysis and Applications: A Interdisciplinary Approach The 23rd IEEE International Conference on Data Mining (ICDM'23) Dec. 2023, Shanghai, China, https://sites.google.com/view/timeseries-tutorial-aaai2023/home
 + [ ] [DM] Anomaly Detection under Distribution Shift, https://arxiv.org/abs/2303.13845, https://github.com/mala-lab/ADShift
-Decaf: Monocular Deformation Capture for Face and Hand Interactions, https://arxiv.org/abs/2309.16670, https://vcai.mpi-inf.mpg.de/projects/Decaf/
++ [ ] [Misc] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [Misc] Decaf: Monocular Deformation Capture for Face and Hand Interactions, https://arxiv.org/abs/2309.16670, https://vcai.mpi-inf.mpg.de/projects/Decaf/
 + [ ] [Misc] Solution multiplicity and effects of data and eddy viscosity on Navier-Stokes solutions inferred by physics-informed neural networks, https://arxiv.org/abs/2309.06010, https://github.com/Scien42/NSFnet
 + [ ] [Misc] https://open.spotify.com/episode/6S3TPytV81NWmkDArApKYl
 + [ ] [Misc] IJCAI23 Tutorial: Deep non-IID learning, https://datasciences.org/news/ijcai-tutorial-deep-non-iid-learning/
