@@ -63,6 +63,9 @@ Top 100K Papers List
 + [ ] [LLM] [Causal NLP] Can Large Language Models Infer Causation from Correlation? https://arxiv.org/abs/2306.05836
 + [ ] [LLM] [Multimodal] Multimodal Foundation Models: From Specialists to General-Purpose Assistants, https://arxiv.org/abs/2309.10020
 + [ ] [LLM] [Compression] A Survey on Model Compression for Large Language Models, https://arxiv.org/abs/2308.07633
++ [ ] [LLM] Train and Deploy Mistral 7B with Hugging Face on Amazon SageMaker, https://www.philschmid.de/sagemaker-mistral
++ [ ] [LLM] Physics of Language Models: Part 1, Context-Free Grammar, https://arxiv.org/abs/2305.13673
++ [ ] [LLM] Training and inference of large language models using 8-bit floating point, https://arxiv.org/abs/2309.17224
 + [ ] [LLM] A Path Towards Autonomous Machine Intelligence, https://openreview.net/pdf?id=BZ5a1r-kVsf, https://worldmodels.github.io, https://openai.com/research/unsupervised-sentiment-neuron, 
 + [ ] [LLM] Language Models Represent Space and Time, https://arxiv.org/abs/2310.02207, https://github.com/wesg52/world-models
 + [ ] [LLM] QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models, https://arxiv.org/abs/2309.14717
@@ -730,6 +733,12 @@ Top 100K Papers List
 + [ ] [Misc] Enhancing Land Cover Mapping and Monitoring: An Interactive and Explainable Machine Learning Approach Using Google Earth Engine, https://www.mdpi.com/2072-4292/15/18/4585, https://github.com/GeoAIR-lab/XAI-tool4GEE
 + [ ] [Embodied Agent] MineDojo, MineDojo is a new framework built on the popular Minecraft game for embodied agent research.,  https://minedojo.org
 + [ ] [Autonomous Driving] LINGO-1: Exploring Natural Language for Autonomous Driving, https://wayve.ai/thinking/lingo-natural-language-autonomous-driving/
++ [ ] [CV] Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation, https://arxiv.org/abs/2305.09662
++ [ ] [CV] Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning, https://arxiv.org/abs/2212.14532
++ [ ] [CV] NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection, https://arxiv.org/abs/2307.14620
++ [ ] [CV] The Stable Signature: Rooting Watermarks in Latent Diffusion Models, https://arxiv.org/abs/2303.15435
++ [ ] [CV] Diffusion Models as Masked Autoencoders, https://arxiv.org/abs/2304.03283
++ [ ] [CV] FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation, https://arxiv.org/abs/2307.01492, https://github.com/NVlabs/FB-BEV
 + [ ] [CV][Evaluation] Evaluating the fairness of computer vision models, https://ai.meta.com/blog/dinov2-facet-computer-vision-fairness-evaluation/
 + [ ] [PyTorch] NVIDIA. 2023. The NVIDIA Collective Communication Library (NCCL). https: //developer.nvidia.com/nccl
 + [ ] [PyTorch] PyTorch distributed training features such as DistributeDataParallel (DDP), Pytorch distributed: Experiences on accelerating data parallel training. arXiv preprint arXiv:2006.15704 (2020), https://arxiv.org/abs/2006.15704
