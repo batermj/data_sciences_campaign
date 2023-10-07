@@ -61,6 +61,7 @@ Top 100K Papers List
 + [ ] [LLM] [Causal NLP] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality, https://arxiv.org/pdf/2305.00050.pdf
 + [ ] [LLM] [Causal NLP] Passive learning of active causal strategies in agents and language models, https://arxiv.org/pdf/2305.16183.pdf
 + [ ] [LLM] [Causal NLP] Can Large Language Models Infer Causation from Correlation? https://arxiv.org/abs/2306.05836
++ [ ] [LLM] [Multimodal] Guiding Instruction-based Image Editing via Multimodal Large Language Models, https://arxiv.org/abs/2309.17102
 + [ ] [LLM] [Multimodal] Multimodal Foundation Models: From Specialists to General-Purpose Assistants, https://arxiv.org/abs/2309.10020
 + [ ] [LLM] [Compression] A Survey on Model Compression for Large Language Models, https://arxiv.org/abs/2308.07633
 + [ ] [LLM] Train and Deploy Mistral 7B with Hugging Face on Amazon SageMaker, https://www.philschmid.de/sagemaker-mistral
