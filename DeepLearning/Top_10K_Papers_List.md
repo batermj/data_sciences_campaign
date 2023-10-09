@@ -64,6 +64,7 @@ Top 100K Papers List
 + [ ] [LLM] [Multimodal] Guiding Instruction-based Image Editing via Multimodal Large Language Models, https://arxiv.org/abs/2309.17102
 + [ ] [LLM] [Multimodal] Multimodal Foundation Models: From Specialists to General-Purpose Assistants, https://arxiv.org/abs/2309.10020
 + [ ] [LLM] [Compression] A Survey on Model Compression for Large Language Models, https://arxiv.org/abs/2308.07633
++ [ ] [LLM] Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models, https://arxiv.org/abs/2310.04406
 + [ ] [LLM] Retentive Network: A Successor to Transformer for Large Language Models, https://browse.arxiv.org/abs/2307.08621
 + [ ] [LLM] Train and Deploy Mistral 7B with Hugging Face on Amazon SageMaker, https://www.philschmid.de/sagemaker-mistral
 + [ ] [LLM] Physics of Language Models: Part 1, Context-Free Grammar, https://arxiv.org/abs/2305.13673
