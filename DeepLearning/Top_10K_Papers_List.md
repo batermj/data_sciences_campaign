@@ -751,6 +751,7 @@ Top 100K Papers List
 + [ ] [CV] FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation, https://arxiv.org/abs/2307.01492, https://github.com/NVlabs/FB-BEV
 + [ ] [CV][Evaluation] Evaluating the fairness of computer vision models, https://ai.meta.com/blog/dinov2-facet-computer-vision-fairness-evaluation/
 + [ ] [CV][Evaluation] LightGlue: Local Feature Matching at Light Speed, https://arxiv.org/abs/2306.13643, https://github.com/cvg/LightGlue
++ [ ] [CV] AG3D: Learning to Generate 3D Avatars from 2D Image Collections, https://zj-dong.github.io/AG3D/assets/paper.pdf, https://zj-dong.github.io/AG3D/
 + [ ] [DL] [Book] Understanding Deep Learning, https://udlbook.github.io/udlbook/
 + [ ] [DL] Copy Suppression: Comprehensively Understanding an Attention Head, https://arxiv.org/abs/2310.04625
 + [ ] [PyTorch] NVIDIA. 2023. The NVIDIA Collective Communication Library (NCCL). https: //developer.nvidia.com/nccl
