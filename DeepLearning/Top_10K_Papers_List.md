@@ -239,6 +239,7 @@ Top 100K Papers List
 + [ ] Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network		68	Wuhan University	China	academia 
 + [ ] LAION-5B: An open large-scale dataset for training next generation image-text models	53	66	Juelich Research Center, LAION, Stability AI, Technical University of Darmstadt, Technical University of Munich, UC Berkeley, University of Washington	Germany, USA	industry 
 + [ ] Denoising Diffusion Restoration Models		65	NVIDIA, Stanford University, Technion	Israel, USA	industry 
++ [ ] From Scarcity to Efficiency: Improving CLIP Training via Visual-enriched Captions, https://arxiv.org/abs/2310.07699
 + [ ] VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance	175	64	AiDock, Booz Allen Hamilton, EleutherAI, Georgia Institute of Technology	Israel, USA	industry 
 + [ ] CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields	33	63	City University of Hong Kong, Microsoft, Snap Inc., University of Southern California	China, USA	academia 
 + [ ] Solving Quantitative Reasoning Problems with Language Models	139	63	Google	USA	industry 
