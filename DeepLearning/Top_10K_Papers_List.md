@@ -738,6 +738,7 @@ Top 100K Papers List
 + [ ] [Misc] Tracking Anything with Decoupled Video Segmentation, https://arxiv.org/abs/2309.03903v1, https://github.com/hkchengrex/Tracking-Anything-with-DEVA, https://hkchengrex.com/Tracking-Anything-with-DEVA/
 + [ ] [Misc] Fast Feedforward Networks, https://arxiv.org/abs/2308.14711
 + [ ] [Misc] Enhancing Land Cover Mapping and Monitoring: An Interactive and Explainable Machine Learning Approach Using Google Earth Engine, https://www.mdpi.com/2072-4292/15/18/4585, https://github.com/GeoAIR-lab/XAI-tool4GEE
++ [ ] [Misc] Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation, https://arxiv.org/abs/2309.01952, https://ut-austin-rpl.github.io/TRILL/, https://github.com/UT-Austin-RPL/TRILL
 + [ ] [Embodied Agent] MineDojo, MineDojo is a new framework built on the popular Minecraft game for embodied agent research.,  https://minedojo.org
 + [ ] [Autonomous Driving] LINGO-1: Exploring Natural Language for Autonomous Driving, https://wayve.ai/thinking/lingo-natural-language-autonomous-driving/
 + [ ] [CV] Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation, https://arxiv.org/abs/2305.09662
