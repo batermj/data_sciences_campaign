@@ -750,6 +750,7 @@ Top 100K Papers List
 + [ ] [CV][Evaluation] Evaluating the fairness of computer vision models, https://ai.meta.com/blog/dinov2-facet-computer-vision-fairness-evaluation/
 + [ ] [CV][Evaluation] LightGlue: Local Feature Matching at Light Speed, https://arxiv.org/abs/2306.13643, https://github.com/cvg/LightGlue
 + [ ] [DL] [Book] Understanding Deep Learning, https://udlbook.github.io/udlbook/
++ [ ] [DL] Copy Suppression: Comprehensively Understanding an Attention Head, https://arxiv.org/abs/2310.04625
 + [ ] [PyTorch] NVIDIA. 2023. The NVIDIA Collective Communication Library (NCCL). https: //developer.nvidia.com/nccl
 + [ ] [PyTorch] PyTorch distributed training features such as DistributeDataParallel (DDP), Pytorch distributed: Experiences on accelerating data parallel training. arXiv preprint arXiv:2006.15704 (2020), https://arxiv.org/abs/2006.15704
 + [ ] [PyTorch] Key PyTorch core components including Tensor implemen- tation, dispatcher system, and CUDA memory caching allocator
