@@ -64,6 +64,7 @@ Top 100K Papers List
 + [ ] [LLM] [Multimodal] Guiding Instruction-based Image Editing via Multimodal Large Language Models, https://arxiv.org/abs/2309.17102
 + [ ] [LLM] [Multimodal] Multimodal Foundation Models: From Specialists to General-Purpose Assistants, https://arxiv.org/abs/2309.10020
 + [ ] [LLM] [Compression] A Survey on Model Compression for Large Language Models, https://arxiv.org/abs/2308.07633
++ [ ] [LLM] Meta-CoT: Generalizable Chain-of-Thought Prompting in Mixed-task Scenarios with Large Language Models, https://arxiv.org/abs/2310.06692, https://github.com/Anni-Zou/Meta-CoT
 + [ ] [LLM] Think before you speak: Training Language Models With Pause Tokens, https://arxiv.org/abs/2310.02226
 + [ ] [LLM] A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics, https://arxiv.org/abs/2310.05694
 + [ ] [LLM] Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution, https://arxiv.org/abs/2309.16797
