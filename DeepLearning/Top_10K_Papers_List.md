@@ -66,6 +66,7 @@ Top 100K Papers List
 + [ ] [LLM] [Compression] PB-LLM: Partially Binarized Large Language Models, https://arxiv.org/abs/2310.00034, https://github.com/hahnyuan/PB-LLM
 + [ ] [LLM] [Compression] A Survey on Model Compression for Large Language Models, https://arxiv.org/abs/2308.07633
 + [ ] [LLM] [prompting] LLM prompting guide, https://huggingface.co/docs/transformers/main/en/tasks/prompting
++ [ ] [LLM] Communicative Agents for Software Development, https://arxiv.org/abs/2307.07924
 + [ ] [LLM] LLM Inference Performance Engineering: Best Practices, https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices
 + [ ] [LLM] Meta-CoT: Generalizable Chain-of-Thought Prompting in Mixed-task Scenarios with Large Language Models, https://arxiv.org/abs/2310.06692, https://github.com/Anni-Zou/Meta-CoT
 + [ ] [LLM] Think before you speak: Training Language Models With Pause Tokens, https://arxiv.org/abs/2310.02226
