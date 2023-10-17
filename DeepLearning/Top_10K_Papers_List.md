@@ -66,6 +66,8 @@ Top 100K Papers List
 + [ ] [LLM] [Compression] PB-LLM: Partially Binarized Large Language Models, https://arxiv.org/abs/2310.00034, https://github.com/hahnyuan/PB-LLM
 + [ ] [LLM] [Compression] A Survey on Model Compression for Large Language Models, https://arxiv.org/abs/2308.07633
 + [ ] [LLM] [prompting] LLM prompting guide, https://huggingface.co/docs/transformers/main/en/tasks/prompting
++ [ ] [LLM] Large Language Models Are Zero-Shot Time Series Forecasters, https://arxiv.org/abs/2310.07820
++ [ ] [LLM] Voyager: An Open-Ended Embodied Agent with Large Language Models, https://arxiv.org/abs/2305.16291, https://github.com/MineDojo/Voyager, https://github.com/MineDojo
 + [ ] [LLM] Communicative Agents for Software Development, https://arxiv.org/abs/2307.07924
 + [ ] [LLM] LLM Inference Performance Engineering: Best Practices, https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices
 + [ ] [LLM] Meta-CoT: Generalizable Chain-of-Thought Prompting in Mixed-task Scenarios with Large Language Models, https://arxiv.org/abs/2310.06692, https://github.com/Anni-Zou/Meta-CoT
@@ -763,6 +765,7 @@ Top 100K Papers List
 + [x] [PyTorch] PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel, https://arxiv.org/abs/2304.11277
 + [x] Attention Is All You Need, https://arxiv.org/abs/1706.03762
 + [x] [CNN][ResNet] ResNet, Deep Residual Learning for Image Recognition, https://arxiv.org/abs/1512.03385, https://paperswithcode.com/method/resnet
++ [ ] [CNN] Convolutional Neural Network From Scratch, https://medium.com/@luuisotorres/convolutional-neural-network-from-scratch-6b1c856e1c07, https://www.kaggle.com/code/lusfernandotorres/convolutional-neural-network-from-scratch/notebook
 + [x] [CNN] A ConvNet for the 2020s, https://arxiv.org/abs/2201.03545, Codes: https://github.com/facebookresearch/ConvNeXt, https://huggingface.co/docs/transformers/main/model_doc/convnext, https://pytorch.org/vision/main/models/convnext.html, https://paperswithcode.com/paper/convnext-v2-co-designing-and-scaling-convnets
 + [x] [CNN][TextCNN] Convolutional Neural Networks for Sentence Classification, https://arxiv.org/abs/1408.5882
 
