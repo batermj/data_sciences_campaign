@@ -750,6 +750,7 @@ Top 100K Papers List
 + [ ] [Misc] Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation, https://arxiv.org/abs/2309.01952, https://ut-austin-rpl.github.io/TRILL/, https://github.com/UT-Austin-RPL/TRILL
 + [ ] [Embodied Agent] MineDojo, MineDojo is a new framework built on the popular Minecraft game for embodied agent research.,  https://minedojo.org
 + [ ] [Autonomous Driving] LINGO-1: Exploring Natural Language for Autonomous Driving, https://wayve.ai/thinking/lingo-natural-language-autonomous-driving/
++ [ ] [ML] DSG: An End-to-End Document Structure Generator, https://arxiv.org/abs/2310.09118v1
 + [ ] [CV] Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation, https://arxiv.org/abs/2305.09662
 + [ ] [CV] Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning, https://arxiv.org/abs/2212.14532
 + [ ] [CV] NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection, https://arxiv.org/abs/2307.14620
