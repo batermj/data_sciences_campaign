@@ -66,6 +66,7 @@ Top 100K Papers List
 + [ ] [LLM] [Compression] PB-LLM: Partially Binarized Large Language Models, https://arxiv.org/abs/2310.00034, https://github.com/hahnyuan/PB-LLM
 + [ ] [LLM] [Compression] A Survey on Model Compression for Large Language Models, https://arxiv.org/abs/2308.07633
 + [ ] [LLM] [prompting] LLM prompting guide, https://huggingface.co/docs/transformers/main/en/tasks/prompting
++ [ ] [LLM] Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook, https://arxiv.org/abs/2310.10196, https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM
 + [ ] [LLM] A taxonomy and review of generalization research in NLP, https://www.nature.com/articles/s42256-023-00729-y
 + [ ] [LLM] DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines, https://github.com/stanfordnlp/dspy
 + [ ] [LLM] Large Language Models Are Zero-Shot Time Series Forecasters, https://arxiv.org/abs/2310.07820
