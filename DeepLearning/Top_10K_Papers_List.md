@@ -44,6 +44,7 @@ Top 100K Papers List
 + [ ] [CMU] CS/LTI Low Resource NLP Bootcamp 2020 by Graham Neubig, https://www.youtube.com/playlist?list=PL8PYTP1V4I8A1CpCzURXAUa6H4HO7PF2c
 
 # [Mathematics]
++ [Algebra] [Linear Algebra] Linear Algebra Done Right Sheldon Axler, https://linear.axler.net
 + [Graph Theory] An introduction to graph theory, https://arxiv.org/abs/2308.04512
 
 # [Milestone of Paper Reproduction for Jul.01-Jul.30, 2023]
