@@ -47,6 +47,7 @@ Top 100K Papers List
 + [Graph Theory] An introduction to graph theory, https://arxiv.org/abs/2308.04512
 
 # [Milestone of Paper Reproduction for Jul.01-Jul.30, 2023]
++ [ ] [AI] [Survey] Latest Trends in Artificial Intelligence Technology: A Scoping Review, https://arxiv.org/abs/2305.04532
 + [ ] [AI] [HCI] Generative Agents: Interactive Simulacra of Human Behavior, https://arxiv.org/abs/2304.03442, https://github.com/joonspk-research/generative_agents
 + [ ] [AI] Consciousness in Artificial Intelligence: Insights from the Science of Consciousness, https://arxiv.org/abs/2308.08708
 + [ ] [CV][In-context learning (ICL)] Med-Flamingo: a Multimodal Medical Few-shot Learner, https://arxiv.org/abs/2307.15189, https://huggingface.co/med-flamingo/med-flamingo, https://github.com/snap-stanford/med-flamingo, https://www.marktechpost.com/2023/08/02/meet-med-flamingo-a-unique-foundation-model-which-is-capable-of-performing-multimodal-in-context-learning-specialized-for-the-medical-domain/
