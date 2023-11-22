@@ -48,6 +48,7 @@ Top 100K Papers List
 + [Graph Theory] An introduction to graph theory, https://arxiv.org/abs/2308.04512
 
 # [Milestone of Paper Reproduction for Jul.01-Jul.30, 2023]
++ [ ] [AI] [Survey] Comparing Humans, GPT-4, and GPT-4V On Abstraction and Reasoning Tasks,https://arxiv.org/abs/2311.09247
 + [ ] [AI] [Survey] Latest Trends in Artificial Intelligence Technology: A Scoping Review, https://arxiv.org/abs/2305.04532
 + [ ] [AI] [HCI] Generative Agents: Interactive Simulacra of Human Behavior, https://arxiv.org/abs/2304.03442, https://github.com/joonspk-research/generative_agents
 + [ ] [AI] Consciousness in Artificial Intelligence: Insights from the Science of Consciousness, https://arxiv.org/abs/2308.08708
@@ -67,7 +68,8 @@ Top 100K Papers List
 + [ ] [LLM] [Multimodal] Multimodal Foundation Models: From Specialists to General-Purpose Assistants, https://arxiv.org/abs/2309.10020
 + [ ] [LLM] [Compression] PB-LLM: Partially Binarized Large Language Models, https://arxiv.org/abs/2310.00034, https://github.com/hahnyuan/PB-LLM
 + [ ] [LLM] [Compression] A Survey on Model Compression for Large Language Models, https://arxiv.org/abs/2308.07633
-+ [ ] [LLM] [prompting] LLM prompting guide, https://huggingface.co/docs/transformers/main/en/tasks/prompting
++ [ ] [LLM] [Prompting] LLM prompting guide, https://huggingface.co/docs/transformers/main/en/tasks/prompting
++ [ ] [LLM] [Reasoning] Orca 2: Teaching Small Language Models How to Reason, https://arxiv.org/abs/2311.11045
 + [ ] [LLM] Sparse Fine-tuning for Inference Acceleration of Large Language Models, https://arxiv.org/abs/2310.06927
 + [ ] [LLM] GENEPT: A SIMPLE BUT HARD-TO-BEAT FOUNDATION MODEL FOR GENES AND CELLS BUILT FROM CHATGPT, https://www.biorxiv.org/content/10.1101/2023.10.16.562533v1.full.pdf,%20https://github.com/yiqunchen/GenePT
 + [ ] [LLM] Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook, https://arxiv.org/abs/2310.10196, https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM
