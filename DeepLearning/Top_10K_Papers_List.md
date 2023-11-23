@@ -59,6 +59,7 @@ Top 100K Papers List
 + [ ] [Difussion Model] Erasing Concepts from Diffusion Models, https://arxiv.org/abs/2303.07345, https://civitai.com/models
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] [Alignment] A General Theoretical Paradigm to Understand Learning from Human Preferences, https://arxiv.org/abs/2310.12036
 + [ ] [LLM] [Causal NLP] Understanding Causality with Large Language Models: Feasibility and Opportunities, https://arxiv.org/pdf/2304.05524.pdf
 + [ ] [LLM] [Causal NLP] Causal Parrots: Large Language Models May Talk Causality But Are Not Causal, https://openreview.net/pdf?id=tv46tCzs83
 + [ ] [LLM] [Causal NLP] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality, https://arxiv.org/pdf/2305.00050.pdf
@@ -770,6 +771,7 @@ Top 100K Papers List
 + [ ] [CV] AG3D: Learning to Generate 3D Avatars from 2D Image Collections, https://zj-dong.github.io/AG3D/assets/paper.pdf, https://zj-dong.github.io/AG3D/
 + [ ] [DL] [Book] Understanding Deep Learning, https://udlbook.github.io/udlbook/
 + [ ] [DL] Copy Suppression: Comprehensively Understanding an Attention Head, https://arxiv.org/abs/2310.04625
++ [ ] [HPC] Harnessing Manycore Processors with Distributed Memory for Accelerated Training of Sparse and Recurrent Models, https://arxiv.org/abs/2311.04386
 + [ ] [PyTorch] NVIDIA. 2023. The NVIDIA Collective Communication Library (NCCL). https: //developer.nvidia.com/nccl
 + [ ] [PyTorch] PyTorch distributed training features such as DistributeDataParallel (DDP), Pytorch distributed: Experiences on accelerating data parallel training. arXiv preprint arXiv:2006.15704 (2020), https://arxiv.org/abs/2006.15704
 + [ ] [PyTorch] Key PyTorch core components including Tensor implemen- tation, dispatcher system, and CUDA memory caching allocator
