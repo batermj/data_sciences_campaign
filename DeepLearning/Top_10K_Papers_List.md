@@ -57,6 +57,7 @@ Top 100K Papers List
 + [ ] https://index.quantumstat.com
 + [ ] [Robotics] RoboAgent Towards Sample Efficient Robot Manipulation with Semantic Augmentations and Action Chunking, https://robopen.github.io/media/roboagent.pdf, https://github.com/robopen/roboagent/, https://robopen.github.io/roboset/
 + [ ] [Difussion Model] Erasing Concepts from Diffusion Models, https://arxiv.org/abs/2303.07345, https://civitai.com/models
++ [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
 + [ ] [LLM] [Alignment] A General Theoretical Paradigm to Understand Learning from Human Preferences, https://arxiv.org/abs/2310.12036
@@ -520,6 +521,7 @@ Top 100K Papers List
 + [ ] [Knowledge Graph] Generating Faithful Text From a Knowledge Graph with Noisy Reference Text, https://arxiv.org/abs/2308.06488
 + [ ] [Knowledge Distillation] Knowledge Distillation: A Survey, https://arxiv.org/abs/2006.05525
 + [ ] [Knowledge Distillation] Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes, https://arxiv.org/abs/2305.02301
++ [ ] [SLAM] GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting, https://arxiv.org/abs/2311.11700
 + [ ] [SLAM] DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras, https://arxiv.org/abs/2108.10869, https://github.com/princeton-vl/DROID-SLAM
 + [ ] [Model Compression] Model Compression for Deep Neural Networks: A Survey
 + [ ] [Model Compression] A Survey on Deep Neural Network Compression: Challenges, Overview, and Solutions, https://arxiv.org/abs/2010.03954, https://paperswithcode.com/paper/a-survey-on-deep-neural-network-compression/review/
@@ -772,6 +774,7 @@ Top 100K Papers List
 + [ ] [DL] [Book] Understanding Deep Learning, https://udlbook.github.io/udlbook/
 + [ ] [DL] Copy Suppression: Comprehensively Understanding an Attention Head, https://arxiv.org/abs/2310.04625
 + [ ] [HPC] Harnessing Manycore Processors with Distributed Memory for Accelerated Training of Sparse and Recurrent Models, https://arxiv.org/abs/2311.04386
++ [ ] [Music Generation] Simple and Controllable Music Generation, https://arxiv.org/abs/2306.05284
 + [ ] [PyTorch] NVIDIA. 2023. The NVIDIA Collective Communication Library (NCCL). https: //developer.nvidia.com/nccl
 + [ ] [PyTorch] PyTorch distributed training features such as DistributeDataParallel (DDP), Pytorch distributed: Experiences on accelerating data parallel training. arXiv preprint arXiv:2006.15704 (2020), https://arxiv.org/abs/2006.15704
 + [ ] [PyTorch] Key PyTorch core components including Tensor implemen- tation, dispatcher system, and CUDA memory caching allocator
