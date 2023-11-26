@@ -60,6 +60,7 @@ Top 100K Papers List
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] [OpenAI] [Mathematical Reasoning] Let's Verify Step by Step, https://arxiv.org/abs/2305.20050
 + [ ] [LLM] [Alignment] A General Theoretical Paradigm to Understand Learning from Human Preferences, https://arxiv.org/abs/2310.12036
 + [ ] [LLM] [Causal NLP] Understanding Causality with Large Language Models: Feasibility and Opportunities, https://arxiv.org/pdf/2304.05524.pdf
 + [ ] [LLM] [Causal NLP] Causal Parrots: Large Language Models May Talk Causality But Are Not Causal, https://openreview.net/pdf?id=tv46tCzs83
@@ -72,6 +73,7 @@ Top 100K Papers List
 + [ ] [LLM] [Compression] A Survey on Model Compression for Large Language Models, https://arxiv.org/abs/2308.07633
 + [ ] [LLM] [Prompting] LLM prompting guide, https://huggingface.co/docs/transformers/main/en/tasks/prompting
 + [ ] [LLM] [Reasoning] Orca 2: Teaching Small Language Models How to Reason, https://arxiv.org/abs/2311.11045
++ [ ] [LLM] [Search] Enhancing the Ranking Context of Dense Retrieval Methods through Reciprocal Nearest Neighbors, https://arxiv.org/abs/2305.15720
 + [ ] [LLM] Sparse Fine-tuning for Inference Acceleration of Large Language Models, https://arxiv.org/abs/2310.06927
 + [ ] [LLM] GENEPT: A SIMPLE BUT HARD-TO-BEAT FOUNDATION MODEL FOR GENES AND CELLS BUILT FROM CHATGPT, https://www.biorxiv.org/content/10.1101/2023.10.16.562533v1.full.pdf,%20https://github.com/yiqunchen/GenePT
 + [ ] [LLM] Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook, https://arxiv.org/abs/2310.10196, https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM
