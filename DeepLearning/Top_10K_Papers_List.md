@@ -42,6 +42,7 @@ Top 100K Papers List
 + [ ] [CMU] CS/LTI 11-777: Multimodal Machine Learning by Louis-Philippe Morency, https://www.youtube.com/channel/UCqlHIJTGYhiwQpNuPU5e2gg/videos
 + [ ] [CMU] CS/LTI 11-785: Introduction to Deep Learning by Bhiksha Raj and Rita Singh, https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/playlists
 + [ ] [CMU] CS/LTI Low Resource NLP Bootcamp 2020 by Graham Neubig, https://www.youtube.com/playlist?list=PL8PYTP1V4I8A1CpCzURXAUa6H4HO7PF2c
++ [ ] [The University of Texas at Austin] CS388: Natural Language Processing (online MS version), https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html, https://www.youtube.com/playlist?list=PLofp2YXfp7TZZ5c7HEChs0_wfEfewLDs7
 
 # [Mathematics]
 + [Algebra] [Linear Algebra] Linear Algebra Done Right Sheldon Axler, https://linear.axler.net
