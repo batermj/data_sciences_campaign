@@ -777,6 +777,7 @@ Top 100K Papers List
 + [ ] [DL] [Book] Understanding Deep Learning, https://udlbook.github.io/udlbook/
 + [ ] [DL] Copy Suppression: Comprehensively Understanding an Attention Head, https://arxiv.org/abs/2310.04625
 + [ ] [HPC] Harnessing Manycore Processors with Distributed Memory for Accelerated Training of Sparse and Recurrent Models, https://arxiv.org/abs/2311.04386
++ [ ] [AI] GAIA: a benchmark for General AI Assistants, https://arxiv.org/abs/2311.12983
 + [ ] [Music Generation] Simple and Controllable Music Generation, https://arxiv.org/abs/2306.05284
 + [ ] [PyTorch] NVIDIA. 2023. The NVIDIA Collective Communication Library (NCCL). https: //developer.nvidia.com/nccl
 + [ ] [PyTorch] PyTorch distributed training features such as DistributeDataParallel (DDP), Pytorch distributed: Experiences on accelerating data parallel training. arXiv preprint arXiv:2006.15704 (2020), https://arxiv.org/abs/2006.15704
