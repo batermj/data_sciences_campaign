@@ -75,6 +75,7 @@ Top 100K Papers List
 + [ ] [LLM] [Prompting] LLM prompting guide, https://huggingface.co/docs/transformers/main/en/tasks/prompting
 + [ ] [LLM] [Reasoning] Orca 2: Teaching Small Language Models How to Reason, https://arxiv.org/abs/2311.11045
 + [ ] [LLM] [Search] Enhancing the Ranking Context of Dense Retrieval Methods through Reciprocal Nearest Neighbors, https://arxiv.org/abs/2305.15720
++ [ ] [LLM] GPT is becoming a Turing machine: Here are some ways to program it, https://arxiv.org/abs/2303.14310
 + [ ] [LLM] Sparse Fine-tuning for Inference Acceleration of Large Language Models, https://arxiv.org/abs/2310.06927
 + [ ] [LLM] GENEPT: A SIMPLE BUT HARD-TO-BEAT FOUNDATION MODEL FOR GENES AND CELLS BUILT FROM CHATGPT, https://www.biorxiv.org/content/10.1101/2023.10.16.562533v1.full.pdf,%20https://github.com/yiqunchen/GenePT
 + [ ] [LLM] Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook, https://arxiv.org/abs/2310.10196, https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM
@@ -556,6 +557,7 @@ Top 100K Papers List
 + [ ] [CV] Generating Images with Multimodal Language Models, https://arxiv.org/abs/2305.17216
 + [ ] [MLP] Scaling MLPs: A Tale of Inductive Bias, https://arxiv.org/abs/2306.13575
 + [ ] Scenic is developed in JAX and uses Flax., https://github.com/google-research/scenic
++ [ ] [Transformers] Simplifying Transformer Blocks, https://arxiv.org/abs/2311.01906
 + [ ] [Transformers] Nougat: Neural Optical Understanding for Academic Documents, https://arxiv.org/abs/2308.13418, https://github.com/facebookresearch/nougat, https://facebookresearch.github.io/nougat/
 + [ ] [Transformers][FFN] One Wide Feedforward is All You Need, https://arxiv.org/abs/2309.01826
 + [ ] [Transformers] UForm v2: now in 21 languages, https://www.unum.cloud/blog/2023-08-17-uform-graphcore, https://www.unum.cloud/blog/2023-02-20-efficient-multimodality
