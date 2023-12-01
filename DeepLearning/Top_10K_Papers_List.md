@@ -75,6 +75,7 @@ Top 100K Papers List
 + [ ] [LLM] [Prompting] LLM prompting guide, https://huggingface.co/docs/transformers/main/en/tasks/prompting
 + [ ] [LLM] [Reasoning] Orca 2: Teaching Small Language Models How to Reason, https://arxiv.org/abs/2311.11045
 + [ ] [LLM] [Search] Enhancing the Ranking Context of Dense Retrieval Methods through Reciprocal Nearest Neighbors, https://arxiv.org/abs/2305.15720
++ [ ] [LLM] ChatGPT's One-year Anniversary: Are Open-Source Large Language Models Catching up? https://arxiv.org/abs/2311.16989
 + [ ] [LLM] GPT is becoming a Turing machine: Here are some ways to program it, https://arxiv.org/abs/2303.14310
 + [ ] [LLM] Sparse Fine-tuning for Inference Acceleration of Large Language Models, https://arxiv.org/abs/2310.06927
 + [ ] [LLM] GENEPT: A SIMPLE BUT HARD-TO-BEAT FOUNDATION MODEL FOR GENES AND CELLS BUILT FROM CHATGPT, https://www.biorxiv.org/content/10.1101/2023.10.16.562533v1.full.pdf,%20https://github.com/yiqunchen/GenePT
@@ -781,6 +782,7 @@ Top 100K Papers List
 + [ ] [DL] Copy Suppression: Comprehensively Understanding an Attention Head, https://arxiv.org/abs/2310.04625
 + [ ] [HPC] Harnessing Manycore Processors with Distributed Memory for Accelerated Training of Sparse and Recurrent Models, https://arxiv.org/abs/2311.04386
 + [ ] [AI] GAIA: a benchmark for General AI Assistants, https://arxiv.org/abs/2311.12983
++ [ ] [Image Generation] LEDITS++: Limitless Image Editing using Text-to-Image Models, https://arxiv.org/abs/2311.16711
 + [ ] [Music Generation] Simple and Controllable Music Generation, https://arxiv.org/abs/2306.05284
 + [ ] [PyTorch] NVIDIA. 2023. The NVIDIA Collective Communication Library (NCCL). https: //developer.nvidia.com/nccl
 + [ ] [PyTorch] PyTorch distributed training features such as DistributeDataParallel (DDP), Pytorch distributed: Experiences on accelerating data parallel training. arXiv preprint arXiv:2006.15704 (2020), https://arxiv.org/abs/2006.15704
