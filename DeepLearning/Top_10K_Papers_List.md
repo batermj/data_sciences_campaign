@@ -47,6 +47,7 @@ Top 100K Papers List
 # [Mathematics]
 + [Algebra] [Linear Algebra] Linear Algebra Done Right Sheldon Axler, https://linear.axler.net
 + [Graph Theory] An introduction to graph theory, https://arxiv.org/abs/2308.04512
++ [Statistics] Applying statistical learning theory to deep learning, https://arxiv.org/abs/2311.15404
 
 # [Milestone of Paper Reproduction for Jul.01-Jul.30, 2023]
 + [ ] [AI] [Survey] Comparing Humans, GPT-4, and GPT-4V On Abstraction and Reasoning Tasks,https://arxiv.org/abs/2311.09247
