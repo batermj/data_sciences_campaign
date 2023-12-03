@@ -192,6 +192,7 @@ Top 100K Papers List
 + [ ] [LLM] Retrieval meets Long Context Large Language Models, https://arxiv.org/abs/2310.03025
 + [ ] [LLM] LLM Calibration and Automatic Hallucination Detection via Pareto Optimal Self-supervision, https://arxiv.org/abs/2306.16564
 + [ ] [Diffusion Models] Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models, https://arxiv.org/abs/2311.12092
++ [ ] [Diffusion Models] ART⋅V: Auto-Regressive Text-to-Video Generation with Diffusion Models, https://arxiv.org/abs/2311.18834
 + [ ] [Hands-on]Setting Python Development Environment with VScode and Docker, https://github.com/RamiKrispin/vscode-python
 + [ ] Topological Deep Learning: Going Beyond Graph Data, https://arxiv.org/abs/2206.00606
 + [ ] From Zero to AI Research Scientist Full Resources Guide, https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
