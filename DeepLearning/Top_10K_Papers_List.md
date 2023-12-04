@@ -780,6 +780,7 @@ Top 100K Papers List
 + [ ] [CV][Evaluation] Evaluating the fairness of computer vision models, https://ai.meta.com/blog/dinov2-facet-computer-vision-fairness-evaluation/
 + [ ] [CV][Evaluation] LightGlue: Local Feature Matching at Light Speed, https://arxiv.org/abs/2306.13643, https://github.com/cvg/LightGlue
 + [ ] [CV] AG3D: Learning to Generate 3D Avatars from 2D Image Collections, https://zj-dong.github.io/AG3D/assets/paper.pdf, https://zj-dong.github.io/AG3D/
++ [ ] [DL] [Initialization] Initializing Models with Larger Ones, https://arxiv.org/abs/2311.18823
 + [ ] [DL] [Book] Understanding Deep Learning, https://udlbook.github.io/udlbook/
 + [ ] [DL] Copy Suppression: Comprehensively Understanding an Attention Head, https://arxiv.org/abs/2310.04625
 + [ ] [HPC] Harnessing Manycore Processors with Distributed Memory for Accelerated Training of Sparse and Recurrent Models, https://arxiv.org/abs/2311.04386
