@@ -562,6 +562,7 @@ Top 100K Papers List
 + [ ] [MLP] Scaling MLPs: A Tale of Inductive Bias, https://arxiv.org/abs/2306.13575
 + [ ] Scenic is developed in JAX and uses Flax., https://github.com/google-research/scenic
 + [ ] [Transformers] Simplifying Transformer Blocks, https://arxiv.org/abs/2311.01906
++ [ ] [Transformers] Simplifying Transformer Blocks, https://arxiv.org/abs/2311.01906
 + [ ] [Transformers] Nougat: Neural Optical Understanding for Academic Documents, https://arxiv.org/abs/2308.13418, https://github.com/facebookresearch/nougat, https://facebookresearch.github.io/nougat/
 + [ ] [Transformers][FFN] One Wide Feedforward is All You Need, https://arxiv.org/abs/2309.01826
 + [ ] [Transformers] UForm v2: now in 21 languages, https://www.unum.cloud/blog/2023-08-17-uform-graphcore, https://www.unum.cloud/blog/2023-02-20-efficient-multimodality
