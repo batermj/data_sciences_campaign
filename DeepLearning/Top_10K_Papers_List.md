@@ -62,6 +62,8 @@ Top 100K Papers List
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] [Algorithm] The Efficiency Spectrum of Large Language Models: An Algorithmic Survey, https://arxiv.org/abs/2312.00678
++ [ ] [LLM] [Data Management] Data Management For Large Language Models: A Survey, https://arxiv.org/abs/2312.01700
 + [ ] [LLM] [OpenAI] [Mathematical Reasoning] Let's Verify Step by Step, https://arxiv.org/abs/2305.20050
 + [ ] [LLM] [Alignment] A General Theoretical Paradigm to Understand Learning from Human Preferences, https://arxiv.org/abs/2310.12036
 + [ ] [LLM] [Causal NLP] Understanding Causality with Large Language Models: Feasibility and Opportunities, https://arxiv.org/pdf/2304.05524.pdf
@@ -785,6 +787,7 @@ Top 100K Papers List
 + [ ] [DL] [Book] Understanding Deep Learning, https://udlbook.github.io/udlbook/
 + [ ] [DL] Copy Suppression: Comprehensively Understanding an Attention Head, https://arxiv.org/abs/2310.04625
 + [ ] [HPC] Harnessing Manycore Processors with Distributed Memory for Accelerated Training of Sparse and Recurrent Models, https://arxiv.org/abs/2311.04386
++ [ ] [AI] [Operation Theory] Nash Learning from Human Feedback, https://misovalko.github.io/publications/munos2024nash.pdf
 + [ ] [AI] GAIA: a benchmark for General AI Assistants, https://arxiv.org/abs/2311.12983
 + [ ] [Image Generation] LEDITS++: Limitless Image Editing using Text-to-Image Models, https://arxiv.org/abs/2311.16711
 + [ ] [Music Generation] Simple and Controllable Music Generation, https://arxiv.org/abs/2306.05284
