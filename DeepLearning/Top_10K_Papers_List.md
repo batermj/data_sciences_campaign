@@ -57,11 +57,14 @@ Top 100K Papers List
 + [ ] [CV][In-context learning (ICL)] Med-Flamingo: a Multimodal Medical Few-shot Learner, https://arxiv.org/abs/2307.15189, https://huggingface.co/med-flamingo/med-flamingo, https://github.com/snap-stanford/med-flamingo, https://www.marktechpost.com/2023/08/02/meet-med-flamingo-a-unique-foundation-model-which-is-capable-of-performing-multimodal-in-context-learning-specialized-for-the-medical-domain/
 + [ ] [Autonomous Driving] SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving, https://arxiv.org/abs/2303.09551, https://github.com/weiyithu/SurroundOcc
 + [ ] https://index.quantumstat.com
++ [ ] [Robotics] VIMA: General Robot Manipulation with Multimodal Prompts, https://arxiv.org/abs/2210.03094
 + [ ] [Robotics] RoboAgent Towards Sample Efficient Robot Manipulation with Semantic Augmentations and Action Chunking, https://robopen.github.io/media/roboagent.pdf, https://github.com/robopen/roboagent/, https://robopen.github.io/roboset/
 + [ ] [Difussion Model] Erasing Concepts from Diffusion Models, https://arxiv.org/abs/2303.07345, https://civitai.com/models
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] Language Models: A Guide for the Perplexed, https://arxiv.org/abs/2311.17301
++ [ ] [LLM] CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation, https://huggingface.co/papers/2311.18775
 + [ ] [LLM] [Algorithm] The Efficiency Spectrum of Large Language Models: An Algorithmic Survey, https://arxiv.org/abs/2312.00678
 + [ ] [LLM] [Data Management] Data Management For Large Language Models: A Survey, https://arxiv.org/abs/2312.01700
 + [ ] [LLM] [OpenAI] [Mathematical Reasoning] Let's Verify Step by Step, https://arxiv.org/abs/2305.20050
@@ -642,6 +645,7 @@ Top 100K Papers List
 + [ ] [Transformers][HuggingFace] BARTpho (from VinAI Research) released with the paper BARTpho: Pre-trained Sequence-to-Sequence Models for Vietnamese by Nguyen Luong Tran, Duong Minh Le and Dat Quoc Nguyen.
 + [ ] [Transformers][HuggingFace] BEiT (from Microsoft) released with the paper BEiT: BERT Pre-Training of Image Transformers by Hangbo Bao, Li Dong, Furu Wei.
 + [ ] [Transformers] Transformers: from NLP to CV, https://github.com/IbrahimSobh/Transformers
++ [ ] [Transformers] Generating Molecular Conformer Fields, https://arxiv.org/abs/2311.17932
 + [ ] [CNN][Codes] Convolutional Neural Networks for Text, https://lena-voita.github.io/nlp_course/models/convolutional.html
 + [ ] [CNN][Paper] LeNet-5, GradientBased Learning Applied to Document Recognition, http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
 + [ ] [CNN][Paper] AlexNet, ImageNet Classification with Deep Convolutional Neural Networks, https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
