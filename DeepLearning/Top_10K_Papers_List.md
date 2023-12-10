@@ -63,6 +63,7 @@ Top 100K Papers List
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] Chain of Code: Reasoning with a Language Model-Augmented Code Emulator, https://arxiv.org/abs/2312.04474
 + [ ] [LLM] Calibrated Language Models Must Hallucinate, https://arxiv.org/abs/2311.14648
 + [ ] [LLM] Language Models: A Guide for the Perplexed, https://arxiv.org/abs/2311.17301
 + [ ] [LLM] CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation, https://huggingface.co/papers/2311.18775
@@ -616,8 +617,9 @@ Top 100K Papers List
 + [ ] [Transformers] FNet: Mixing Tokens with Fourier Transforms, https://arxiv.org/abs/2105.03824
 + [ ] [Transformers] Convolutional Xformers for Vision, https://arxiv.org/abs/2201.10271
 + [ ] [Transformers] Transformer Memory as a Differentiable Search Index, https://arxiv.org/abs/2202.06991
-+ [ ] [Transformers]  Flat-Lattice-Transformer, https://github.com/LeeSureman/Flat-Lattice-Transformer
-+ [ ] [Transformers]  MobileViT: A mobile-friendly Transformer-based model for image classification, https://keras.io/examples/vision/mobilevit/
++ [ ] [Transformers] Flat-Lattice-Transformer, https://github.com/LeeSureman/Flat-Lattice-Transformer
++ [ ] [Transformers] When an Image is Worth 1,024 x 1,024 Words: A Case Study in Computational Pathology, https://arxiv.org/abs/2312.03558
++ [ ] [Transformers] MobileViT: A mobile-friendly Transformer-based model for image classification, https://keras.io/examples/vision/mobilevit/
 + [ ] [Transformers] Vision Transformers (ViTs)
 + [ ] [Transformers][Google] An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, https://arxiv.org/abs/2010.11929
 + [ ] [Transformers][Microsoft] Swin Transformer, v1, v2, Swin Transformer: Hierarchical Vision Transformer using Shifted Windows, https://arxiv.org/abs/2103.14030
