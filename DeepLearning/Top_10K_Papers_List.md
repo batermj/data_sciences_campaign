@@ -63,6 +63,8 @@ Top 100K Papers List
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] Large Language Models for Mathematicians, https://arxiv.org/abs/2312.04556
++ [ ] [LLM] Mistral 7B, https://arxiv.org/abs/2310.06825, https://mistral.ai/product/
 + [ ] [LLM] Large Language Models on Graphs: A Comprehensive Survey, https://arxiv.org/abs/2312.02783
 + [ ] [LLM] Chain of Code: Reasoning with a Language Model-Augmented Code Emulator, https://arxiv.org/abs/2312.04474
 + [ ] [LLM] Calibrated Language Models Must Hallucinate, https://arxiv.org/abs/2311.14648
@@ -163,6 +165,7 @@ Top 100K Papers List
 + [ ] [LLM] AgentBench: Evaluating LLMs as Agents, https://arxiv.org/abs/2308.03688
 + [ ] [LLM] LLongMA 2: A Llama-2 8k model,https://www.reddit.com/r/LocalLLaMA/comments/154us99/llongma_2_a_llama2_8k_model/?rdt=41147
 + [ ] [LLM] Inference of LLaMA model in pure C/C++, https://github.com/ggerganov/llama.cpp
++ [ ] [LLM] Purple Llama, https://github.com/facebookresearch/PurpleLlama, https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/
 + [ ] [LLM] 𝗕𝗮𝗯𝘆 𝗟𝗹𝗮𝗺𝗮 𝟮, llama2.c, https://github.com/karpathy/llama2.c
 + [ ] [LLM] http://Llama2.rs (https://github.com/srush/llama2.rs) A one-file Rust Llama2.c
 + [ ] [LLM] Quantized models from 𝗧𝗵𝗲𝗕𝗹𝗼𝗸𝗲, https://huggingface.co/TheBloke/Llama-2-13B-chat-GPTQ
@@ -553,6 +556,7 @@ Top 100K Papers List
 + [ ] [Time Series] TSMixer: An all-MLP architecture for time series forecasting, https://blog.research.google/2023/09/tsmixer-all-mlp-architecture-for-time.html
 + [ ] [Time Series] A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, https://arxiv.org/abs/2307.03759
 + [ ] [Time Series] MSTL: A Seasonal-Trend Decomposition Algorithm for Time Series with Multiple Seasonal Patterns, https://arxiv.org/abs/2107.13462, https://nixtla.github.io/statsforecast/src/core/models.html#mstl
++ [ ] [RL] Pearl: A Production-ready Reinforcement Learning Agent, https://arxiv.org/abs/2312.03814, https://github.com/facebookresearch/pearl, https://pearlagent.github.io
 + [ ] [RL] Champion-level drone racing using deep reinforcement learning, https://www.nature.com/articles/s41586-023-06419-4
 + [ ] [RL] AnIntroductiontoDeep ReinforcementLearning, https://www.ics.uci.edu/~dechter/courses/ics-295/fall-2019/texts/An_Introduction_to_Deep_Reinforcement_Learning.pdf
 + [ ] [RL] Offline Reinforcement Learning with Implicit Q-Learning, https://arxiv.org/abs/2110.06169
@@ -630,6 +634,7 @@ Top 100K Papers List
 + [ ] [Transformers] [Microsoft] Unveiling Transformers with LEGO: a synthetic reasoning task, https://arxiv.org/abs/2206.04301
 + [ ] [Transformers] [Google] Frequency Effects on Syntactic Rule Learning in Transformers, https://arxiv.org/pdf/2109.07020.pdf
 + [ ] [Transformers] [Google] Multi-Game Decision Transformers, https://sites.google.com/view/multi-game-transformers
++ [ ] [Transformers] EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything, https://arxiv.org/abs/2312.00863, https://yformer.github.io/efficient-sam/
 + [ ] [Transformers][Survey] An Impartial Take to the CNN vs Transformer Robustness Contest, https://arxiv.org/pdf/2207.11347.pdf
 + [ ] [Transformers][Survey] A Survey of Transformers, https://arxiv.org/abs/2106.04554
 + [ ] [Transformers][Survey] Transformers in Vision: A Survey, https://arxiv.org/abs/2101.01169
@@ -799,6 +804,13 @@ Top 100K Papers List
 + [ ] [AI] GAIA: a benchmark for General AI Assistants, https://arxiv.org/abs/2311.12983
 + [ ] [Image Generation] LEDITS++: Limitless Image Editing using Text-to-Image Models, https://arxiv.org/abs/2311.16711
 + [ ] [Music Generation] Simple and Controllable Music Generation, https://arxiv.org/abs/2306.05284
++ [ ] [Mixture-of-Experts (MoE)] The Sparsely Gated Mixture of Experts Layer for PyTorch, https://github.com/davidmrau/mixture-of-experts
++ [ ] [Mixture-of-Experts (MoE)] Stanford CS25: V1 I Mixture of Experts (MoE) paradigm and the Switch Transformer, https://www.youtube.com/watch?v=U8J32Z3qV8s
++ [ ] [Mixture-of-Experts (MoE)] Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer, https://arxiv.org/abs/1701.06538
++ [ ] [Mixture-of-Experts (MoE)] GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding, https://arxiv.org/abs/2006.16668
++ [ ] [Mixture-of-Experts (MoE)] MegaBlocks: Efficient Sparse Training with Mixture-of-Experts, https://arxiv.org/abs/2211.15841
++ [ ] [Mixture-of-Experts (MoE)] Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models, https://arxiv.org/abs/2305.14705
++ [ ] [Mixture-of-Experts (MoE)] Learning Factored Representations in a Deep Mixture of Experts, https://arxiv.org/abs/1312.431i4
 + [ ] [PyTorch] NVIDIA. 2023. The NVIDIA Collective Communication Library (NCCL). https: //developer.nvidia.com/nccl
 + [ ] [PyTorch] PyTorch distributed training features such as DistributeDataParallel (DDP), Pytorch distributed: Experiences on accelerating data parallel training. arXiv preprint arXiv:2006.15704 (2020), https://arxiv.org/abs/2006.15704
 + [ ] [PyTorch] Key PyTorch core components including Tensor implemen- tation, dispatcher system, and CUDA memory caching allocator
