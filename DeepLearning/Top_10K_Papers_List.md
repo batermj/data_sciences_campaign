@@ -9,6 +9,9 @@ Top 100K Papers List
 # [Courses & Videos]
 + [ ] [UK] Top 100 AI startups in UK, https://www.ai-startups.org/country/UK/
 
+# Datasets
++ [Dataset] ClimateSet: A Large-Scale Climate Model Dataset for Machine Learning, https://arxiv.org/abs/2311.03721
+
 # [Physics]
 + [ ] The Feynman Lectures on Physics, Volume I, https://www.feynmanlectures.caltech.edu/I_toc.html
 + [ ] The Feynman Lectures on Physics, Volume II mainly electromagnetism and matter Feynman • Leighton • Sands, https://www.feynmanlectures.caltech.edu/II_toc.html
@@ -573,6 +576,7 @@ Top 100K Papers List
 + [ ] [CV] Generating Images with Multimodal Language Models, https://arxiv.org/abs/2305.17216
 + [ ] [MLP] Scaling MLPs: A Tale of Inductive Bias, https://arxiv.org/abs/2306.13575
 + [ ] Scenic is developed in JAX and uses Flax., https://github.com/google-research/scenic
++ [ ] [Transformers] Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity, https://arxiv.org/abs/2101.03961,, https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023
 + [ ] [Transformers] Simplifying Transformer Blocks, https://arxiv.org/abs/2311.01906
 + [ ] [Transformers] Simplifying Transformer Blocks, https://arxiv.org/abs/2311.01906
 + [ ] [Transformers] Nougat: Neural Optical Understanding for Academic Documents, https://arxiv.org/abs/2308.13418, https://github.com/facebookresearch/nougat, https://facebookresearch.github.io/nougat/
@@ -728,6 +732,7 @@ Top 100K Papers List
 + [ ] [GAN] Scaling up GANs for Text-to-Image Synthesism, https://mingukkang.github.io/GigaGAN/
 + [ ] [GAN] StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces, https://arxiv.org/abs/2303.06146
 + [ ] [Information Theory] Information Theory, Inference, and Learning Algorithms (Hardback, 640 pages, Published September 2003), https://inference.org.uk/itila/book.html
++ [ ] [Diffusion Models] TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering, https://arxiv.org/abs/2311.16465, https://github.com/microsoft/unilm/tree/master/textdiffuser-2, https://huggingface.co/spaces/JingyeChen22/TextDiffuser-2
 + [ ] [Diffusion Models] Core ML Stable Diffusion, https://github.com/apple/ml-stable-diffusion
 + [ ] [Diffusion Models] InstructDiffusion: A Generalist Modeling Interface for Vision Tasks, https://gengzigang.github.io/instructdiffusion.github.io/
 + [ ] [Diffusion Models] Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing, https://arxiv.org/abs/2304.02051, https://github.com/aimagelab/multimodal-garment-designer
