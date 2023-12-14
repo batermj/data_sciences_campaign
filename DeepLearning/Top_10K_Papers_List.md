@@ -66,6 +66,8 @@ Top 100K Papers List
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] TARJAMAT: Evaluation of Bard and ChatGPT on Machine Translation of Ten Arabic Varieties, https://arxiv.org/abs/2308.03051
++ [ ] [LLM] Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models, https://arxiv.org/abs/2312.06585
 + [ ] [LLM] Large Language Models for Mathematicians, https://arxiv.org/abs/2312.04556
 + [ ] [LLM] Mistral 7B, https://arxiv.org/abs/2310.06825, https://mistral.ai/product/
 + [ ] [LLM] Large Language Models on Graphs: A Comprehensive Survey, https://arxiv.org/abs/2312.02783
@@ -816,6 +818,7 @@ Top 100K Papers List
 + [ ] [Mixture-of-Experts (MoE)] MegaBlocks: Efficient Sparse Training with Mixture-of-Experts, https://arxiv.org/abs/2211.15841
 + [ ] [Mixture-of-Experts (MoE)] Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models, https://arxiv.org/abs/2305.14705
 + [ ] [Mixture-of-Experts (MoE)] Learning Factored Representations in a Deep Mixture of Experts, https://arxiv.org/abs/1312.431i4
++ [ ] [DL] paper pages from Ahsen Khaliq, https://www.linkedin.com/in/ahsenkhaliq/
 + [ ] [PyTorch] NVIDIA. 2023. The NVIDIA Collective Communication Library (NCCL). https: //developer.nvidia.com/nccl
 + [ ] [PyTorch] PyTorch distributed training features such as DistributeDataParallel (DDP), Pytorch distributed: Experiences on accelerating data parallel training. arXiv preprint arXiv:2006.15704 (2020), https://arxiv.org/abs/2006.15704
 + [ ] [PyTorch] Key PyTorch core components including Tensor implemen- tation, dispatcher system, and CUDA memory caching allocator
