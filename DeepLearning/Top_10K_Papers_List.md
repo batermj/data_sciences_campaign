@@ -66,6 +66,8 @@ Top 100K Papers List
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] Magicoder: Source Code Is All You Need, https://arxiv.org/abs/2312.02120, https://github.com/ise-uiuc/magicoder
++ [ ] [LLM] Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling, https://arxiv.org/abs/2304.01373
 + [ ] [LLM] TARJAMAT: Evaluation of Bard and ChatGPT on Machine Translation of Ten Arabic Varieties, https://arxiv.org/abs/2308.03051
 + [ ] [LLM] Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models, https://arxiv.org/abs/2312.06585
 + [ ] [LLM] Large Language Models for Mathematicians, https://arxiv.org/abs/2312.04556
@@ -578,6 +580,8 @@ Top 100K Papers List
 + [ ] [CV] Generating Images with Multimodal Language Models, https://arxiv.org/abs/2305.17216
 + [ ] [MLP] Scaling MLPs: A Tale of Inductive Bias, https://arxiv.org/abs/2306.13575
 + [ ] Scenic is developed in JAX and uses Flax., https://github.com/google-research/scenic
++ [ ] [Transformers] Masked Autoencoders Are Scalable Vision Learners, https://arxiv.org/abs/2111.06377
++ [ ] [Transformers] Toolformer: Language Models Can Teach Themselves to Use Tools, https://arxiv.org/abs/2302.04761
 + [ ] [Transformers] Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity, https://arxiv.org/abs/2101.03961,, https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023
 + [ ] [Transformers] Simplifying Transformer Blocks, https://arxiv.org/abs/2311.01906
 + [ ] [Transformers] Simplifying Transformer Blocks, https://arxiv.org/abs/2311.01906
@@ -818,7 +822,11 @@ Top 100K Papers List
 + [ ] [Mixture-of-Experts (MoE)] MegaBlocks: Efficient Sparse Training with Mixture-of-Experts, https://arxiv.org/abs/2211.15841
 + [ ] [Mixture-of-Experts (MoE)] Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models, https://arxiv.org/abs/2305.14705
 + [ ] [Mixture-of-Experts (MoE)] Learning Factored Representations in a Deep Mixture of Experts, https://arxiv.org/abs/1312.431i4
++ [ ] [ML][Optimization] Unexpected Improvements to Expected Improvement for Bayesian Optimization, https://arxiv.org/abs/2310.20708
 + [ ] [DL] paper pages from Ahsen Khaliq, https://www.linkedin.com/in/ahsenkhaliq/
++ [ ] [CV] Pinpointing Why Object Recognition Performance Degrades Across Income Levels and Geographies, https://arxiv.org/abs/2304.05391
++ [ ] [CV] EgoEnv: Human-centric environment representations from egocentric video, https://arxiv.org/abs/2207.11365
++ [ ] [NeurIPS][2023] https://ai.meta.com/events/neurips-2023/
 + [ ] [PyTorch] NVIDIA. 2023. The NVIDIA Collective Communication Library (NCCL). https: //developer.nvidia.com/nccl
 + [ ] [PyTorch] PyTorch distributed training features such as DistributeDataParallel (DDP), Pytorch distributed: Experiences on accelerating data parallel training. arXiv preprint arXiv:2006.15704 (2020), https://arxiv.org/abs/2006.15704
 + [ ] [PyTorch] Key PyTorch core components including Tensor implemen- tation, dispatcher system, and CUDA memory caching allocator
