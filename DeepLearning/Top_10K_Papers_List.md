@@ -90,6 +90,7 @@ Top 100K Papers List
 + [ ] [LLM] [Multimodal] Multimodal Foundation Models: From Specialists to General-Purpose Assistants, https://arxiv.org/abs/2309.10020
 + [ ] [LLM] [Compression] PB-LLM: Partially Binarized Large Language Models, https://arxiv.org/abs/2310.00034, https://github.com/hahnyuan/PB-LLM
 + [ ] [LLM] [Compression] A Survey on Model Compression for Large Language Models, https://arxiv.org/abs/2308.07633
++ [ ] [LLM] [Prompting] Prompt engineering, https://platform.openai.com/docs/guides/prompt-engineering
 + [ ] [LLM] [Prompting] LLM prompting guide, https://huggingface.co/docs/transformers/main/en/tasks/prompting
 + [ ] [LLM] [Reasoning] Orca 2: Teaching Small Language Models How to Reason, https://arxiv.org/abs/2311.11045
 + [ ] [LLM] [Search] Enhancing the Ranking Context of Dense Retrieval Methods through Reciprocal Nearest Neighbors, https://arxiv.org/abs/2305.15720
