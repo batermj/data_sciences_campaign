@@ -66,6 +66,7 @@ Top 100K Papers List
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] Mathematical discoveries from program search with large language models, https://www.nature.com/articles/s41586-023-06924-6
 + [ ] [LLM] Magicoder: Source Code Is All You Need, https://arxiv.org/abs/2312.02120, https://github.com/ise-uiuc/magicoder
 + [ ] [LLM] Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling, https://arxiv.org/abs/2304.01373
 + [ ] [LLM] TARJAMAT: Evaluation of Bard and ChatGPT on Machine Translation of Ten Arabic Varieties, https://arxiv.org/abs/2308.03051
@@ -824,10 +825,12 @@ Top 100K Papers List
 + [ ] [Mixture-of-Experts (MoE)] Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models, https://arxiv.org/abs/2305.14705
 + [ ] [Mixture-of-Experts (MoE)] Learning Factored Representations in a Deep Mixture of Experts, https://arxiv.org/abs/1312.431i4
 + [ ] [ML][Optimization] Unexpected Improvements to Expected Improvement for Bayesian Optimization, https://arxiv.org/abs/2310.20708
++ [ ] [DL] Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives, https://arxiv.org/abs/2311.18259
 + [ ] [DL] paper pages from Ahsen Khaliq, https://www.linkedin.com/in/ahsenkhaliq/
 + [ ] [CV] Pinpointing Why Object Recognition Performance Degrades Across Income Levels and Geographies, https://arxiv.org/abs/2304.05391
 + [ ] [CV] EgoEnv: Human-centric environment representations from egocentric video, https://arxiv.org/abs/2207.11365
 + [ ] [NeurIPS][2023] https://ai.meta.com/events/neurips-2023/
++ [ ] [PyTorch] Relational Deep Learning: Graph Representation Learning on Relational Databases, https://arxiv.org/abs/2312.04615
 + [ ] [PyTorch] NVIDIA. 2023. The NVIDIA Collective Communication Library (NCCL). https: //developer.nvidia.com/nccl
 + [ ] [PyTorch] PyTorch distributed training features such as DistributeDataParallel (DDP), Pytorch distributed: Experiences on accelerating data parallel training. arXiv preprint arXiv:2006.15704 (2020), https://arxiv.org/abs/2006.15704
 + [ ] [PyTorch] Key PyTorch core components including Tensor implemen- tation, dispatcher system, and CUDA memory caching allocator
@@ -843,6 +846,7 @@ Top 100K Papers List
 + [ ][IR] Vector Search with OpenAI Embeddings: Lucene Is All You Need, https://arxiv.org/abs/2308.14963
 
 # [Papers for Data Sciences]
++ [Spatial Statistics] Spatial Statistics for Data Science: Theory and Practice with R, https://www.paulamoraga.com/book-spatial/
 + [ ] [Topological Data Analysis (TDA)] Algebraic Topology for Data Scientists, https://arxiv.org/abs/2308.10825
 
 # [Papers to be for Biology]
@@ -853,6 +857,9 @@ Top 100K Papers List
 
 # [Papers to be for Quantum Mechanics]
 + [ ] Two-Worlds Interpretation of Quantum Mechanics, https://arxiv.org/abs/2309.03151
+
+# [Papers to be for Quantum Mechanics]
++ The Information Theory of Aging, https://www.nature.com/articles/s43587-023-00527-6.epdf
 
 ## 2023.Jul.04 - for Classical Convolution Neural Networks related Models
 + [CNN] Character-level Convolutional Networks for Text Classification, https://arxiv.org/abs/1509.01626
