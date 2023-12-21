@@ -66,6 +66,8 @@ Top 100K Papers List
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] LLM in a flash: Efficient Large Language Model Inference with Limited Memory, https://huggingface.co/papers/2312.11514
++ [ ] [LLM] An In-depth Look at Gemini's Language Abilities, https://arxiv.org/abs/2312.11444
 + [ ] [LLM] Mathematical discoveries from program search with large language models, https://www.nature.com/articles/s41586-023-06924-6
 + [ ] [LLM] Magicoder: Source Code Is All You Need, https://arxiv.org/abs/2312.02120, https://github.com/ise-uiuc/magicoder
 + [ ] [LLM] Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling, https://arxiv.org/abs/2304.01373
@@ -91,6 +93,7 @@ Top 100K Papers List
 + [ ] [LLM] [Multimodal] Multimodal Foundation Models: From Specialists to General-Purpose Assistants, https://arxiv.org/abs/2309.10020
 + [ ] [LLM] [Compression] PB-LLM: Partially Binarized Large Language Models, https://arxiv.org/abs/2310.00034, https://github.com/hahnyuan/PB-LLM
 + [ ] [LLM] [Compression] A Survey on Model Compression for Large Language Models, https://arxiv.org/abs/2308.07633
++ [ ] [LLM] [Prompting] PromptBench: A Unified Library for Evaluation of Large Language Models, https://arxiv.org/abs/2312.07910
 + [ ] [LLM] [Prompting] Prompt engineering, https://platform.openai.com/docs/guides/prompt-engineering
 + [ ] [LLM] [Prompting] LLM prompting guide, https://huggingface.co/docs/transformers/main/en/tasks/prompting
 + [ ] [LLM] [Reasoning] Orca 2: Teaching Small Language Models How to Reason, https://arxiv.org/abs/2311.11045
