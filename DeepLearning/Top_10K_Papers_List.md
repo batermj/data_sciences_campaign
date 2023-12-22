@@ -66,6 +66,8 @@ Top 100K Papers List
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] LongNet: Scaling Transformers to 1,000,000,000 Tokens, https://arxiv.org/abs/2307.02486
++ [ ] [LLM] CLIPSyntel: CLIP and LLM Synergy for Multimodal Question Summarization in Healthcare, https://arxiv.org/abs/2312.11541
 + [ ] [LLM] LLM in a flash: Efficient Large Language Model Inference with Limited Memory, https://huggingface.co/papers/2312.11514
 + [ ] [LLM] An In-depth Look at Gemini's Language Abilities, https://arxiv.org/abs/2312.11444
 + [ ] [LLM] Mathematical discoveries from program search with large language models, https://www.nature.com/articles/s41586-023-06924-6
@@ -828,6 +830,7 @@ Top 100K Papers List
 + [ ] [Mixture-of-Experts (MoE)] Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models, https://arxiv.org/abs/2305.14705
 + [ ] [Mixture-of-Experts (MoE)] Learning Factored Representations in a Deep Mixture of Experts, https://arxiv.org/abs/1312.431i4
 + [ ] [ML][Optimization] Unexpected Improvements to Expected Improvement for Bayesian Optimization, https://arxiv.org/abs/2310.20708
++ [ ] [DL] Daily Papers, https://huggingface.co/papers
 + [ ] [DL] Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives, https://arxiv.org/abs/2311.18259
 + [ ] [DL] paper pages from Ahsen Khaliq, https://www.linkedin.com/in/ahsenkhaliq/
 + [ ] [CV] Pinpointing Why Object Recognition Performance Degrades Across Income Levels and Geographies, https://arxiv.org/abs/2304.05391
