@@ -63,6 +63,7 @@ Top 100K Papers List
 + [ ] [Robotics] VIMA: General Robot Manipulation with Multimodal Prompts, https://arxiv.org/abs/2210.03094
 + [ ] [Robotics] RoboAgent Towards Sample Efficient Robot Manipulation with Semantic Augmentations and Action Chunking, https://robopen.github.io/media/roboagent.pdf, https://github.com/robopen/roboagent/, https://robopen.github.io/roboset/
 + [ ] [Difussion Model] Erasing Concepts from Diffusion Models, https://arxiv.org/abs/2303.07345, https://civitai.com/models
++ [ ] [Foundation Model] [Robotics] Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis, https://arxiv.org/abs/2312.08782
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
@@ -308,7 +309,7 @@ Top 100K Papers List
 + [ ] DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection	36	53	Google, Johns Hopkins University	USA	industry 
 + [ ] Genetic Algorithm-Based Trajectory Optimization for Digital Twin Robots		53	Wuhan University of Science and Technology	China	academia 
 + [ ] Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors	280	53	Meta	USA	industry 
-+ [ ] Discovering faster matrix multiplication algorithms with reinforcement learning		52	DeepMind	UK	industry 
++ [ ] Discovering faster matrix multiplication algorithms with reinforcement learning DeepMind	UK	industry 
 + [ ] DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation	221	52	Boston University, Google	USA	industry 
 + [ ] PETR: Position Embedding Transformation for Multi-View 3D Object Detection	4	52	Megvii	China	industry 
 + [ ] Protein structure predictions to atomic accuracy with AlphaFold		51	DeepMind	UK	industry 
