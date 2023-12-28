@@ -6,6 +6,40 @@ Top 100K Papers List
 - Priority: #3, Latest Papers (Highly Cited Paper) with Codes with SOTA performance; 
 - Priority: #4, Classics Papers with Codes with SOTA performance; 
 
+# [Top 30 engineering blogs]
++ Get the 614 blogs + RSS feeds here, https://github.com/kilimchoi/engineering-blogs
++ Google Developers Blog, https://developers.googleblog.com
++ Microsoft Developer Blogs, https://devblogs.microsoft.com
++ Apple Machine Learning Journal, https://machinelearning.apple.com
++ Tesla Engineering Blog, https://www.tesla.com/blog
++ Nvidia Developer Blog, https://developer.nvidia.com/blog/
++ OpenAI tech blog, https://openai.com/blog
++ Facebook Engineering, https://engineering.fb.com
++ AWS Architecture Blog, https://aws.amazon.com/blogs/architecture/
++ Instagram Engineering, https://instagram-engineering.com/?gi=280eef5f24ac
++ LinkedIn Engineering, https://engineering.linkedin.com/blog
++ Pinterest Engineering Blog, https://medium.com/@Pinterest_Engineering
++ Slack Engineering, https://slack.engineering
++ Netflix Tech Blog:, https://netflixtechblog.com
++ Uber Engineering, https://www.uber.com/en-AE/blog/abu-dhabi/engineering/
++ Figma Engineering, https://www.figma.com/blog/engineering/
++ GitHub Engineering, https://githubengineering.com
++ Stack Overflow tech blog, https://stackoverflow.blog
++ Spotify Engineering, https://engineering.atspotify.com
++ Shopify Engineering, https://shopify.engineering
++ Airbnb Engineering & Data Science, https://medium.com/airbnb-engineering
++ Twitter Engineering, https://blog.twitter.com/engineering/en_us
++ Dropbox Tech Blog, https://dropbox.tech
++ Engineering at Quora, https://quoraengineering.quora.com
++ Square Corner Blog, https://developer.squareup.com/blog/
++ Palantir Blog, https://blog.palantir.com/?gi=0ada26c400d5
++ Yelp Engineering Blog, https://engineeringblog.yelp.com
++ Cloudflare Blog, https://blog.cloudflare.com
++ Stripe Engineering Blog, https://stripe.com/blog/engineering
++ Discord Engineering, https://discord.com/category/engineering
++ Notion Engineering, https://www.notion.so/blog
+
+
 # [Courses & Videos]
 + [ ] [UK] Top 100 AI startups in UK, https://www.ai-startups.org/country/UK/
 
@@ -68,6 +102,12 @@ Top 100K Papers List
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling, https://arxiv.org/abs/2312.15166
++ [ ] [LLM] An LLM Compiler for Parallel Function Calling, https://arxiv.org/abs/2312.04511, https://github.com/SqueezeAILab/LLMCompiler
++ [ ] [LLM] Using sequences of life-events to predict human lives, https://www.nature.com/articles/s43588-023-00573-5.pdf
++ [ ] [LLM] SMPL A Skinned Multi-Person Linear Model, https://smpl.is.tue.mpg.de
++ [ ] [LLM] HUGS: Human Gaussian Splats, https://arxiv.org/abs/2311.17910
++ [ ] [LLM] Apple quietly released an open source multimodal LLM in October, https://venturebeat.com/ai/apple-quietly-released-an-open-source-multimodal-llm-in-october/
 + [ ] [LLM] VideoPoet A large language model for zero-shot video generation, https://sites.research.google/videopoet/
 + [ ] [LLM] Mini-GPTs: Efficient Large Language Models through Contextual Pruning, https://arxiv.org/abs/2312.12682
 + [ ] [LLM] Improving Automatic VQA Evaluation Using Large Language Models, https://arxiv.org/abs/2310.02567
@@ -833,6 +873,7 @@ Top 100K Papers List
 + [ ] [AI] GAIA: a benchmark for General AI Assistants, https://arxiv.org/abs/2311.12983
 + [ ] [Image Generation] LEDITS++: Limitless Image Editing using Text-to-Image Models, https://arxiv.org/abs/2311.16711
 + [ ] [Music Generation] Simple and Controllable Music Generation, https://arxiv.org/abs/2306.05284
++ [ ] [Mixture-of-Experts (MoE)] AppAgent: Multimodal Agents as Smartphone Users, https://arxiv.org/abs/2312.13771
 + [ ] [Mixture-of-Experts (MoE)] The Sparsely Gated Mixture of Experts Layer for PyTorch, https://github.com/davidmrau/mixture-of-experts
 + [ ] [Mixture-of-Experts (MoE)] Stanford CS25: V1 I Mixture of Experts (MoE) paradigm and the Switch Transformer, https://www.youtube.com/watch?v=U8J32Z3qV8s
 + [ ] [Mixture-of-Experts (MoE)] Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer, https://arxiv.org/abs/1701.06538
@@ -843,6 +884,7 @@ Top 100K Papers List
 + [ ] [ML] Rankitect: Ranking Architecture Search Battling World-class Engineers at Meta Scale, https://arxiv.org/abs/2311.08430
 + [ ] [ML] Model scale versus domain knowledge in statistical forecasting of chaotic systems, https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.043252
 + [ ] [ML][Optimization] Unexpected Improvements to Expected Improvement for Bayesian Optimization, https://arxiv.org/abs/2310.20708
++ [ ] [ML][Course] CS 329S: Machine Learning Systems Design Stanford, Winter 2022, https://stanford-cs329s.github.io, https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy&cbrd=1
 + [ ] [DL] Daily Papers, https://huggingface.co/papers
 + [ ] [DL] Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives, https://arxiv.org/abs/2311.18259
 + [ ] [DL] paper pages from Ahsen Khaliq, https://www.linkedin.com/in/ahsenkhaliq/
