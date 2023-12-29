@@ -883,6 +883,7 @@ Top 100K Papers List
 + [ ] [Mixture-of-Experts (MoE)] Learning Factored Representations in a Deep Mixture of Experts, https://arxiv.org/abs/1312.431i4
 + [ ] [ML] Rankitect: Ranking Architecture Search Battling World-class Engineers at Meta Scale, https://arxiv.org/abs/2311.08430
 + [ ] [ML] Model scale versus domain knowledge in statistical forecasting of chaotic systems, https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.043252
++ [ ] [ML][Optimization] Symbolic Discovery of Optimization Algorithms, https://arxiv.org/abs/2302.06675
 + [ ] [ML][Optimization] Unexpected Improvements to Expected Improvement for Bayesian Optimization, https://arxiv.org/abs/2310.20708
 + [ ] [ML][Course] CS 329S: Machine Learning Systems Design Stanford, Winter 2022, https://stanford-cs329s.github.io, https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy&cbrd=1
 + [ ] [DL] Daily Papers, https://huggingface.co/papers
