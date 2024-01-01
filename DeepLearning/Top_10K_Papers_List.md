@@ -884,6 +884,7 @@ Top 100K Papers List
 + [ ] [Mixture-of-Experts (MoE)] MegaBlocks: Efficient Sparse Training with Mixture-of-Experts, https://arxiv.org/abs/2211.15841
 + [ ] [Mixture-of-Experts (MoE)] Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models, https://arxiv.org/abs/2305.14705
 + [ ] [Mixture-of-Experts (MoE)] Learning Factored Representations in a Deep Mixture of Experts, https://arxiv.org/abs/1312.431i4
++ [ ] [ML] MODEL BASED MACHINE LEARNING John Winn w/ Christopher M. Bishop, Thomas Diethe, John Guiver & Yordan Zaykov, https://www.mbmlbook.com/MBMLbook.pdf
 + [ ] [ML] Rankitect: Ranking Architecture Search Battling World-class Engineers at Meta Scale, https://arxiv.org/abs/2311.08430
 + [ ] [ML] Model scale versus domain knowledge in statistical forecasting of chaotic systems, https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.043252
 + [ ] [ML][Optimization] Symbolic Discovery of Optimization Algorithms, https://arxiv.org/abs/2302.06675
