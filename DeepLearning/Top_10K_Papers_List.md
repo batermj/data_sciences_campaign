@@ -152,6 +152,7 @@ Top 100K Papers List
 + [ ] [LLM] [Prompting] Prompt engineering, https://platform.openai.com/docs/guides/prompt-engineering
 + [ ] [LLM] [Prompting] LLM prompting guide, https://huggingface.co/docs/transformers/main/en/tasks/prompting
 + [ ] [LLM] [Reasoning] Orca 2: Teaching Small Language Models How to Reason, https://arxiv.org/abs/2311.11045
++ [ ] [LLM] [Reasoning] The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction, https://arxiv.org/abs/2312.13558
 + [ ] [LLM] [Search] Enhancing the Ranking Context of Dense Retrieval Methods through Reciprocal Nearest Neighbors, https://arxiv.org/abs/2305.15720
 + [ ] [LLM] ChatGPT's One-year Anniversary: Are Open-Source Large Language Models Catching up? https://arxiv.org/abs/2311.16989
 + [ ] [LLM] GPT is becoming a Turing machine: Here are some ways to program it, https://arxiv.org/abs/2303.14310
