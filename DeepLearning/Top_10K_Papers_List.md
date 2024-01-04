@@ -97,11 +97,13 @@ Top 100K Papers List
 + [ ] https://index.quantumstat.com
 + [ ] [Robotics] VIMA: General Robot Manipulation with Multimodal Prompts, https://arxiv.org/abs/2210.03094
 + [ ] [Robotics] RoboAgent Towards Sample Efficient Robot Manipulation with Semantic Augmentations and Action Chunking, https://robopen.github.io/media/roboagent.pdf, https://github.com/robopen/roboagent/, https://robopen.github.io/roboset/
++ [ ] [Difussion Model] DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models， https://arxiv.org/abs/2312.09767
 + [ ] [Difussion Model] Erasing Concepts from Diffusion Models, https://arxiv.org/abs/2303.07345, https://civitai.com/models
 + [ ] [Foundation Model] [Robotics] Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis, https://arxiv.org/abs/2312.08782
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents, https://arxiv.org/abs/2401.00812
 + [ ] [LLM] TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones, https://arxiv.org/abs/2312.16862
 + [ ] [LLM] Excellent roadmap to learn about the LLM end to end workflow, https://github.com/mlabonne/llm-course
 + [ ] [LLM] Mindstorms in Natural Language-Based Societies of Mind, https://arxiv.org/abs/2305.17066
@@ -895,6 +897,7 @@ Top 100K Papers List
 + [ ] [DL] Daily Papers, https://huggingface.co/papers
 + [ ] [DL] Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives, https://arxiv.org/abs/2311.18259
 + [ ] [DL] paper pages from Ahsen Khaliq, https://www.linkedin.com/in/ahsenkhaliq/
++ [ ] [CV] RubiksNet Learnable 3D-Shift for Efficient Video Action Recognition, https://stanfordvl.github.io/rubiksnet-site/
 + [ ] [CV] Pinpointing Why Object Recognition Performance Degrades Across Income Levels and Geographies, https://arxiv.org/abs/2304.05391
 + [ ] [CV] EgoEnv: Human-centric environment representations from egocentric video, https://arxiv.org/abs/2207.11365
 + [NVIDIA] Neuralangelo: High-Fidelity Neural Surface Reconstruction, https://research.nvidia.com/labs/dir/neuralangelo/
