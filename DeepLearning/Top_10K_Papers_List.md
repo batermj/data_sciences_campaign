@@ -103,6 +103,7 @@ Top 100K Papers List
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] Retrieval-Augmented Generation for Large Language Models: A Survey, https://arxiv.org/abs/2312.10997
 + [ ] [LLM] If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents, https://arxiv.org/abs/2401.00812
 + [ ] [LLM] TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones, https://arxiv.org/abs/2312.16862
 + [ ] [LLM] Excellent roadmap to learn about the LLM end to end workflow, https://github.com/mlabonne/llm-course
@@ -911,6 +912,7 @@ Top 100K Papers List
 + [NVIDIA] Flexible Isosurface Extraction for Gradient-Based Mesh Optimization, https://research.nvidia.com/labs/toronto-ai/flexicubes/
 + [NVIDIA] eDiff-I: Text-to-Image Diffusion Models with Ensemble of Expert Denoisers, https://research.nvidia.com/labs/dir/eDiff-I/
 + [ ] [NeurIPS][2023] https://ai.meta.com/events/neurips-2023/
++ [ ] [PyTorch] Accelerating Generative AI Part III: Diffusion, Fast, https://pytorch.org/blog/accelerating-generative-ai-3/?utm_content=277363729
 + [ ] [PyTorch] Relational Deep Learning: Graph Representation Learning on Relational Databases, https://arxiv.org/abs/2312.04615
 + [ ] [PyTorch] NVIDIA. 2023. The NVIDIA Collective Communication Library (NCCL). https: //developer.nvidia.com/nccl
 + [ ] [PyTorch] PyTorch distributed training features such as DistributeDataParallel (DDP), Pytorch distributed: Experiences on accelerating data parallel training. arXiv preprint arXiv:2006.15704 (2020), https://arxiv.org/abs/2006.15704
