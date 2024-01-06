@@ -103,6 +103,7 @@ Top 100K Papers List
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] [Book] Build a Large Language Model (From Scratch), https://www.manning.com/books/build-a-large-language-model-from-scratch
 + [ ] [LLM] Retrieval-Augmented Generation for Large Language Models: A Survey, https://arxiv.org/abs/2312.10997
 + [ ] [LLM] If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents, https://arxiv.org/abs/2401.00812
 + [ ] [LLM] TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones, https://arxiv.org/abs/2312.16862
