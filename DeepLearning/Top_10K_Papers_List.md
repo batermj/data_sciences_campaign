@@ -913,6 +913,7 @@ Top 100K Papers List
 + [NVIDIA] Learning Physically Simulated Tennis Skills from Broadcast Videos, https://research.nvidia.com/labs/toronto-ai/vid2player3d/
 + [NVIDIA] Flexible Isosurface Extraction for Gradient-Based Mesh Optimization, https://research.nvidia.com/labs/toronto-ai/flexicubes/
 + [NVIDIA] eDiff-I: Text-to-Image Diffusion Models with Ensemble of Expert Denoisers, https://research.nvidia.com/labs/dir/eDiff-I/
++ [ ] [Generative AI][2023] Most Impactful Generative AI Papers of 2023, https://aisupremacy.substack.com/p/most-impactful-generative-ai-papers
 + [ ] [NeurIPS][2023] https://ai.meta.com/events/neurips-2023/
 + [ ] [PyTorch] Accelerating Generative AI Part III: Diffusion, Fast, https://pytorch.org/blog/accelerating-generative-ai-3/?utm_content=277363729
 + [ ] [PyTorch] Relational Deep Learning: Graph Representation Learning on Relational Databases, https://arxiv.org/abs/2312.04615
