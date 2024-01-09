@@ -103,7 +103,11 @@ Top 100K Papers List
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] [Hallucination] A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models
++ [ ] [LLM] Direct Preference Optimization: Your Language Model is Secretly a Reward Model, https://arxiv.org/abs/2305.18290
++ [ ] [LLM] TinyLlama: An Open-Source Small Language Model, https://arxiv.org/abs/2401.02385
 + [ ] [LLM] [Book] Build a Large Language Model (From Scratch), https://www.manning.com/books/build-a-large-language-model-from-scratch
++ [ ] [LLM] [Microsoft] Improving Text Embeddings with Large Language Models, https://arxiv.org/abs/2401.00368
 + [ ] [LLM] LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models, https://huggingface.co/papers/2310.08659, https://github.com/yxli2123/LoftQ
 + [ ] [LLM] Retrieval-Augmented Generation for Large Language Models: A Survey, https://arxiv.org/abs/2312.10997
 + [ ] [LLM] If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents, https://arxiv.org/abs/2401.00812
@@ -279,7 +283,6 @@ Top 100K Papers List
 + [ ] [Diffusion Models] ART⋅V: Auto-Regressive Text-to-Video Generation with Diffusion Models, https://arxiv.org/abs/2311.18834
 + [ ] [Hands-on]Setting Python Development Environment with VScode and Docker, https://github.com/RamiKrispin/vscode-python
 + [ ] Topological Deep Learning: Going Beyond Graph Data, https://arxiv.org/abs/2206.00606
-+ [ ] From Zero to AI Research Scientist Full Resources Guide, https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
 + [ ] Google’s BERT
 + [ ] OpenAI’s GPT-2
 + [ ] Provably Faster Gradient Descent via Long Steps, https://arxiv.org/abs/2307.06324
@@ -890,6 +893,8 @@ Top 100K Papers List
 + [ ] [Mixture-of-Experts (MoE)] MegaBlocks: Efficient Sparse Training with Mixture-of-Experts, https://arxiv.org/abs/2211.15841
 + [ ] [Mixture-of-Experts (MoE)] Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models, https://arxiv.org/abs/2305.14705
 + [ ] [Mixture-of-Experts (MoE)] Learning Factored Representations in a Deep Mixture of Experts, https://arxiv.org/abs/1312.431i4
++ [ ] [ML] Assumption violations in causal discovery and the robustness of score matching, https://arxiv.org/abs/2310.13387
++ [ ] [ML] DeeprETA: An ETA Post-processing System at Scale, https://arxiv.org/abs/2206.02127
 + [ ] [ML] Vincent Zoonekynd's Blog,http://zoonek.free.fr/blosxom/ML/2024-01-01_2023_in_ML.html
 + [ ] [ML] MODEL BASED MACHINE LEARNING John Winn w/ Christopher M. Bishop, Thomas Diethe, John Guiver & Yordan Zaykov, https://www.mbmlbook.com/MBMLbook.pdf
 + [ ] [ML] Rankitect: Ranking Architecture Search Battling World-class Engineers at Meta Scale, https://arxiv.org/abs/2311.08430
@@ -900,9 +905,12 @@ Top 100K Papers List
 + [ ] [DL] Daily Papers, https://huggingface.co/papers
 + [ ] [DL] Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives, https://arxiv.org/abs/2311.18259
 + [ ] [DL] paper pages from Ahsen Khaliq, https://www.linkedin.com/in/ahsenkhaliq/
++ [ ] [CV] Boundary Attention: Learning to Find Faint Boundaries at Any Resolution, https://arxiv.org/abs/2401.00935
 + [ ] [CV] RubiksNet Learnable 3D-Shift for Efficient Video Action Recognition, https://stanfordvl.github.io/rubiksnet-site/
 + [ ] [CV] Pinpointing Why Object Recognition Performance Degrades Across Income Levels and Geographies, https://arxiv.org/abs/2304.05391
 + [ ] [CV] EgoEnv: Human-centric environment representations from egocentric video, https://arxiv.org/abs/2207.11365
++ [AI] [Blog] From Zero to Research Scientist full resources guide, https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
++ [Mathematics] DeepOnet Based Preconditioning Strategies For Solving Parametric Linear Systems of Equations, https://arxiv.org/abs/2401.02016
 + [NVIDIA] Neuralangelo: High-Fidelity Neural Surface Reconstruction, https://research.nvidia.com/labs/dir/neuralangelo/
 + [NVIDIA] Magic3D: High-Resolution Text-to-3D Content Creation, https://research.nvidia.com/labs/dir/magic3d/
 + [NVIDIA] Interactive Hair Simulation on the GPU Using ADMM, https://research.nvidia.com/publication/2023-08_interactive-hair-simulation-gpu-using-admm
@@ -913,8 +921,10 @@ Top 100K Papers List
 + [NVIDIA] Learning Physically Simulated Tennis Skills from Broadcast Videos, https://research.nvidia.com/labs/toronto-ai/vid2player3d/
 + [NVIDIA] Flexible Isosurface Extraction for Gradient-Based Mesh Optimization, https://research.nvidia.com/labs/toronto-ai/flexicubes/
 + [NVIDIA] eDiff-I: Text-to-Image Diffusion Models with Ensemble of Expert Denoisers, https://research.nvidia.com/labs/dir/eDiff-I/
++ [ ] [Sound] Incremental FastPitch: Chunk-based High Quality Text to Speech, https://arxiv.org/abs/2401.01755
 + [ ] [Generative AI][2023] Most Impactful Generative AI Papers of 2023, https://aisupremacy.substack.com/p/most-impactful-generative-ai-papers
 + [ ] [NeurIPS][2023] https://ai.meta.com/events/neurips-2023/
++ [ ] [PyTorch] Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond, https://pytorch.org/blog/inside-the-matrix/
 + [ ] [PyTorch] Accelerating Generative AI Part III: Diffusion, Fast, https://pytorch.org/blog/accelerating-generative-ai-3/?utm_content=277363729
 + [ ] [PyTorch] Relational Deep Learning: Graph Representation Learning on Relational Databases, https://arxiv.org/abs/2312.04615
 + [ ] [PyTorch] NVIDIA. 2023. The NVIDIA Collective Communication Library (NCCL). https: //developer.nvidia.com/nccl
