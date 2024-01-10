@@ -909,6 +909,7 @@ Top 100K Papers List
 + [ ] [CV] RubiksNet Learnable 3D-Shift for Efficient Video Action Recognition, https://stanfordvl.github.io/rubiksnet-site/
 + [ ] [CV] Pinpointing Why Object Recognition Performance Degrades Across Income Levels and Geographies, https://arxiv.org/abs/2304.05391
 + [ ] [CV] EgoEnv: Human-centric environment representations from egocentric video, https://arxiv.org/abs/2207.11365
++ [AI] [Health] Combinatorial prediction of therapeutic perturbations using causally-inspired neural networks, https://www.biorxiv.org/content/10.1101/2024.01.03.573985v1, https://zitniklab.hms.harvard.edu/projects/PDGrapher/
 + [AI] [Blog] From Zero to Research Scientist full resources guide, https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
 + [Mathematics] DeepOnet Based Preconditioning Strategies For Solving Parametric Linear Systems of Equations, https://arxiv.org/abs/2401.02016
 + [NVIDIA] Neuralangelo: High-Fidelity Neural Surface Reconstruction, https://research.nvidia.com/labs/dir/neuralangelo/
