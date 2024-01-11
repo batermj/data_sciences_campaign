@@ -103,7 +103,11 @@ Top 100K Papers List
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] [Serving] http://devv.ai
++ [ ] [LLM] [Serving] FireAttention — Serving Open Source Models 4x faster than vLLM by quantizing with ~no tradeoffs, https://blog.fireworks.ai/fireattention-serving-open-source-models-4x-faster-than-vllm-by-quantizing-with-no-tradeoffs-a29a85ad28d0
 + [ ] [LLM] [Hallucination] A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models
++ [ ] [LLM] [Chatbot] LMSYS Chatbot Arena Leaderboard, https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
++ [ ] [LLM] Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models, https://huggingface.co/papers/2401.01335, https://huggingface.co/UCLA-AGI
 + [ ] [LLM] Direct Preference Optimization: Your Language Model is Secretly a Reward Model, https://arxiv.org/abs/2305.18290
 + [ ] [LLM] TinyLlama: An Open-Source Small Language Model, https://arxiv.org/abs/2401.02385
 + [ ] [LLM] [Book] Build a Large Language Model (From Scratch), https://www.manning.com/books/build-a-large-language-model-from-scratch
@@ -885,6 +889,7 @@ Top 100K Papers List
 + [ ] [AI] GAIA: a benchmark for General AI Assistants, https://arxiv.org/abs/2311.12983
 + [ ] [Image Generation] LEDITS++: Limitless Image Editing using Text-to-Image Models, https://arxiv.org/abs/2311.16711
 + [ ] [Music Generation] Simple and Controllable Music Generation, https://arxiv.org/abs/2306.05284
++ [ ] [Mixture-of-Experts (MoE)] Mixtral of Experts, https://arxiv.org/abs/2401.04088
 + [ ] [Mixture-of-Experts (MoE)] AppAgent: Multimodal Agents as Smartphone Users, https://arxiv.org/abs/2312.13771
 + [ ] [Mixture-of-Experts (MoE)] The Sparsely Gated Mixture of Experts Layer for PyTorch, https://github.com/davidmrau/mixture-of-experts
 + [ ] [Mixture-of-Experts (MoE)] Stanford CS25: V1 I Mixture of Experts (MoE) paradigm and the Switch Transformer, https://www.youtube.com/watch?v=U8J32Z3qV8s
@@ -925,6 +930,7 @@ Top 100K Papers List
 + [ ] [Sound] Incremental FastPitch: Chunk-based High Quality Text to Speech, https://arxiv.org/abs/2401.01755
 + [ ] [Generative AI][2023] Most Impactful Generative AI Papers of 2023, https://aisupremacy.substack.com/p/most-impactful-generative-ai-papers
 + [ ] [NeurIPS][2023] https://ai.meta.com/events/neurips-2023/
++ [ ] [PyTorch] Finetune LLMs on your own consumer hardware using tools from PyTorch and Hugging Face ecosystem, https://pytorch.org/blog/finetune-llms/
 + [ ] [PyTorch] Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond, https://pytorch.org/blog/inside-the-matrix/
 + [ ] [PyTorch] Accelerating Generative AI Part III: Diffusion, Fast, https://pytorch.org/blog/accelerating-generative-ai-3/?utm_content=277363729
 + [ ] [PyTorch] Relational Deep Learning: Graph Representation Learning on Relational Databases, https://arxiv.org/abs/2312.04615
