@@ -152,6 +152,7 @@ Top 100K Papers List
 + [ ] [LLM] [Data Management] Data Management For Large Language Models: A Survey, https://arxiv.org/abs/2312.01700
 + [ ] [LLM] [OpenAI] [Mathematical Reasoning] Let's Verify Step by Step, https://arxiv.org/abs/2305.20050
 + [ ] [LLM] [Alignment] A General Theoretical Paradigm to Understand Learning from Human Preferences, https://arxiv.org/abs/2310.12036
++ [ ] [LLM] [Causal NLP] CLadder: A Benchmark to Assess Causal Reasoning Capabilities of Language Models, https://arxiv.org/abs/2312.04350, https://github.com/causalNLP/cladder
 + [ ] [LLM] [Causal NLP] Understanding Causality with Large Language Models: Feasibility and Opportunities, https://arxiv.org/pdf/2304.05524.pdf
 + [ ] [LLM] [Causal NLP] Causal Parrots: Large Language Models May Talk Causality But Are Not Causal, https://openreview.net/pdf?id=tv46tCzs83
 + [ ] [LLM] [Causal NLP] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality, https://arxiv.org/pdf/2305.00050.pdf
@@ -910,6 +911,7 @@ Top 100K Papers List
 + [ ] [DL] Daily Papers, https://huggingface.co/papers
 + [ ] [DL] Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives, https://arxiv.org/abs/2311.18259
 + [ ] [DL] paper pages from Ahsen Khaliq, https://www.linkedin.com/in/ahsenkhaliq/
++ [ ] [CV] InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes, https://arxiv.org/abs/2401.05335
 + [ ] [CV] Boundary Attention: Learning to Find Faint Boundaries at Any Resolution, https://arxiv.org/abs/2401.00935
 + [ ] [CV] RubiksNet Learnable 3D-Shift for Efficient Video Action Recognition, https://stanfordvl.github.io/rubiksnet-site/
 + [ ] [CV] Pinpointing Why Object Recognition Performance Degrades Across Income Levels and Geographies, https://arxiv.org/abs/2304.05391
@@ -927,6 +929,7 @@ Top 100K Papers List
 + [NVIDIA] Learning Physically Simulated Tennis Skills from Broadcast Videos, https://research.nvidia.com/labs/toronto-ai/vid2player3d/
 + [NVIDIA] Flexible Isosurface Extraction for Gradient-Based Mesh Optimization, https://research.nvidia.com/labs/toronto-ai/flexicubes/
 + [NVIDIA] eDiff-I: Text-to-Image Diffusion Models with Ensemble of Expert Denoisers, https://research.nvidia.com/labs/dir/eDiff-I/
++ [ ] [Dataset Bias] Industry Applications of Class Imbalance Techniques: A Chapter-wise Overview, https://github.com/PacktPublishing/Machine-Learning-for-Imbalanced-Data/blob/main/industry-applications-imbalanced-data.md
 + [ ] [Sound] Incremental FastPitch: Chunk-based High Quality Text to Speech, https://arxiv.org/abs/2401.01755
 + [ ] [Generative AI][2023] Most Impactful Generative AI Papers of 2023, https://aisupremacy.substack.com/p/most-impactful-generative-ai-papers
 + [ ] [NeurIPS][2023] https://ai.meta.com/events/neurips-2023/
