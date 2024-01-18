@@ -283,6 +283,7 @@ Top 100K Papers List
 + [ ] [LLM] OpenAI Cookbook, https://github.com/openai/openai-cookbook
 + [ ] [LLM] Coding framework LlamaIndex enables data interaction with LLMs, https://github.com/jerryjliu/llama_index
 + [ ] [LLM] Multimodal Chain-of-Thought Reasoning in Language Models, https://arxiv.org/abs/2302.00923, https://github.com/amazon-science/mm-cot
++ [ ] [LLM][Survey] Understanding LLMs: A Comprehensive Overview from Training to Inference, https://arxiv.org/abs/2401.02038
 + [ ] [LLM][Survey] A Survey of Large Language Models, https://arxiv.org/abs/2303.18223, https://github.com/RUCAIBox/LLMSurvey
 + [ ] [LLM][Survey] Papers and resources for LLMs evaluation, https://github.com/MLGroupJLU/LLM-eval-survey
 + [ ] [LLM] LoRA: Low-Rank Adaptation of Large Language Models, https://arxiv.org/abs/2106.09685
@@ -760,6 +761,7 @@ Top 100K Papers List
 + [ ] [CNN][Codes] Detectron2, https://github.com/facebookresearch/detectron2
 + [ ] [CNN][Paper] OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks, https://arxiv.org/abs/1312.6229
 + [ ] [CNN][Course] OverFeat Integrated    Recogni.on,    Localiza.on    and    Detec.on    using Convolu.onal    Networks Sermanet    et.    al Presenta.on    by    Eric    Holmdahl, http://vision.stanford.edu/teaching/cs231b_spring1415/slides/overfeat_eric.pdf
++ [ ] [CNN][Paper] Ultralytics YOLOv8 Turns One: A Year of Breakthroughs and Innovations, https://www.ultralytics.com/blog/ultralytics-yolov8-turns-one-a-year-of-breakthroughs-and-innovations
 + [ ] [CNN][Paper] A Comprehensive Review of YOLO: From YOLOv1 and Beyond, https://arxiv.org/abs/2304.00501
 + [ ] [CNN][Paper] You Only Look Once: Unified, Real-Time Object Detection, https://arxiv.org/abs/1506.02640
 + [ ] [CNN][Paper] A Comprehensive Review of YOLO: From YOLOv1 to YOLOv8 and Beyond, https://arxiv.org/abs/2304.00501
