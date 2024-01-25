@@ -103,11 +103,13 @@ Top 100K Papers List
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] [Serving] [RAG] RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture, https://arxiv.org/abs/2401.08406
 + [ ] [LLM] [Serving] [Inferencing] [Intel] Efficient LLM inference solution on Intel GPU, https://huggingface.co/papers/2401.05391
 + [ ] [LLM] [Serving] http://devv.ai
 + [ ] [LLM] [Serving] FireAttention — Serving Open Source Models 4x faster than vLLM by quantizing with ~no tradeoffs, https://blog.fireworks.ai/fireattention-serving-open-source-models-4x-faster-than-vllm-by-quantizing-with-no-tradeoffs-a29a85ad28d0
 + [ ] [LLM] [Hallucination] A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models
 + [ ] [LLM] [Chatbot] LMSYS Chatbot Arena Leaderboard, https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
++ [ ] [LLM] [AI] Thousands of AI Authors on the Future of AI, https://arxiv.org/abs/2401.02843
 + [ ] [LLM] Secrets of RLHF in Large Language Models Part II: Reward Modeling, https://arxiv.org/abs/2401.06080
 + [ ] [LLM] TrustLLM: Trustworthiness in Large Language Models, https://arxiv.org/abs/2401.05561
 + [ ] [LLM] Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM, https://arxiv.org/abs/2401.02994
