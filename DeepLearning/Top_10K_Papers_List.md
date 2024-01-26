@@ -645,6 +645,7 @@ Top 100K Papers List
 + [ ] [Time Series] TSMixer: An all-MLP architecture for time series forecasting, https://blog.research.google/2023/09/tsmixer-all-mlp-architecture-for-time.html
 + [ ] [Time Series] A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, https://arxiv.org/abs/2307.03759
 + [ ] [Time Series] MSTL: A Seasonal-Trend Decomposition Algorithm for Time Series with Multiple Seasonal Patterns, https://arxiv.org/abs/2107.13462, https://nixtla.github.io/statsforecast/src/core/models.html#mstl
++ [ ] [RL] [Pinterest] Large-scale Reinforcement Learning for Diffusion Models, https://huggingface.co/papers/2401.12244
 + [ ] [RL] Pearl: A Production-ready Reinforcement Learning Agent, https://arxiv.org/abs/2312.03814, https://github.com/facebookresearch/pearl, https://pearlagent.github.io
 + [ ] [RL] Champion-level drone racing using deep reinforcement learning, https://www.nature.com/articles/s41586-023-06419-4
 + [ ] [RL] AnIntroductiontoDeep ReinforcementLearning, https://www.ics.uci.edu/~dechter/courses/ics-295/fall-2019/texts/An_Introduction_to_Deep_Reinforcement_Learning.pdf
@@ -662,6 +663,7 @@ Top 100K Papers List
 + [ ] [CV] Generating Images with Multimodal Language Models, https://arxiv.org/abs/2305.17216
 + [ ] [MLP] Scaling MLPs: A Tale of Inductive Bias, https://arxiv.org/abs/2306.13575
 + [ ] Scenic is developed in JAX and uses Flax., https://github.com/google-research/scenic
++ [ ] [Transformers] Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers, https://arxiv.org/abs/2401.11605
 + [ ] [Transformers] Masked Autoencoders Are Scalable Vision Learners, https://arxiv.org/abs/2111.06377
 + [ ] [Transformers] Toolformer: Language Models Can Teach Themselves to Use Tools, https://arxiv.org/abs/2302.04761
 + [ ] [Transformers] Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity, https://arxiv.org/abs/2101.03961,, https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023
