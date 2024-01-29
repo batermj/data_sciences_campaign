@@ -910,6 +910,7 @@ Top 100K Papers List
 + [ ] [Mixture-of-Experts (MoE)] MegaBlocks: Efficient Sparse Training with Mixture-of-Experts, https://arxiv.org/abs/2211.15841
 + [ ] [Mixture-of-Experts (MoE)] Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models, https://arxiv.org/abs/2305.14705
 + [ ] [Mixture-of-Experts (MoE)] Learning Factored Representations in a Deep Mixture of Experts, https://arxiv.org/abs/1312.431i4
++ [ ] [ML] Reward-Free Curricula for Training Robust World Models, https://arxiv.org/abs/2306.09205
 + [ ] [ML] Assumption violations in causal discovery and the robustness of score matching, https://arxiv.org/abs/2310.13387
 + [ ] [ML] DeeprETA: An ETA Post-processing System at Scale, https://arxiv.org/abs/2206.02127
 + [ ] [ML] Vincent Zoonekynd's Blog,http://zoonek.free.fr/blosxom/ML/2024-01-01_2023_in_ML.html
@@ -945,6 +946,7 @@ Top 100K Papers List
 + [ ] [Sound] Incremental FastPitch: Chunk-based High Quality Text to Speech, https://arxiv.org/abs/2401.01755
 + [ ] [Generative AI][2023] Most Impactful Generative AI Papers of 2023, https://aisupremacy.substack.com/p/most-impactful-generative-ai-papers
 + [ ] [NeurIPS][2023] https://ai.meta.com/events/neurips-2023/
++ [ ] [PyTorch] 3D rotations and spatial transformations made easy with RoMa, https://medium.com/pytorch/3d-rotations-and-spatial-transformations-made-easy-with-roma-356a495a20c4
 + [ ] [PyTorch] Finetune LLMs on your own consumer hardware using tools from PyTorch and Hugging Face ecosystem, https://pytorch.org/blog/finetune-llms/
 + [ ] [PyTorch] Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond, https://pytorch.org/blog/inside-the-matrix/
 + [ ] [PyTorch] Accelerating Generative AI Part III: Diffusion, Fast, https://pytorch.org/blog/accelerating-generative-ai-3/?utm_content=277363729
