@@ -103,6 +103,7 @@ Top 100K Papers List
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] [Serving] [RAG] The Power of Noise: Redefining Retrieval for RAG Systems, https://arxiv.org/abs/2401.14887
 + [ ] [LLM] [Serving] [RAG] RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture, https://arxiv.org/abs/2401.08406
 + [ ] [LLM] [Serving] [Inferencing] [Intel] Efficient LLM inference solution on Intel GPU, https://huggingface.co/papers/2401.05391
 + [ ] [LLM] [Serving] http://devv.ai
@@ -929,6 +930,7 @@ Top 100K Papers List
 + [ ] [CV] RubiksNet Learnable 3D-Shift for Efficient Video Action Recognition, https://stanfordvl.github.io/rubiksnet-site/
 + [ ] [CV] Pinpointing Why Object Recognition Performance Degrades Across Income Levels and Geographies, https://arxiv.org/abs/2304.05391
 + [ ] [CV] EgoEnv: Human-centric environment representations from egocentric video, https://arxiv.org/abs/2207.11365
++ [ ] [Representation Learning] Matryoshka Representation Learning, https://arxiv.org/abs/2205.13147
 + [ ] [Meta Learning] Learning Universal Predictors, https://huggingface.co/papers/2401.14953
 + [AI] [Health] Combinatorial prediction of therapeutic perturbations using causally-inspired neural networks, https://www.biorxiv.org/content/10.1101/2024.01.03.573985v1, https://zitniklab.hms.harvard.edu/projects/PDGrapher/
 + [AI] [Blog] From Zero to Research Scientist full resources guide, https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
