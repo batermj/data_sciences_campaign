@@ -664,6 +664,7 @@ Top 100K Papers List
 + [ ] [CV] Generating Images with Multimodal Language Models, https://arxiv.org/abs/2305.17216
 + [ ] [MLP] Scaling MLPs: A Tale of Inductive Bias, https://arxiv.org/abs/2306.13575
 + [ ] Scenic is developed in JAX and uses Flax., https://github.com/google-research/scenic
++ [ ] [Transformers] Read to Play (R2-Play): Decision Transformer with Multimodal Game Instruction, https://arxiv.org/abs/2402.04154
 + [ ] [Transformers] Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers, https://arxiv.org/abs/2401.11605
 + [ ] [Transformers] Masked Autoencoders Are Scalable Vision Learners, https://arxiv.org/abs/2111.06377
 + [ ] [Transformers] Toolformer: Language Models Can Teach Themselves to Use Tools, https://arxiv.org/abs/2302.04761
