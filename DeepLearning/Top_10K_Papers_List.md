@@ -904,6 +904,7 @@ Top 100K Papers List
 + [ ] [AI] GAIA: a benchmark for General AI Assistants, https://arxiv.org/abs/2311.12983
 + [ ] [Image Generation] LEDITS++: Limitless Image Editing using Text-to-Image Models, https://arxiv.org/abs/2311.16711
 + [ ] [Music Generation] Simple and Controllable Music Generation, https://arxiv.org/abs/2306.05284
++ [ ] [Mixture-of-Experts (MoE)] [RL] Mixtures of Experts Unlock Parameter Scaling for Deep RL, https://arxiv.org/abs/2402.08609
 + [ ] [Mixture-of-Experts (MoE)] Mixtral of Experts, https://arxiv.org/abs/2401.04088
 + [ ] [Mixture-of-Experts (MoE)] AppAgent: Multimodal Agents as Smartphone Users, https://arxiv.org/abs/2312.13771
 + [ ] [Mixture-of-Experts (MoE)] The Sparsely Gated Mixture of Experts Layer for PyTorch, https://github.com/davidmrau/mixture-of-experts
