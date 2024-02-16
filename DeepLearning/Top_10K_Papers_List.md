@@ -286,6 +286,7 @@ Top 100K Papers List
 + [ ] [LLM] OpenAI Cookbook, https://github.com/openai/openai-cookbook
 + [ ] [LLM] Coding framework LlamaIndex enables data interaction with LLMs, https://github.com/jerryjliu/llama_index
 + [ ] [LLM] Multimodal Chain-of-Thought Reasoning in Language Models, https://arxiv.org/abs/2302.00923, https://github.com/amazon-science/mm-cot
++ [ ] [LLM][Survey] Large Language Models: A Survey, https://arxiv.org/abs/2402.06196
 + [ ] [LLM][Survey] Understanding LLMs: A Comprehensive Overview from Training to Inference, https://arxiv.org/abs/2401.02038
 + [ ] [LLM][Survey] A Survey of Large Language Models, https://arxiv.org/abs/2303.18223, https://github.com/RUCAIBox/LLMSurvey
 + [ ] [LLM][Survey] Papers and resources for LLMs evaluation, https://github.com/MLGroupJLU/LLM-eval-survey
