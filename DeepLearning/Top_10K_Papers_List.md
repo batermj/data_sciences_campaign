@@ -293,6 +293,7 @@ Top 100K Papers List
 + [ ] [LLM][Survey] Understanding LLMs: A Comprehensive Overview from Training to Inference, https://arxiv.org/abs/2401.02038
 + [ ] [LLM][Survey] A Survey of Large Language Models, https://arxiv.org/abs/2303.18223, https://github.com/RUCAIBox/LLMSurvey
 + [ ] [LLM][Survey] Papers and resources for LLMs evaluation, https://github.com/MLGroupJLU/LLM-eval-survey
++ [ ] [LLM] DoRA: Weight-Decomposed Low-Rank Adaptation, https://arxiv.org/abs/2402.09353
 + [ ] [LLM] LoRA: Low-Rank Adaptation of Large Language Models, https://arxiv.org/abs/2106.09685
 + [ ] [LLM] Lost in the Middle: How Language Models Use Long Contexts, https://arxiv.org/abs/2307.03172
 + [ ] [LLM] Retrieval meets Long Context Large Language Models, https://arxiv.org/abs/2310.03025
