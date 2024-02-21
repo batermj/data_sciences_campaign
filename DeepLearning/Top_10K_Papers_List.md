@@ -112,6 +112,7 @@ Top 100K Papers List
 + [ ] [LLM] [Chatbot] LMSYS Chatbot Arena Leaderboard, https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
 + [ ] [LLM] [AI] Thousands of AI Authors on the Future of AI, https://arxiv.org/abs/2401.02843
 + [ ] [LLM] [Mathematics] OpenMathInstruct-1: A 1.8 Million Math Instruction Tuning Dataset, https://huggingface.co/papers/2402.10176
++ [ ] [LLM] [GPT] AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling, https://arxiv.org/abs/2402.12226
 + [ ] [LLM] Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models, https://arxiv.org/abs/2401.01335
 + [ ] [LLM] Rethinking Machine Unlearning for Large Language Models, https://arxiv.org/abs/2402.08787
 + [ ] [LLM] Secrets of RLHF in Large Language Models Part II: Reward Modeling, https://arxiv.org/abs/2401.06080
