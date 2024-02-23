@@ -114,6 +114,7 @@ Top 100K Papers List
 + [ ] [LLM] [Mathematics] OpenMathInstruct-1: A 1.8 Million Math Instruction Tuning Dataset, https://huggingface.co/papers/2402.10176
 + [ ] [LLM] [GPT] AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling, https://arxiv.org/abs/2402.12226
 + [ ] [LLM] [Video] [Google] VideoPrism: A Foundational Visual Encoder for Video Understanding, https://huggingface.co/papers/2402.13217
++ [ ] [LLM] Cascade Speculative Drafting for Even Faster LLM Inference, https://arxiv.org/abs/2312.11462
 + [ ] [LLM] Speculative Streaming: Fast LLM Inference without Auxiliary Models, https://arxiv.org/abs/2402.11131
 + [ ] [LLM] Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models, https://arxiv.org/abs/2401.01335
 + [ ] [LLM] Rethinking Machine Unlearning for Large Language Models, https://arxiv.org/abs/2402.08787
@@ -651,6 +652,7 @@ Top 100K Papers List
 + [ ] [Model Compression] Deep model compression for mobile platforms: A survey, https://ieeexplore.ieee.org/document/8727762
 + [ ] [Model Compression] DEEPCOMPRESSION:COMPRESSINGDEEPNEURAL NETWORKSWITHPRUNING,TRAINEDQUANTIZATION ANDHUFFMANCODING, https://arxiv.org/pdf/1510.00149)
 + [ ] [GNN][Time Series] A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, https://arxiv.org/abs/2307.03759
++ [ ] [Time Series] Explaining Time Series via Contrastive and Locally Sparse Perturbations, https://arxiv.org/abs/2401.08552, https://github.com/zichuan-liu/contralsp
 + [ ] [Time Series] TSMixer: An all-MLP architecture for time series forecasting, https://blog.research.google/2023/09/tsmixer-all-mlp-architecture-for-time.html
 + [ ] [Time Series] A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, https://arxiv.org/abs/2307.03759
 + [ ] [Time Series] MSTL: A Seasonal-Trend Decomposition Algorithm for Time Series with Multiple Seasonal Patterns, https://arxiv.org/abs/2107.13462, https://nixtla.github.io/statsforecast/src/core/models.html#mstl
