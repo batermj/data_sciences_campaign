@@ -108,6 +108,7 @@ Top 100K Papers List
 + [ ] [LLM] [Serving] [Inferencing] [Intel] Efficient LLM inference solution on Intel GPU, https://huggingface.co/papers/2401.05391
 + [ ] [LLM] [Serving] http://devv.ai
 + [ ] [LLM] [Serving] FireAttention — Serving Open Source Models 4x faster than vLLM by quantizing with ~no tradeoffs, https://blog.fireworks.ai/fireattention-serving-open-source-models-4x-faster-than-vllm-by-quantizing-with-no-tradeoffs-a29a85ad28d0
++ [ ] [LLM] An Empirical Evaluation of LLMs for Solving Offensive Security Challenges, https://arxiv.org/abs/2402.11814
 + [ ] [LLM] [Hallucination] A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models
 + [ ] [LLM] [Chatbot] LMSYS Chatbot Arena Leaderboard, https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
 + [ ] [LLM] [AI] Thousands of AI Authors on the Future of AI, https://arxiv.org/abs/2401.02843
