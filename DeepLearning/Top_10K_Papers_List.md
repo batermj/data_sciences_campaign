@@ -108,6 +108,8 @@ Top 100K Papers List
 + [ ] [LLM] [Serving] [Inferencing] [Intel] Efficient LLM inference solution on Intel GPU, https://huggingface.co/papers/2401.05391
 + [ ] [LLM] [Serving] http://devv.ai
 + [ ] [LLM] [Serving] FireAttention — Serving Open Source Models 4x faster than vLLM by quantizing with ~no tradeoffs, https://blog.fireworks.ai/fireattention-serving-open-source-models-4x-faster-than-vllm-by-quantizing-with-no-tradeoffs-a29a85ad28d0
++ [ ] [LLM] TOOLVERIFIER: Generalization to New Tools via Self-Verification, https://arxiv.org/abs/2402.14158
++ [ ] [LLM] Reflexion: Language Agents with Verbal Reinforcement Learning, https://arxiv.org/abs/2303.11366
 + [ ] [LLM] An Empirical Evaluation of LLMs for Solving Offensive Security Challenges, https://arxiv.org/abs/2402.11814
 + [ ] [LLM] [Hallucination] A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models
 + [ ] [LLM] [Chatbot] LMSYS Chatbot Arena Leaderboard, https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
@@ -972,6 +974,7 @@ Top 100K Papers List
 + [ ] [PyTorch] NVIDIA. 2023. The NVIDIA Collective Communication Library (NCCL). https: //developer.nvidia.com/nccl
 + [ ] [PyTorch] PyTorch distributed training features such as DistributeDataParallel (DDP), Pytorch distributed: Experiences on accelerating data parallel training. arXiv preprint arXiv:2006.15704 (2020), https://arxiv.org/abs/2006.15704
 + [ ] [PyTorch] Key PyTorch core components including Tensor implemen- tation, dispatcher system, and CUDA memory caching allocator
++ [ ] [PyTorch] Training Neural Networks from Scratch with Parallel Low-Rank Adapters, https://arxiv.org/abs/2402.16828
 + [x] [PyTorch] PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel, https://arxiv.org/abs/2304.11277
 + [x] Attention Is All You Need, https://arxiv.org/abs/1706.03762
 + [x] [CNN][ResNet] ResNet, Deep Residual Learning for Image Recognition, https://arxiv.org/abs/1512.03385, https://paperswithcode.com/method/resnet
