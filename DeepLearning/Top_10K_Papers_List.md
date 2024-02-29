@@ -108,6 +108,9 @@ Top 100K Papers List
 + [ ] [LLM] [Serving] [Inferencing] [Intel] Efficient LLM inference solution on Intel GPU, https://huggingface.co/papers/2401.05391
 + [ ] [LLM] [Serving] http://devv.ai
 + [ ] [LLM] [Serving] FireAttention — Serving Open Source Models 4x faster than vLLM by quantizing with ~no tradeoffs, https://blog.fireworks.ai/fireattention-serving-open-source-models-4x-faster-than-vllm-by-quantizing-with-no-tradeoffs-a29a85ad28d0
++ [ ] [LLM] Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models, https://arxiv.org/abs/2402.17177
++ [ ] [LLM] Soaring from 4K to 400K: Extending LLM's Context with Activation Beacon, https://arxiv.org/abs/2401.03462
++ [ ] [LLM] The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits, https://huggingface.co/papers/2402.17764
 + [ ] [LLM] TOOLVERIFIER: Generalization to New Tools via Self-Verification, https://arxiv.org/abs/2402.14158
 + [ ] [LLM] Reflexion: Language Agents with Verbal Reinforcement Learning, https://arxiv.org/abs/2303.11366
 + [ ] [LLM] An Empirical Evaluation of LLMs for Solving Offensive Security Challenges, https://arxiv.org/abs/2402.11814
@@ -305,6 +308,7 @@ Top 100K Papers List
 + [ ] [LLM] Lost in the Middle: How Language Models Use Long Contexts, https://arxiv.org/abs/2307.03172
 + [ ] [LLM] Retrieval meets Long Context Large Language Models, https://arxiv.org/abs/2310.03025
 + [ ] [LLM] LLM Calibration and Automatic Hallucination Detection via Pareto Optimal Self-supervision, https://arxiv.org/abs/2306.16564
++ [ ] [Diffusion Models] EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions, https://huggingface.co/papers/2402.17485
 + [ ] [Diffusion Models] Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models, https://arxiv.org/abs/2311.12092
 + [ ] [Diffusion Models] ART⋅V: Auto-Regressive Text-to-Video Generation with Diffusion Models, https://arxiv.org/abs/2311.18834
 + [ ] [Hands-on]Setting Python Development Environment with VScode and Docker, https://github.com/RamiKrispin/vscode-python
@@ -900,6 +904,7 @@ Top 100K Papers List
 + [ ] [Embodied Agent] MineDojo, MineDojo is a new framework built on the popular Minecraft game for embodied agent research.,  https://minedojo.org
 + [ ] [Autonomous Driving] LINGO-1: Exploring Natural Language for Autonomous Driving, https://wayve.ai/thinking/lingo-natural-language-autonomous-driving/
 + [ ] [ML] DSG: An End-to-End Document Structure Generator, https://arxiv.org/abs/2310.09118v1
++ [ ] [CV] Neural Mesh Fusion: Unsupervised 3D Planar Surface Understanding, https://arxiv.org/abs/2402.16739
 + [ ] [CV] Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation, https://arxiv.org/abs/2305.09662
 + [ ] [CV] Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning, https://arxiv.org/abs/2212.14532
 + [ ] [CV] NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection, https://arxiv.org/abs/2307.14620
