@@ -108,6 +108,7 @@ Top 100K Papers List
 + [ ] [LLM] [Serving] [Inferencing] [Intel] Efficient LLM inference solution on Intel GPU, https://huggingface.co/papers/2401.05391
 + [ ] [LLM] [Serving] http://devv.ai
 + [ ] [LLM] [Serving] FireAttention — Serving Open Source Models 4x faster than vLLM by quantizing with ~no tradeoffs, https://blog.fireworks.ai/fireattention-serving-open-source-models-4x-faster-than-vllm-by-quantizing-with-no-tradeoffs-a29a85ad28d0
++ [ ] [LLM] [Datasets] Datasets for Large Language Models: A Comprehensive Survey, https://arxiv.org/abs/2402.18041
 + [ ] [LLM] Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models, https://arxiv.org/abs/2402.17177
 + [ ] [LLM] Soaring from 4K to 400K: Extending LLM's Context with Activation Beacon, https://arxiv.org/abs/2401.03462
 + [ ] [LLM] The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits, https://huggingface.co/papers/2402.17764
