@@ -972,6 +972,10 @@ Top 100K Papers List
 + [ ] [Sound] Incremental FastPitch: Chunk-based High Quality Text to Speech, https://arxiv.org/abs/2401.01755
 + [ ] [Generative AI][2023] Most Impactful Generative AI Papers of 2023, https://aisupremacy.substack.com/p/most-impactful-generative-ai-papers
 + [ ] [NeurIPS][2023] https://ai.meta.com/events/neurips-2023/
++ [ ] [PyTorch] [Normalization] Layer Normalization, https://paperswithcode.com/method/layer-normalization
++ [ ] [PyTorch] [Normalization] Instance Normalization, https://paperswithcode.com/method/instance-normalization
++ [ ] [PyTorch] [Normalization] Instance Normalization: The Missing Ingredient for Fast Stylization, https://arxiv.org/abs/1607.08022
++ [ ] [PyTorch] [Normalization] Group Normalization, https://arxiv.org/abs/1803.08494
 + [ ] [PyTorch] [Normalization] Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, https://arxiv.org/abs/1502.03167
 + [ ] [PyTorch] 3D rotations and spatial transformations made easy with RoMa, https://medium.com/pytorch/3d-rotations-and-spatial-transformations-made-easy-with-roma-356a495a20c4
 + [ ] [PyTorch] Finetune LLMs on your own consumer hardware using tools from PyTorch and Hugging Face ecosystem, https://pytorch.org/blog/finetune-llms/
