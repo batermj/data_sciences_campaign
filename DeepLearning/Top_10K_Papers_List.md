@@ -91,6 +91,7 @@ Top 100K Papers List
 + [ ] [AI] [Survey] Comparing Humans, GPT-4, and GPT-4V On Abstraction and Reasoning Tasks,https://arxiv.org/abs/2311.09247
 + [ ] [AI] [Survey] Latest Trends in Artificial Intelligence Technology: A Scoping Review, https://arxiv.org/abs/2305.04532
 + [ ] [AI] [HCI] Generative Agents: Interactive Simulacra of Human Behavior, https://arxiv.org/abs/2304.03442, https://github.com/joonspk-research/generative_agents
++ [ ] [AI] Model-Based Data-Centric AI: Bridging the Divide Between Academic Ideals and Industrial Pragmatism, https://arxiv.org/abs/2403.01832
 + [ ] [AI] Consciousness in Artificial Intelligence: Insights from the Science of Consciousness, https://arxiv.org/abs/2308.08708
 + [ ] [CV][In-context learning (ICL)] Med-Flamingo: a Multimodal Medical Few-shot Learner, https://arxiv.org/abs/2307.15189, https://huggingface.co/med-flamingo/med-flamingo, https://github.com/snap-stanford/med-flamingo, https://www.marktechpost.com/2023/08/02/meet-med-flamingo-a-unique-foundation-model-which-is-capable-of-performing-multimodal-in-context-learning-specialized-for-the-medical-domain/
 + [ ] [Autonomous Driving] SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving, https://arxiv.org/abs/2303.09551, https://github.com/weiyithu/SurroundOcc
@@ -109,6 +110,7 @@ Top 100K Papers List
 + [ ] [LLM] [Serving] http://devv.ai
 + [ ] [LLM] [Serving] FireAttention — Serving Open Source Models 4x faster than vLLM by quantizing with ~no tradeoffs, https://blog.fireworks.ai/fireattention-serving-open-source-models-4x-faster-than-vllm-by-quantizing-with-no-tradeoffs-a29a85ad28d0
 + [ ] [LLM] [Datasets] Datasets for Large Language Models: A Comprehensive Survey, https://arxiv.org/abs/2402.18041
++ [ ] [LLM] A Survey of AI-generated Text Forensic Systems: Detection, Attribution, and Characterization, https://arxiv.org/abs/2403.01152
 + [ ] [LLM] Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models, https://arxiv.org/abs/2402.17177
 + [ ] [LLM] Soaring from 4K to 400K: Extending LLM's Context with Activation Beacon, https://arxiv.org/abs/2401.03462
 + [ ] [LLM] The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits, https://huggingface.co/papers/2402.17764
@@ -300,6 +302,7 @@ Top 100K Papers List
 + [ ] [LLM] OpenAI Cookbook, https://github.com/openai/openai-cookbook
 + [ ] [LLM] Coding framework LlamaIndex enables data interaction with LLMs, https://github.com/jerryjliu/llama_index
 + [ ] [LLM] Multimodal Chain-of-Thought Reasoning in Language Models, https://arxiv.org/abs/2302.00923, https://github.com/amazon-science/mm-cot
++ [ ] [LLM][Survey] A Survey of AI-generated Text Forensic Systems: Detection, Attribution, and Characterization, https://arxiv.org/abs/2403.01152
 + [ ] [LLM][Survey] Large Language Models: A Survey, https://arxiv.org/abs/2402.06196
 + [ ] [LLM][Survey] Understanding LLMs: A Comprehensive Overview from Training to Inference, https://arxiv.org/abs/2401.02038
 + [ ] [LLM][Survey] A Survey of Large Language Models, https://arxiv.org/abs/2303.18223, https://github.com/RUCAIBox/LLMSurvey
