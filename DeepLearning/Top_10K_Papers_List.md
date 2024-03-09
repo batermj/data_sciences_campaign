@@ -110,7 +110,9 @@ Top 100K Papers List
 + [ ] [LLM] [Serving] http://devv.ai
 + [ ] [LLM] [Serving] FireAttention — Serving Open Source Models 4x faster than vLLM by quantizing with ~no tradeoffs, https://blog.fireworks.ai/fireattention-serving-open-source-models-4x-faster-than-vllm-by-quantizing-with-no-tradeoffs-a29a85ad28d0
 + [ ] [LLM] [Datasets] Datasets for Large Language Models: A Comprehensive Survey, https://arxiv.org/abs/2402.18041
-+ [ ] [LLM] A Survey of AI-generated Text Forensic Systems: Detection, Attribution, and Characterization, https://arxiv.org/abs/2403.01152
++ [ ] [LLM] [Software] Design2Code: How Far Are We From Automating Front-End Engineering?, https://arxiv.org/abs/2403.03163, https://huggingface.co/papers/2403.03163
++ [ ] [LLM] [Software] Automated Unit Test Improvement using Large Language Models at Meta, https://arxiv.org/abs/2402.09171
++ [ ] [LLM] Teaching Large Language Models to Reason with Reinforcement Learning, https://arxiv.org/abs/2403.04642
 + [ ] [LLM] Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models, https://arxiv.org/abs/2402.17177
 + [ ] [LLM] Soaring from 4K to 400K: Extending LLM's Context with Activation Beacon, https://arxiv.org/abs/2401.03462
 + [ ] [LLM] The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits, https://huggingface.co/papers/2402.17764
@@ -685,6 +687,8 @@ Top 100K Papers List
 + [ ] [CV] Generating Images with Multimodal Language Models, https://arxiv.org/abs/2305.17216
 + [ ] [MLP] Scaling MLPs: A Tale of Inductive Bias, https://arxiv.org/abs/2306.13575
 + [ ] Scenic is developed in JAX and uses Flax., https://github.com/google-research/scenic
++ [ ] [Transformers] [Time Series] Transformers in Time Series, https://github.com/qingsongedu/time-series-transformers-review, https://arxiv.org/abs/2202.07125
++ [ ] [Transformers] [Time Series] Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting, https://arxiv.org/abs/2402.05956, https://github.com/decisionintelligence/pathformer
 + [ ] [Transformers] Stanford CS25 - Transformers United, https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM, https://web.stanford.edu/class/cs25/
 + [ ] [Transformers] Read to Play (R2-Play): Decision Transformer with Multimodal Game Instruction, https://arxiv.org/abs/2402.04154
 + [ ] [Transformers] Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers, https://arxiv.org/abs/2401.11605
