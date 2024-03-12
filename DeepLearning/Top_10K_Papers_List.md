@@ -112,6 +112,17 @@ Top 100K Papers List
 + [ ] [LLM] [Datasets] Datasets for Large Language Models: A Comprehensive Survey, https://arxiv.org/abs/2402.18041
 + [ ] [LLM] [Software] Design2Code: How Far Are We From Automating Front-End Engineering?, https://arxiv.org/abs/2403.03163, https://huggingface.co/papers/2403.03163
 + [ ] [LLM] [Software] Automated Unit Test Improvement using Large Language Models at Meta, https://arxiv.org/abs/2402.09171
++ [ ] [LLM] [Mathematics] Large Language Model-Based Evolutionary Optimizer: Reasoning with elitism, https://arxiv.org/abs/2403.02054
++ [ ] [LLM] [Mathematics] K-Level Reasoning with Large Language Models, https://arxiv.org/abs/2402.01521
++ [ ] [LLM] [Image Encoders] MOFI: Learning Image Representations from Noisy Entity Annotated Images, https://arxiv.org/abs/2306.07952, https://github.com/apple/ml-mofi
++ [ ] [LLM] [Image Encoders] VeCLIP: Improving CLIP Training via Visual-enriched Captions, https://arxiv.org/abs/2310.07699, https://github.com/apple/ml-veclip/
++ [ ] [LLM] Cognition is All You Need -- The Next Layer of AI Above Large Language Models, https://arxiv.org/abs/2403.02164
++ [ ] [LLM] Orca-Math: Unlocking the potential of SLMs in Grade School Math, https://arxiv.org/abs/2402.14830
++ [ ] [LLM] Fine Tuning vs. Retrieval Augmented Generation for Less Popular Knowledge, https://arxiv.org/abs/2403.01432
++ [ ] [LLM] Approaching Human-Level Forecasting with Language Models, https://arxiv.org/abs/2402.18563
++ [ ] [LLM] Large language models surpass human experts in predicting neuroscience results, https://arxiv.org/abs/2403.03230
++ [ ] [LLM] Trial and Error: Exploration-Based Trajectory Optimization for LLM Agents, https://arxiv.org/abs/2403.02502
++ [ ] [LLM] Self-Retrieval: Building an Information Retrieval System with One Large Language Model, https://arxiv.org/abs/2403.00801
 + [ ] [LLM] Common 7B Language Models Already Possess Strong Math Capabilities, https://arxiv.org/abs/2403.04706
 + [ ] [LLM] Unifying Large Language Models and Knowledge Graphs: A Roadmap, https://arxiv.org/abs/2306.08302
 + [ ] [LLM] Teaching Large Language Models to Reason with Reinforcement Learning, https://arxiv.org/abs/2403.04642
@@ -129,7 +140,6 @@ Top 100K Papers List
 + [ ] [LLM] [Video] [Google] VideoPrism: A Foundational Visual Encoder for Video Understanding, https://huggingface.co/papers/2402.13217
 + [ ] [LLM] Cascade Speculative Drafting for Even Faster LLM Inference, https://arxiv.org/abs/2312.11462
 + [ ] [LLM] Speculative Streaming: Fast LLM Inference without Auxiliary Models, https://arxiv.org/abs/2402.11131
-+ [ ] [LLM] Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models, https://arxiv.org/abs/2401.01335
 + [ ] [LLM] Rethinking Machine Unlearning for Large Language Models, https://arxiv.org/abs/2402.08787
 + [ ] [LLM] Secrets of RLHF in Large Language Models Part II: Reward Modeling, https://arxiv.org/abs/2401.06080
 + [ ] [LLM] TrustLLM: Trustworthiness in Large Language Models, https://arxiv.org/abs/2401.05561
@@ -867,6 +877,7 @@ Top 100K Papers List
 + [ ] [GNN] Graph Neural Networks Foundations, Frontiers, and Applications Lingfei Wu, Pinterest Peng Cui, Tsinghua University Jian Pei, Duke University Liang Zhao, Emory University, https://graph-neural-networks.github.io/index.html
 + [ ] [MT][Meta] Bringing the world closer together with a foundational multimodal model for speech translation, https://ai.meta.com/blog/seamless-m4t/, SeamlessM4T—Massively Multilingual & Multimodal Machine Translation, https://dl.fbaipublicfiles.com/seamless/seamless_m4t_paper.pdf, SeamlessM4T, https://github.com/facebookresearch/seamless_communication
 + [ ] [MT] Neural Machine Translation by Jointly Learning to Align and Translate, https://arxiv.org/abs/1409.0473
++ [ ] [Speech] BASE TTS: Lessons from building a billion-parameter text-to-speech model on 100K hours of data, https://www.amazon.science/publications/base-tts-lessons-from-building-a-billion-parameter-text-to-speech-model-on-100k-hours-of-data
 + [ ] [Speech] Self-Supervised Speech Representation Learning: A Review, https://arxiv.org/abs/2205.10643
 + [ ] [Optimization] Fast as CHITA: Neural Network Pruning with Combinatorial Optimization, https://arxiv.org/abs/2302.14623
 + [ ] [Causal Analysis] Causal analysis with PyMC: Answering "What If?" with the new do operator, https://www.pymc-labs.io/blog-posts/causal-analysis-with-pymc-answering-what-if-with-the-new-do-operator/
