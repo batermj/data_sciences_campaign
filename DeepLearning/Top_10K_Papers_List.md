@@ -116,6 +116,10 @@ Top 100K Papers List
 + [ ] [LLM] [Mathematics] K-Level Reasoning with Large Language Models, https://arxiv.org/abs/2402.01521
 + [ ] [LLM] [Image Encoders] MOFI: Learning Image Representations from Noisy Entity Annotated Images, https://arxiv.org/abs/2306.07952, https://github.com/apple/ml-mofi
 + [ ] [LLM] [Image Encoders] VeCLIP: Improving CLIP Training via Visual-enriched Captions, https://arxiv.org/abs/2310.07699, https://github.com/apple/ml-veclip/
++ [ ] [LLM] Mixture-of-LoRAs: An Efficient Multitask Tuning for Large Language Models, https://arxiv.org/abs/2403.03432
++ [ ] [LLM] Is Cosine-Similarity of Embeddings Really About Similarity?
++ [ ] [LLM] Generative Multimodal Models are In-Context Learners, https://arxiv.org/abs/2312.13286, https://github.com/baaivision/Emu
++ [ ] [LLM] CapsFusion: Rethinking Image-Text Data at Scale, https://arxiv.org/abs/2310.20550, https://github.com/baaivision/CapsFusion
 + [ ] [LLM] Cognition is All You Need -- The Next Layer of AI Above Large Language Models, https://arxiv.org/abs/2403.02164
 + [ ] [LLM] Orca-Math: Unlocking the potential of SLMs in Grade School Math, https://arxiv.org/abs/2402.14830
 + [ ] [LLM] Fine Tuning vs. Retrieval Augmented Generation for Less Popular Knowledge, https://arxiv.org/abs/2403.01432
