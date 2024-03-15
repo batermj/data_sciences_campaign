@@ -116,6 +116,7 @@ Top 100K Papers List
 + [ ] [LLM] [Mathematics] K-Level Reasoning with Large Language Models, https://arxiv.org/abs/2402.01521
 + [ ] [LLM] [Image Encoders] MOFI: Learning Image Representations from Noisy Entity Annotated Images, https://arxiv.org/abs/2306.07952, https://github.com/apple/ml-mofi
 + [ ] [LLM] [Image Encoders] VeCLIP: Improving CLIP Training via Visual-enriched Captions, https://arxiv.org/abs/2310.07699, https://github.com/apple/ml-veclip/
++ [ ] [LLM] Language Agents as Optimizable Graphs, https://arxiv.org/abs/2402.16823
 + [ ] [LLM] Mixture-of-LoRAs: An Efficient Multitask Tuning for Large Language Models, https://arxiv.org/abs/2403.03432
 + [ ] [LLM] Is Cosine-Similarity of Embeddings Really About Similarity?
 + [ ] [LLM] Generative Multimodal Models are In-Context Learners, https://arxiv.org/abs/2312.13286, https://github.com/baaivision/Emu
@@ -928,6 +929,7 @@ Top 100K Papers List
 + [ ] [Misc] 4K4D: Real-Time 4D View Synthesis at 4K Resolution,https://zju3dv.github.io/4k4d/
 + [ ] [Embodied Agent] MineDojo, MineDojo is a new framework built on the popular Minecraft game for embodied agent research.,  https://minedojo.org
 + [ ] [Autonomous Driving] LINGO-1: Exploring Natural Language for Autonomous Driving, https://wayve.ai/thinking/lingo-natural-language-autonomous-driving/
++ [ ] [ML] Consciousness-Inspired Spatio-Temporal Abstractions for Better Generalization in Reinforcement Learning, https://arxiv.org/abs/2310.00229
 + [ ] [ML] DSG: An End-to-End Document Structure Generator, https://arxiv.org/abs/2310.09118v1
 + [ ] [CV] Neural Mesh Fusion: Unsupervised 3D Planar Surface Understanding, https://arxiv.org/abs/2402.16739
 + [ ] [CV] Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation, https://arxiv.org/abs/2305.09662
