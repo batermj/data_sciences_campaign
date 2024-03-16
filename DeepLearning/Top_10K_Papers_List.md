@@ -104,6 +104,7 @@ Top 100K Papers List
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] [Serving] Binary Embedding-based Retrieval at Tencent, https://dl.acm.org/doi/10.1145/3580305.3599782, https://github.com/TencentARC/BEBR
 + [ ] [LLM] [Serving] [RAG] The Power of Noise: Redefining Retrieval for RAG Systems, https://arxiv.org/abs/2401.14887
 + [ ] [LLM] [Serving] [RAG] RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture, https://arxiv.org/abs/2401.08406
 + [ ] [LLM] [Serving] [Inferencing] [Intel] Efficient LLM inference solution on Intel GPU, https://huggingface.co/papers/2401.05391
@@ -879,6 +880,7 @@ Top 100K Papers List
 + [ ] [Nvidia] An Online Deep Learning Interface for HPC programs on NVIDIA GPUs, https://github.com/NVIDIA/TorchFort
 + [ ] [CV] [Samsung] Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction, https://arxiv.org/abs/2306.05872, https://github.com/SamsungLabs/NeuralHaircut, https://samsunglabs.github.io/NeuralHaircut/
 + [ ] [CV] [Object Detection] Follow Anything: Open-set detection, tracking, and following in real-time, https://arxiv.org/abs/2308.05737
++ [ ] [GNN] A Survey of Geometric Graph Neural Networks: Data Structures, Models and Applications, https://arxiv.org/abs/2403.00485
 + [ ] [GNN] Graph Neural Networks Foundations, Frontiers, and Applications Lingfei Wu, Pinterest Peng Cui, Tsinghua University Jian Pei, Duke University Liang Zhao, Emory University, https://graph-neural-networks.github.io/index.html
 + [ ] [MT][Meta] Bringing the world closer together with a foundational multimodal model for speech translation, https://ai.meta.com/blog/seamless-m4t/, SeamlessM4T—Massively Multilingual & Multimodal Machine Translation, https://dl.fbaipublicfiles.com/seamless/seamless_m4t_paper.pdf, SeamlessM4T, https://github.com/facebookresearch/seamless_communication
 + [ ] [MT] Neural Machine Translation by Jointly Learning to Align and Translate, https://arxiv.org/abs/1409.0473
