@@ -105,6 +105,7 @@ Top 100K Papers List
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] Evolutionary Optimization of Model Merging Recipes, https://arxiv.org/abs/2403.13187, https://blog.otoro.net/2016/09/28/hyper-networks/, https://sakana.ai/evolutionary-model-merge/, http://www.incompleteideas.net/IncIdeas/BitterLesson.html
 + [ ] [LLM] What Makes Math Word Problems Challenging for LLMs? https://arxiv.org/abs/2403.11369
 + [ ] [LLM] The Ink Splotch Effect: A Case Study on ChatGPT as a Co-Creative Game Designer, https://arxiv.org/abs/2403.02454
 + [ ] [LLM] Large Language Models for Social Networks: Applications, Challenges, and Solutions, https://arxiv.org/abs/2401.02575
