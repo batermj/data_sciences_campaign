@@ -8,6 +8,8 @@ Operating Systems Design and Implementation
 # [Codes]
 
 # [Blogs]
+
+# [The Dining Philosophers Problem]
 + adit.io Dining Philosophers  Problem with Ron Swanson, https://www.adit.io/posts/2013-05-11-The-Dining-Philosophers-Problem-With-Ron-Swanson.html
 + Dining Philosopher Problem Using Semaphores, https://www.geeksforgeeks.org/dining-philosopher-problem-using-semaphores/
 + C560 Lecture notes -- Dining Philosophers (CBThread Version), https://web.eecs.utk.edu/~jplank/plank/classes/cs560/560/notes/CBThread_Dphil/
