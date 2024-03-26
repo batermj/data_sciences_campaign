@@ -7,3 +7,6 @@ Operating Systems Design and Implementation
 
 # [Codes]
 
+# [Blogs]
++ adit.io Dining Philosophers  Problem with Ron Swanson, https://www.adit.io/posts/2013-05-11-The-Dining-Philosophers-Problem-With-Ron-Swanson.html
+
