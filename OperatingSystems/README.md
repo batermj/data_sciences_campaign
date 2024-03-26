@@ -10,6 +10,7 @@ Operating Systems Design and Implementation
 # [Blogs]
 
 # [The Dining Philosophers Problem]
++ Dining philosophers, https://rosettacode.org/wiki/Dining_philosophers
 + adit.io Dining Philosophers  Problem with Ron Swanson, https://www.adit.io/posts/2013-05-11-The-Dining-Philosophers-Problem-With-Ron-Swanson.html
 + Dining Philosopher Problem Using Semaphores, https://www.geeksforgeeks.org/dining-philosopher-problem-using-semaphores/
 + C560 Lecture notes -- Dining Philosophers (CBThread Version), https://web.eecs.utk.edu/~jplank/plank/classes/cs560/560/notes/CBThread_Dphil/
@@ -18,5 +19,7 @@ Operating Systems Design and Implementation
 + Distributed Randomized Algorithms, https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/randomized-algorithms/examples/distributed.html
 + The Dining Philosophers Problem, https://legacy.cs.indiana.edu/classes/p415-sjoh/hw/project/dining-philosophers/index.htm
 + The Dining Philosophers Problem Revisited, https://www.researchgate.net/publication/221644832_The_Dining_Philosophers_Problem_Revisited
-
++ Dining Philosophers Example, https://www.comp.nus.edu.sg/~pat/OnlineHelp/scr/3.1%20CSP%20Module/Dining%20Philosophers%20Example%20.htm
++ Deadlock and the Dining Philosophers, https://www.cis.upenn.edu/~bcpierce/courses/629/papers/Java-tutorial/java/threads/deadlock.html
++ The Dining Philosophers Problem, https://www.cs.fsu.edu/~baker/realtime/restricted/notes/philos.html
 
