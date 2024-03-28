@@ -4,10 +4,19 @@ Operating Systems Design and Implementation
 + 顶级AI学者邢波教授：机器学习缺乏清晰理论与工程框架，需重新思考评估方法及目标, https://mp.weixin.qq.com/s/9JE9d-_GesjZ6yY6TnnbFQ
 
 # [Papers]
++ Great Ideas in Computer Architecture (Machine Structures), https://inst.eecs.berkeley.edu/~cs61c/su20/
 
 # [Codes]
 
 # [Blogs]
+
+
+# [Flynn's taxonomy]
++ Great Ideas in Computer Architecture (Machine Structures), https://inst.eecs.berkeley.edu/~cs61c/su20/
++ Flynn's taxonomy, https://en.wikipedia.org/wiki/Flynn%27s_taxonomy
++ Flynn’s Taxonomy, https://link.springer.com/referenceworkentry/10.1007/978-0-387-09766-4_2
++ Computer Architecture | Flynn’s taxonomy, https://www.geeksforgeeks.org/computer-architecture-flynns-taxonomy/
++ Flynn's Classification of Computers, https://www.javatpoint.com/flynns-classification-of-computers
 
 # [The Dining Philosophers Problem]
 + Dining philosophers, https://rosettacode.org/wiki/Dining_philosophers
