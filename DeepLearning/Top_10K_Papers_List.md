@@ -99,12 +99,17 @@ Top 100K Papers List
 + [ ] https://index.quantumstat.com
 + [ ] [Robotics] VIMA: General Robot Manipulation with Multimodal Prompts, https://arxiv.org/abs/2210.03094
 + [ ] [Robotics] RoboAgent Towards Sample Efficient Robot Manipulation with Semantic Augmentations and Action Chunking, https://robopen.github.io/media/roboagent.pdf, https://github.com/robopen/roboagent/, https://robopen.github.io/roboset/
++ [ ] [Difussion Model] ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion, https://arxiv.org/abs/2403.18818, https://objectdrop.github.io
 + [ ] [Difussion Model] DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models， https://arxiv.org/abs/2312.09767
 + [ ] [Difussion Model] Erasing Concepts from Diffusion Models, https://arxiv.org/abs/2303.07345, https://civitai.com/models
 + [ ] [Foundation Model] [Robotics] Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis, https://arxiv.org/abs/2312.08782
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] [Serving] [RAG] [Survey] Retrieval-Augmented Generation for Large Language Models: A Survey, https://arxiv.org/abs/2312.10997
++ [ ] [LLM] [Serving] Introducing DBRX: A New State-of-the-Art Open LLM, https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm
++ [ ] [LLM] [Coding] A comparison of Human, GPT-3.5, and GPT-4 Performance in a University-Level Coding Course, https://arxiv.org/abs/2403.16977
++ [ ] [LLM] [OS] AIOS: LLM Agent Operating System, https://arxiv.org/abs/2403.16971
 + [ ] [LLM] LLM4Decompile: Decompiling Binary Code with Large Language Models, https://arxiv.org/abs/2403.05286
 + [ ] [LLM] Evolutionary Optimization of Model Merging Recipes, https://arxiv.org/abs/2403.13187, https://blog.otoro.net/2016/09/28/hyper-networks/, https://sakana.ai/evolutionary-model-merge/, http://www.incompleteideas.net/IncIdeas/BitterLesson.html
 + [ ] [LLM] What Makes Math Word Problems Challenging for LLMs? https://arxiv.org/abs/2403.11369
@@ -339,6 +344,7 @@ Top 100K Papers List
 + [ ] [LLM] Lost in the Middle: How Language Models Use Long Contexts, https://arxiv.org/abs/2307.03172
 + [ ] [LLM] Retrieval meets Long Context Large Language Models, https://arxiv.org/abs/2310.03025
 + [ ] [LLM] LLM Calibration and Automatic Hallucination Detection via Pareto Optimal Self-supervision, https://arxiv.org/abs/2306.16564
++ [ ] [Diffusion Models] Diffusion Lens: Interpreting Text Encoders in Text-to-Image Pipelines, https://arxiv.org/abs/2403.05846
 + [ ] [Diffusion Models] GeoWizard: Unleashing the Diffusion Priors for 3D Geometry Estimation from a Single Image, https://arxiv.org/abs/2403.12013
 + [ ] [Diffusion Models] EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions, https://huggingface.co/papers/2402.17485
 + [ ] [Diffusion Models] Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models, https://arxiv.org/abs/2311.12092
