@@ -106,6 +106,8 @@ Top 100K Papers List
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] Large language models surpass human experts in predicting neuroscience results, https://arxiv.org/abs/2403.03230
++ [ ] [LLM] Jamba: A Hybrid Transformer-Mamba Language Model, https://arxiv.org/abs/2403.19887
 + [ ] [LLM] [Agent] Agent Lumos: Unified and Modular Training for Open-Source Language Agents, https://arxiv.org/abs/2311.05657
 + [ ] [LLM] MineLand: Simulating Large-Scale Multi-Agent Interactions with Limited Multimodal Senses and Physical Needs, https://arxiv.org/abs/2403.19267
 + [ ] [LLM] REFeREE: A REference-FREE Model-Based Metric for Text Simplification, https://arxiv.org/abs/2403.17640, https://lrec-coling-2024.org
@@ -961,6 +963,7 @@ Top 100K Papers List
 + [ ] [CV][Evaluation] Evaluating the fairness of computer vision models, https://ai.meta.com/blog/dinov2-facet-computer-vision-fairness-evaluation/
 + [ ] [CV][Evaluation] LightGlue: Local Feature Matching at Light Speed, https://arxiv.org/abs/2306.13643, https://github.com/cvg/LightGlue
 + [ ] [CV] AG3D: Learning to Generate 3D Avatars from 2D Image Collections, https://zj-dong.github.io/AG3D/assets/paper.pdf, https://zj-dong.github.io/AG3D/
++ [ ] [DL] Categorical Deep Learning: An Algebraic Theory of Architectures, https://arxiv.org/abs/2402.15332
 + [ ] [DL] [Initialization] Initializing Models with Larger Ones, https://arxiv.org/abs/2311.18823
 + [ ] [DL] [Book] Understanding Deep Learning, https://udlbook.github.io/udlbook/
 + [ ] [DL] Copy Suppression: Comprehensively Understanding an Attention Head, https://arxiv.org/abs/2310.04625
