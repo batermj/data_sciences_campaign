@@ -106,6 +106,7 @@ Top 100K Papers List
 + [ ] [Foundation Model] Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks, https://arxiv.org/abs/2311.06242
 + [ ] [Foundation Model] NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data, https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model, https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M
 + [ ] [Foundation Model] [Causal NLP] Towards Causal Foundation Model: on Duality between Causal Inference and Attention, https://arxiv.org/abs/2310.00809
++ [ ] [LLM] More Agents Is All You Need, https://arxiv.org/abs/2402.05120
 + [ ] [LLM] AIOS: LLM Agent Operating System, https://arxiv.org/abs/2403.16971
 + [ ] [LLM] RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis, https://huggingface.co/papers/2404.03204
 + [ ] [LLM] LVLM-Intrepret: An Interpretability Tool for Large Vision-Language Models, https://huggingface.co/papers/2404.03118
