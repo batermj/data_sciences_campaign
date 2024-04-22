@@ -117,6 +117,7 @@ Top 100K Papers List
 + [ ] [LLM] MineLand: Simulating Large-Scale Multi-Agent Interactions with Limited Multimodal Senses and Physical Needs, https://arxiv.org/abs/2403.19267
 + [ ] [LLM] REFeREE: A REference-FREE Model-Based Metric for Text Simplification, https://arxiv.org/abs/2403.17640, https://lrec-coling-2024.org
 + [ ] [LLM] Agent Lumos: Unified and Modular Training for Open-Source Language Agents, https://arxiv.org/abs/2311.05657
++ [ ] [LLM] [Serving] [RAG] [Survey] A Survey on Retrieval-Augmented Text Generation for Large Language Models, https://arxiv.org/abs/2404.10981
 + [ ] [LLM] [Serving] [RAG] [Survey] Retrieval-Augmented Generation for Large Language Models: A Survey, https://arxiv.org/abs/2312.10997
 + [ ] [LLM] [Serving] Introducing DBRX: A New State-of-the-Art Open LLM, https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm
 + [ ] [LLM] [Coding] A comparison of Human, GPT-3.5, and GPT-4 Performance in a University-Level Coding Course, https://arxiv.org/abs/2403.16977
