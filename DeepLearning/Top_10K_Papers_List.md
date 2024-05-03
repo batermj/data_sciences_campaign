@@ -1050,6 +1050,9 @@ Top 100K Papers List
 + [x] [CNN][TextCNN] Convolutional Neural Networks for Sentence Classification, https://arxiv.org/abs/1408.5882
 
 
+# [Paper for Data Analysis]
++ [Courses] Videos and Slides of Courses, DATA ANALYTICS, https://uwaterloo.ca/data-analytics/videos-and-slides-courses
+ 
 # [Papers for Information Retrieval]
 + [ ][IR] Vector Search with OpenAI Embeddings: Lucene Is All You Need, https://arxiv.org/abs/2308.14963
 
