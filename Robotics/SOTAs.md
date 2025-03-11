@@ -1,4 +1,4 @@
-SOTAs and Its Implementation!
+SOTAs (state-of-the-art) Methods from Academic Literature and Its Implementation!
 
 https://paperswithcode.com/sota
 
